@@ -1718,7 +1718,7 @@
 		<card   index="300"				
 			title="gwint_name_eithne" name="eithne"
 			description="gwint_desc_eithne"
-			power="11"
+			power="10"
 			picture="sco_eithne"
 			faction_index="F_SCOIATAEL" >
 			<type_flags>

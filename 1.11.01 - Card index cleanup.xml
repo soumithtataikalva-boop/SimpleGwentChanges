@@ -123,25 +123,19 @@
 
 <!--============================================= NEUTRAL CARDS =======================================================-->
 
-		<card   index="26"
-			title="gwint_name_geralt" name="geralt"
-			description="gwint_desc_geralt"
-			power="14"
-			picture="neu_geralt"
-			dlcPictureFlag_name="dlc8"
-			dlcPicture="neu_geralt_dlc"
+		<card   index="7"							
+			title="gwint_name_emiel" name="emiel_summoned"
+			description="gwint_desc_emiel"
+			power="12"
+			picture="neu_emiel_dlc"
 			faction_index="F_NEUTRAL" >
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
-				<flag name="TYPE_HERO" />
 				<flag name="TYPE_MELEE" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_SUMMON_CLONES" />
+				<flag name="EFFECT_NONE" />
 			</effect_flags>
-			<summonFlags>
-				<flag name="roach"/>
-			</summonFlags>
 		</card>
 
 		<card   index="8"
@@ -179,17 +173,15 @@
 			</effect_flags>
 		</card>
 							
-		<card   index="27"							
-			title="gwint_name_ciri" name="ciri"
-			description="gwint_desc_ciri"
-			power="15"
-			picture="neu_ciri"
-			dlcPictureFlag_name="dlc8"
-			dlcPicture="neu_ciri_dlc"
+		<card   index="10"							
+			title="gwint_name_olgierd" name="olgierd_summoned"
+			item=""
+			description="gwint_desc_olgierd"
+			power="6"
+			picture="neu_olgierd"
 			faction_index="F_NEUTRAL" >
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
-				<flag name="TYPE_HERO" />
 				<flag name="TYPE_MELEE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
@@ -430,32 +422,40 @@
 			</effect_flags>
 		</card>
 
-		<card   index="10"							
-			title="gwint_name_olgierd" name="olgierd_summoned"
-			item=""
-			description="gwint_desc_olgierd"
-			power="6"
-			picture="neu_olgierd"
+		<card   index="26"
+			title="gwint_name_geralt" name="geralt"
+			description="gwint_desc_geralt"
+			power="14"
+			picture="neu_geralt"
+			dlcPictureFlag_name="dlc8"
+			dlcPicture="neu_geralt_dlc"
 			faction_index="F_NEUTRAL" >
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_HERO" />
 				<flag name="TYPE_MELEE" />
-				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_NONE" />
+				<flag name="EFFECT_SUMMON_CLONES" />
 			</effect_flags>
+			<summonFlags>
+				<flag name="roach"/>
+			</summonFlags>
 		</card>
 
-		<card   index="7"							
-			title="gwint_name_emiel" name="emiel_summoned"
-			description="gwint_desc_emiel"
-			power="12"
-			picture="neu_emiel_dlc"
+		<card   index="27"							
+			title="gwint_name_ciri" name="ciri"
+			description="gwint_desc_ciri"
+			power="15"
+			picture="neu_ciri"
+			dlcPictureFlag_name="dlc8"
+			dlcPicture="neu_ciri_dlc"
 			faction_index="F_NEUTRAL" >
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_HERO" />
 				<flag name="TYPE_MELEE" />
+				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
 				<flag name="EFFECT_NONE" />

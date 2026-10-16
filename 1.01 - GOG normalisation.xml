@@ -464,11 +464,8 @@
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_SUMMON_CLONES" />
+				<flag name="EFFECT_NONE" />
 			</effect_flags>
-			<summonFlags>
-				<flag name="roach"/>
-			</summonFlags>
 		</card>
 							
 		<card   index="28"							

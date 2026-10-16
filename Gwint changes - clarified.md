@@ -1,21 +1,4 @@
-# Gwent changes — clarified specification
-
-This is a review document, not an implemented XML update.
-Starting point: version 1.4 removed Olgierd morale boost.xml.
-Original comparison reference: base/def_gwint_cards_final.xml.
-
-## Rules
-
-- Indices identify the exact XML definitions. Display names are explanatory.
-- Power values below are final base strength, not increases or decreases.
-- Keep every unmentioned attribute, row, faction, Hero flag, ability, and summon relationship unchanged from version 1.4.
-- Apply grouped changes to every listed index. This does not change inventory quantities or create additional definitions.
-- “Melee only” or “ranged only” replaces existing placement options. “Agile” means both melee and ranged.
-- Removing Hero removes TYPE_HERO only; it does not remove other abilities.
-- Medic = EFFECT_NURSE; Morale Boost = EFFECT_IMPROVE_NEIGHBOURS; Tight Bond = EFFECT_SAME_TYPE_MORALE; Muster = EFFECT_SUMMON_CLONES; Mardroeme = EFFECT_MUSHROOM.
-- When an ability replaces “no ability,” replace EFFECT_NONE rather than retaining both.
-- Preserve internal names unless explicitly specified. Olgierd's shared internal name is retained as requested; its targeting remains a verification issue below.
-- Keep base/, working copy.xml, and previous versions unchanged. Any future implementation must be a new numbered XML file with a short descriptive filename.
+# Gwent changes
 
 ## Monsters
 
@@ -39,9 +22,6 @@ Original comparison reference: base/def_gwint_cards_final.xml.
 | 18 | Gaunter O'Dimm (`mrmirror`) | 2 | Siege → ranged only; move from neutral to Monsters (F_NO_MANS_LAND); retain existing summon relationship |
 | 19 | Gaunter O'Dimm: Darkness (`mrmirror_foglet`) | 4 | Ranged → melee only; move from neutral to Monsters; retain existing Muster relationship |
 
-Regis interpretation for review: only Regis gains the ability to summon the existing Vampire group. Existing Vampires do not gain Regis as a target unless separately requested.
-Both Gaunter O'Dimm (index 18) and Gaunter O'Dimm: Darkness (index 19) move to Monsters, per the updated request.
-
 ## Northern Realms
 
 | Index | Card | Final power | Requested change |
@@ -53,8 +33,6 @@ Both Gaunter O'Dimm (index 18) and Gaunter O'Dimm: Darkness (index 19) move to M
 | 108 | Yarpen Zigrin | 4 | Power only |
 | 175 | Dun Banner Medic | 3 | Keep Medic |
 | 135, 136 | Redanian Foot Soldiers | 2 each | Add Tight Bond; both reference the same two-member group: redanian, redanian2 |
-
-Roche interpretation for review: use normal Muster, not the Cow's death-triggered summon. No additional cards are intended to be summoned.
 
 ## Nilfgaard
 
@@ -77,9 +55,6 @@ Roche interpretation for review: use normal Muster, not the Cow's death-triggere
 | 205 | Albrich | 2 | Add Medic |
 | 221 | Puttkammer | 1 | Add Morale Boost; remain ranged |
 | 265 | Siege Technician (`siege_support`) | 0 | Replace Medic with Morale Boost |
-
-Siege Engineer and Siege Technician are distinct cards; do not interchange their indices.
-Letho's move to neutral is specified in the Neutral section.
 
 ## Scoia'tael
 
@@ -107,19 +82,15 @@ Letho's move to neutral is specified in the Neutral section.
 
 | Index | Card | Final power | Requested change |
 |---|---|---:|---|
-| 10 | Ciri | 15 | Agile; no Roach summon; already matches this in version 1.4 |
-| 27 | Ciri GOG (`ciriGOG`) | 15 | Proposed duplicate handling: make agile and remove Roach summon and its summonFlags; keep Hero |
-| 7 | Geralt | 14 | Keep Hero, melee placement, and Roach summon; already matches this in version 1.4 |
+| 10 | Ciri | 15 | Agile; no Roach summon; already present in version 1.02 |
+| 27 | Ciri GOG (`ciriGOG`) | 15 | Agile, Hero, no ability, no summonFlags; already matches index 10 in version 1.02 |
+| 7 | Geralt | 14 | Keep Hero, melee placement, and Roach summon; already present in version 1.02 |
 | 8 | Vesemir | 8 | Power only |
-| 11 | Triss Merigold | 7 | Add EFFECT_RANGED_SCORCH; keep Hero and melee placement |
-| 17 | Olgierd — summoned form | 6 | Agile; no ability; retain name="olgierd"; already matches version 1.4 |
-| 26 | Olgierd — summoning form | 6 | Agile; EFFECT_SUICIDE_SUMMON with summonFlags target "olgierd"; retain name="olgierd"; already matches version 1.4 |
+| 11 | Triss Merigold | 7 | Melee → ranged only; keep Hero; add EFFECT_RANGED_SCORCH |
+| 17 | Olgierd — summoned form | 6 | Agile; no ability; retain name="olgierd"; already present in version 1.02 |
+| 26 | Olgierd — summoning form | 6 | Agile; EFFECT_SUICIDE_SUMMON with summonFlags target "olgierd"; retain name="olgierd"; already present in version 1.02 |
 | 13 | Zoltan Chivay | 6 | Power only |
 | 200 | Letho of Gulet | 12 | Move from Nilfgaard to neutral; keep Hero and melee placement |
-
-Index 26 is the repurposed former geraltGOG entry. Do not restore it to Geralt or apply Geralt changes to it.
-The index 27 proposal applies the Ciri rule consistently to both surviving Ciri definitions; the original text did not explicitly identify this index.
-“Ranged Scorch” describes the row Triss attacks, not her placement. Use the existing Toad ability flag, EFFECT_RANGED_SCORCH.
 
 ## Skellige
 
@@ -134,14 +105,25 @@ The index 27 proposal applies the Ciri rule consistently to both surviving Ciri 
 | 507 | Donar an Hindar | 5 | Power only |
 | 505 | Holger Blackhand | 5 | Power only |
 
-## Remaining decisions and verification
+## Clarifications
 
-These are not silently resolved by editing the wording:
+- Final power means base strength, not an increase. Unmentioned properties remain unchanged from `1.02 - Olgierd summon.xml`.
+- Grouped rows apply to every listed index. Agile means melee and ranged; “only” replaces other row options. Removing Hero preserves other abilities.
+- Medic = `EFFECT_NURSE`; Morale Boost = `EFFECT_IMPROVE_NEIGHBOURS`; Tight Bond = `EFFECT_SAME_TYPE_MORALE`; Muster = `EFFECT_SUMMON_CLONES`; Mardroeme = `EFFECT_MUSHROOM`.
+- Regis summons the five existing Vampires; they cannot summon Regis.
+- Roche summons Ves using Muster; Ves cannot summon Roche.
+- Gaunter and Darkness both become Monsters. Darkness continues to summon other Darkness copies, not Gaunter.
+- Triss becomes ranged, retains Hero, and gains `EFFECT_RANGED_SCORCH`.
+- Ciri 27 matches Ciri 10 in strength, placement, Hero status, and ability; their identifiers remain distinct.
+- Index 26 is Olgierd, not Geralt. Both Olgierd entries retain `name="olgierd"`. Index 26 uses the Cow's summon behavior; index 17 has no ability. Duplicate-name targeting and exact trigger timing still require in-game verification.
 
-1. Olgierd targeting: indices 17 and 26 must retain the same internal name per the user's instruction. The summon flag names "olgierd", not index 17. Unique resolution to index 17 cannot be guaranteed from this XML alone. Inspect engine behavior or test in game before claiming the target is correct. Do not rename either entry without authorization.
-2. Olgierd timing: use the Cow's EFFECT_SUICIDE_SUMMON behavior. Do not promise triggering on every destruction, Scorch, or removal event without verifying the game's implementation. Index 17 has no summon ability, so the intended design is a single transition, not a loop.
-3. Gaunter faction move: both Gaunter and Darkness belong to Monsters. Verify collection availability, deck inclusion, and the existing summon relationship after the faction changes.
-4. Proposed interpretations: Ciri's index 27 treatment, one-way Regis summoning, and Roche's standard Muster are explicit recommendations, not previously confirmed instructions.
-5. Collection availability, item bindings, localization, card art, leader abilities, faction passives, and AI decks are outside these requested XML changes. Verify faction moves and repurposed cards in game; XML parsing alone cannot establish usability.
+## Completed changes — version 1.02
 
-No changes from this document have been applied to any XML file.
+| Index | Card | Completed change |
+|---|---|---|
+| 7 | Geralt | 14 strength; melee Hero; summons Roach |
+| 10, 27 | Ciri and Ciri GOG | 15 strength; agile Heroes; no Roach summon |
+| 17 | Olgierd | 6 strength; agile; Morale Boost removed |
+| 26 | Olgierd | Replaced Geralt GOG; 6 strength; agile; Cow-style summon targeting `olgierd` |
+
+All other requested changes in the faction tables remain pending.

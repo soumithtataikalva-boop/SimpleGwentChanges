@@ -36,11 +36,11 @@ Original comparison reference: base/def_gwint_cards_final.xml.
 | 435 | Gargoyle | 4 | Power only |
 | 440 | Grave Hag | 3 | Power only |
 | 425 | Ice Giant | 8 | Power only |
-| 18 | Gaunter O'Dimm (`mrmirror`) | 2 | Siege → ranged only; remain neutral; retain existing summon relationship |
+| 18 | Gaunter O'Dimm (`mrmirror`) | 2 | Siege → ranged only; move from neutral to Monsters (F_NO_MANS_LAND); retain existing summon relationship |
 | 19 | Gaunter O'Dimm: Darkness (`mrmirror_foglet`) | 4 | Ranged → melee only; move from neutral to Monsters; retain existing Muster relationship |
 
 Regis interpretation for review: only Regis gains the ability to summon the existing Vampire group. Existing Vampires do not gain Regis as a target unless separately requested.
-Gaunter is already neutral; no faction change is required for index 18.
+Both Gaunter O'Dimm (index 18) and Gaunter O'Dimm: Darkness (index 19) move to Monsters, per the updated request.
 
 ## Northern Realms
 
@@ -140,7 +140,7 @@ These are not silently resolved by editing the wording:
 
 1. Olgierd targeting: indices 17 and 26 must retain the same internal name per the user's instruction. The summon flag names "olgierd", not index 17. Unique resolution to index 17 cannot be guaranteed from this XML alone. Inspect engine behavior or test in game before claiming the target is correct. Do not rename either entry without authorization.
 2. Olgierd timing: use the Cow's EFFECT_SUICIDE_SUMMON behavior. Do not promise triggering on every destruction, Scorch, or removal event without verifying the game's implementation. Index 17 has no summon ability, so the intended design is a single transition, not a loop.
-3. Gaunter cross-faction interaction: keep Gaunter neutral and Darkness in Monsters as requested. Verify how deck inclusion and summoning interact across factions; do not assume neutral decks can obtain a Monsters-only summon target.
+3. Gaunter faction move: both Gaunter and Darkness belong to Monsters. Verify collection availability, deck inclusion, and the existing summon relationship after the faction changes.
 4. Proposed interpretations: Ciri's index 27 treatment, one-way Regis summoning, and Roche's standard Muster are explicit recommendations, not previously confirmed instructions.
 5. Collection availability, item bindings, localization, card art, leader abilities, faction passives, and AI decks are outside these requested XML changes. Verify faction moves and repurposed cards in game; XML parsing alone cannot establish usability.
 

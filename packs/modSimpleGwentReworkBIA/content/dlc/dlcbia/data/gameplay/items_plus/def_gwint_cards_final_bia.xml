@@ -5,7 +5,7 @@
 
 <!--============================================= SPECIAL CARDS (Shared between all factions) =========================-->
 
-		<card   index="0" on_conflict="replace"
+		<card   index="0"
 			title="gwint_name_dummy" name="dummy"
 			description="gwint_desc_dummy"
 			power="0"
@@ -25,7 +25,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="1" on_conflict="replace"
+		<card   index="1"
 			title="gwint_name_horn"	 name="horn"
 			description="gwint_desc_horn"
 			power="0"
@@ -46,7 +46,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="2" on_conflict="replace"
+		<card   index="2"
 			title="gwint_name_scorch" name="scorch"
 			description="gwint_desc_scorch"
 			power="0"
@@ -65,7 +65,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="3" on_conflict="replace"
+		<card   index="3"
 			title="gwint_name_frost"	 name="frost"
 			description="gwint_desc_frost"
 			power="0"
@@ -79,7 +79,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="4" on_conflict="replace"
+		<card   index="4"
 		    title="gwint_name_fog" name="fog"
 			description="gwint_desc_fog"
 			power="0"
@@ -93,7 +93,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="5" on_conflict="replace"
+		<card   index="5"
 		    title="gwint_name_rain"	 name="rain"
 			description="gwint_desc_rain"
 			power="0"
@@ -107,7 +107,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="6" on_conflict="replace"
+		<card   index="6"
 		    title="gwint_name_clear_sky" name="clear_sky"
 			description="gwint_desc_clear_sky"
 			power="0"
@@ -123,7 +123,7 @@
 
 <!--============================================= NEUTRAL CARDS =======================================================-->
 
-		<card   index="7" on_conflict="replace"							
+		<card   index="7"							
 			title="gwint_name_emiel" name="emiel_summoned"
 			description="gwint_desc_emiel"
 			power="12"
@@ -138,7 +138,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="8" on_conflict="replace"
+		<card   index="8"
 			title="gwint_name_vesemir" name="vesemir"
 			description="gwint_desc_vesemir"
 			power="8"
@@ -155,7 +155,7 @@
 			</effect_flags>
 		</card>
 						
-		<card   index="9" on_conflict="replace"
+		<card   index="9"
 			title="gwint_name_yennefer" name="yennefer"
 			description="gwint_desc_yennefer"
 			power="7"
@@ -173,7 +173,7 @@
 			</effect_flags>
 		</card>
 							
-		<card   index="10" on_conflict="replace"							
+		<card   index="10"							
 			title="gwint_name_olgierd" name="olgierd_summoned"
 			item=""
 			description="gwint_desc_olgierd"
@@ -190,7 +190,7 @@
 			</effect_flags>
 		</card>
 							
-		<card   index="11" on_conflict="replace"							
+		<card   index="11"							
 			title="gwint_name_triss" name="triss"
 			description="gwint_desc_triss"
 			power="7"
@@ -208,7 +208,7 @@
 			</effect_flags>
 		</card>
 							
-		<card   index="12" on_conflict="replace"							
+		<card   index="12"							
 			title="gwint_name_dandelion" name="dandelion"
 			description="gwint_desc_dandelion"
 			power="2"
@@ -227,7 +227,7 @@
 			</effect_flags>
 		</card>
 							
-		<card   index="13" on_conflict="replace"							
+		<card   index="13"							
 			title="gwint_name_zoltan" name="zoltan"
 			description="gwint_desc_zoltan"
 			power="6"
@@ -244,7 +244,7 @@
 			</effect_flags>
 		</card>
 							
-		<card   index="14" on_conflict="replace"							
+		<card   index="14"							
 			title="gwint_name_emiel" name="emiel"
 			description="gwint_desc_emiel"
 			power="5"
@@ -262,7 +262,7 @@
 			</summonFlags>
 		</card>		
 							
-		<card   index="15" on_conflict="replace"							
+		<card   index="15"							
 			title="gwint_name_villen" name="villen"
 			description="gwint_desc_villen"
 			power="7"
@@ -279,7 +279,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="16" on_conflict="replace"		 name="mysterious_elf"					
+		<card   index="16"		 name="mysterious_elf"					
 			title="Mysterious elf"
 			item="gwint_card_avallach"
 			description="gwint_desc_avallach"
@@ -299,7 +299,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="17" on_conflict="replace"							
+		<card   index="17"							
 			title="gwint_name_olgierd" name="olgierd"
 			description="gwint_desc_olgierd"
 			power="6"
@@ -318,7 +318,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="18" on_conflict="replace"							
+		<card   index="18"							
 			title="gwint_name_mrmirror" name="mrmirror"
 			description="gwint_desc_mrmirror"
 			power="2"
@@ -337,7 +337,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="19" on_conflict="replace"							
+		<card   index="19"							
 			title="gwint_name_mrmirror_foglet" name="mrmirror_foglet"
 			description="gwint_desc_mrmirror_foglet"
 			power="4"
@@ -356,7 +356,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="20" on_conflict="replace"							
+		<card   index="20"							
 			title="gwint_name_cow" name="cow"
 			description="gwint_desc_cow"
 			power="0"
@@ -374,7 +374,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="21" on_conflict="replace"							
+		<card   index="21"							
 			title="gwint_name_cow_czart" name="cow_czart"
 			item=""
 			description="gwint_desc_cow_czart"
@@ -390,7 +390,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="22" on_conflict="replace"
+		<card   index="22"
 			title="gwint_name_mushroom"	 name="mushroom"
 			description="gwint_desc_mushroom"
 			power="0"
@@ -407,7 +407,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="23" on_conflict="replace"
+		<card   index="23"
 			title="gwint_name_skellige_storm"	 name="skellige_storm"
 			description="gwint_desc_skellige_storm"
 			power="0"
@@ -422,7 +422,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="26" on_conflict="replace"
+		<card   index="26"
 			title="gwint_name_geralt" name="geralt"
 			description="gwint_desc_geralt"
 			power="14"
@@ -443,7 +443,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="27" on_conflict="replace"							
+		<card   index="27"							
 			title="gwint_name_ciri" name="ciri"
 			description="gwint_desc_ciri"
 			power="15"
@@ -462,7 +462,7 @@
 			</effect_flags>
 		</card>
 							
-		<card   index="28" on_conflict="replace"							
+		<card   index="28"							
 			title="map_location_horse" name="roach"
 			description="gwint_desc_roach"
 			power="3"
@@ -476,7 +476,7 @@
 
 <!--============================================= N.KINGDOM CARDS =====================================================-->
 
-		<card   index="100" on_conflict="replace"							
+		<card   index="100"							
 			title="gwint_name_vernon" name="vernon"
 			description="gwint_desc_vernon"
 			power="6"
@@ -494,7 +494,7 @@
 			</summonFlags>
 		</card>
 		
-		<card   index="101" on_conflict="replace"							
+		<card   index="101"							
 			title="gwint_name_natalis" name="natalis"
 			description="gwint_desc_natalis"
 			power="10"
@@ -510,7 +510,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="102" on_conflict="replace"							
+		<card   index="102"							
 			title="gwint_name_esterad" name="esterad"
 			description="gwint_desc_esterad"
 			power="10"
@@ -526,7 +526,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="103" on_conflict="replace"							
+		<card   index="103"							
 			title="gwint_name_philippa" name="philippa"
 			description="gwint_desc_philippa"
 			power="8"
@@ -541,7 +541,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="105" on_conflict="replace"							
+		<card   index="105"							
 			title="gwint_name_thaler" name="thaler"
 			description="gwint_desc_thaler"
 			power="1"
@@ -557,7 +557,7 @@
 			</effect_flags>
 		</card>
 							
-		<card   index="106" on_conflict="replace"							
+		<card   index="106"							
 			title="gwint_name_ves" name="ves"
 			description="gwint_desc_ves"
 			item=""
@@ -573,7 +573,7 @@
 			</effect_flags>
 		</card>
 							
-		<card   index="107" on_conflict="replace"							
+		<card   index="107"							
 			title="gwint_name_siegfried" name="siegfried"
 			description="gwint_desc_siegfried"
 			item=""
@@ -589,7 +589,7 @@
 			</effect_flags>
 		</card>	
 		
-		<card   index="108" on_conflict="replace"							
+		<card   index="108"							
 			title="gwint_name_yarpen" name="yarpen"
 			item=""
 			description="gwint_desc_yarpen"
@@ -605,7 +605,7 @@
 			</effect_flags>
 		</card>
 							
-		<card   index="109" on_conflict="replace"							
+		<card   index="109"							
 			title="gwint_name_dijkstra" name="dijkstra"
 			description="gwint_desc_dijkstra"
 			power="4"
@@ -621,7 +621,7 @@
 			</effect_flags>
 		</card>
 							
-		<card   index="111" on_conflict="replace"							
+		<card   index="111"							
 			title="gwint_name_keira" name="keira"
 			item=""
 			description="gwint_desc_keira"
@@ -637,7 +637,7 @@
 			</effect_flags>
 		</card>
 							
-		<card   index="112" on_conflict="replace"							
+		<card   index="112"							
 			title="gwint_name_sile" name="sile"
 			item=""
 			description="gwint_desc_sile"
@@ -653,7 +653,7 @@
 			</effect_flags>
 		</card>
 							
-		<card   index="113" on_conflict="replace"							
+		<card   index="113"							
 			title="gwint_name_sabrina" name="sabrina"
 			description="gwint_desc_sabrina"
 			item=""
@@ -669,7 +669,7 @@
 			</effect_flags>
 		</card>
 							
-		<card   index="114" on_conflict="replace"							
+		<card   index="114"							
 			title="gwint_name_sheldon" name="sheldon"
 			description="gwint_desc_sheldon"
 			item=""
@@ -685,7 +685,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="115" on_conflict="replace"							
+		<card   index="115"							
 			title="gwint_name_dethmold" name="dethmold"
 			description="gwint_desc_dethmold"
 			item=""
@@ -701,7 +701,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="116" on_conflict="replace"							
+		<card   index="116"							
 			title="gwint_name_stennis" name="stennis"
 			item=""
 			description="gwint_desc_stennis"
@@ -718,7 +718,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="120" on_conflict="replace"							
+		<card   index="120"							
 			title="gwint_name_trebuchet" name="trebuchet"
 			item=""
 			description="gwint_desc_trebuchet"
@@ -734,7 +734,7 @@
 			</effect_flags>
 		</card>
 							
-		<card   index="121" on_conflict="replace"							
+		<card   index="121"							
 			title="gwint_name_trebuchet" name="trebuchet2"
 			item=""
 			description="gwint_desc_trebuchet"
@@ -816,7 +816,7 @@
 			</summonFlags>
 		</card>
 							
-		<card   index="130" on_conflict="replace"							
+		<card   index="130"							
 			title="gwint_name_crinfrid" name="crinfrid"
 			description="gwint_desc_crinfrid"
 			power="5"
@@ -878,7 +878,7 @@
 			</summonFlags>
 		</card>
 							
-		<card   index="135" on_conflict="replace"							
+		<card   index="135"							
 			title="gwint_name_redanian" name="redanian"
 			description="gwint_desc_redanian"
 			item=""
@@ -898,7 +898,7 @@
 			</summonFlags>
 		</card>
 							
-		<card   index="136" on_conflict="replace"							
+		<card   index="136"							
 			title="gwint_name_redanian" name="redanian2"
 			description="gwint_desc_redanian"
 			item=""
@@ -938,7 +938,7 @@
 			</summonFlags>
 		</card>
 							
-		<card   index="141" on_conflict="replace"							
+		<card   index="141"							
 			title="gwint_name_catapult" name="catapult2"
 			description="gwint_desc_catapult"
 			power="8"
@@ -957,7 +957,7 @@
 			</summonFlags>
 		</card>
 							
-		<card   index="145" on_conflict="replace"							
+		<card   index="145"							
 			title="gwint_name_ballista" name="ballista"
 			description="gwint_desc_ballista"
 			item=""
@@ -973,7 +973,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="146" on_conflict="replace"							
+		<card   index="146"							
 			title="gwint_name_ballista" name="ballista2"
 			item=""
 			description="gwint_desc_ballista"
@@ -1093,7 +1093,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="170" on_conflict="replace"							
+		<card   index="170"							
 			title="gwint_name_siege_tower" name="siege_tower"
 			description="gwint_desc_siege_tower"
 			power="6"
@@ -1118,7 +1118,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="175" on_conflict="replace"							
+		<card   index="175"							
 			title="gwint_name_dun_banner_medic" name="dun_banner_medic"
 			description="gwint_desc_dun_banner_medic"
 			item=""
@@ -1156,7 +1156,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="200" on_conflict="replace"					
+		<card   index="200"					
 			title="gwint_name_letho" name="letho"
 			description="gwint_desc_letho"
 			power="12"
@@ -1172,7 +1172,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="201" on_conflict="replace"					
+		<card   index="201"					
 			title="gwint_name_menno" name="menno"
 			description="gwint_desc_menno"
 			power="8"
@@ -1188,7 +1188,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="202" on_conflict="replace"					
+		<card   index="202"					
 			title="gwint_name_moorvran" name="moorvran"
 			description="gwint_desc_moorvran"
 			power="8"
@@ -1203,7 +1203,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="203" on_conflict="replace"
+		<card   index="203"
 			title="gwint_name_tibor" name="tibor"
 			description="gwint_desc_tibor"
 			power="10"
@@ -1219,7 +1219,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="205" on_conflict="replace"					
+		<card   index="205"					
 			title="gwint_name_albrich" name="albrich"
 			description="gwint_desc_albrich"
 			power="0"
@@ -1234,7 +1234,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="206" on_conflict="replace"					
+		<card   index="206"					
 			title="gwint_name_assire" name="assire"
 			description="gwint_desc_assire"
 			power="5"
@@ -1249,7 +1249,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="207" on_conflict="replace"					
+		<card   index="207"					
 			title="gwint_name_cynthia" name="cynthia"
 			description="gwint_desc_cynthia"
 			power="1"
@@ -1264,7 +1264,7 @@
 			</effect_flags>
 		</card>				
 
-		<card   index="208" on_conflict="replace"					
+		<card   index="208"					
 			title="gwint_name_fringilla" name="fringilla"
 			description="gwint_desc_fringilla"
 			power="6"
@@ -1279,7 +1279,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="209" on_conflict="replace"					
+		<card   index="209"					
 			title="gwint_name_morteisen" name="morteisen"
 			description="gwint_desc_morteisen"
 			power="4"
@@ -1294,7 +1294,7 @@
 			</effect_flags>
 		</card>
 			
-		<card   index="210" on_conflict="replace"				
+		<card   index="210"				
 			title="gwint_name_rainfarn" name="rainfarn"
 			description="gwint_desc_rainfarn"
 			power="5"
@@ -1309,7 +1309,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="211" on_conflict="replace"				
+		<card   index="211"				
 			title="gwint_name_renuald" name="renuald"
 			description="gwint_desc_renuald"
 			power="5"
@@ -1324,7 +1324,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="212" on_conflict="replace"					
+		<card   index="212"					
 			title="gwint_name_rotten" name="rotten"
 			description="gwint_desc_rotten"
 			power="2"
@@ -1339,7 +1339,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="213" on_conflict="replace"					
+		<card   index="213"					
 			title="gwint_name_shilard" name="shilard"
 			description="gwint_desc_shilard"
 			power="7"
@@ -1355,7 +1355,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="214" on_conflict="replace"					
+		<card   index="214"					
 			title="gwint_name_stefan" name="stefan"
 			description="gwint_desc_stefan"
 			power="9"
@@ -1371,7 +1371,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="215" on_conflict="replace"
+		<card   index="215"
 			title="gwint_name_sweers" name="sweers"
 			description="gwint_desc_sweers"
 			power="4"
@@ -1386,7 +1386,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="217" on_conflict="replace"					
+		<card   index="217"					
 			title="gwint_name_vanhemar" name="vanhemar"
 			description="gwint_desc_vanhemar"
 			power="2"
@@ -1401,7 +1401,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="218" on_conflict="replace"										
+		<card   index="218"										
 			title="gwint_name_vattier" name="vattier"
 			description="gwint_desc_vattier"
 			power="4"
@@ -1417,7 +1417,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="219" on_conflict="replace"					
+		<card   index="219"					
 			title="gwint_name_vreemde" name="vreemde"
 			description="gwint_desc_vreemde"
 			power="4"
@@ -1432,7 +1432,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="220" on_conflict="replace"					
+		<card   index="220"					
 			title="gwint_name_cahir" name="cahir"
 			description="gwint_desc_cahir"
 			power="6"
@@ -1447,7 +1447,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="221" on_conflict="replace"					
+		<card   index="221"					
 			title="gwint_name_puttkammer" name="puttkammer"
 			description="gwint_desc_puttkammer"
 			power="1"
@@ -1462,7 +1462,7 @@
 			</effect_flags>
 		</card>
 							
-		<card   index="230" on_conflict="replace"					
+		<card   index="230"					
 			title="gwint_name_archer_support" name="archer_support"
 			description="gwint_desc_archer_support"
 			power="7"
@@ -1477,7 +1477,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="231" on_conflict="replace"					
+		<card   index="231"					
 			title="gwint_name_archer_support" name="archer_support2"
 			description="gwint_desc_archer_support"
 			power="7"
@@ -1492,7 +1492,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="235" on_conflict="replace"					
+		<card   index="235"					
 			title="gwint_name_black_archer" name="black_archer"
 			description="gwint_desc_black_archer"
 			power="5"
@@ -1511,7 +1511,7 @@
 			</summonFlags>
 		</card>
 		
-		<card   index="236" on_conflict="replace"					
+		<card   index="236"					
 			title="gwint_name_black_archer" name="black_archer2"
 			description="gwint_desc_black_archer"
 			power="5"
@@ -1531,7 +1531,7 @@
 		</card>
 
 
-		<card   index="240" on_conflict="replace"					
+		<card   index="240"					
 			title="gwint_name_heavy_zerri" name="heavy_zerri"
 			description="gwint_desc_heavy_zerri"
 			power="10"
@@ -1546,7 +1546,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="241" on_conflict="replace"					
+		<card   index="241"					
 			title="gwint_name_zerri" name="zerri"
 			description="gwint_desc_zerri"
 			power="5"
@@ -1562,7 +1562,7 @@
 		</card>
 
 
-		<card   index="245" on_conflict="replace"					
+		<card   index="245"					
 			title="gwint_name_impera_brigade" name="impera_brigade"
 			description="gwint_desc_impera_brigade"
 			power="3"
@@ -1692,7 +1692,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="252" on_conflict="replace"					
+		<card   index="252"					
 			title="gwint_name_nausicaa" name="nausicaa3"
 			description="gwint_desc_nausicaa"
 			power="2"
@@ -1712,7 +1712,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="255" on_conflict="replace"					
+		<card   index="255"					
 			title="gwint_name_combat_engineer" name="combat_engineer"
 			description="gwint_desc_combat_engineer"
 			power="2"
@@ -1727,7 +1727,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="260" on_conflict="replace"					
+		<card   index="260"					
 			title="gwint_name_young_emissary" name="young_emissary"
 			description="gwint_desc_young_emisary"
 			power="5"
@@ -1746,7 +1746,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="261" on_conflict="replace"					
+		<card   index="261"					
 			title="gwint_name_young_emissary" name="young_emissary2"
 			description="gwint_desc_young_emisary"
 			power="5"
@@ -1765,7 +1765,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="265" on_conflict="replace"					
+		<card   index="265"					
 			title="gwint_name_siege_support" name="siege_support"
 			description="gwint_desc_siege_support"
 			power="0"
@@ -1782,7 +1782,7 @@
 
 <!--============================================= SCOIA'TEL CARDS =====================================================-->
 
-		<card   index="300" on_conflict="replace"				
+		<card   index="300"				
 			title="gwint_name_eithne" name="eithne"
 			description="gwint_desc_eithne"
 			power="10"
@@ -1798,7 +1798,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="301" on_conflict="replace"				
+		<card   index="301"				
 			title="gwint_name_saskia" name="saskia"
 			description="gwint_desc_saskia"
 			power="8"
@@ -1813,7 +1813,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="302" on_conflict="replace"				
+		<card   index="302"				
 			title="gwint_name_isengrim" name="isengrim"
 			description="gwint_desc_isengrim"
 			power="9"
@@ -1829,7 +1829,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="303" on_conflict="replace"				
+		<card   index="303"				
 			title="gwint_name_iorveth" name="iorveth"
 			description="gwint_desc_iorveth"
 			power="7"
@@ -1844,7 +1844,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="305" on_conflict="replace"							
+		<card   index="305"							
 			title="gwint_name_dennis" name="dennis"
 			description="gwint_desc_dennis"
 			power="6"
@@ -1859,7 +1859,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="306" on_conflict="replace"				
+		<card   index="306"				
 			title="gwint_name_milva" name="milva"
 			description="gwint_desc_milva"
 			power="7"
@@ -1874,7 +1874,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="307" on_conflict="replace"				
+		<card   index="307"				
 			title="gwint_name_ida" name="ida"
 			description="gwint_desc_ida"
 			power="8"
@@ -1889,7 +1889,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="308" on_conflict="replace"				
+		<card   index="308"				
 			title="gwint_name_filavandrel" name="filavandrel"
 			description="gwint_desc_filavandrel"
 			power="6"
@@ -1905,7 +1905,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="309" on_conflict="replace"				
+		<card   index="309"				
 			title="gwint_name_yaevinn" name="yaevinn"
 			description="gwint_desc_yaevinn"
 			power="5"
@@ -1921,7 +1921,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="310" on_conflict="replace"				
+		<card   index="310"				
 			title="gwint_name_toruviel" name="toruviel"
 			description="gwint_desc_toruviel"
 			power="4"
@@ -1937,7 +1937,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="311" on_conflict="replace"				
+		<card   index="311"				
 			title="gwint_name_riordain" name="riordain"
 			description="gwint_desc_riordain"
 			power="3"
@@ -1952,7 +1952,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="312" on_conflict="replace"				
+		<card   index="312"				
 			title="gwint_name_ciaran" name="ciaran"
 			description="gwint_desc_ciaran"
 			power="3"
@@ -1968,7 +1968,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="313" on_conflict="replace"				
+		<card   index="313"				
 			title="gwint_name_barclay" name="barclay"
 			description="gwint_desc_barclay"
 			power="6"
@@ -1983,7 +1983,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="320" on_conflict="replace"				
+		<card   index="320"				
 			title="gwint_name_havcaaren_support" name="havcaaren_support"
 			item="gwint_card_havekar_support"
 			description="gwint_desc_havcaaren_support"
@@ -2004,7 +2004,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="321" on_conflict="replace"				
+		<card   index="321"				
 			title="gwint_name_havcaaren_support" name="havcaaren_support2"
 			item="gwint_card_havekar_support2"
 			description="gwint_desc_havcaaren_support"
@@ -2025,7 +2025,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="322" on_conflict="replace"				
+		<card   index="322"				
 			title="gwint_name_havcaaren_support" name="havcaaren_support3"
 			item="gwint_card_havekar_support3"
 			description="gwint_desc_havcaaren_support"
@@ -2046,7 +2046,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="325" on_conflict="replace"				
+		<card   index="325"				
 			title="gwint_name_vrihedd_brigade" name="vrihedd_brigade"
 			description="gwint_desc_vrihedd_brigade"
 			power="6"
@@ -2062,7 +2062,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="326" on_conflict="replace"				
+		<card   index="326"				
 			title="gwint_name_vrihedd_brigade" name="vrihedd_brigade2"
 			description="gwint_desc_vrihedd_brigade"
 			power="6"
@@ -2078,7 +2078,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="330" on_conflict="replace"				
+		<card   index="330"				
 			title="gwint_name_dol_scout" name="dol_scout"
 			item="gwint_card_dol_infantry"
 			description="gwint_desc_dol_scout"
@@ -2100,7 +2100,7 @@
 			</summonFlags>
 		</card>
 				
-		<card   index="331" on_conflict="replace"				
+		<card   index="331"				
 			title="gwint_name_dol_scout" name="dol_scout2"
 			item="gwint_card_dol_infantry2"
 			description="gwint_desc_dol_scout"
@@ -2122,7 +2122,7 @@
 			</summonFlags>
 		</card>
 		
-		<card   index="332" on_conflict="replace"				
+		<card   index="332"				
 			title="gwint_name_dol_scout" name="dol_scout3"
 			item="gwint_card_dol_infantry3"
 			description="gwint_desc_dol_scout"
@@ -2144,7 +2144,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="335" on_conflict="replace"				
+		<card   index="335"				
 			title="gwint_name_dwarf" name="dwarf"
 			item="gwint_card_dol_dwarf"
 			description="gwint_desc_dwarf"
@@ -2165,7 +2165,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="336" on_conflict="replace"				
+		<card   index="336"				
 			title="gwint_name_dwarf" name="dwarf2"
 			item="gwint_card_dol_dwarf2"
 			description="gwint_desc_dwarf"
@@ -2186,7 +2186,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="337" on_conflict="replace"				
+		<card   index="337"				
 			title="gwint_name_dwarf" name="dwarf3"
 			item="gwint_card_dol_dwarf3"
 			description="gwint_desc_dwarf"
@@ -2207,7 +2207,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="340" on_conflict="replace"				
+		<card   index="340"				
 			title="gwint_name_mahakam" name="mahakam"
 			description="gwint_desc_mahakam"
 			power="5"
@@ -2222,7 +2222,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="341" on_conflict="replace"				
+		<card   index="341"				
 			title="gwint_name_mahakam" name="mahakam2"
 			description="gwint_desc_mahakam"
 			power="5"
@@ -2237,7 +2237,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="342" on_conflict="replace"				
+		<card   index="342"				
 			title="gwint_name_mahakam" name="mahakam3"
 			description="gwint_desc_mahakam"
 			power="5"
@@ -2253,7 +2253,7 @@
 		</card>
 		
 
-		<card   index="343" on_conflict="replace"				
+		<card   index="343"				
 			title="gwint_name_mahakam" name="mahakam4"
 			description="gwint_desc_mahakam"
 			power="5"
@@ -2268,7 +2268,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="344" on_conflict="replace"				
+		<card   index="344"				
 			title="gwint_name_mahakam" name="mahakam5"
 			description="gwint_desc_mahakam"
 			power="5"
@@ -2283,7 +2283,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="350" on_conflict="replace"				
+		<card   index="350"				
 			title="gwint_name_elf_skirmisher" name="elf_skirmisher"
 			description="gwint_desc_elf_skirmisher"
 			power="3"
@@ -2303,7 +2303,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="351" on_conflict="replace"				
+		<card   index="351"				
 			title="gwint_name_elf_skirmisher" name="elf_skirmisher2"
 			description="gwint_desc_elf_skirmisher"
 			power="3"
@@ -2323,7 +2323,7 @@
 			</summonFlags>
 		</card>
 		
-		<card   index="352" on_conflict="replace"				
+		<card   index="352"				
 			title="gwint_name_elf_skirmisher" name="elf_skirmisher3"
 			description="gwint_desc_elf_skirmisher"
 			power="3"
@@ -2343,7 +2343,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="355" on_conflict="replace"				
+		<card   index="355"				
 			title="gwint_name_vrihedd_cadet" name="vrihedd_cadet"
 			description="gwint_desc_vrihedd_cadet"
 			power="2"
@@ -2358,7 +2358,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="360" on_conflict="replace"				
+		<card   index="360"				
 			title="gwint_name_dol_archer" name="dol_archer"
 			description="gwint_desc_dol_archer"
 			power="4"
@@ -2373,7 +2373,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="365" on_conflict="replace"				
+		<card   index="365"				
 			title="gwint_name_havcaaren_medic" name="havcaaren_medic"
 			item="gwint_card_havekar_nurse"
 			description="gwint_desc_havcaaren_medic"
@@ -2390,7 +2390,7 @@
 		</card>
 		
 
-		<card   index="366" on_conflict="replace"				
+		<card   index="366"				
 			title="gwint_name_havcaaren_medic" name="havcaaren_medic2"
 			item="gwint_card_havekar_nurse2"
 			description="gwint_desc_havcaaren_medic"
@@ -2407,7 +2407,7 @@
 		</card>
 		
 
-		<card   index="367" on_conflict="replace"				
+		<card   index="367"				
 			title="gwint_name_havcaaren_medic" name="havcaaren_medic3"
 			item="gwint_card_havekar_nurse3"
 			description="gwint_desc_havcaaren_medic"
@@ -2424,7 +2424,7 @@
 		</card>
 
 
-		<card   index="368" on_conflict="replace"				
+		<card   index="368"				
 			title="gwint_name_schirru" name="schirru"
 			description="gwint_desc_schirru"
 			power="7"
@@ -2441,7 +2441,7 @@
 
 <!--============================================= NO MAN'S LAND CARDS =================================================-->
 
-		<card   index="400" on_conflict="replace"					
+		<card   index="400"					
 			title="gwint_name_draug" name="draug"
 			description="gwint_desc_draug"
 			power="10"
@@ -2457,7 +2457,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="401" on_conflict="replace"					
+		<card   index="401"					
 			title="gwint_name_kayran" name="kayran"
 			description="gwint_desc_kayran"
 			power="7"
@@ -2473,7 +2473,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="402" on_conflict="replace"					
+		<card   index="402"					
 			title="gwint_name_imlerith" name="imlerith"
 			description="gwint_desc_imlerith"
 			power="13"
@@ -2489,7 +2489,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="403" on_conflict="replace"					
+		<card   index="403"					
 			title="gwint_name_leshen" name="leshen"
 			description="gwint_desc_leshen"
 			power="7"
@@ -2504,7 +2504,7 @@
 			</effect_flags>
 		</card>
 			
-		<card   index="405" on_conflict="replace"							
+		<card   index="405"							
 			title="gwint_name_forktail" name="forktail"
 			description="gwint_desc_forktail"
 			power="5"
@@ -2519,7 +2519,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="407" on_conflict="replace"					
+		<card   index="407"					
 			title="gwint_name_earth_elemental" name="earth_elemental"
 			description="gwint_desc_earth_elemental"
 			power="6"
@@ -2534,7 +2534,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="410" on_conflict="replace"					
+		<card   index="410"					
 			title="gwint_name_fiend" name="fiend"
 			description="gwint_desc_fiend"
 			power="6"
@@ -2549,7 +2549,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="413" on_conflict="replace"
+		<card   index="413"
 			title="gwint_name_plague_maiden" name="plague_maiden"
 			description="gwint_desc_plague_maiden"
 			power="4"
@@ -2564,7 +2564,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="415" on_conflict="replace"					
+		<card   index="415"					
 			title="gwint_name_griffin" name="griffin"
 			description="gwint_desc_griffin"
 			power="5"
@@ -2579,7 +2579,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="417" on_conflict="replace"					
+		<card   index="417"					
 			title="gwint_name_werewolf" name="werewolf"
 			description="gwint_desc_werewolf"
 			power="4"
@@ -2591,7 +2591,7 @@
 			</type_flags>
 		</card>
 
-		<card   index="420" on_conflict="replace"					
+		<card   index="420"					
 			title="gwint_name_botchling" name="botchling"
 			description="gwint_desc_botchling"
 			power="4"
@@ -2606,7 +2606,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="423" on_conflict="replace"					
+		<card   index="423"					
 			title="gwint_name_frightener" name="frightener"
 			description="gwint_desc_frightener"
 			power="4"
@@ -2621,7 +2621,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="425" on_conflict="replace"					
+		<card   index="425"					
 			title="gwint_name_ice_giant" name="ice_giant"
 			description="gwint_desc_ice_giant"
 			power="8"
@@ -2636,7 +2636,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="427" on_conflict="replace"					
+		<card   index="427"					
 			title="gwint_name_endrega" name="endrega"
 			description="gwint_desc_endrega"
 			power="2"
@@ -2651,7 +2651,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="430" on_conflict="replace"					
+		<card   index="430"					
 			title="gwint_name_harpy" name="harpy"
 			description="gwint_desc_harpy"
 			power="2"
@@ -2667,7 +2667,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="433" on_conflict="replace"					
+		<card   index="433"					
 			title="gwint_name_cockatrice" name="cockatrice"
 			description="gwint_desc_cockatrice"
 			power="5"
@@ -2682,7 +2682,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="435" on_conflict="replace"					
+		<card   index="435"					
 			title="gwint_name_gargoyle" name="gargoyle"
 			description="gwint_desc_gargoyle"
 			power="4"
@@ -2697,7 +2697,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="437" on_conflict="replace"					
+		<card   index="437"					
 			title="gwint_name_celaeno_harpy" name="celaeno_harpy"
 			description="gwint_desc_celaeno_harpy"
 			power="2"
@@ -2714,7 +2714,7 @@
 		</card>
 
 
-		<card   index="440" on_conflict="replace"					
+		<card   index="440"					
 			title="gwint_name_grave_hag" name="grave_hag"
 			description="gwint_desc_grave_hag"
 			power="3"
@@ -2729,7 +2729,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="443" on_conflict="replace"					
+		<card   index="443"					
 			title="gwint_name_fire_elemental" name="fire_elemental"
 			description="gwint_desc_fire_elemental"
 			power="6"
@@ -2744,7 +2744,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="445" on_conflict="replace"					
+		<card   index="445"					
 			title="gwint_name_fogling" name="fogling"
 			description="gwint_desc_fogling"
 			power="3"
@@ -2759,7 +2759,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="447" on_conflict="replace"					
+		<card   index="447"					
 			title="gwint_name_wyvern" name="wyvern"
 			description="gwint_desc_wyvern"
 			power="5"
@@ -2774,7 +2774,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="450" on_conflict="replace"					
+		<card   index="450"					
 			title="gwint_name_arachas_behemoth" name="arachas_behemoth"
 			description="gwint_desc_arachas_behemoth"
 			power="6"
@@ -2795,7 +2795,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="451" on_conflict="replace"					
+		<card   index="451"					
 			title="gwint_name_arachas" name="arachas"
 			description="gwint_desc_arachas"
 			power="4"
@@ -2816,7 +2816,7 @@
 				</summonFlags>
 		</card>
 		
-		<card   index="452" on_conflict="replace"					
+		<card   index="452"					
 			title="gwint_name_arachas" name="arachas2"
 			description="gwint_desc_arachas"
 			power="4"
@@ -2838,7 +2838,7 @@
 		</card>
 		
 		
-		<card   index="453" on_conflict="replace"					
+		<card   index="453"					
 			title="gwint_name_arachas" name="arachas3"
 			description="gwint_desc_arachas"
 			power="4"
@@ -2859,7 +2859,7 @@
 				</summonFlags>
 		</card>
 		
-		<card   index="455" on_conflict="replace"					
+		<card   index="455"					
 			title="gwint_name_nekker" name="nekker"
 			description="gwint_desc_nekker"
 			power="2"
@@ -2879,7 +2879,7 @@
 			</summonFlags>
 		</card>		
 		
-		<card   index="456" on_conflict="replace"					
+		<card   index="456"					
 			title="gwint_name_nekker" name="nekker2"
 			description="gwint_desc_nekker"
 			power="2"
@@ -2899,7 +2899,7 @@
 			</summonFlags>
 		</card>
 		
-		<card   index="457" on_conflict="replace"					
+		<card   index="457"					
 			title="gwint_name_nekker" name="nekker3"
 			description="gwint_desc_nekker"
 			power="2"
@@ -2919,7 +2919,7 @@
 			</summonFlags>
 		</card>
 		
-		<card   index="460" on_conflict="replace"					
+		<card   index="460"					
 			title="gwint_name_ekkima" name="ekkima"
 			description="gwint_desc_ekkima"
 			power="4"
@@ -2941,7 +2941,7 @@
 			</summonFlags>
 		</card>
 		
-		<card   index="461" on_conflict="replace"					
+		<card   index="461"					
 			title="gwint_name_fleder" name="fleder"
 			description="gwint_desc_fleder"
 			power="4"
@@ -2963,7 +2963,7 @@
 			</summonFlags>
 		</card>
 		
-		<card   index="462" on_conflict="replace"					
+		<card   index="462"					
 			title="gwint_name_garkain" name="garkain"
 			description="gwint_desc_garkain"
 			power="4"
@@ -2985,7 +2985,7 @@
 			</summonFlags>
 		</card>
 		
-		<card   index="463" on_conflict="replace"					
+		<card   index="463"					
 			title="gwint_name_bruxa" name="bruxa"
 			description="gwint_desc_bruxa"
 			power="4"
@@ -3007,7 +3007,7 @@
 			</summonFlags>
 		</card>
 		
-		<card  index="464" on_conflict="replace"					
+		<card  index="464"					
 			title="gwint_name_katakan" name="katakan"
 			description="gwint_desc_katakan"
 			power="5"
@@ -3029,7 +3029,7 @@
 			</summonFlags>
 		</card>
 		
-		<card   index="470" on_conflict="replace"
+		<card   index="470"
 			title="gwint_name_ghoul" name="ghoul"
 			description="gwint_desc_ghoul"
 			power="3"
@@ -3049,7 +3049,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="471" on_conflict="replace"
+		<card   index="471"
 			title="gwint_name_ghoul" name="ghoul2"
 			description="gwint_desc_ghoul"
 			power="3"
@@ -3069,7 +3069,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="472" on_conflict="replace"
+		<card   index="472"
 			title="gwint_name_ghoul" name="ghoul3"
 			description="gwint_desc_ghoul"
 			power="3"
@@ -3089,7 +3089,7 @@
 			</summonFlags>
 		</card>
 		
-		<card   index="475" on_conflict="replace"					
+		<card   index="475"					
 			title="gwint_name_crone_brewess" name="crone_brewess"
 			description="gwint_desc_crone_brewess"
 			power="6"
@@ -3109,7 +3109,7 @@
 			</summonFlags>
 		</card>
 		
-		<card   index="476" on_conflict="replace"					
+		<card   index="476"					
 			title="gwint_name_crone_weavess" name="crone_weavess"
 			description="gwint_desc_crone_weavess"
 			power="6"
@@ -3129,7 +3129,7 @@
 			</summonFlags>
 		</card>
 		
-		<card   index="477" on_conflict="replace"					
+		<card   index="477"					
 			title="gwint_name_crone_whispess" name="crone_whispess"
 			description="gwint_desc_crone_whispess"
 			power="6"
@@ -3149,7 +3149,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="478" on_conflict="replace"					
+		<card   index="478"					
 			title="gwint_name_toad" name="toad"
 			description="gwint_desc_toad"
 			power="7"
@@ -3166,7 +3166,7 @@
 
 <!--============================================= SKELLIGE CARDS ======================================================-->
 
-		<card   index="500" on_conflict="replace"							
+		<card   index="500"							
 			title="gwint_name_hemdal" name="hemdal"
 			item=""
 			description="gwint_desc_hemdal"
@@ -3183,7 +3183,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="501" on_conflict="replace"							
+		<card   index="501"							
 			title="gwint_name_hjalmar" name="hjalmar"
 			description="gwint_desc_hjalmar"
 			power="10"
@@ -3199,7 +3199,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="502" on_conflict="replace"							
+		<card   index="502"							
 			title="gwint_name_cerys" name="cerys"
 			description="gwint_desc_cerys"
 			power="7"
@@ -3220,7 +3220,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="503" on_conflict="replace"							
+		<card   index="503"							
 			title="gwint_name_ermion" name="ermion"
 			description="gwint_desc_ermion"
 			power="7"
@@ -3236,7 +3236,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="504" on_conflict="replace"							
+		<card   index="504"							
 			title="gwint_name_draig" name="draig"
 			description="gwint_desc_draig"
 			power="2"
@@ -3251,7 +3251,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="505" on_conflict="replace"							
+		<card   index="505"							
 			title="gwint_name_holger_blackhand" name="holger_blackhand"
 			description="gwint_desc_holger_blackhand"
 			power="5"
@@ -3266,7 +3266,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="506" on_conflict="replace"							
+		<card   index="506"							
 			title="gwint_name_madman_lugos" name="madman_lugos"
 			description="gwint_desc_madman_lugos"
 			power="6"
@@ -3281,7 +3281,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="507" on_conflict="replace"							
+		<card   index="507"							
 			title="gwint_name_donar_an_hindar" name="donar_an_hindar"
 			description="gwint_desc_donar_an_hindar"
 			power="5"
@@ -3296,7 +3296,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="508" on_conflict="replace"							
+		<card   index="508"							
 			title="gwint_name_udalryk" name="udalryk"
 			description="gwint_desc_udalryk"
 			power="4"
@@ -3311,7 +3311,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="509" on_conflict="replace"							
+		<card   index="509"							
 			title="gwint_name_birna_bran" name="birna_bran"
 			description="gwint_desc_birna_bran"
 			power="2"
@@ -3326,7 +3326,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="510" on_conflict="replace"							
+		<card   index="510"							
 			title="gwint_name_blueboy_lugos" name="blueboy_lugos"
 			description="gwint_desc_blueboy_lugos"
 			power="5"
@@ -3341,7 +3341,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="511" on_conflict="replace"							
+		<card   index="511"							
 			title="gwint_name_svanrige" name="svanrige"
 			description="gwint_desc_svanrige"
 			power="6"
@@ -3356,7 +3356,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="512" on_conflict="replace"							
+		<card   index="512"							
 			title="gwint_name_olaf" name="olaf"
 			description="gwint_desc_olaf"
 			power="12"
@@ -3372,7 +3372,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="513" on_conflict="replace"							
+		<card   index="513"							
 			title="gwint_name_berserker" name="berserker"
 			description="gwint_desc_berserker"
 			power="4"
@@ -3390,7 +3390,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="514" on_conflict="replace"							
+		<card   index="514"							
 			title="gwint_name_berserker_bear" name="berserker_bear"
 			description="gwint_desc_berserker_bear"
 			item=""
@@ -3406,7 +3406,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="515" on_conflict="replace"							
+		<card   index="515"							
 			title="gwint_name_young_berserker" name="young_berserker"
 			description="gwint_desc_young_berserker"
 			power="2"
@@ -3424,7 +3424,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="516" on_conflict="replace"							
+		<card   index="516"							
 			title="gwint_name_young_berserker_bear" name="young_berserker_bear"
 			description="gwint_desc_young_berserker_bear"
 			item=""
@@ -3443,7 +3443,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="517" on_conflict="replace"							
+		<card   index="517"							
 			title="gwint_name_clan_an_craite_warrior" name="clan_an_craite_warrior"
 			description="gwint_desc_clan_an_craite_warrior"
 			power="6"
@@ -3461,7 +3461,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="518" on_conflict="replace"							
+		<card   index="518"							
 			title="gwint_name_clan_tordarroch_armorsmith" name="clan_tordarroch_armorsmith"
 			description="gwint_desc_clan_tordarroch_armorsmith"
 			power="4"
@@ -3476,7 +3476,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="519" on_conflict="replace"							
+		<card   index="519"							
 			title="gwint_name_clan_heymaey_skald" name="clan_heymaey_skald"
 			description="gwint_desc_clan_heymaey_skald"
 			power="4"
@@ -3491,7 +3491,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="520" on_conflict="replace"							
+		<card   index="520"							
 			title="gwint_name_light_drakkar" name="light_drakkar"
 			description="gwint_desc_light_drakkar"
 			power="4"
@@ -3509,7 +3509,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="521" on_conflict="replace"							
+		<card   index="521"							
 			title="gwint_name_war_drakkar" name="war_drakkar"
 			description="gwint_desc_war_drakkar"
 			power="6"
@@ -3527,7 +3527,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="522" on_conflict="replace"							
+		<card   index="522"							
 			title="gwint_name_clan_brokvar_archer" name="clan_brokvar_archer"
 			description="gwint_desc_clan_brokvar_archer"
 			power="6"
@@ -3542,7 +3542,7 @@
 			</effect_flags>
 		</card>
 
-		<card   index="523" on_conflict="replace"							
+		<card   index="523"							
 			title="gwint_name_clan_drummond_shieldmaiden" name="clan_drummond_shieldmaiden"
 			description="gwint_desc_clan_drummond_shieldmaiden"
 			power="4"
@@ -3562,7 +3562,7 @@
 			</summonFlags>
 		</card>
 
-		<card   index="524" on_conflict="replace"							
+		<card   index="524"							
 			title="gwint_name_clan_dimun_pirate" name="clan_dimun_pirate"
 			description="gwint_desc_clan_dimun_pirate"
 			power="6"
@@ -3577,7 +3577,7 @@
 			</effect_flags>
 		</card>
 		
-		<card   index="525" on_conflict="replace"							
+		<card   index="525"							
 			title="gwint_name_cock" name="cock"
 			description="gwint_desc_cock"
 			power="0"
@@ -3595,7 +3595,7 @@
 			</summonFlags>
 		</card>
 		
-		<card   index="526" on_conflict="replace"							
+		<card   index="526"							
 			title="gwint_name_clan_drummond_shieldmaiden" name="clan_drummond_shieldmaiden2"
 			description="gwint_desc_clan_drummond_shieldmaiden"
 			power="4"
@@ -3615,7 +3615,7 @@
 			</summonFlags>
 		</card>		
 		
-		<card   index="527" on_conflict="replace"							
+		<card   index="527"							
 			title="gwint_name_clan_drummond_shieldmaiden" name="clan_drummond_shieldmaiden3"
 			description="gwint_desc_clan_drummond_shieldmaiden"
 			power="4"

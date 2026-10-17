@@ -1,0 +1,1985 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<redxml>
+<definitions>
+<items>
+	<!--The Wild Hunt-->
+	<item
+		name							="Wild Hunt"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Horse Whistler-->
+	<item
+		name							="Horse vol 1"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Gnomish Prankings-->
+	<item
+		name							="Horse vol 2"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--How to Avoid Colossal Vessels-->
+	<item
+		name							="Boat vol 1"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Opposition in Nilfgaard-->
+	<item
+		name							="Boat vol 2"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Do It Yourself-->
+	<item
+		name							="Gear improvement"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Care for Your Sword, Soldier!-->
+	<item
+		name							="Weapon maintenance"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Prayers to the Eternal Fire-->
+	<item
+		name							="Armor maintenance"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Naransen, son of Gunnestad-->
+	<item
+		name							="Nilfgard arms and tactics"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Little Peasant Who Confounded His Lord-->
+	<item
+		name							="Norther Kingdoms arms and tactics"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Ways and Manners of Skellige Folk-->
+	<item
+		name							="Skelige arms and tactics"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Ballads and Hymns-->
+	<item
+		name							="Theatre Glossary vol 1"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Slaughter of Cintra-->
+	<item
+		name							="Theatre Glossary vol 2"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Chronicles of Redania-->
+	<item
+		name							="Jacob of Varazze Chronicles"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Collected Verse of Gonzal de Verceo-->
+	<item
+		name							="Poems of Gonzal de Verceo"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Necronomicon-->
+	<item
+		name							="Necronomicon"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Emhyr var Emreis: A Biography-->
+	<item
+		name							="lore_nilfgaardian_royal_dynasty"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--His Imperial Majesty, Emhyr var Emreis-->
+	<item
+		name							="lore_nilfgaardian_empire"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Lodge of Sorceresses-->
+	<item
+		name							="lore_lodge_of_sorceresses"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Nilfgaard Wars, or a History of Our Time-->
+	<item
+		name							="lore_third_war_with_nilfgaard"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Pearls of the North - Novigrad-->
+	<item
+		name							="lore_novigrad"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Skellige: Its History and Geography-->
+	<item
+		name							="lore_skellige_island"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Heroes of Skellige: Sove-->
+	<item
+		name							="lore_skellige_heroes_sove"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Heroes of Skellige: Tyr-->
+	<item
+		name							="lore_skellige_heroes_tyr"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Heroes of Skellige: Otkell-->
+	<item
+		name							="lore_skellige_heroes_otkell"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Heroes of Skellige: Modolf-->
+	<item
+		name							="lore_skellige_heroes_modolf"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Heroes of Skellige: Broddr-->
+	<item
+		name							="lore_skellige_heroes_broddr"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Heroes of Skellige: Grymmdjarr-->
+	<item
+		name							="lore_skellige_heroes_grymmdjarr"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Pearls of the North - Oxenfurt-->
+	<item
+		name							="lore_oxenfurt"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Lands of the North: Velen-->
+	<item
+		name							="lore_velen"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--What shall become of Temeria?-->
+	<item
+		name							="lore_fate_of_temeria"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Diary of a Fire Swallower-->
+	<item
+		name							="lore_summit_of_loc_muinne"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Redania: A Power on the Rise-->
+	<item
+		name							="lore_redania"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Radovid V the Stern - The Hard Slog to Greatness-->
+	<item
+		name							="lore_radovids_rise_to_power"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Redanian Special Forces-->
+	<item
+		name							="lore_redanian_secret_service"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Kovir and Poviss-->
+	<item
+		name							="lore_kovir"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Introduction to Applied Magic-->
+	<item
+		name							="lore_basics_of_magic"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Holy Tome of the Eternal Fire-->
+	<item
+		name							="lore_principles_of_eternal_fire"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Beliefs of Skellige: Freya-->
+	<item
+		name							="lore_cult_of_freyia"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Beliefs of Skellige: Hemdall-->
+	<item
+		name							="lore_cult_of_hemdall"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Beliefs of Skellige: Druids-->
+	<item
+		name							="lore_druids"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Witchers: Not Quite the Devils You Thought-->
+	<item
+		name							="lore_witchers"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Monstrum, or a Portrayal of Witchers: Volume 1-->
+	<item
+		name							="lore_monstrum"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Wild Hunt-->
+	<item
+		name							="lore_wild_hunt"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--A Portrayal of the Elder Races-->
+	<item
+		name							="lore_non_humans"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Ithlinne's Prophecy-->
+	<item
+		name							="lore_prophecy_of_ithlinne"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Conjunction of the Spheres-->
+	<item
+		name							="lore_conjunction_of_spheres"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Travel Between Worlds-->
+	<item
+		name							="lore_theory_of_spheres"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Elder Blood-->
+	<item
+		name							="lore_elder_blood"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Aen Seidhe and the Aen Elle-->
+	<item
+		name							="lore_an_seidhe_and_aen_elle"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Royal Lineages of the North-->
+	<item
+		name							="lore_cirilla_of_cintra"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Elven Sages-->
+	<item
+		name							="lore_elven_sages"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Monumenta Elforum-->
+	<item
+		name							="lore_elven_ruins"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Lara Dorren and Cregennan of Lod-->
+	<item
+		name							="lore_elven_legends"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--A Sword for Witches-->
+	<item
+		name							="lore_witch_hunters"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Folk Magic and Superstitions Of Our Time-->
+	<item
+		name							="lore_oneiromancy"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Necromancy, the Forbidden Magic-->
+	<item
+		name							="lore_necromancy"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Pungent Passion: A Life in Tyromancy-->
+	<item
+		name							="lore_tyromancy"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Polymorphy-->
+	<item
+		name							="lore_polymorphism"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Between Worlds-->
+	<item
+		name							="lore_war_between_astrals"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Witcher Signs-->
+	<item
+		name							="lore_witcher_signs"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Last Wish-->
+	<item
+		name							="lore_last_wish"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Toussaint, a Duchy Out Of Tales of Fantasy and Wonder-->
+	<item
+		name							="lore_bells_of_beauclair"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Wonders of Zerrikania-->
+	<item
+		name							="lore_sands_of_zerrikania"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The White Frost-->
+	<item
+		name							="lore_study_on_white_cold"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--She Who Knows-->
+	<item
+		name							="lore_about_the_fourth_witch"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Brother Adalbert's bestiary-->
+	<item
+		name							="lore_brother_adalbert_bestiary"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Fridebjorg the Bloody-->
+	<item
+		name							="lw_sk25_blood_countess_note"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Tales and Legends About Humans-->
+	<item
+		name							="q210_avallach_lover_notes"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Natural Obscurity of Curses-->
+	<item
+		name							="q103_curse_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Ladies of the Wood-->
+	<item
+		name							="q105_book_about_witches"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Poisoned Source-->
+	<item
+		name							="q201_poisoned_source"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Tales of the Wild Hunt-->
+	<item
+		name							="q201_wild_hunt_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Ballads-->
+	<item
+		name							="q304_dandelion_ballad"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Wars of the North: Myths, Lies and Half-Truths-->
+	<item
+		name							="q403_treaty"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Elemental Empires-->
+	<item
+		name							="sq202_book_1"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Mystery of Mysteries-->
+	<item
+		name							="sq202_book_2"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Tristianna and Isador-->
+	<item
+		name							="mq2049_book_1"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Religion and Life-->
+	<item
+		name							="mq2049_book_2"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Curious Cases of Virtuous Vegga-->
+	<item
+		name							="mq2049_book_3"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Cult of Freya-->
+	<item
+		name							="mq2049_book_4"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Change your life! A Handbook-->
+	<item
+		name							="mq2049_book_5"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--My Manifesto - The Life of Jacques de Aldersberg-->
+	<item
+		name							="mq3027_my_manifest"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Moribundia: The Vampire's Last Likeness-->
+	<item
+		name							="mq3027_fluff_book_1"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Tyromancy, or the Noble Art of Cheese Divination-->
+	<item
+		name							="mq3027_fluff_book_2"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Merry Adventures of Muriel the Lovely Harlot, Illustrated Edition-->
+	<item
+		name							="mq3027_fluff_book_3"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Treatment of Furuncles Through Cauterization: A Study-->
+	<item
+		name							="mq3027_fluff_book_4"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Monstrum, or a Portrayal of Witchers: Volume 2-->
+	<item
+		name							="mq4006_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Gottfried and the Chessboard Knight-->
+	<item
+		name							="q701_godfryd_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Noble Alondra-->
+	<item
+		name							="q701_rydygier_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--How Luis Alberni Became Golyat-->
+	<item
+		name							="q701_goliath_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The History of Corvo Bianco-->
+	<item
+		name							="q701_corvo_bianco_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--On the Slaying of Bloodslurpers-->
+	<item
+		name							="q703_killing_vampires"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The History of Est Est-->
+	<item
+		name							="q703_history_of_est_est"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--A Short History of Pomino-->
+	<item
+		name							="q703_history_of_pomino"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--My Manifesto - The Life of Jacques de Aldersberg-->
+	<item
+		name							="sq701_my_manifest"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Rules and Stipulations of Banking: Volume 15-->
+	<item
+		name							="mq7011_procedures_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Lives of Famous Bankers: Amadeus Cianfanelli-->
+	<item
+		name							="mq7011_bank_book_filler_01"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--On Hunting Basilisks: A Compendium-->
+	<item
+		name							="lore_basilisk_hunts"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Civil War in Toussaint-->
+	<item
+		name							="lore_toussaint_civil_war"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Noble Houses of Toussaint: Volume LVII-->
+	<item
+		name							="lore_toussaint_nobles"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Last Basilisk of its Kind: A Study in Ecology, by Borhis di Salvaress-->
+	<item
+		name							="lore_toussaint_ecology"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Gwent: A History-->
+	<item
+		name							="lore_gwent_history"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--History of the Fortress of Dun Tynne, as Chronicled by Le Papillon-->
+	<item
+		name							="lore_dun_tynne_legend"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Guide to the Vineyards of Toussaint, Vol. I: The Sansretour Valley-->
+	<item
+		name							="lore_vineyards_guide_part_i"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Guide to the Vineyards of Toussaint, Volume II: the Blessure Valley-->
+	<item
+		name							="lore_vineyards_guide_part_ii"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Tenebrous Wilderness of Caed Myrkvid-->
+	<item
+		name							="lore_caed_myrkvid_guide"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Curious Customs of the Toussaintois (excerpt)-->
+	<item
+		name							="lore_knights_errant"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Master Faramond's Thoughts on Elven Architecture-->
+	<item
+		name							="lore_faramond_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--A Code Duello-->
+	<item
+		name							="fightclub_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Fall of Hubert Balaste-->
+	<item
+		name							="balaste_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Ducal Chronicle, 1st Edition-->
+	<item
+		name							="item_book_lore_royal_chronicle_1"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--The Ducal Chronicle, 2nd Amended Edition-->
+	<item
+		name							="item_book_lore_royal_chronicle_2"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Biography of the Vampire Regis, From the Quill of Dandelion-->
+	<item
+		name							="q702_regis_biography"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Battery-Cage vs. Free-Range Humans-->
+	<item
+		name							="q702_cage_breeding_humans"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Words of Wisdom on Beastly Curses-->
+	<item
+		name							="q702_monster_curses"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Human Husbandry and Care-->
+	<item
+		name							="q702_breeding_humans"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Tales and Fables-->
+	<item
+		name							="mq7004_storybook"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Liber Ivonis-->
+	<item
+		name							="mq7004_note_01"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Witcher Mutations: An Introduction to Research-->
+	<item
+		name							="mq7023_fluff_book_mutations"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	<!--Fundaments of Field Surgery-->
+	<!--
+	<item
+		name							="q602_basics_of_medicine"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	-->
+	<item
+		name							="q602_basics_of_medicine"
+		on_conflict						="replace"
+		category						="misc"
+		price							="1"
+		stackable						="100"
+		localisation_key_name			="item_name_q602_basics_of_medicine"
+		localisation_key_description	="item_desc_book"
+		icon_path						="icons/inventory/quests/mq2049_book_2.png"
+	>
+		<tags>							ReadableItem, mod_book, bookLore
+		</tags>
+		<recycling_parts>				<parts count="1">Book</parts>
+		</recycling_parts>
+	</item>
+	<!--Famous Redanian Dynasties-->
+	<!--
+	<item
+		name							="q602_dynasties"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	-->
+	<item
+		name							="q602_dynasties"
+		on_conflict						="replace"
+		category						="misc"
+		price							="1"
+		stackable						="100"
+		localisation_key_name			="item_name_lore_redania_families"
+		localisation_key_description	="item_desc_lore_redania_families"
+		icon_path						="icons/inventory/quests/dandelion_diary-64x64.png"
+	>
+		<tags>							ReadableItem, mod_book, bookLore
+		</tags>
+		<recycling_parts>				<parts count="1">Book</parts>
+		</recycling_parts>
+	</item>
+	<!--Blood Pacts, or On Foreign Presences-->
+	<!--
+	<item
+		name							="q604_demon_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	-->
+	<item
+		name							="q604_demon_book"
+		on_conflict						="replace"
+		category						="misc"
+		price							="1"
+		stackable						="100"
+		localisation_key_name			="item_name_q604_demon_book"
+		localisation_key_description	="item_desc_quest_item"
+		icon_path						="icons/inventory/books/book_1.png"
+	>
+		<tags>							Quest, ReadableItem, mod_book, QuestEP1, bookLore
+		</tags>
+		<recycling_parts>				<parts count="1">Book</parts>
+		</recycling_parts>
+	</item>
+	<!--Between Worlds-->
+	<!--
+	<item
+		name							="q604_genie_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	-->
+	<item
+		name							="q604_genie_book"
+		on_conflict						="replace"
+		category						="misc"
+		price							="1"
+		stackable						="100"
+		localisation_key_name			="item_name_q604_genie_book"
+		localisation_key_description	="item_desc_quest_item"
+		icon_path						="icons/inventory/books/book_3.png"
+	>
+		<tags>							Quest, ReadableItem, mod_book, QuestEP1, bookLore
+		</tags>
+		<recycling_parts>				<parts count="1">Book</parts>
+		</recycling_parts>
+	</item>
+	<!--The Spirit from the Steppe-->
+	<!--
+	<item
+		name							="q604_worn_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	-->
+	<item
+		name							="q604_worn_book"
+		on_conflict						="replace"
+		category						="misc"
+		price							="1"
+		stackable						="100"
+		localisation_key_name			="item_name_q604_worn_book"
+		localisation_key_description	="item_desc_quest_item"
+		icon_path						="icons/inventory/books/book_1.png"
+	>
+		<tags>							ReadableItem, mod_book, Quest, q604_Mem_Gazebo, QuestEP1, bookLore
+		</tags>
+		<recycling_parts>				<parts count="1">Book</parts>
+		</recycling_parts>
+	</item>
+	<!--The Tale of Barrengarth-->
+	<!--
+	<item
+		name							="ep1_poi_07_note"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	-->
+	<item
+		name							="ep1_poi_07_note"
+		on_conflict						="replace"
+		category						="misc"
+		price							="1"
+		stackable						="100"
+		localisation_key_name			="item_name_ep1_poi_07_note"
+		localisation_key_description	="item_desc_book"
+		icon_path						="icons/inventory/books/book_2.png"
+	>
+		<tags>							ReadableItem, bookLore
+		</tags>
+		<recycling_parts>				<parts count="1">Ashes</parts>
+		</recycling_parts>
+	</item>
+	<!--Gilian Alboco's Lesser Key-->
+	<!--
+	<item
+		name							="q605_black_magic_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookLore
+		</tags>
+	</item>
+	-->
+	<item
+		name							="q605_black_magic_book"
+		on_conflict						="replace"
+		category						="misc"
+		price							="1"
+		stackable						="100"
+		localisation_key_name			="item_name_q605_black_magic_book"
+		localisation_key_description	="item_desc_book"
+		icon_path						="icons/inventory/books/book_1.png"
+	>
+		<tags>							ReadableItem, bookLore
+		</tags>
+		<recycling_parts>				<parts count="1">Ashes</parts>
+		</recycling_parts>
+	</item>
+	<!--Fauna of the Northern Realms, Volume 1-->
+	<item
+		name							="Beasts vol 1"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Fauna of the Northern Realms, Volume 2-->
+	<item
+		name							="Beasts vol 2"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--In Beast's Clothing-->
+	<item
+		name							="Cursed Monsters vol 1"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--The Bear Legend-->
+	<item
+		name							="Cursed Monsters vol 2"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--A Few Remarks on Basilisks and Cockatrices-->
+	<item
+		name							="Draconides vol 1"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Death From Above-->
+	<item
+		name							="Draconides vol 2"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Journey to the End of the World-->
+	<item
+		name							="Hybrid Monsters vol 1"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Heraldic Animals-->
+	<item
+		name							="Hybrid Monsters vol 2"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Wondrous World of Insectoids-->
+	<item
+		name							="Insectoids vol 1"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--The Illustrated Atlas of Insectoids-->
+	<item
+		name							="Insectoids vol 2"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Golem, or Man's Most Faithful Servant-->
+	<item
+		name							="Magical Monsters vol 1"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Of Fire and Stone-->
+	<item
+		name							="Magical Monsters vol 2"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Ghouls and Alghouls-->
+	<item
+		name							="Necrophage vol 1"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Of Water and Fog-->
+	<item
+		name							="Necrophage vol 2"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Beasts of the Tukaj Foothills-->
+	<item
+		name							="Relict Monsters vol 1"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--The Heart of the Wilds-->
+	<item
+		name							="Relict Monsters vol 2"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Of Sweat and Blood-->
+	<item
+		name							="Specters vol 1"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Behind the Great Veil-->
+	<item
+		name							="Specters vol 2"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--The World Underground-->
+	<item
+		name							="Ogres vol 1"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--An Ancient Ballad-->
+	<item
+		name							="Ogres vol 2"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--My Evening with a Vampire-->
+	<item
+		name							="Vampires vol 1"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Katakans: A Monograph-->
+	<item
+		name							="Vampires vol 2"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Journal of Research into Archespores-->
+	<item
+		name							="bestiary_archespore_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--The Wondrous World of Insectoids: A Supplement-->
+	<item
+		name							="bestiary_scolopendromorph_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--The Adventures of Spikey and a Wight Called Franconi-->
+	<item
+		name							="bestiary_wight_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Van Grott’s Amazing Anti-Fleder Strategem-->
+	<item
+		name							="bestiary_fleder_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Me, My Panther and I, by Abigail Lette-->
+	<item
+		name							="bestiary_panther_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Kikimores: Truths and Myths about the Insidious Insectoids-->
+	<item
+		name							="bestiary_kikimore_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Slyzards Through the Ages-->
+	<item
+		name							="bestiary_dracolizard_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--The So-Called Giant Centipedes, or My Only Comfort in Exile-->
+	<item
+		name							="mq7023_fluff_book_scolopendromorphs"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Natural Born Killers: A Study of Garkains-->
+	<item
+		name							="bestiary_garkain_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Alps - Bruxae's Dangerous Cousins-->
+	<item
+		name							="bestiary_alp_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Forgotten Species: The Protofleder-->
+	<item
+		name							="bestiary_protofleder_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--On Sound Waves: Bats and Shaelmaars-->
+	<item
+		name							="bestiary_sharley_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Hellhounds - Harbingers of the End-->
+	<item
+		name							="bestiary_barghest_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Ladies of the Night-->
+	<item
+		name							="bestiary_bruxa_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Monster Encounters of the Third Kind-->
+	<item
+		name							="bestiary_spriggan_book"
+		on_conflict						="extend"
+	>
+		<tags>							bookBestiary
+		</tags>
+	</item>
+	<!--Note-->
+	<item
+		name							="poi_bandit_camp_3_note"
+		on_conflict						="extend"
+	>
+		<tags>							-NoticeBoardNote
+		</tags>
+	</item>
+	<!--Contract: Loosey this Goosey!-->
+	<item
+		name							="q704_ft_goose_contract"
+		on_conflict						="extend"
+	>
+		<tags>							NoticeBoardNote
+		</tags>
+	</item>
+	<!--Contract: The Monster of Tufo-->
+	<item
+		name							="mh701_contract"
+		on_conflict						="extend"
+	>
+		<tags>							NoticeBoardNote
+		</tags>
+	</item>
+	<!--Contract: Quarrelling at the Cemetery-->
+	<item
+		name							="mq7001_notice"
+		on_conflict						="extend"
+	>
+		<tags>							NoticeBoardNote
+		</tags>
+	</item>
+	<!--Needed: Master Magicker!-->
+	<item
+		name							="mq7004_notice"
+		on_conflict						="extend"
+	>
+		<tags>							NoticeBoardNote
+		</tags>
+	</item>
+	<!--Test Yourself with the Trials of the Virtues!-->
+	<item
+		name							="mq7006_notice"
+		on_conflict						="extend"
+	>
+		<tags>							NoticeBoardNote
+		</tags>
+	</item>
+	<!--Contract: Mysterious Plummeting Cattle-->
+	<item
+		name							="mq7010_quarry_contract"
+		on_conflict						="extend"
+	>
+		<tags>							NoticeBoardNote
+		</tags>
+	</item>
+	<!--Wanted: Discreet Specialist-->
+	<item
+		name							="mq7015_contract"
+		on_conflict						="extend"
+	>
+		<tags>							NoticeBoardNote
+		</tags>
+	</item>
+	<!--Contract for a Witcher/Witchers: Caravan Escort-->
+	<item
+		name							="mq7018_contract"
+		on_conflict						="extend"
+	>
+		<tags>							NoticeBoardNote
+		</tags>
+	</item>
+	<!--Armed Escort Wanted!-->
+	<item
+		name							="mq7021_left_behind_contract"
+		on_conflict						="extend"
+	>
+		<tags>							NoticeBoardNote
+		</tags>
+	</item>
+	<!--Wanted: The White Wolf-->
+	<item
+		name							="sq703_contract"
+		on_conflict						="extend"
+	>
+		<tags>							NoticeBoardNote
+		</tags>
+	</item>
+	<!--Fisticuffs!-->
+	<item
+		name							="ff701_notice"
+		on_conflict						="extend"
+	>
+		<tags>							NoticeBoardNote
+		</tags>
+	</item>
+	<!--The Great Beauclair Gwent Tournament-->
+	<item
+		name							="cg700_tournament"
+		on_conflict						="extend"
+	>
+		<tags>							NoticeBoardNote
+		</tags>
+	</item>
+	<!--Contract: Grandmaster Armorer-->
+	<item
+		name							="th701_contract"
+		on_conflict						="extend"
+	>
+		<tags>							NoticeBoardNote
+		</tags>
+	</item>
+	<!--To Geralt of Rivia-->
+	<item
+		name							="mq7023_contract"
+		on_conflict						="extend"
+	>
+		<tags>							NoticeBoardNote
+		</tags>
+	</item>
+	<!--Announcement from the Office of Internal Revenue of the Duchy of Toussaint-->
+	<item
+		name							="wine_wars_belgard_notice"
+		on_conflict						="extend"
+	>
+		<tags>							NoticeBoardNote
+		</tags>
+	</item>
+	<!--Appeal to Sir Geralt of Rivia, the bridge his Crest-->
+	<item
+		name							="q701_nml_notice"
+		on_conflict						="extend"
+	>
+		<tags>							NoticeBoardNote
+		</tags>
+	</item>
+	<!--Painting of Hierarch Hemmelfart-->
+	<item
+		name							="q305_painting_of_hemmelfart"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Jean-Louis Ludovic's map-->
+	<item
+		name							="mq7020_map"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Aretuza's Tower at Sundown-->
+	<item
+		name							="mq7024_gen_painting_landscape_a"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Ruins of an Old Fort-->
+	<item
+		name							="mq7024_gen_painting_landscape_b"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Harvest Time in White Orchard-->
+	<item
+		name							="mq7024_gen_painting_landscape_c"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Herbalist's Hut-->
+	<item
+		name							="mq7024_gen_painting_landscape_d"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Van Rogh (Self-Portrait)-->
+	<item
+		name							="mq7024_gen_painting_portrait_a"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Garibaldi Hagan, 1224-->
+	<item
+		name							="mq7024_gen_painting_portrait_b"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Auburn Maiden on a Field of Black-->
+	<item
+		name							="mq7024_gen_painting_portrait_c"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--The conception of Eduard (reproduction)-->
+	<item
+		name							="mq7024_mandragora_painting_02"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Matilda's First Steps (reproduction)-->
+	<item
+		name							="mq7024_mandragora_painting_03"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--The Coming of Ludovic (reproduction)-->
+	<item
+		name							="mq7024_mandragora_painting_04"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--The Beauclair Palace-->
+	<item
+		name							="mq7024_palace_painting"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--The Battle of Anghiari, 1206 (reproduction)-->
+	<item
+		name							="mq7024_painting_battlefield"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Ship Leaving Harbor, 1220 (reproduction)-->
+	<item
+		name							="mq7024_painting_harbour"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Spice Merchant, 1212 (reproduction)-->
+	<item
+		name							="mq7024_painting_merchantwithpearl"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Et in Kovir ego - N. Boussin (reproduction)-->
+	<item
+		name							="mq7024_painting_prologue_village"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Still Life - J. De Varvari, 1222 (reproduction)-->
+	<item
+		name							="mq7024_painting_stilllife"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Knight Returning from his Quest-->
+	<item
+		name							="mq7024_painting_knight_on_horse"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Cirilla Fiona Elen Riannon, Queen of Cintra-->
+	<item
+		name							="mq7024_painting_ciri_portrait"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Emhyr var Emreis, Emperor of Nilfgaard-->
+	<item
+		name							="mq7024_painting_emhyr_portrait"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Julian Alfred Pankratz, Viscount de Lettenhove-->
+	<item
+		name							="mq7024_painting_novigrad_dandelion"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Ballista diagrams-->
+	<item
+		name							="poi_bar_a_09_plans"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Drawing of the Beast of Toussaint-->
+	<item
+		name							="q701_beast_picture_01"
+		on_conflict						="extend"
+	>
+		<tags>							-ReadableItem, GlossaryPainting
+		</tags>
+	</item>
+	<!--Drawing of the Beast of Toussaint-->
+	<item
+		name							="q701_beast_picture_02"
+		on_conflict						="extend"
+	>
+		<tags>							-ReadableItem, GlossaryPainting
+		</tags>
+	</item>
+	<!--Drawing of the Beast of Toussaint-->
+	<item
+		name							="q701_beast_picture_03"
+		on_conflict						="extend"
+	>
+		<tags>							-ReadableItem, GlossaryPainting
+		</tags>
+	</item>
+	<!--Contract on a witcher-->
+	<item
+		name							="q703_geralt_wanted_note"
+		on_conflict						="extend"
+	>
+		<tags>							-ReadableItem, GlossaryPainting
+		</tags>
+	</item>
+	<!--Sketch of the Heart of Toussaint-->
+	<item
+		name							="q703_hos_sketch"
+		on_conflict						="extend"
+	>
+		<tags>							-ReadableItem, GlossaryPainting
+		</tags>
+	</item>
+	<!--Prison poster-->
+	<item
+		name							="q705_pinup_poster"
+		on_conflict						="extend"
+	>
+		<tags>							-ReadableItem, GlossaryPainting
+		</tags>
+	</item>
+	<!--Portrait of Geralt-->
+	<item
+		name							="mq7009_painting_pose1"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Portrait of Geralt-->
+	<item
+		name							="mq7009_painting_pose1_grif"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Portrait of Geralt-->
+	<item
+		name							="mq7009_painting_pose2"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Portrait of Geralt-->
+	<item
+		name							="mq7009_painting_pose2_grif"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Portrait of Geralt-->
+	<item
+		name							="mq7009_painting_pose2_ravix"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Portrait of Geralt-->
+	<item
+		name							="mq7009_painting_pose2_grif_ravix"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Portrait of Geralt-->
+	<item
+		name							="mq7009_painting_pose3"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Portrait of Geralt-->
+	<item
+		name							="mq7009_painting_pose3_grif"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Count Beledal's map-->
+	<item
+		name							="sq703_map"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Count Beledal's map-->
+	<item
+		name							="sq703_map_alternative"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--The White Wolf, by Count Beledal-->
+	<item
+		name							="sq703_safari_picture"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Old map of Toussaint-->
+	<item
+		name							="mq7023_map"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	<!--Thank you card-->
+	<item
+		name							="mq1058_drawing"
+		on_conflict						="extend"
+	>
+		<tags>							-ReadableItem, GlossaryPainting
+		</tags>
+	</item>
+	<!--Starry Night Over the Pontar-->
+	<!--
+	<item
+		name							="q603_auctioned_painting"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	-->
+	<item
+		name							="q603_auctioned_painting"
+		on_conflict						="replace"
+		category						="misc"
+		price							="150"
+		stackable						="1"
+		localisation_key_name			="item_name_q603_auctioned_painting"
+		localisation_key_description	="item_desc_q603_auctioned_painting"
+		icon_path						="icons/inventory/quests/q603_pontar_painting_64x64.png"
+	>
+		<tags>							NotTransferableToNGP, Painting, mq7024_picture, GlossaryPainting
+		</tags>
+		<recycling_parts>				<parts count="1">Ashes</parts>
+		</recycling_parts>
+	</item>
+	<!--Painting of Iris holding a violet rose-->
+	<!--
+	<item
+		name							="q604_rose_painting"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	-->
+	<item
+		name							="q604_rose_painting"
+		on_conflict						="replace"
+		category						="misc"
+		price							="1"
+		stackable						="100"
+		localisation_key_name			="item_name_q604_rose_painting"
+		localisation_key_description	="item_desc_quest_item"
+		icon_path						="icons/inventory/quests/q604_rose_painting_64x64.png"
+	>
+		<tags>							Quest, mod_book, Painting, QuestEP1, GlossaryPainting
+		</tags>
+		<recycling_parts>				<parts count="1">Book</parts>
+		</recycling_parts>
+	</item>
+	<!--Portrait of Iris and Olgierd-->
+	<!--
+	<item
+		name							="q604_small_painting"
+		on_conflict						="extend"
+	>
+		<tags>							GlossaryPainting
+		</tags>
+	</item>
+	-->
+	<item
+		name							="q604_small_painting"
+		on_conflict						="replace"
+		category						="misc"
+		price							="1"
+		stackable						="100"
+		localisation_key_name			="item_name_q604_small_painting"
+		localisation_key_description	="item_desc_quest_item"
+		icon_path						="icons/inventory/quests/q604_olgierd_with_iris_painting_64x64.png"
+	>
+		<tags>							Quest, mod_junk, Painting, QuestEP1, mq7024_picture, GlossaryPainting
+		</tags>
+		<recycling_parts>				<parts count="1">Ashes</parts>
+		</recycling_parts>
+	</item>
+</items>
+</definitions>
+</redxml>

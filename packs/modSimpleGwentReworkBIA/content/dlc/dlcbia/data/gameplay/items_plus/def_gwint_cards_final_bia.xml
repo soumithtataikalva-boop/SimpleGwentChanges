@@ -1146,7 +1146,7 @@
 			</effect_flags>
 		</card>
 
-		<card index="177" title="gwint_name_ballista_officer" name="ballista_officer" description="gwint_desc_ballista_officer" item="gwint_card_ballista_officer" power="3" picture="nor_ballista_officer" faction_index="F_NEUTRAL" on_conflict="replace">
+		<card index="177" title="gwint_name_ballista_officer" name="ballista_officer" description="gwint_desc_ballista_officer" item="gwint_card_ballista_officer" power="3" picture="nor_ballista_officer" faction_index="F_NORTHERN_KINGDOM" on_conflict="replace">
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_SIEGE" />

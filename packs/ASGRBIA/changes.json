@@ -1,0 +1,2526 @@
+[
+  {
+    "index": 7,
+    "name": "geralt",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_SUMMON_CLONES"
+          }
+        ]
+      },
+      "power": {
+        "original": "15",
+        "combined": "14"
+      },
+      "summonFlags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "roach"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 8,
+    "name": "vesemir",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "6",
+        "combined": "8"
+      }
+    }
+  },
+  {
+    "index": 10,
+    "name": "ciri",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "type_flags": {
+        "original": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_HERO"
+          },
+          {
+            "name": "TYPE_MELEE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_HERO"
+          },
+          {
+            "name": "TYPE_MELEE"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 11,
+    "name": "triss",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_RANGED_SCORCH"
+          }
+        ]
+      },
+      "type_flags": {
+        "original": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_HERO"
+          },
+          {
+            "name": "TYPE_MELEE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_HERO"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 13,
+    "name": "zoltan",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "5",
+        "combined": "6"
+      }
+    }
+  },
+  {
+    "index": 14,
+    "name": "emiel",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "dlcPicture": {
+        "original": "neu_emiel_dlc",
+        "combined": null
+      },
+      "dlcPictureFlag_name": {
+        "original": "dlc8",
+        "combined": null
+      },
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_SUICIDE_SUMMON"
+          }
+        ]
+      },
+      "summonFlags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "emiel_summoned"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 17,
+    "name": "olgierd",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_IMPROVE_NEIGHBOURS"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_SUICIDE_SUMMON"
+          }
+        ]
+      },
+      "summonFlags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "olgierd_summoned"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 18,
+    "name": "mrmirror",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "faction_index": {
+        "original": "F_NEUTRAL",
+        "combined": "F_NO_MANS_LAND"
+      },
+      "type_flags": {
+        "original": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_SIEGE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 19,
+    "name": "mrmirror_foglet",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "faction_index": {
+        "original": "F_NEUTRAL",
+        "combined": "F_NO_MANS_LAND"
+      },
+      "type_flags": {
+        "original": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ],
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_MELEE"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 26,
+    "name": "emiel_summoned",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "description": {
+        "original": "gwint_desc_geralt",
+        "combined": "gwint_desc_emiel"
+      },
+      "dlcPicture": {
+        "original": "neu_geralt_dlc",
+        "combined": null
+      },
+      "dlcPictureFlag_name": {
+        "original": "dlc8",
+        "combined": null
+      },
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_SUMMON_CLONES"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ]
+      },
+      "item": {
+        "original": "",
+        "combined": null
+      },
+      "name": {
+        "original": "geraltGOG",
+        "combined": "emiel_summoned"
+      },
+      "picture": {
+        "original": "neu_geralt",
+        "combined": "neu_emiel_dlc"
+      },
+      "power": {
+        "original": "15",
+        "combined": "12"
+      },
+      "summonFlags": {
+        "original": [
+          {
+            "name": "roach"
+          }
+        ],
+        "combined": null
+      },
+      "title": {
+        "original": "gwint_name_geralt",
+        "combined": "gwint_name_emiel"
+      },
+      "type_flags": {
+        "original": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_HERO"
+          },
+          {
+            "name": "TYPE_MELEE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_MELEE"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 27,
+    "name": "olgierd_summoned",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "description": {
+        "original": "gwint_desc_ciri",
+        "combined": "gwint_desc_olgierd"
+      },
+      "dlcPicture": {
+        "original": "neu_ciri_dlc",
+        "combined": null
+      },
+      "dlcPictureFlag_name": {
+        "original": "dlc8",
+        "combined": null
+      },
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_SUMMON_CLONES"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ]
+      },
+      "name": {
+        "original": "ciriGOG",
+        "combined": "olgierd_summoned"
+      },
+      "picture": {
+        "original": "neu_ciri",
+        "combined": "neu_olgierd"
+      },
+      "power": {
+        "original": "15",
+        "combined": "6"
+      },
+      "summonFlags": {
+        "original": [
+          {
+            "name": "roach"
+          }
+        ],
+        "combined": null
+      },
+      "title": {
+        "original": "gwint_name_ciri",
+        "combined": "gwint_name_olgierd"
+      },
+      "type_flags": {
+        "original": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_HERO"
+          },
+          {
+            "name": "TYPE_MELEE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_MELEE"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 100,
+    "name": "vernon",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_SUMMON_CLONES"
+          }
+        ]
+      },
+      "power": {
+        "original": "10",
+        "combined": "6"
+      },
+      "summonFlags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "ves"
+          }
+        ]
+      },
+      "type_flags": {
+        "original": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_HERO"
+          },
+          {
+            "name": "TYPE_MELEE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_MELEE"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 103,
+    "name": "philippa",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "10",
+        "combined": "8"
+      },
+      "type_flags": {
+        "original": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_RANGED"
+          },
+          {
+            "name": "TYPE_HERO"
+          }
+        ],
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 108,
+    "name": "yarpen",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "2",
+        "combined": "4"
+      }
+    }
+  },
+  {
+    "index": 112,
+    "name": "sile",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "5",
+        "combined": "6"
+      }
+    }
+  },
+  {
+    "index": 113,
+    "name": "sabrina",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "4",
+        "combined": "6"
+      }
+    }
+  },
+  {
+    "index": 114,
+    "name": "sheldon",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "type_flags": {
+        "original": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ],
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_MELEE"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 115,
+    "name": "dethmold",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "6",
+        "combined": "5"
+      }
+    }
+  },
+  {
+    "index": 125,
+    "name": "poor_infantry",
+    "source": "BIA",
+    "added": false,
+    "changes": {
+      "item": {
+        "original": "",
+        "combined": "gwint_card_poor_infantry"
+      }
+    }
+  },
+  {
+    "index": 126,
+    "name": "poor_infantry2",
+    "source": "BIA",
+    "added": false,
+    "changes": {
+      "item": {
+        "original": "",
+        "combined": "gwint_card_poor_infantry2"
+      },
+      "picture": {
+        "original": "nor_poor_infantry",
+        "combined": "nor_poor_infantry_1"
+      }
+    }
+  },
+  {
+    "index": 127,
+    "name": "poor_infantry3",
+    "source": "BIA",
+    "added": false,
+    "changes": {
+      "item": {
+        "original": "",
+        "combined": "gwint_card_poor_infantry3"
+      },
+      "picture": {
+        "original": "nor_poor_infantry",
+        "combined": "nor_poor_infantry_2"
+      }
+    }
+  },
+  {
+    "index": 131,
+    "name": "crinfrid2",
+    "source": "BIA",
+    "added": false,
+    "changes": {
+      "picture": {
+        "original": "nor_crinfrid",
+        "combined": "nor_crinfrid_1"
+      }
+    }
+  },
+  {
+    "index": 132,
+    "name": "crinfrid3",
+    "source": "BIA",
+    "added": false,
+    "changes": {
+      "picture": {
+        "original": "nor_crinfrid",
+        "combined": "nor_crinfrid_2"
+      }
+    }
+  },
+  {
+    "index": 135,
+    "name": "redanian",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_SAME_TYPE_MORALE"
+          }
+        ]
+      },
+      "power": {
+        "original": "1",
+        "combined": "2"
+      },
+      "summonFlags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "redanian"
+          },
+          {
+            "name": "redanian2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 136,
+    "name": "redanian2",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_SAME_TYPE_MORALE"
+          }
+        ]
+      },
+      "power": {
+        "original": "1",
+        "combined": "2"
+      },
+      "summonFlags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "redanian"
+          },
+          {
+            "name": "redanian2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 140,
+    "name": "catapult",
+    "source": "BIA",
+    "added": false,
+    "changes": {
+      "picture": {
+        "original": "nor_catapult_1",
+        "combined": "nor_catapult"
+      }
+    }
+  },
+  {
+    "index": 150,
+    "name": "kaedweni_siege",
+    "source": "BIA",
+    "added": false,
+    "changes": {
+      "item": {
+        "original": "",
+        "combined": "gwint_card_kaedweni_siege"
+      }
+    }
+  },
+  {
+    "index": 151,
+    "name": "kaedweni_siege2",
+    "source": "BIA",
+    "added": false,
+    "changes": {
+      "item": {
+        "original": "",
+        "combined": "gwint_card_kaedweni_siege2"
+      }
+    }
+  },
+  {
+    "index": 152,
+    "name": "kaedweni_siege3",
+    "source": "BIA",
+    "added": false,
+    "changes": {
+      "item": {
+        "original": "",
+        "combined": "gwint_card_kaedweni_siege3"
+      }
+    }
+  },
+  {
+    "index": 160,
+    "name": "blue_stripes",
+    "source": "BIA",
+    "added": false,
+    "changes": {
+      "item": {
+        "original": null,
+        "combined": "gwint_card_blue_stripes"
+      },
+      "summonFlags": {
+        "original": [
+          {
+            "name": "blue_stripes"
+          }
+        ],
+        "combined": [
+          {
+            "name": "blue_stripes"
+          },
+          {
+            "name": "blue_stripes2"
+          },
+          {
+            "name": "blue_stripes3"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 161,
+    "name": "blue_stripes2",
+    "source": "BIA",
+    "added": true,
+    "changes": {
+      "description": {
+        "original": null,
+        "combined": "gwint_desc_blue_stripes"
+      },
+      "effect_flags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "EFFECT_SAME_TYPE_MORALE"
+          }
+        ]
+      },
+      "faction_index": {
+        "original": null,
+        "combined": "F_NORTHERN_KINGDOM"
+      },
+      "index": {
+        "original": null,
+        "combined": "161"
+      },
+      "item": {
+        "original": null,
+        "combined": "gwint_card_blue_stripes2"
+      },
+      "name": {
+        "original": null,
+        "combined": "blue_stripes2"
+      },
+      "picture": {
+        "original": null,
+        "combined": "nor_blue_stripes_1"
+      },
+      "power": {
+        "original": null,
+        "combined": "4"
+      },
+      "summonFlags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "blue_stripes"
+          },
+          {
+            "name": "blue_stripes2"
+          },
+          {
+            "name": "blue_stripes3"
+          }
+        ]
+      },
+      "title": {
+        "original": null,
+        "combined": "gwint_name_blue_stripes"
+      },
+      "type_flags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_MELEE"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 162,
+    "name": "blue_stripes3",
+    "source": "BIA",
+    "added": true,
+    "changes": {
+      "description": {
+        "original": null,
+        "combined": "gwint_desc_blue_stripes"
+      },
+      "effect_flags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "EFFECT_SAME_TYPE_MORALE"
+          }
+        ]
+      },
+      "faction_index": {
+        "original": null,
+        "combined": "F_NORTHERN_KINGDOM"
+      },
+      "index": {
+        "original": null,
+        "combined": "162"
+      },
+      "item": {
+        "original": null,
+        "combined": "gwint_card_blue_stripes3"
+      },
+      "name": {
+        "original": null,
+        "combined": "blue_stripes3"
+      },
+      "picture": {
+        "original": null,
+        "combined": "nor_blue_stripes_2"
+      },
+      "power": {
+        "original": null,
+        "combined": "4"
+      },
+      "summonFlags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "blue_stripes"
+          },
+          {
+            "name": "blue_stripes2"
+          },
+          {
+            "name": "blue_stripes3"
+          }
+        ]
+      },
+      "title": {
+        "original": null,
+        "combined": "gwint_name_blue_stripes"
+      },
+      "type_flags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_MELEE"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 171,
+    "name": "siege_tower2",
+    "source": "BIA",
+    "added": true,
+    "changes": {
+      "description": {
+        "original": null,
+        "combined": "gwint_desc_siege_tower"
+      },
+      "effect_flags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ]
+      },
+      "faction_index": {
+        "original": null,
+        "combined": "F_NORTHERN_KINGDOM"
+      },
+      "index": {
+        "original": null,
+        "combined": "171"
+      },
+      "item": {
+        "original": null,
+        "combined": "gwint_card_siege_tower2"
+      },
+      "name": {
+        "original": null,
+        "combined": "siege_tower2"
+      },
+      "picture": {
+        "original": null,
+        "combined": "nor_siege_tower_1"
+      },
+      "power": {
+        "original": null,
+        "combined": "6"
+      },
+      "title": {
+        "original": null,
+        "combined": "gwint_name_siege_tower"
+      },
+      "type_flags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_SIEGE"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 175,
+    "name": "dun_banner_medic",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "5",
+        "combined": "3"
+      }
+    }
+  },
+  {
+    "index": 176,
+    "name": "witch_hunter",
+    "source": "BIA",
+    "added": true,
+    "changes": {
+      "description": {
+        "original": null,
+        "combined": "gwint_desc_witch_hunter"
+      },
+      "effect_flags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ]
+      },
+      "faction_index": {
+        "original": null,
+        "combined": "F_NORTHERN_KINGDOM"
+      },
+      "index": {
+        "original": null,
+        "combined": "176"
+      },
+      "item": {
+        "original": null,
+        "combined": "gwint_card_witch_hunter"
+      },
+      "name": {
+        "original": null,
+        "combined": "witch_hunter"
+      },
+      "picture": {
+        "original": null,
+        "combined": "nor_witch_hunters"
+      },
+      "power": {
+        "original": null,
+        "combined": "6"
+      },
+      "title": {
+        "original": null,
+        "combined": "gwint_name_witch_hunter"
+      },
+      "type_flags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_MELEE"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 177,
+    "name": "ballista_officer",
+    "source": "BIA",
+    "added": true,
+    "changes": {
+      "description": {
+        "original": null,
+        "combined": "gwint_desc_ballista_officer"
+      },
+      "effect_flags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "EFFECT_IMPROVE_NEIGHBOURS"
+          }
+        ]
+      },
+      "faction_index": {
+        "original": null,
+        "combined": "F_NEUTRAL"
+      },
+      "index": {
+        "original": null,
+        "combined": "177"
+      },
+      "item": {
+        "original": null,
+        "combined": "gwint_card_ballista_officer"
+      },
+      "name": {
+        "original": null,
+        "combined": "ballista_officer"
+      },
+      "picture": {
+        "original": null,
+        "combined": "nor_ballista_officer"
+      },
+      "power": {
+        "original": null,
+        "combined": "3"
+      },
+      "title": {
+        "original": null,
+        "combined": "gwint_name_ballista_officer"
+      },
+      "type_flags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_SIEGE"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 200,
+    "name": "letho",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "faction_index": {
+        "original": "F_NILFGAARD",
+        "combined": "F_NEUTRAL"
+      },
+      "power": {
+        "original": "10",
+        "combined": "12"
+      }
+    }
+  },
+  {
+    "index": 201,
+    "name": "menno",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "10",
+        "combined": "8"
+      }
+    }
+  },
+  {
+    "index": 202,
+    "name": "moorvran",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "10",
+        "combined": "8"
+      },
+      "type_flags": {
+        "original": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_HERO"
+          },
+          {
+            "name": "TYPE_SIEGE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_MELEE"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 203,
+    "name": "tibor",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "type_flags": {
+        "original": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_HERO"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ],
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_HERO"
+          },
+          {
+            "name": "TYPE_MELEE"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 205,
+    "name": "albrich",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_NURSE"
+          }
+        ]
+      },
+      "power": {
+        "original": "2",
+        "combined": "0"
+      }
+    }
+  },
+  {
+    "index": 206,
+    "name": "assire",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "6",
+        "combined": "5"
+      }
+    }
+  },
+  {
+    "index": 207,
+    "name": "cynthia",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_NURSE"
+          }
+        ]
+      },
+      "power": {
+        "original": "4",
+        "combined": "1"
+      }
+    }
+  },
+  {
+    "index": 209,
+    "name": "morteisen",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "3",
+        "combined": "4"
+      }
+    }
+  },
+  {
+    "index": 210,
+    "name": "rainfarn",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "4",
+        "combined": "5"
+      }
+    }
+  },
+  {
+    "index": 212,
+    "name": "rotten",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_IMPROVE_NEIGHBOURS"
+          }
+        ]
+      },
+      "power": {
+        "original": "3",
+        "combined": "2"
+      }
+    }
+  },
+  {
+    "index": 215,
+    "name": "sweers",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "2",
+        "combined": "4"
+      }
+    }
+  },
+  {
+    "index": 217,
+    "name": "vanhemar",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_NURSE"
+          }
+        ]
+      },
+      "power": {
+        "original": "4",
+        "combined": "2"
+      }
+    }
+  },
+  {
+    "index": 219,
+    "name": "vreemde",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "2",
+        "combined": "4"
+      }
+    }
+  },
+  {
+    "index": 221,
+    "name": "puttkammer",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_IMPROVE_NEIGHBOURS"
+          }
+        ]
+      },
+      "power": {
+        "original": "3",
+        "combined": "1"
+      }
+    }
+  },
+  {
+    "index": 230,
+    "name": "archer_support",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NURSE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ]
+      },
+      "power": {
+        "original": "1",
+        "combined": "7"
+      }
+    }
+  },
+  {
+    "index": 231,
+    "name": "archer_support2",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NURSE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ]
+      },
+      "power": {
+        "original": "1",
+        "combined": "7"
+      }
+    }
+  },
+  {
+    "index": 235,
+    "name": "black_archer",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_SAME_TYPE_MORALE"
+          }
+        ]
+      },
+      "power": {
+        "original": "10",
+        "combined": "5"
+      },
+      "summonFlags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "black_archer"
+          },
+          {
+            "name": "black_archer2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 236,
+    "name": "black_archer2",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_SAME_TYPE_MORALE"
+          }
+        ]
+      },
+      "power": {
+        "original": "10",
+        "combined": "5"
+      },
+      "summonFlags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "black_archer"
+          },
+          {
+            "name": "black_archer2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 246,
+    "name": "impera_brigade2",
+    "source": "BIA",
+    "added": false,
+    "changes": {
+      "picture": {
+        "original": "nil_impera_brigade",
+        "combined": "nil_impera_brigade_1"
+      }
+    }
+  },
+  {
+    "index": 247,
+    "name": "impera_brigade3",
+    "source": "BIA",
+    "added": false,
+    "changes": {
+      "picture": {
+        "original": "nil_impera_brigade",
+        "combined": "nil_impera_brigade_2"
+      }
+    }
+  },
+  {
+    "index": 248,
+    "name": "impera_brigade4",
+    "source": "BIA",
+    "added": false,
+    "changes": {
+      "picture": {
+        "original": "nil_impera_brigade",
+        "combined": "nil_impera_brigade_3"
+      }
+    }
+  },
+  {
+    "index": 250,
+    "name": "nausicaa",
+    "source": "BIA",
+    "added": false,
+    "changes": {
+      "picture": {
+        "original": "nil_nauzicaa_2",
+        "combined": "nil_nauzicaa"
+      }
+    }
+  },
+  {
+    "index": 251,
+    "name": "nausicaa2",
+    "source": "BIA",
+    "added": false,
+    "changes": {
+      "picture": {
+        "original": "nil_nauzicaa_2",
+        "combined": "nil_nauzicaa_1"
+      }
+    }
+  },
+  {
+    "index": 255,
+    "name": "combat_engineer",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_IMPROVE_NEIGHBOURS"
+          }
+        ]
+      },
+      "power": {
+        "original": "6",
+        "combined": "2"
+      }
+    }
+  },
+  {
+    "index": 265,
+    "name": "siege_support",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NURSE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_IMPROVE_NEIGHBOURS"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 300,
+    "name": "eithne",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_NURSE"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 301,
+    "name": "saskia",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "10",
+        "combined": "8"
+      },
+      "type_flags": {
+        "original": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_HERO"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ],
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 302,
+    "name": "isengrim",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_IMPROVE_NEIGHBOURS"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ]
+      },
+      "power": {
+        "original": "10",
+        "combined": "9"
+      }
+    }
+  },
+  {
+    "index": 303,
+    "name": "iorveth",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_IMPROVE_NEIGHBOURS"
+          }
+        ]
+      },
+      "power": {
+        "original": "10",
+        "combined": "7"
+      },
+      "type_flags": {
+        "original": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_HERO"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ],
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 306,
+    "name": "milva",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "10",
+        "combined": "7"
+      }
+    }
+  },
+  {
+    "index": 307,
+    "name": "ida",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "6",
+        "combined": "8"
+      }
+    }
+  },
+  {
+    "index": 309,
+    "name": "yaevinn",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "6",
+        "combined": "5"
+      }
+    }
+  },
+  {
+    "index": 310,
+    "name": "toruviel",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "2",
+        "combined": "4"
+      },
+      "type_flags": {
+        "original": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ],
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_MELEE"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 311,
+    "name": "riordain",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "1",
+        "combined": "3"
+      }
+    }
+  },
+  {
+    "index": 313,
+    "name": "barclay",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "type_flags": {
+        "original": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_MELEE"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ],
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_MELEE"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 325,
+    "name": "vrihedd_brigade",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "5",
+        "combined": "6"
+      }
+    }
+  },
+  {
+    "index": 326,
+    "name": "vrihedd_brigade2",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "5",
+        "combined": "6"
+      }
+    }
+  },
+  {
+    "index": 330,
+    "name": "dol_scout",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_SUMMON_CLONES"
+          }
+        ]
+      },
+      "power": {
+        "original": "6",
+        "combined": "5"
+      },
+      "summonFlags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "dol_scout"
+          },
+          {
+            "name": "dol_scout2"
+          },
+          {
+            "name": "dol_scout3"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 331,
+    "name": "dol_scout2",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_SUMMON_CLONES"
+          }
+        ]
+      },
+      "power": {
+        "original": "6",
+        "combined": "5"
+      },
+      "summonFlags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "dol_scout"
+          },
+          {
+            "name": "dol_scout2"
+          },
+          {
+            "name": "dol_scout3"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 332,
+    "name": "dol_scout3",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_SUMMON_CLONES"
+          }
+        ]
+      },
+      "power": {
+        "original": "6",
+        "combined": "5"
+      },
+      "summonFlags": {
+        "original": null,
+        "combined": [
+          {
+            "name": "dol_scout"
+          },
+          {
+            "name": "dol_scout2"
+          },
+          {
+            "name": "dol_scout3"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 335,
+    "name": "dwarf",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "3",
+        "combined": "4"
+      }
+    }
+  },
+  {
+    "index": 336,
+    "name": "dwarf2",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "3",
+        "combined": "4"
+      }
+    }
+  },
+  {
+    "index": 337,
+    "name": "dwarf3",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "3",
+        "combined": "4"
+      }
+    }
+  },
+  {
+    "index": 340,
+    "name": "mahakam",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_IMPROVE_NEIGHBOURS"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 341,
+    "name": "mahakam2",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_IMPROVE_NEIGHBOURS"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 342,
+    "name": "mahakam3",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_IMPROVE_NEIGHBOURS"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 343,
+    "name": "mahakam4",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_IMPROVE_NEIGHBOURS"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 344,
+    "name": "mahakam5",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_IMPROVE_NEIGHBOURS"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 350,
+    "name": "elf_skirmisher",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "2",
+        "combined": "3"
+      }
+    }
+  },
+  {
+    "index": 351,
+    "name": "elf_skirmisher2",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "2",
+        "combined": "3"
+      }
+    }
+  },
+  {
+    "index": 352,
+    "name": "elf_skirmisher3",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "2",
+        "combined": "3"
+      }
+    }
+  },
+  {
+    "index": 355,
+    "name": "vrihedd_cadet",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "4",
+        "combined": "2"
+      }
+    }
+  },
+  {
+    "index": 368,
+    "name": "schirru",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "8",
+        "combined": "7"
+      }
+    }
+  },
+  {
+    "index": 401,
+    "name": "kayran",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "8",
+        "combined": "7"
+      },
+      "type_flags": {
+        "original": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_HERO"
+          },
+          {
+            "name": "TYPE_MELEE"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ],
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_MELEE"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 402,
+    "name": "imlerith",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "10",
+        "combined": "13"
+      }
+    }
+  },
+  {
+    "index": 403,
+    "name": "leshen",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "10",
+        "combined": "7"
+      },
+      "type_flags": {
+        "original": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_HERO"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ],
+        "combined": [
+          {
+            "name": "TYPE_CREATURE"
+          },
+          {
+            "name": "TYPE_RANGED"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 413,
+    "name": "plague_maiden",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "5",
+        "combined": "4"
+      }
+    }
+  },
+  {
+    "index": 417,
+    "name": "werewolf",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "5",
+        "combined": "4"
+      }
+    }
+  },
+  {
+    "index": 423,
+    "name": "frightener",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "5",
+        "combined": "4"
+      }
+    }
+  },
+  {
+    "index": 425,
+    "name": "ice_giant",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "5",
+        "combined": "8"
+      }
+    }
+  },
+  {
+    "index": 433,
+    "name": "cockatrice",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "2",
+        "combined": "5"
+      }
+    }
+  },
+  {
+    "index": 435,
+    "name": "gargoyle",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "2",
+        "combined": "4"
+      }
+    }
+  },
+  {
+    "index": 440,
+    "name": "grave_hag",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "5",
+        "combined": "3"
+      }
+    }
+  },
+  {
+    "index": 445,
+    "name": "fogling",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "2",
+        "combined": "3"
+      }
+    }
+  },
+  {
+    "index": 447,
+    "name": "wyvern",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "2",
+        "combined": "5"
+      }
+    }
+  },
+  {
+    "index": 470,
+    "name": "ghoul",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "1",
+        "combined": "3"
+      }
+    }
+  },
+  {
+    "index": 471,
+    "name": "ghoul2",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "1",
+        "combined": "3"
+      }
+    }
+  },
+  {
+    "index": 472,
+    "name": "ghoul3",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "1",
+        "combined": "3"
+      }
+    }
+  },
+  {
+    "index": 500,
+    "name": "hemdal",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "11",
+        "combined": "17"
+      }
+    }
+  },
+  {
+    "index": 501,
+    "name": "hjalmar",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "effect_flags": {
+        "original": [
+          {
+            "name": "EFFECT_NONE"
+          }
+        ],
+        "combined": [
+          {
+            "name": "EFFECT_IMPROVE_NEIGHBOURS"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "index": 502,
+    "name": "cerys",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "10",
+        "combined": "7"
+      }
+    }
+  },
+  {
+    "index": 503,
+    "name": "ermion",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "8",
+        "combined": "7"
+      }
+    }
+  },
+  {
+    "index": 505,
+    "name": "holger_blackhand",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "4",
+        "combined": "5"
+      }
+    }
+  },
+  {
+    "index": 507,
+    "name": "donar_an_hindar",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "4",
+        "combined": "5"
+      }
+    }
+  },
+  {
+    "index": 510,
+    "name": "blueboy_lugos",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "6",
+        "combined": "5"
+      }
+    }
+  },
+  {
+    "index": 511,
+    "name": "svanrige",
+    "source": "Simple Gwent Rework",
+    "added": false,
+    "changes": {
+      "power": {
+        "original": "4",
+        "combined": "6"
+      }
+    }
+  }
+]

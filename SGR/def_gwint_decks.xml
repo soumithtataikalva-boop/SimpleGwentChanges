@@ -323,6 +323,7 @@
 					<card name="redanian" />
 					<card name="redanian2" />
 					<card name="gwint_card_siegfried" />
+					<card name="vernon" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -358,6 +359,7 @@
 					<card name="clear_sky" />
 					<card name="clear_sky" />
 					<card name="gwint_card_siegfried" />
+					<card name="vernon" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -402,6 +404,7 @@
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="yennefer" />
+					<card name="vernon" />
 				</deck>
 
 				<dynamicCards>
@@ -444,6 +447,7 @@
 					<card name="fog" />
 					<card name="yarpen" />
 					<card name="redanian2" />
+					<card name="esterad" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -478,6 +482,7 @@
 					<card name="frost" />
 					<card name="fog" />
 					<card name="clear_sky" />
+					<card name="esterad" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -516,6 +521,7 @@
 					<card name="dummy" />
 					<card name="natalis" />
 					<card name="yennefer" />
+					<card name="esterad" />
 				</deck>
 
 				<dynamicCards>
@@ -555,6 +561,7 @@
 					<card name="blue_stripes2" />
 					<card name="blue_stripes3" />
 					<card name="siege_tower" />
+					<card name="dijkstra" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -586,6 +593,7 @@
 					<card name="rain" />
 					<!-- difficulty 2 -->
 					<card name="scorch" />
+					<card name="dijkstra" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -621,6 +629,7 @@
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="natalis" />
+					<card name="dijkstra" />
 				</deck>
 
 				<dynamicCards>
@@ -883,6 +892,7 @@
 					<card name="impera_brigade3" />
 					<card name="albrich" />
 					<card name="vanhemar" />
+					<card name="yennefer" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -916,6 +926,7 @@
 					<card name="impera_brigade3" />
 					<card name="albrich" />
 					<card name="vanhemar" />
+					<card name="yennefer" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -951,6 +962,7 @@
 					<card name="impera_brigade3" />
 					<card name="vanhemar" />
 					<card name="albrich" />
+					<card name="yennefer" />
 				</deck>
 
 				<dynamicCards>
@@ -996,6 +1008,7 @@
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
 					<card name="vanhemar" />
+					<card name="menno" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1033,6 +1046,7 @@
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
 					<card name="cynthia" />
+					<card name="menno" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1073,6 +1087,7 @@
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
 					<card name="cynthia" />
+					<card name="menno" />
 				</deck>
 
 				<dynamicCards>
@@ -1115,6 +1130,7 @@
 					<card name="nausicaa" />
 					<card name="combat_engineer" />
 					<card name="cynthia" />
+					<card name="letho" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1147,6 +1163,7 @@
 					<card name="nausicaa" />
 					<card name="combat_engineer" />
 					<card name="cynthia" />
+					<card name="letho" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1182,6 +1199,7 @@
 					<card name="nausicaa" />
 					<card name="combat_engineer" />
 					<card name="cynthia" />
+					<card name="letho" />
 				</deck>
 
 				<dynamicCards>
@@ -1226,6 +1244,7 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
+					<card name="moorvran" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1263,6 +1282,7 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
+					<card name="moorvran" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1305,6 +1325,7 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
+					<card name="moorvran" />
 				</deck>
 
 				<dynamicCards>
@@ -1342,6 +1363,7 @@
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
 					<card name="cynthia" />
+					<card name="moorvran" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1372,6 +1394,7 @@
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
 					<card name="cynthia" />
+					<card name="moorvran" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1408,6 +1431,7 @@
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
 					<card name="cynthia" />
+					<card name="moorvran" />
 				</deck>
 
 				<dynamicCards>
@@ -1448,6 +1472,7 @@
 					<card name="mahakam2" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<card name="eithne" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1482,6 +1507,7 @@
 					<card name="mahakam2" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<card name="eithne" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1521,6 +1547,7 @@
 					<card name="mahakam2" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<card name="eithne" />
 				</deck>
 
 				<dynamicCards>
@@ -1562,6 +1589,7 @@
 					<card name="dol_archer" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<card name="triss" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1593,6 +1621,7 @@
 					<card name="dol_archer" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<card name="triss" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1629,6 +1658,7 @@
 					<card name="dol_archer" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<card name="triss" />
 				</deck>
 
 				<dynamicCards>
@@ -1673,6 +1703,7 @@
 					<card name="vrihedd_cadet" />
 					<card name="dol_archer" />
 					<card name="havcaaren_medic" />
+					<card name="geralt" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1709,6 +1740,7 @@
 					<card name="vrihedd_cadet" />
 					<card name="dol_archer" />
 					<card name="havcaaren_medic" />
+					<card name="geralt" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1752,6 +1784,7 @@
 					<card name="vrihedd_cadet" />
 					<card name="dol_archer" />
 					<card name="havcaaren_medic" />
+					<card name="geralt" />
 				</deck>
 
 				<dynamicCards>
@@ -1793,6 +1826,7 @@
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 					<card name="havcaaren_medic3" />
+					<card name="vesemir" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1823,6 +1857,7 @@
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 					<card name="havcaaren_medic3" />
+					<card name="vesemir" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1856,6 +1891,7 @@
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 					<card name="havcaaren_medic3" />
+					<card name="vesemir" />
 				</deck>
 
 				<dynamicCards>
@@ -1898,6 +1934,7 @@
 					<card name="elf_skirmisher" />
 					<card name="elf_skirmisher2" />
 					<card name="elf_skirmisher3" />
+					<card name="ciri" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1932,6 +1969,7 @@
 					<card name="elf_skirmisher" />
 					<card name="elf_skirmisher2" />
 					<card name="elf_skirmisher3" />
+					<card name="ciri" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1972,6 +2010,7 @@
 					<card name="elf_skirmisher" />
 					<card name="elf_skirmisher2" />
 					<card name="elf_skirmisher3" />
+					<card name="ciri" />
 				</deck>
 
 				<dynamicCards>
@@ -2011,6 +2050,7 @@
 					<card name="wyvern" />
 					<card name="arachas_behemoth" />
 					<card name="arachas" />
+					<card name="draug" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -2045,6 +2085,7 @@
 					<card name="wyvern" />
 					<card name="arachas_behemoth" />
 					<card name="arachas" />
+					<card name="draug" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -2086,6 +2127,7 @@
 					<card name="wyvern" />
 					<card name="arachas_behemoth" />
 					<card name="arachas" />
+					<card name="draug" />
 				</deck>
 
 				<dynamicCards>
@@ -2133,6 +2175,7 @@
 					<card name="ekkima" />
 					<card name="fleder" />
 					<card name="bruxa" />
+					<card name="katakan" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -2173,6 +2216,7 @@
 					<card name="ekkima" />
 					<card name="fleder" />
 					<card name="bruxa" />
+					<card name="katakan" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -2220,6 +2264,7 @@
 					<card name="ekkima" />
 					<card name="fleder" />
 					<card name="bruxa" />
+					<card name="katakan" />
 				</deck>
 
 				<dynamicCards>
@@ -2263,6 +2308,7 @@
 					<card name="ghoul3" />
 					<card name="crone_brewess" />
 					<card name="crone_whispess" />
+					<card name="crone_weavess" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -2300,6 +2346,7 @@
 					<card name="ghoul3" />
 					<card name="crone_brewess" />
 					<card name="crone_whispess" />
+					<card name="crone_weavess" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -2345,6 +2392,7 @@
 					<card name="ghoul3" />
 					<card name="crone_brewess" />
 					<card name="crone_whispess" />
+					<card name="crone_weavess" />
 				</deck>
 
 				<dynamicCards>
@@ -2517,6 +2565,7 @@
 					<card name="ghoul3" />
 					<card name="crone_weavess" />
 					<card name="crone_whispess" />
+					<card name="leshen" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -2562,6 +2611,7 @@
 					<card name="ghoul3" />
 					<card name="crone_weavess" />
 					<card name="crone_whispess" />
+					<card name="leshen" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -2616,6 +2666,7 @@
 					<card name="ghoul3" />
 					<card name="crone_weavess" />
 					<card name="crone_whispess" />
+					<card name="leshen" />
 				</deck>
 
 				<dynamicCards>
@@ -2657,6 +2708,7 @@
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 					<card name="havcaaren_medic3" />
+					<card name="olgierd" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -2690,6 +2742,7 @@
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 					<card name="havcaaren_medic3" />
+					<card name="olgierd" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -2728,6 +2781,7 @@
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 					<card name="havcaaren_medic3" />
+					<card name="olgierd" />
 				</deck>
 
 				<dynamicCards>
@@ -2766,6 +2820,7 @@
 					<card name="bruxa" />
 					<card name="crone_weavess" />
 					<card name="crone_whispess" />
+					<card name="toad" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -2799,6 +2854,7 @@
 					<card name="bruxa" />
 					<card name="crone_weavess" />
 					<card name="crone_whispess" />
+					<card name="toad" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -2836,6 +2892,7 @@
 					<card name="bruxa" />
 					<card name="crone_weavess" />
 					<card name="crone_whispess" />
+					<card name="toad" />
 				</deck>
 
 				<dynamicCards>
@@ -2954,6 +3011,7 @@
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+					<card name="mysterious_elf" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -2984,6 +3042,7 @@
 					<card name="blue_stripes3" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+					<card name="mysterious_elf" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -3019,6 +3078,7 @@
 					<card name="blue_stripes3" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+					<card name="mysterious_elf" />
 				</deck>
 
 				<dynamicCards>
@@ -3061,6 +3121,7 @@
 					<card name="vrihedd_brigade2" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<card name="schirru" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -3094,6 +3155,7 @@
 					<card name="vrihedd_brigade2" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<card name="schirru" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -3131,6 +3193,7 @@
 					<card name="vrihedd_brigade2" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<card name="schirru" />
 				</deck>
 
 				<dynamicCards>
@@ -3510,6 +3573,7 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
+					<card name="young_emissary" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -3534,6 +3598,7 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
+					<card name="young_emissary" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -3564,6 +3629,7 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
+					<card name="young_emissary" />
 				</deck>
 
 				<dynamicCards>
@@ -3718,6 +3784,7 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
+					<card name="young_emissary2" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -3753,6 +3820,7 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
+					<card name="young_emissary2" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -3800,6 +3868,7 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
+					<card name="young_emissary2" />
 				</deck>
 
 				<dynamicCards>
@@ -4849,6 +4918,7 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
+					<card name="vreemde" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -4872,6 +4942,7 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
+					<card name="vreemde" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -4895,6 +4966,7 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
+					<card name="vreemde" />
 				</deck>
 
 				<dynamicCards>
@@ -4931,6 +5003,7 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+					<card name="mysterious_elf" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -4958,6 +5031,7 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+					<card name="mysterious_elf" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -4985,6 +5059,7 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+					<card name="mysterious_elf" />
 				</deck>
 
 				<dynamicCards>
@@ -5228,6 +5303,7 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
+					<card name="kayran" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5256,6 +5332,7 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
+					<card name="kayran" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5284,6 +5361,7 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
+					<card name="kayran" />
 				</deck>
 
 				<dynamicCards>
@@ -5428,6 +5506,7 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
+					<card name="kayran" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5456,6 +5535,7 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
+					<card name="kayran" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5484,6 +5564,7 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
+					<card name="kayran" />
 				</deck>
 
 				<dynamicCards>
@@ -5526,6 +5607,7 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+					<card name="mysterious_elf" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5553,6 +5635,7 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+					<card name="mysterious_elf" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5580,6 +5663,7 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+					<card name="mysterious_elf" />
 				</deck>
 
 				<dynamicCards>

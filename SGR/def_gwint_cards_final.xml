@@ -819,7 +819,7 @@
 
 		<card   index="127"							
 			title="gwint_name_poor_infantry" name="poor_infantry3"
-			item=""
+			item="gwint_card_poor_infantry3"
 			description="gwint_desc_poor_infantry"
 			power="1"
 			picture="nor_poor_infantry"

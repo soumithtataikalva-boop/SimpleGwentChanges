@@ -1311,6 +1311,7 @@
 
 		<card   index="528"
 			title="gwint_name_emiel" name="emiel_summoned"
+			item=""
 			description="gwint_desc_emiel"
 			power="12"
 			picture="neu_emiel_dlc"
@@ -1326,6 +1327,7 @@
 
 		<card   index="529"
 			title="gwint_name_olgierd" name="olgierd_summoned"
+			item=""
 			description="gwint_desc_olgierd"
 			power="6"
 			picture="neu_olgierd"

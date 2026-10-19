@@ -336,7 +336,7 @@
 				item="gwint_card_ballista_officer"
 				power="3"
 				picture="nor_ballista_officer"
-				faction_index="F_NEUTRAL">
+				faction_index="F_NORTHERN_KINGDOM">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_SIEGE" />

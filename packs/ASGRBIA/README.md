@@ -9,7 +9,7 @@ Combines the current regular pack with the XMLs in `BIA reference new`, using `b
 - Unchanged vanilla definitions are omitted. The resulting combined card set has 211 entries.
 - Normal and NG+ XMLs are identical.
 
-`CHANGES.md` lists all attribute and child-element changes against the base. `changes.json` contains the same comparison in structured form. BIA's ballista officer remains Neutral, as supplied in the current reference; this package adds no new balance changes.
+`CHANGES.md` lists all attribute and child-element changes against the base. `changes.json` contains the same comparison in structured form. Ballista Officer (177) is changed from BIA's Neutral faction to Northern Realms.
 
 ## REDkit source layout
 

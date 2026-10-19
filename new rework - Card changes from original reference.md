@@ -1,9 +1,3 @@
-# Card changes: original reference → new rework
-
-Sources: `old/Original reference copy.xml` and `new rework.xml`.
-
-One row per changed card. Values show original → new; `-` means no change. Ability Changes includes combat-row flags, Hero status and summon/bond groups. Cards use their exact internal names.
-
 | Card (Index) | Faction | Strength | Ability Changes |
 | --- | --- | --- | --- |
 | `geralt` (7) | - | 15 → 14 | Ability: None → Muster / summon group<br>Summon / bond group: None → roach |

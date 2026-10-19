@@ -2,10 +2,10 @@
 
 Combines the current regular pack with the XMLs in `BIA reference new`, using `base` as the comparison baseline. Existing packages and references are unchanged.
 
-- 92 complete definitions from Simple Gwent Rework.
-- 15 complete definitions incorporating BIA's partial updates.
+- 92 changed card entries from Simple Gwent Rework.
+- 15 entries incorporating BIA's partial updates.
 - 5 complete BIA additions.
-- 112 definitions per XML, all using `on_conflict="replace"`.
+- 112 definitions per XML: 65 partial `extend` entries and 47 complete `replace` entries.
 - Unchanged vanilla definitions are omitted. The resulting combined card set has 211 entries.
 - Normal and NG+ XMLs are identical.
 
@@ -33,6 +33,10 @@ Cook and deploy through REDkit. This repository package contains XML source, not
 
 ## Dependencies and validation
 
-Keep BIA installed for its added artwork, localization, item definitions, rewards and other resources; this package combines card definitions only. Use this package in place of the regular Simple Gwent Rework pack. Arrange for its definitions to load after BIA's card definitions so BIA's own patches cannot supersede the combined replacements. Exact runtime mounting order and in-game results require verification in the game.
+Keep BIA installed for its added artwork, localization, item definitions, rewards and other resources; this package combines card definitions only. Use this package in place of the regular Simple Gwent Rework pack. Arrange for its definitions to load after BIA's card definitions so BIA's own patches cannot supersede the combined overrides. Exact runtime mounting order and in-game results require verification in the game.
 
-Validated locally: XML parsing; complete definitions copied from the source cards; exact merged attribute/child content; unique combined indices and names; resolved summon references; identical normal and NG+ output. No in-game or REDkit cooking test has been performed.
+Validated locally: XML parsing; additive extensions reconstructed against the base and compared with the full combined definitions; unique combined indices and names; resolved summon references; identical normal and NG+ output. No in-game or REDkit cooking test has been performed.
+
+## Conflict handling
+
+`extend` is used for attribute updates and purely additive flags or summon references. These entries contain identifying attributes and only the changes. `replace` is retained where existing attributes or flags must be removed, names are repurposed, or complete BIA-added definitions must be registered reliably alongside BIA. All five BIA additions retain complete replacements because BIA may already register them. The change reports describe the resulting card changes, independently of the override strategy.

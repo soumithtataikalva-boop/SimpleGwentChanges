@@ -432,8 +432,10 @@
 					<card name="gwint_card_scorch" />
 					<card name="fog" />
 					<card name="clear_sky" />
-					<card name="catapult" />
-					<card name="catapult2" />
+					<!-- SGR: Replace extra catapult with vesemir; closest-strength available unit, absent from static and dynamic cards. -->
+					<card name="vesemir" />
+					<!-- SGR: Replace extra catapult2 with triss; closest-strength available unit, absent from static and dynamic cards. -->
+					<card name="triss" />
 					<card name="yennefer" />
 					<!-- SGR: Include faction-compatible special card vernon in the static deck. -->
 					<card name="vernon" />
@@ -742,7 +744,8 @@
 					<!-- difficulty 2 -->
 					<card name="dummy" />
 					<card name="horn" />
-					<card name="redanian2" />
+					<!-- SGR: Replace extra redanian2 with kaedweni_siege3; closest suitable low-strength unit, absent from static and dynamic cards. -->
+					<card name="kaedweni_siege3" />
 					<!-- common -->
 					<card name="natalis" />
 					<card name="trebuchet" />
@@ -774,7 +777,8 @@
 					<!-- difficulty 2 -->
 					<card name="dummy" />
 					<card name="horn" />
-					<card name="redanian2" />
+					<!-- SGR: Replace extra redanian2 with kaedweni_siege3; closest suitable low-strength unit, absent from static and dynamic cards. -->
+					<card name="kaedweni_siege3" />
 					<!-- difficulty 3 -->
 					<card name="dummy" />
 					<card name="horn" />
@@ -852,8 +856,10 @@
 					<!-- difficulty 2 -->
 					<card name="dummy" />
 					<card name="horn" />
-					<card name="redanian" />
-					<card name="redanian2" />
+					<!-- SGR: Replace extra redanian with poor_infantry3; closest suitable low-strength unit, absent from static and dynamic cards. -->
+					<card name="poor_infantry3" />
+					<!-- SGR: Replace extra redanian2 with kaedweni_siege; closest suitable low-strength unit, absent from static and dynamic cards. -->
+					<card name="kaedweni_siege" />
 					<!-- SGR: Replace the extra yarpen with sheldon; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="sheldon" />
 					<!-- common -->
@@ -886,8 +892,10 @@
 					<!-- difficulty 2 -->
 					<card name="dummy" />
 					<card name="horn" />
-					<card name="redanian" />
-					<card name="redanian2" />
+					<!-- SGR: Replace extra redanian with poor_infantry3; closest suitable low-strength unit, absent from static and dynamic cards. -->
+					<card name="poor_infantry3" />
+					<!-- SGR: Replace extra redanian2 with kaedweni_siege; closest suitable low-strength unit, absent from static and dynamic cards. -->
+					<card name="kaedweni_siege" />
 					<!-- SGR: Replace the extra yarpen with sheldon; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="sheldon" />
 					<!-- difficulty 3 -->
@@ -2326,7 +2334,8 @@
 					<card name="grave_hag" />
 					<card name="fogling" />
 					<card name="nekker" />
-					<card name="nekker" />
+					<!-- SGR: Replace extra Nekker with Harpy; equal strength and absent from static and dynamic cards. -->
+					<card name="harpy" />
 					<card name="nekker2" />
 					<card name="nekker3" />
 					<card name="ekkima" />
@@ -2368,7 +2377,8 @@
 					<card name="grave_hag" />
 					<card name="fogling" />
 					<card name="nekker" />
-					<card name="nekker" />
+					<!-- SGR: Replace extra Nekker with Harpy; equal strength and absent from static and dynamic cards. -->
+					<card name="harpy" />
 					<card name="nekker2" />
 					<card name="nekker3" />
 					<card name="ekkima" />
@@ -2417,7 +2427,8 @@
 					<card name="grave_hag" />
 					<card name="fogling" />
 					<card name="nekker" />
-					<card name="nekker" />
+					<!-- SGR: Replace extra Nekker with Harpy; equal strength and absent from static and dynamic cards. -->
+					<card name="harpy" />
 					<card name="nekker2" />
 					<card name="nekker3" />
 					<card name="ekkima" />
@@ -4197,7 +4208,8 @@
 					<card name="ciri" />
 					<!-- SGR: Replace archer_support2 with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
-					<card name="black_archer" />
+					<!-- SGR: Replace extra Black Infantry Archer with Assire; equal strength, same row and absent from static and dynamic cards. -->
+					<card name="assire" />
 					<card name="yennefer" />
 
 					<card name="villen" />

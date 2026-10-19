@@ -4983,8 +4983,8 @@
 					<!-- SGR: Remove mrmirror_foglet; it now belongs to Monsters. -->
 					<!-- SGR: Remove mrmirror_foglet; it now belongs to Monsters. -->
 					<card name="cow" />
-					<!-- SGR: Add letho to support the revised deck. -->
-					<card name="letho" />
+					<!-- SGR: Replace Gaunter and Darkness with vesemir; faction-compatible and absent from static and dynamic cards. -->
+					<card name="vesemir" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5012,8 +5012,8 @@
 					<!-- SGR: Remove mrmirror_foglet; it now belongs to Monsters. -->
 					<!-- SGR: Remove mrmirror_foglet; it now belongs to Monsters. -->
 					<card name="cow" />
-					<!-- SGR: Add letho to support the revised deck. -->
-					<card name="letho" />
+					<!-- SGR: Replace Gaunter and Darkness with triss; faction-compatible and absent from static and dynamic cards. -->
+					<card name="triss" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5052,8 +5052,8 @@
 					<!-- SGR: Remove mrmirror_foglet; it now belongs to Monsters. -->
 					<!-- SGR: Remove mrmirror_foglet; it now belongs to Monsters. -->
 					<card name="cow" />
-					<!-- SGR: Add letho to support the revised deck. -->
-					<card name="letho" />
+					<!-- SGR: Replace Gaunter and Darkness with hjalmar; faction-compatible and absent from static and dynamic cards. -->
+					<card name="hjalmar" />
 				</deck>
 
 				<dynamicCards>

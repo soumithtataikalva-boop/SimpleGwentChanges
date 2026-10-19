@@ -352,10 +352,13 @@
 					<!-- SGR: Use distinct variant poor_infantry3 instead of another poor_infantry. -->
 					<card name="poor_infantry3" />
 					<card name="crinfrid" />
-					<card name="crinfrid" />
-					<card name="crinfrid" />
+					<!-- SGR: Use unused variant crinfrid2 instead of another crinfrid. -->
+					<card name="crinfrid2" />
+					<!-- SGR: Use unused variant crinfrid3 instead of another crinfrid. -->
+					<card name="crinfrid3" />
 					<card name="catapult" />
-					<card name="catapult" />
+					<!-- SGR: Use unused variant catapult2 instead of another catapult. -->
+					<card name="catapult2" />
 					<card name="ballista" />
 					<!-- SGR: Use distinct variant ballista2 instead of another ballista. -->
 					<card name="ballista2" />
@@ -1613,7 +1616,8 @@
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
-					<card name="mahakam3" />
+					<!-- SGR: Use unused variant mahakam4 instead of another mahakam3. -->
+					<card name="mahakam4" />
 					<card name="vrihedd_cadet" />
 
 					<card name="isengrim" />
@@ -1649,7 +1653,8 @@
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
-					<card name="mahakam3" />
+					<!-- SGR: Use unused variant mahakam4 instead of another mahakam3. -->
+					<card name="mahakam4" />
 					<card name="vrihedd_cadet" />
 
 					<card name="horn" />
@@ -3336,7 +3341,8 @@
 					<card name="frost" />
 					<card name="kaedweni_siege3" />
 
-					<card name="kaedweni_siege3" />
+					<!-- SGR: Use unused variant kaedweni_siege instead of another kaedweni_siege3. -->
+					<card name="kaedweni_siege" />
 					<card name="scorch" />
 					<card name="dummy" />
 					<card name="vernon" />
@@ -3368,7 +3374,8 @@
 					<card name="frost" />
 					<card name="kaedweni_siege3" />
 
-					<card name="kaedweni_siege3" />
+					<!-- SGR: Use unused variant kaedweni_siege instead of another kaedweni_siege3. -->
+					<card name="kaedweni_siege" />
 					<card name="scorch" />
 					<card name="dummy" />
 					<card name="vernon" />
@@ -4906,7 +4913,8 @@
 					<card name="letho" />
 					<!-- SGR: Replace the extra crone_weavess with fiend; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="fiend" />
-					<card name="arachas" />
+					<!-- SGR: Use unused variant arachas3 instead of another arachas. -->
+					<card name="arachas3" />
 					<card name="yennefer" />
 
 					<card name="mysterious_elf" />
@@ -5067,8 +5075,10 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden2" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5100,8 +5110,10 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden2" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5143,8 +5155,10 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden2" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<dynamicCards>
@@ -5185,8 +5199,10 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden2" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5223,8 +5239,10 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden2" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5265,8 +5283,10 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden2" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<dynamicCards>
@@ -6211,8 +6231,10 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden2" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -6249,8 +6271,10 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden2" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -6287,8 +6311,10 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden2" />
+					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<dynamicCards>

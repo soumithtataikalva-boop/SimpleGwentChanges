@@ -1523,7 +1523,8 @@
 					<card name="tibor" />
 
 					<card name="emiel" />
-					<card name="tibor" />
+					<!-- SGR: Replace the extra tibor with heavy_zerri; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="heavy_zerri" />
 					<card name="albrich" />
 					<card name="rainfarn" />
 					<card name="vanhemar" />
@@ -1642,7 +1643,8 @@
 					<card name="scorch" />
 					<card name="isengrim" />
 
-					<card name="isengrim" />
+					<!-- SGR: Replace the extra isengrim with saskia; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="saskia" />
 					<card name="ida" />
 					<card name="havcaaren_support" />
 					<card name="havcaaren_support2" />
@@ -3829,7 +3831,8 @@
 					<card name="letho" />
 					<!-- SGR: Remove the extra Roach after replacing the duplicate Geralt. -->
 					<card name="villen" />
-					<card name="yennefer" />
+					<!-- SGR: Replace the extra yennefer with sabrina; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="sabrina" />
 					<!-- SGR: Replace cirigog with mysterious_elf to fit the revised deck. -->
 					<card name="mysterious_elf" />
 
@@ -4035,7 +4038,8 @@
 					<card name="frost" />
 					<card name="clear_sky" />
 					<card name="yennefer" />
-					<card name="letho" />
+					<!-- SGR: Replace the extra letho with ciri; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="ciri" />
 					<!-- SGR: Replace archer_support with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
 					<card name="vattier" />
@@ -4158,7 +4162,8 @@
 					<card name="scorch" />
 					<card name="scorch" />
 					<card name="vattier" />
-					<card name="letho" />
+					<!-- SGR: Replace the extra letho with ciri; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="ciri" />
 					<!-- SGR: Replace archer_support2 with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
 					<card name="black_archer" />
@@ -4387,7 +4392,8 @@
 					<card name="clear_sky" />
 					<card name="rain" />
 					<card name="saskia" />
-					<card name="isengrim" />
+					<!-- SGR: Replace the extra isengrim with vesemir; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="vesemir" />
 
 					<card name="mysterious_elf" />
 					<card name="iorveth" />
@@ -4518,7 +4524,8 @@
 					<card name="triss" />
 					<!-- SGR: Remove cirigog to avoid duplicate or unsuitable entries. -->
 					<card name="saskia" />
-					<card name="isengrim" />
+					<!-- SGR: Replace the extra isengrim with vesemir; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="vesemir" />
 					<card name="yennefer" />
 
 					<card name="villen" />
@@ -4743,7 +4750,8 @@
 					<card name="geralt" />
 					<card name="roach" />
 					<card name="yennefer" />
-					<card name="draug" />
+					<!-- SGR: Replace the extra draug with letho; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="letho" />
 
 					<card name="imlerith" />
 					<card name="leshen" />
@@ -4867,7 +4875,8 @@
 					<card name="scorch" />
 					<card name="dummy" />
 					<card name="villen" />
-					<card name="imlerith" />
+					<!-- SGR: Replace the extra imlerith with letho; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="letho" />
 					<card name="crone_weavess" />
 					<card name="arachas" />
 					<card name="yennefer" />
@@ -4989,7 +4998,8 @@
 					<card name="clan_brokvar_archer" />
 					<card name="clan_brokvar_archer" />
 					<card name="clan_dimun_pirate" />
-					<card name="mysterious_elf" />
+					<!-- SGR: Replace the extra mysterious_elf with birna_bran; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="birna_bran" />
 					<!-- SGR: Remove mrmirror; it now belongs to Monsters. -->
 					<!-- SGR: Remove mrmirror_foglet; it now belongs to Monsters. -->
 					<!-- SGR: Remove mrmirror_foglet; it now belongs to Monsters. -->
@@ -5083,10 +5093,12 @@
 					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" />
 					<card name="roach" />
-					<card name="cerys" />
+					<!-- SGR: Replace the extra cerys with madman_lugos; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="madman_lugos" />
 					<card name="olgierd" />
 					<card name="birna_bran" />
-					<card name="mysterious_elf" />
+					<!-- SGR: Replace the extra mysterious_elf with emiel; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="emiel" />
 
 					<card name="yennefer" />
 					<card name="villen" />

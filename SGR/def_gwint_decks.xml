@@ -381,7 +381,8 @@
 					<card name="fog" />
 					<card name="clear_sky" />
 					<card name="clear_sky" />
-					<card name="gwint_card_siegfried" />
+					<!-- SGR: Replace the extra siegfried with ves; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="ves" />
 					<!-- SGR: Include faction-compatible special card vernon in the static deck. -->
 					<card name="vernon" />
 				</deck>
@@ -420,7 +421,8 @@
 					<card name="fog" />
 					<card name="clear_sky" />
 					<card name="clear_sky" />
-					<card name="gwint_card_siegfried" />
+					<!-- SGR: Replace the extra siegfried with ves; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="ves" />
 					<!-- difficulty 3 -->
 					<card name="horn" />
 					<card name="dummy" />
@@ -849,7 +851,8 @@
 					<card name="horn" />
 					<card name="redanian" />
 					<card name="redanian2" />
-					<card name="yarpen" />
+					<!-- SGR: Replace the extra yarpen with sheldon; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="sheldon" />
 					<!-- common -->
 					<card name="dandelion" />
 					<card name="zoltan" />
@@ -882,7 +885,8 @@
 					<card name="horn" />
 					<card name="redanian" />
 					<card name="redanian2" />
-					<card name="yarpen" />
+					<!-- SGR: Replace the extra yarpen with sheldon; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="sheldon" />
 					<!-- difficulty 3 -->
 					<card name="dummy" />
 					<card name="horn" />
@@ -967,7 +971,8 @@
 					<card name="dummy" />
 					<card name="frost" />
 					<card name="rain" />
-					<card name="sweers" />
+					<!-- SGR: Replace the extra sweers with morteisen; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="morteisen" />
 					<!-- common -->
 					<card name="assire" />
 					<card name="cynthia" />
@@ -1004,7 +1009,8 @@
 					<card name="dummy" />
 					<card name="frost" />
 					<card name="rain" />
-					<card name="sweers" />
+					<!-- SGR: Replace the extra sweers with morteisen; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="morteisen" />
 					<!-- difficulty 3 -->
 					<card name="dummy" />
 					<!-- common -->
@@ -1097,7 +1103,8 @@
 					<card name="fog" />
 					<card name="fog" />
 					<card name="clear_sky" />
-					<card name="morteisen" />
+					<!-- SGR: Replace the extra morteisen with vreemde; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="vreemde" />
 					<card name="rotten" />
 					<!-- common -->
 					<card name="renuald" />
@@ -1139,7 +1146,8 @@
 					<card name="fog" />
 					<card name="fog" />
 					<card name="clear_sky" />
-					<card name="morteisen" />
+					<!-- SGR: Replace the extra morteisen with vreemde; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="vreemde" />
 					<card name="rotten" />
 					<!-- difficulty 3 -->
 					<card name="scorch" />
@@ -1229,7 +1237,8 @@
 					<card name="dummy" />
 					<card name="horn" />
 					<card name="rain" />
-					<card name="morteisen" />
+					<!-- SGR: Replace the extra morteisen with vreemde; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="vreemde" />
 					<!-- common -->
 					<card name="moorvran" />
 					<card name="assire" />
@@ -1264,7 +1273,8 @@
 					<card name="dummy" />
 					<card name="horn" />
 					<card name="rain" />
-					<card name="morteisen" />
+					<!-- SGR: Replace the extra morteisen with vreemde; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="vreemde" />
 					<!-- difficulty 3 -->
 					<card name="dummy" />
 					<card name="horn" />
@@ -1355,7 +1365,8 @@
 					<card name="dummy" />
 					<card name="horn" />
 					<card name="scorch" />
-					<card name="rainfarn" />
+					<!-- SGR: Replace the extra rainfarn with zerri; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="zerri" />
 					<!-- common -->
 					<card name="letho" />
 					<card name="assire" />
@@ -1396,7 +1407,8 @@
 					<card name="dummy" />
 					<card name="horn" />
 					<card name="scorch" />
-					<card name="rainfarn" />
+					<!-- SGR: Replace the extra rainfarn with zerri; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="zerri" />
 					<!-- difficulty 3 -->
 					<card name="frost" />
 					<card name="dummy" />
@@ -1481,7 +1493,8 @@
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
-					<card name="sweers" />
+					<!-- SGR: Replace the extra sweers with morteisen; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="morteisen" />
 
 					<card name="emiel" />
 					<card name="tibor" />
@@ -1514,7 +1527,8 @@
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
-					<card name="sweers" />
+					<!-- SGR: Replace the extra sweers with morteisen; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="morteisen" />
 
 					<card name="dummy" />
 					<card name="dummy" />
@@ -1859,6 +1873,8 @@
 					<card name="havcaaren_medic" />
 					<!-- SGR: Include faction-compatible special card geralt in the static deck. -->
 					<card name="geralt" />
+					<!-- SGR: Add Roach alongside Geralt for his summon ability. -->
+					<card name="roach" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1904,6 +1920,8 @@
 					<card name="havcaaren_medic" />
 					<!-- SGR: Include faction-compatible special card geralt in the static deck. -->
 					<card name="geralt" />
+					<!-- SGR: Add Roach alongside Geralt for his summon ability. -->
+					<card name="roach" />
 				</deck>
 
 				<dynamicCards>
@@ -2048,7 +2066,8 @@
 					<card name="ida" />
 					<card name="filavandrel" />
 					<card name="yaevinn" />
-					<card name="toruviel" />
+					<!-- SGR: Replace the extra toruviel with dol_archer; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="dol_archer" />
 					<card name="riordain" />
 					<card name="ciaran" />
 					<card name="barclay" />
@@ -2084,7 +2103,8 @@
 					<card name="ida" />
 					<card name="filavandrel" />
 					<card name="yaevinn" />
-					<card name="toruviel" />
+					<!-- SGR: Replace the extra toruviel with dol_archer; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="dol_archer" />
 					<card name="riordain" />
 					<card name="ciaran" />
 					<card name="barclay" />
@@ -2126,7 +2146,8 @@
 					<card name="ida" />
 					<card name="filavandrel" />
 					<card name="yaevinn" />
-					<card name="toruviel" />
+					<!-- SGR: Replace the extra toruviel with dol_archer; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="dol_archer" />
 					<card name="riordain" />
 					<card name="ciaran" />
 					<card name="barclay" />
@@ -4043,7 +4064,8 @@
 					<card name="ciri" />
 					<!-- SGR: Replace archer_support with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
-					<card name="vattier" />
+					<!-- SGR: Replace the extra vattier with vreemde; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="vreemde" />
 
 					<card name="menno" />
 					<card name="tibor" />
@@ -4162,7 +4184,8 @@
 					<card name="horn" />
 					<card name="scorch" />
 					<card name="scorch" />
-					<card name="vattier" />
+					<!-- SGR: Replace the extra vattier with morteisen; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="morteisen" />
 					<!-- SGR: Replace the extra letho with ciri; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="ciri" />
 					<!-- SGR: Replace archer_support2 with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
@@ -4881,7 +4904,8 @@
 					<card name="toad" />
 					<!-- SGR: Replace the extra imlerith with letho; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="letho" />
-					<card name="crone_weavess" />
+					<!-- SGR: Replace the extra crone_weavess with fiend; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="fiend" />
 					<card name="arachas" />
 					<card name="yennefer" />
 
@@ -5266,10 +5290,12 @@
 					<card name="renuald" />
 					<card name="rotten" />
 					<card name="sweers" />
-					<card name="sweers" />
+					<!-- SGR: Replace the extra sweers with vreemde; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="vreemde" />
 					<card name="vanhemar" />
 					<card name="puttkammer" />
-					<card name="puttkammer" />
+					<!-- SGR: Replace the extra puttkammer with combat_engineer; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="combat_engineer" />
 					<card name="zerri" />
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
@@ -5289,10 +5315,12 @@
 					<card name="renuald" />
 					<card name="rotten" />
 					<card name="sweers" />
-					<card name="sweers" />
+					<!-- SGR: Replace the extra sweers with vreemde; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="vreemde" />
 					<card name="vanhemar" />
 					<card name="puttkammer" />
-					<card name="puttkammer" />
+					<!-- SGR: Replace the extra puttkammer with combat_engineer; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="combat_engineer" />
 					<card name="zerri" />
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
@@ -5312,10 +5340,12 @@
 					<card name="renuald" />
 					<card name="rotten" />
 					<card name="sweers" />
-					<card name="sweers" />
+					<!-- SGR: Replace the extra sweers with vreemde; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="vreemde" />
 					<card name="vanhemar" />
 					<card name="puttkammer" />
-					<card name="puttkammer" />
+					<!-- SGR: Replace the extra puttkammer with combat_engineer; similar strength, faction-compatible and absent from static/dynamic cards. -->
+					<card name="combat_engineer" />
 					<card name="zerri" />
 					<card name="impera_brigade" />
 					<card name="nausicaa" />

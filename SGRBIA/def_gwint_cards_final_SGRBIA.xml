@@ -580,7 +580,7 @@
 		<card   index="301"
 			on_conflict="extend"
 			name="saskia"
-			power="8" >
+			power="9" >
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -590,7 +590,7 @@
 		<card   index="302"
 			on_conflict="extend"
 			name="isengrim"
-			power="9" >
+			power="8" >
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>

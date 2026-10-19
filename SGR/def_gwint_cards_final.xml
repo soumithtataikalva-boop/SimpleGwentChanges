@@ -1773,7 +1773,7 @@
 			title="gwint_name_saskia"
 			name="saskia"
 			description="gwint_desc_saskia"
-			power="8"
+			power="9"
 			picture="sco_saskia"
 			faction_index="F_SCOIATAEL">
 			<type_flags>
@@ -1789,7 +1789,7 @@
 			title="gwint_name_isengrim"
 			name="isengrim"
 			description="gwint_desc_isengrim"
-			power="9"
+			power="8"
 			picture="sco_isengrim"
 			faction_index="F_SCOIATAEL">
 			<type_flags>

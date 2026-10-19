@@ -38,8 +38,8 @@
 					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -75,8 +75,8 @@
 					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -112,8 +112,8 @@
 					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -233,8 +233,8 @@
 					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -264,8 +264,8 @@
 					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -295,8 +295,8 @@
 					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -327,10 +327,10 @@
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
-					<!-- SGR: Use distinct variant blue_stripes3 instead of another blue_stripes. -->
-					<card name="blue_stripes3" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<!-- difficulty 1 -->
 					<card name="horn" />
 					<card name="fog" />
@@ -363,10 +363,10 @@
 					<!-- SGR: Use distinct variant ballista2 instead of another ballista. -->
 					<card name="ballista2" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
-					<!-- SGR: Use distinct variant blue_stripes3 instead of another blue_stripes. -->
-					<card name="blue_stripes3" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<!-- difficulty 1 -->
 					<card name="horn" />
 					<card name="fog" />
@@ -403,10 +403,10 @@
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
-					<!-- SGR: Use distinct variant blue_stripes3 instead of another blue_stripes. -->
-					<card name="blue_stripes3" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<!-- difficulty 1 -->
 					<card name="horn" />
 					<card name="fog" />
@@ -473,8 +473,8 @@
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 					<!-- difficulty 1 -->
@@ -504,8 +504,8 @@
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 					<!-- difficulty 1 -->
@@ -541,8 +541,8 @@
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 					<!-- difficulty 1 -->
@@ -600,10 +600,10 @@
 					<card name="catapult" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
-					<!-- SGR: Use distinct variant blue_stripes3 instead of another blue_stripes. -->
-					<card name="blue_stripes3" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<!-- SGR: Include faction-compatible special card dijkstra in the static deck. -->
 					<card name="dijkstra" />
@@ -631,10 +631,10 @@
 					<card name="catapult" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
-					<!-- SGR: Use distinct variant blue_stripes3 instead of another blue_stripes. -->
-					<card name="blue_stripes3" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<!-- difficulty 1 -->
 					<card name="yarpen" />
@@ -668,10 +668,10 @@
 					<card name="catapult" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
-					<!-- SGR: Use distinct variant blue_stripes3 instead of another blue_stripes. -->
-					<card name="blue_stripes3" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<!-- difficulty 1 -->
 					<card name="yarpen" />
@@ -841,8 +841,8 @@
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -877,8 +877,8 @@
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -916,8 +916,8 @@
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 				</deck>
 
 				<dynamicCards>
@@ -3361,16 +3361,16 @@
 					<card name="thaler" />
 					<card name="dijkstra" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 
 					<card name="stennis" />
 					<card name="trebuchet" />
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista" />
-					<!-- SGR: Use distinct variant blue_stripes3 instead of another blue_stripes. -->
-					<card name="blue_stripes3" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -3394,8 +3394,8 @@
 					<card name="thaler" />
 					<card name="dijkstra" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 
 					<card name="horn" />
 					<card name="esterad" />
@@ -3408,8 +3408,8 @@
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista" />
-					<!-- SGR: Use distinct variant blue_stripes3 instead of another blue_stripes. -->
-					<card name="blue_stripes3" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -5415,8 +5415,8 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -5443,8 +5443,8 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -5471,8 +5471,8 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -6027,8 +6027,8 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -6055,8 +6055,8 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -6083,8 +6083,8 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
-					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
-					<card name="blue_stripes2" />
+					<!-- SGR: Use vanilla Blue Stripes; artwork variants require BIA. -->
+					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 				</deck>

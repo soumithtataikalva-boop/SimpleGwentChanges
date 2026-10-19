@@ -630,7 +630,7 @@
 					<card name="triss" difficulty="11" />
 					<card name="dandelion" difficulty="11" />
 					<card name="villen" difficulty="14" />
-					<card name="geraltgog" difficulty="14" />
+					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -737,11 +737,11 @@
 				<dynamicCards>
 					<card name="villen" difficulty="5" />
 					<card name="scorch" difficulty="7" />
-					<card name="cirigog" difficulty="9" />
+					<card name="ciri" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="vesemir" difficulty="11" />
 					<card name="dandelion" difficulty="14" />
-					<card name="geraltgog" difficulty="14" />
+					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -848,8 +848,8 @@
 					<card name="yennefer" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="vesemir" difficulty="11" />
-					<card name="cirigog" difficulty="14" />
-					<card name="geraltgog" difficulty="14" />
+					<card name="ciri" difficulty="14" />
+					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -960,7 +960,7 @@
 					<card name="archer_support2" difficulty="11" />
 					<card name="vesemir" difficulty="11" />
 					<card name="dandelion" difficulty="14" />
-					<card name="geraltgog" difficulty="14" />
+					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -1081,9 +1081,9 @@
 					<card name="horn" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="zoltan" difficulty="11" />
-					<card name="geraltgog" difficulty="14" />
+					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
-					<card name="cirigog" difficulty="14" />
+					<card name="ciri" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
 
@@ -1190,7 +1190,7 @@
 					<card name="nausicaa2" difficulty="9" />
 					<card name="nausicaa3" difficulty="11" />
 					<card name="young_emissary" difficulty="11" />
-					<card name="geraltgog" difficulty="14" />
+					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 					<card name="dandelion" difficulty="14" />
 				</dynamicCards>
@@ -1313,9 +1313,9 @@
 					<card name="zoltan" difficulty="9" />
 					<card name="dandelion" difficulty="11" />
 					<card name="emiel" difficulty="11" />
-					<card name="geraltgog" difficulty="14" />
+					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
-					<card name="cirigog" difficulty="14" />
+					<card name="ciri" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
 
@@ -1413,10 +1413,10 @@
 				<dynamicCards>
 					<card name="villen" difficulty="5" />
 					<card name="dandelion" difficulty="7" />
-					<card name="cirigog" difficulty="9" />
+					<card name="ciri" difficulty="9" />
 					<card name="vesemir" difficulty="11" />
 					<card name="yennefer" difficulty="11" />
-					<card name="geraltgog" difficulty="14" />
+					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 					<card name="mysterious_elf" difficulty="14" />
 				</dynamicCards>
@@ -1529,7 +1529,7 @@
 					<card name="yennefer" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="emiel" difficulty="11" />
-					<card name="geraltgog" difficulty="14" />
+					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 					<card name="mysterious_elf" difficulty="14" />
 				</dynamicCards>
@@ -1638,7 +1638,7 @@
 					<card name="scorch" difficulty="11" />
 					<card name="zoltan" difficulty="11" />
 					<card name="villen" difficulty="14" />
-					<card name="cirigog" difficulty="14" />
+					<card name="ciri" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
 
@@ -1864,7 +1864,7 @@
 					<card name="dummy" difficulty="9" />
 					<card name="mysterious_elf" difficulty="11" />
 					<card name="triss" difficulty="11" />
-					<card name="geraltgog" difficulty="14" />
+					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 					<card name="emiel" difficulty="14" />
 				</dynamicCards>
@@ -2094,9 +2094,9 @@
 					<card name="vesemir" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="emiel" difficulty="11" />
-					<card name="geraltgog" difficulty="14" />
+					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
-					<card name="cirigog" difficulty="14" />
+					<card name="ciri" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
 
@@ -2229,7 +2229,7 @@
 					<card name="triss" difficulty="11" />
 					<card name="vesemir" difficulty="11" />
 					<card name="scorch" difficulty="14" />
-					<card name="cirigog" difficulty="14" />
+					<card name="ciri" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
 
@@ -2353,7 +2353,7 @@
 					<card name="scorch" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="emiel" difficulty="11" />
-					<card name="geraltgog" difficulty="14" />
+					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 					<card name="dandelion" difficulty="14" />
 				</dynamicCards>
@@ -2475,7 +2475,7 @@
 					<card name="dummy" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="vesemir" difficulty="11" />
-					<card name="geraltgog" difficulty="14" />
+					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 					<card name="dandelion" difficulty="14" />
 				</dynamicCards>
@@ -2625,7 +2625,7 @@
 					<card name="triss" difficulty="11" />
 					<card name="emiel" difficulty="11" />
 					<card name="scorch" difficulty="14" />
-					<card name="geraltgog" difficulty="14" />
+					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -2711,7 +2711,7 @@
 					<card name="mysterious_elf" />
 
 					<card name="scorch" />
-					<card name="cirigog" />
+					<card name="ciri" />
 					<card name="eithne" />
 					<card name="saskia" />
 
@@ -2736,7 +2736,7 @@
 					<card name="triss" difficulty="11" />
 					<card name="dandelion" difficulty="11" />
 					<card name="villen" difficulty="14" />
-					<card name="geraltgog" difficulty="14" />
+					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -2823,7 +2823,7 @@
 
 					<card name="dummy" />
 					<card name="horn" />
-					<card name="cirigog" />
+					<card name="ciri" />
 
 					<card name="kayran" />
 					<card name="earth_elemental" />
@@ -2845,7 +2845,7 @@
 					<card name="yennefer" difficulty="11" />
 					<card name="emiel" difficulty="11" />
 					<card name="scorch" difficulty="14" />
-					<card name="geraltgog" difficulty="14" />
+					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -2949,7 +2949,7 @@
 					<card name="dandelion" difficulty="4" />
 					<card name="impera_brigade4" difficulty="6" />
 					<card name="triss" difficulty="6" />
-					<card name="geraltgog" difficulty="8" />
+					<card name="geralt" difficulty="8" />
 					<card name="roach" difficulty="8" />
 				</dynamicCards>
 			</deck_collection>
@@ -3030,7 +3030,7 @@
 					<card name="horn" />
 					<card name="esterad" />
 					<card name="natalis" />
-					<card name="cirigog" />
+					<card name="ciri" />
 
 					<card name="stennis" />
 					<card name="trebuchet" />
@@ -3047,7 +3047,7 @@
 					<card name="kaedweni_siege2" difficulty="5" />
 					<card name="dandelion" difficulty="6" />
 					<card name="triss" difficulty="8" />
-					<card name="geraltgog" difficulty="8" />
+					<card name="geralt" difficulty="8" />
 					<card name="roach" difficulty="8" />
 					<card name="villen" difficulty="8" />
 					<card name="yennefer" difficulty="10" />
@@ -3099,7 +3099,7 @@
 					<card name="scorch" />
 					<card name="havcaaren_medic3" />
 					<card name="eithne" />
-					<card name="cirigog" />
+					<card name="ciri" />
 
 					<card name="mysterious_elf" />
 					<card name="iorveth" />
@@ -3132,7 +3132,7 @@
 					<card name="scorch" />
 					<card name="havcaaren_medic3" />
 					<card name="eithne" />
-					<card name="cirigog" />
+					<card name="ciri" />
 
 					<card name="dummy" />
 					<card name="saskia" />
@@ -3161,7 +3161,7 @@
 					<card name="yennefer" difficulty="11" />
 					<card name="emiel" difficulty="11" />
 					<card name="scorch" difficulty="14" />
-					<card name="geraltgog" difficulty="14" />
+					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -3377,7 +3377,7 @@
 				<dynamicCards>
 					<card name="dandelion" difficulty="12" />
 					<card name="triss" difficulty="13" />
-					<card name="cirigog" difficulty="15" />
+					<card name="ciri" difficulty="15" />
 				</dynamicCards>
 			</deck_collection>
 
@@ -3430,10 +3430,10 @@
 
 					<card name="horn" />
 					<card name="scorch" />
-					<card name="geraltgog" />
+					<card name="geralt" />
 					<card name="roach" />
 					<card name="yennefer" />
-					<card name="cirigog" />
+					<card name="ciri" />
 
 					<card name="triss" />
 					<card name="dandelion" />
@@ -3469,18 +3469,18 @@
 
 					<card name="horn" />
 					<card name="scorch" />
-					<card name="geraltgog" />
+					<card name="geralt" />
 					<card name="roach" />
 					<card name="yennefer" />
-					<card name="cirigog" />
+					<card name="ciri" />
 
 					<card name="horn" />
 					<card name="scorch" />
-					<card name="geraltgog" />
+					<card name="geralt" />
 					<card name="roach" />
 					<card name="villen" />
 					<card name="yennefer" />
-					<card name="cirigog" />
+					<card name="ciri" />
 
 					<card name="triss" />
 					<card name="dandelion" />
@@ -3709,7 +3709,7 @@
 				<dynamicCards>
 					<card name="villen" difficulty="12" />
 					<card name="moorvran" difficulty="13" />
-					<card name="geraltgog" difficulty="15" />
+					<card name="geralt" difficulty="15" />
 					<card name="roach" difficulty="15" />
 				</dynamicCards>
 			</deck_collection>
@@ -4055,7 +4055,7 @@
 				<dynamicCards>
 					<card name="dandelion" difficulty="12" />
 					<card name="villen" difficulty="13" />
-					<card name="cirigog" difficulty="15" />
+					<card name="ciri" difficulty="15" />
 				</dynamicCards>
 			</deck_collection>
 
@@ -4104,9 +4104,9 @@
 
 					<card name="fog" />
 
-					<card name="geraltgog" />
+					<card name="geralt" />
 					<card name="roach" />
-					<card name="cirigog" />
+					<card name="ciri" />
 					<card name="saskia" />
 					<card name="isengrim" />
 
@@ -4141,15 +4141,15 @@
 
 					<card name="fog" />
 
-					<card name="geraltgog" />
+					<card name="geralt" />
 					<card name="roach" />
-					<card name="cirigog" />
+					<card name="ciri" />
 					<card name="saskia" />
 					<card name="isengrim" />
 
-					<card name="geraltgog" />
+					<card name="geralt" />
 					<card name="roach" />
-					<card name="cirigog" />
+					<card name="ciri" />
 					<card name="saskia" />
 					<card name="isengrim" />
 					<card name="yennefer" />
@@ -4372,7 +4372,7 @@
 					<card name="scorch" />
 					<card name="dummy" />
 					<card name="dummy" />
-					<card name="geraltgog" />
+					<card name="geralt" />
 					<card name="roach" />
 					<card name="yennefer" />
 					<card name="draug" />
@@ -4706,7 +4706,7 @@
 					<card name="cerys" />
 					<card name="mysterious_elf" />
 
-					<card name="geraltgog" />
+					<card name="geralt" />
 					<card name="roach" />
 					<card name="cerys" />
 					<card name="olgierd" />
@@ -4735,7 +4735,7 @@
 				<dynamicCards>
 					<card name="dandelion" difficulty="12" />
 					<card name="villen" difficulty="13" />
-					<card name="cirigog" difficulty="15" />
+					<card name="ciri" difficulty="15" />
 				</dynamicCards>
 			</deck_collection>
 
@@ -4784,9 +4784,9 @@
 
 					<card name="fog" />
 
-					<card name="geraltgog" />
+					<card name="geralt" />
 					<card name="roach" />
-					<card name="cirigog" />
+					<card name="ciri" />
 					<card name="cow" />
 
 					<card name="yennefer" />
@@ -4820,9 +4820,9 @@
 
 					<card name="fog" />
 
-					<card name="geraltgog" />
+					<card name="geralt" />
 					<card name="roach" />
-					<card name="cirigog" />
+					<card name="ciri" />
 					<card name="cow" />
 
 					<card name="olgierd" />
@@ -5021,10 +5021,10 @@
 					<card name="kaedweni_siege2" difficulty="5" />
 					<card name="dandelion" difficulty="6" />
 					<card name="triss" difficulty="8" />
-					<card name="geraltgog" difficulty="8" />
+					<card name="geralt" difficulty="8" />
 					<card name="roach" difficulty="8" />
 					<card name="villen" difficulty="8" />
-					<card name="cirigog" difficulty="10" />
+					<card name="ciri" difficulty="10" />
 					<card name="yennefer" difficulty="10" />
 				</dynamicCards>
 			</deck_collection>
@@ -5126,7 +5126,7 @@
 					<card name="dandelion" difficulty="4" />
 					<card name="impera_brigade4" difficulty="6" />
 					<card name="triss" difficulty="6" />
-					<card name="geraltgog" difficulty="8" />
+					<card name="geralt" difficulty="8" />
 					<card name="roach" difficulty="8" />
 					<card name="yennefer" difficulty="10" />
 				</dynamicCards>
@@ -5224,9 +5224,9 @@
 					<card name="eithne" difficulty="6" />
 					<card name="triss" difficulty="8" />
 					<card name="emiel" difficulty="8" />
-					<card name="geraltgog" difficulty="10" />
+					<card name="geralt" difficulty="10" />
 					<card name="roach" difficulty="10" />
-					<card name="cirigog" difficulty="10" />
+					<card name="ciri" difficulty="10" />
 				</dynamicCards>
 			</deck_collection>
 
@@ -5323,7 +5323,7 @@
 					<card name="villen" difficulty="6" />
 					<card name="emiel" difficulty="7" />
 					<card name="zoltan" difficulty="8" />
-					<card name="geraltgog" difficulty="10" />
+					<card name="geralt" difficulty="10" />
 					<card name="roach" difficulty="10" />
 					<card name="mysterious_elf" difficulty="10" />
 				</dynamicCards>
@@ -5424,9 +5424,9 @@
 					<card name="eithne" difficulty="6" />
 					<card name="triss" difficulty="8" />
 					<card name="emiel" difficulty="8" />
-					<card name="geraltgog" difficulty="10" />
+					<card name="geralt" difficulty="10" />
 					<card name="roach" difficulty="10" />
-					<card name="cirigog" difficulty="10" />
+					<card name="ciri" difficulty="10" />
 				</dynamicCards>
 			</deck_collection>
 
@@ -5521,7 +5521,7 @@
 					<card name="dandelion" difficulty="4" />
 					<card name="scorch" difficulty="4" />
 					<card name="villen" difficulty="6" />
-					<card name="geraltgog" difficulty="10" />
+					<card name="geralt" difficulty="10" />
 					<card name="roach" difficulty="10" />
 				</dynamicCards>
 			</deck_collection>
@@ -5616,10 +5616,10 @@
 					<card name="kaedweni_siege2" difficulty="5" />
 					<card name="dandelion" difficulty="6" />
 					<card name="triss" difficulty="8" />
-					<card name="geraltgog" difficulty="8" />
+					<card name="geralt" difficulty="8" />
 					<card name="roach" difficulty="8" />
 					<card name="villen" difficulty="8" />
-					<card name="cirigog" difficulty="10" />
+					<card name="ciri" difficulty="10" />
 					<card name="yennefer" difficulty="10" />
 				</dynamicCards>
 			</deck_collection>
@@ -5721,7 +5721,7 @@
 					<card name="dandelion" difficulty="4" />
 					<card name="impera_brigade4" difficulty="6" />
 					<card name="triss" difficulty="6" />
-					<card name="geraltgog" difficulty="8" />
+					<card name="geralt" difficulty="8" />
 					<card name="roach" difficulty="10" />
 					<card name="yennefer" difficulty="10" />
 				</dynamicCards>
@@ -5770,8 +5770,8 @@
 					<card name="scorch" />
 					<card name="dummy" />
 
-					<card name="cirigog" />
-					<card name="geraltgog" />
+					<card name="ciri" />
+					<card name="geralt" />
 					<card name="roach" />
 					<card name="olgierd" />
 					<card name="draig" />
@@ -5806,8 +5806,8 @@
 					<card name="scorch" />
 					<card name="dummy" />
 
-					<card name="cirigog" />
-					<card name="geraltgog" />
+					<card name="ciri" />
+					<card name="geralt" />
 					<card name="roach" />
 					<card name="olgierd" />
 					<card name="draig" />

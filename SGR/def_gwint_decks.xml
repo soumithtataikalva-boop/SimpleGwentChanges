@@ -3104,6 +3104,8 @@
 					<card name="botchling" />
 					<!-- SGR: Add clear_sky for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="clear_sky" />
+					<!-- SGR: Restore scorch to the original Gambler quantity. -->
+					<card name="scorch" />
 				</deck>
 				<!-- SGR: Use a Monsters leader; weather selection on easy and melee Horn on normal/hard. -->
 				<deck difficulty="2" leaderCard="eredin_copper" specialCard="mrmirror">
@@ -3156,8 +3158,6 @@
 					<!-- SGR: Add dummy for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="dummy" />
 					<card name="clear_sky" />
-					<!-- SGR: Remove dummy for the Monsters rebuild; rebalance units, support and dynamic additions. -->
-					<!-- SGR: Remove dummy for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<!-- SGR: Remove letho for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<!-- SGR: Remove stefan for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<!-- SGR: Remove mrmirror_foglet for the Monsters rebuild; rebalance units, support and dynamic additions. -->
@@ -3174,6 +3174,10 @@
 					<!-- SGR: Remove zerri for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<!-- SGR: Remove young_emissary2 for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<!-- SGR: Remove mrmirror_foglet for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Restore dummy to the original Gambler quantity. -->
+					<card name="dummy" />
+					<!-- SGR: Restore scorch to the original Gambler quantity. -->
+					<card name="scorch" />
 				</deck>
 				<!-- SGR: Use a Monsters leader; weather selection on easy and melee Horn on normal/hard. -->
 				<deck difficulty="3" leaderCard="eredin_copper" specialCard="mrmirror">
@@ -3230,18 +3234,12 @@
 					<!-- SGR: Add dummy for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="dummy" />
 					<card name="clear_sky" />
-					<!-- SGR: Remove dummy for the Monsters rebuild; rebalance units, support and dynamic additions. -->
-					<!-- SGR: Remove dummy for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<!-- SGR: Remove letho for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<!-- SGR: Remove stefan for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<!-- SGR: Remove mrmirror_foglet for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<!-- SGR: Remove young_emissary for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<!-- SGR: Remove heavy_zerri for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<!-- SGR: Remove moorvran for the Monsters rebuild; rebalance units, support and dynamic additions. -->
-					<!-- SGR: Remove dummy for the Monsters rebuild; rebalance units, support and dynamic additions. -->
-					<!-- SGR: Remove horn for the Monsters rebuild; rebalance units, support and dynamic additions. -->
-					<!-- SGR: Remove horn for the Monsters rebuild; rebalance units, support and dynamic additions. -->
-					<!-- SGR: Remove scorch for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<!-- SGR: Remove menno for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<!-- SGR: Remove vattier for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<!-- SGR: Remove mrmirror_foglet for the Monsters rebuild; rebalance units, support and dynamic additions. -->
@@ -3257,6 +3255,18 @@
 					<!-- SGR: Remove zerri for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<!-- SGR: Remove young_emissary2 for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<!-- SGR: Remove mrmirror_foglet for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Restore dummy to the original Gambler quantity. -->
+					<card name="dummy" />
+					<!-- SGR: Restore dummy to the original Gambler quantity. -->
+					<card name="dummy" />
+					<!-- SGR: Restore horn to the original Gambler quantity. -->
+					<card name="horn" />
+					<!-- SGR: Restore horn to the original Gambler quantity. -->
+					<card name="horn" />
+					<!-- SGR: Restore scorch to the original Gambler quantity. -->
+					<card name="scorch" />
+					<!-- SGR: Restore scorch to the original Gambler quantity. -->
+					<card name="scorch" />
 				</deck>
 				<dynamicCards>
 					<card name="villen" difficulty="1" />

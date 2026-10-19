@@ -2,7 +2,7 @@
 <redxml>
 	<definitions>
 		<gwint_card_definitions_final>
-			<!-- emptied by Gwent Redux (Remastered) compatibility patch: Gwent Redux defines all cards itself -->
+			<!-- Dummy file to suppress BIA -->
 		</gwint_card_definitions_final>
 	</definitions>
 </redxml>

@@ -3,20 +3,9 @@
 	<definitions>
 		<gwint_card_definitions_final>
 			<card index="7"
-				title="gwint_name_geralt"
 				name="geralt"
-				description="gwint_desc_geralt"
-				power="14"
-				picture="neu_geralt"
-				dlcPictureFlag_name="dlc8"
-				dlcPicture="neu_geralt_dlc"
-				faction_index="F_NEUTRAL"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_HERO" />
-					<flag name="TYPE_MELEE" />
-				</type_flags>
+				on_conflict="extend"
+				power="14">
 				<effect_flags>
 					<flag name="EFFECT_SUMMON_CLONES" />
 				</effect_flags>
@@ -30,35 +19,18 @@
 				power="8"
 				/>
 			<card index="10"
-				title="gwint_name_ciri"
 				name="ciri"
-				description="gwint_desc_ciri"
-				power="15"
-				picture="neu_ciri"
-				dlcPictureFlag_name="dlc8"
-				dlcPicture="neu_ciri_dlc"
-				faction_index="F_NEUTRAL"
-				on_conflict="replace">
+				on_conflict="extend">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_HERO" />
 					<flag name="TYPE_MELEE" />
 					<flag name="TYPE_RANGED" />
 				</type_flags>
-				<effect_flags>
-					<flag name="EFFECT_NONE" />
-				</effect_flags>
 			</card>
 			<card index="11"
-				title="gwint_name_triss"
 				name="triss"
-				description="gwint_desc_triss"
-				power="7"
-				picture="neu_triss"
-				dlcPictureFlag_name="dlc8"
-				dlcPicture="neu_triss_dlc"
-				faction_index="F_NEUTRAL"
-				on_conflict="replace">
+				on_conflict="extend">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_HERO" />
@@ -93,18 +65,8 @@
 				</summonFlags>
 			</card>
 			<card index="17"
-				title="gwint_name_olgierd"
 				name="olgierd"
-				description="gwint_desc_olgierd"
-				power="6"
-				picture="neu_olgierd"
-				faction_index="F_NEUTRAL"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_MELEE" />
-					<flag name="TYPE_RANGED" />
-				</type_flags>
+				on_conflict="extend">
 				<effect_flags>
 					<flag name="EFFECT_SUICIDE_SUMMON" />
 				</effect_flags>
@@ -113,43 +75,22 @@
 				</summonFlags>
 			</card>
 			<card index="18"
-				title="gwint_name_mrmirror"
 				name="mrmirror"
-				description="gwint_desc_mrmirror"
-				power="2"
-				picture="neu_mrmirror"
-				faction_index="F_NO_MANS_LAND"
-				on_conflict="replace">
+				on_conflict="extend"
+				faction_index="F_NO_MANS_LAND">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_RANGED" />
 				</type_flags>
-				<effect_flags>
-					<flag name="EFFECT_SUMMON_CLONES" />
-				</effect_flags>
-				<summonFlags>
-					<flag name="mrmirror" />
-					<flag name="mrmirror_foglet" />
-				</summonFlags>
 			</card>
 			<card index="19"
-				title="gwint_name_mrmirror_foglet"
 				name="mrmirror_foglet"
-				description="gwint_desc_mrmirror_foglet"
-				power="4"
-				picture="neu_mrmirror_foglet"
-				faction_index="F_NO_MANS_LAND"
-				on_conflict="replace">
+				on_conflict="extend"
+				faction_index="F_NO_MANS_LAND">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_MELEE" />
 				</type_flags>
-				<effect_flags>
-					<flag name="EFFECT_SUMMON_CLONES" />
-				</effect_flags>
-				<summonFlags>
-					<flag name="mrmirror_foglet" />
-				</summonFlags>
 			</card>
 			<card index="26"
 				title="gwint_name_emiel"
@@ -186,13 +127,9 @@
 				</effect_flags>
 			</card>
 			<card index="100"
-				title="gwint_name_vernon"
 				name="vernon"
-				description="gwint_desc_vernon"
-				power="6"
-				picture="nor_vernon"
-				faction_index="F_NORTHERN_KINGDOM"
-				on_conflict="replace">
+				on_conflict="extend"
+				power="6">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_MELEE" />
@@ -205,20 +142,13 @@
 				</summonFlags>
 			</card>
 			<card index="103"
-				title="gwint_name_philippa"
 				name="philippa"
-				description="gwint_desc_philippa"
-				power="8"
-				picture="nor_philippa"
-				faction_index="F_NORTHERN_KINGDOM"
-				on_conflict="replace">
+				on_conflict="extend"
+				power="8">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_RANGED" />
 				</type_flags>
-				<effect_flags>
-					<flag name="EFFECT_NONE" />
-				</effect_flags>
 			</card>
 			<card index="108"
 				name="yarpen"
@@ -236,21 +166,12 @@
 				power="6"
 				/>
 			<card index="114"
-				title="gwint_name_sheldon"
 				name="sheldon"
-				description="gwint_desc_sheldon"
-				item=""
-				power="4"
-				picture="nor_sheldon"
-				faction_index="F_NORTHERN_KINGDOM"
-				on_conflict="replace">
+				on_conflict="extend">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_MELEE" />
 				</type_flags>
-				<effect_flags>
-					<flag name="EFFECT_NONE" />
-				</effect_flags>
 			</card>
 			<card index="115"
 				name="dethmold"
@@ -285,18 +206,9 @@
 				picture="nor_crinfrid_2"
 				/>
 			<card index="135"
-				title="gwint_name_redanian"
 				name="redanian"
-				description="gwint_desc_redanian"
-				item=""
-				power="2"
-				picture="nor_redania"
-				faction_index="F_NORTHERN_KINGDOM"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_MELEE" />
-				</type_flags>
+				on_conflict="extend"
+				power="2">
 				<effect_flags>
 					<flag name="EFFECT_SAME_TYPE_MORALE" />
 				</effect_flags>
@@ -306,18 +218,9 @@
 				</summonFlags>
 			</card>
 			<card index="136"
-				title="gwint_name_redanian"
 				name="redanian2"
-				description="gwint_desc_redanian"
-				item=""
-				power="2"
-				picture="nor_redania_1"
-				faction_index="F_NORTHERN_KINGDOM"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_MELEE" />
-				</type_flags>
+				on_conflict="extend"
+				power="2">
 				<effect_flags>
 					<flag name="EFFECT_SAME_TYPE_MORALE" />
 				</effect_flags>
@@ -347,21 +250,9 @@
 				item="gwint_card_kaedweni_siege3"
 				/>
 			<card index="160"
-				title="gwint_name_blue_stripes"
 				name="blue_stripes"
-				description="gwint_desc_blue_stripes"
-				power="4"
-				picture="nor_blue_stripes"
-				faction_index="F_NORTHERN_KINGDOM"
-				item="gwint_card_blue_stripes"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_MELEE" />
-				</type_flags>
-				<effect_flags>
-					<flag name="EFFECT_SAME_TYPE_MORALE" />
-				</effect_flags>
+				on_conflict="extend"
+				item="gwint_card_blue_stripes">
 				<summonFlags>
 					<flag name="blue_stripes" />
 					<flag name="blue_stripes2" />
@@ -375,8 +266,7 @@
 				item="gwint_card_blue_stripes2"
 				power="4"
 				picture="nor_blue_stripes_1"
-				faction_index="F_NORTHERN_KINGDOM"
-				on_conflict="replace">
+				faction_index="F_NORTHERN_KINGDOM">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_MELEE" />
@@ -397,8 +287,7 @@
 				item="gwint_card_blue_stripes3"
 				power="4"
 				picture="nor_blue_stripes_2"
-				faction_index="F_NORTHERN_KINGDOM"
-				on_conflict="replace">
+				faction_index="F_NORTHERN_KINGDOM">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_MELEE" />
@@ -419,8 +308,7 @@
 				item="gwint_card_siege_tower2"
 				power="6"
 				picture="nor_siege_tower_1"
-				faction_index="F_NORTHERN_KINGDOM"
-				on_conflict="replace">
+				faction_index="F_NORTHERN_KINGDOM">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_SIEGE" />
@@ -441,8 +329,7 @@
 				item="gwint_card_witch_hunter"
 				power="6"
 				picture="nor_witch_hunters"
-				faction_index="F_NORTHERN_KINGDOM"
-				on_conflict="replace">
+				faction_index="F_NORTHERN_KINGDOM">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_MELEE" />
@@ -458,8 +345,7 @@
 				item="gwint_card_ballista_officer"
 				power="3"
 				picture="nor_ballista_officer"
-				faction_index="F_NEUTRAL"
-				on_conflict="replace">
+				faction_index="F_NEUTRAL">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_SIEGE" />
@@ -480,50 +366,27 @@
 				power="8"
 				/>
 			<card index="202"
-				title="gwint_name_moorvran"
 				name="moorvran"
-				description="gwint_desc_moorvran"
-				power="8"
-				picture="nil_moorvran"
-				faction_index="F_NILFGAARD"
-				on_conflict="replace">
+				on_conflict="extend"
+				power="8">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_MELEE" />
 				</type_flags>
-				<effect_flags>
-					<flag name="EFFECT_NONE" />
-				</effect_flags>
 			</card>
 			<card index="203"
-				title="gwint_name_tibor"
 				name="tibor"
-				description="gwint_desc_tibor"
-				power="10"
-				picture="nil_tibor"
-				faction_index="F_NILFGAARD"
-				on_conflict="replace">
+				on_conflict="extend">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_HERO" />
 					<flag name="TYPE_MELEE" />
 				</type_flags>
-				<effect_flags>
-					<flag name="EFFECT_NONE" />
-				</effect_flags>
 			</card>
 			<card index="205"
-				title="gwint_name_albrich"
 				name="albrich"
-				description="gwint_desc_albrich"
-				power="0"
-				picture="nil_albrich"
-				faction_index="F_NILFGAARD"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_RANGED" />
-				</type_flags>
+				on_conflict="extend"
+				power="0">
 				<effect_flags>
 					<flag name="EFFECT_NURSE" />
 				</effect_flags>
@@ -534,17 +397,9 @@
 				power="5"
 				/>
 			<card index="207"
-				title="gwint_name_cynthia"
 				name="cynthia"
-				description="gwint_desc_cynthia"
-				power="1"
-				picture="nil_cynthia"
-				faction_index="F_NILFGAARD"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_RANGED" />
-				</type_flags>
+				on_conflict="extend"
+				power="1">
 				<effect_flags>
 					<flag name="EFFECT_NURSE" />
 				</effect_flags>
@@ -560,17 +415,9 @@
 				power="5"
 				/>
 			<card index="212"
-				title="gwint_name_rotten"
 				name="rotten"
-				description="gwint_desc_rotten"
-				power="2"
-				picture="nil_rotten"
-				faction_index="F_NILFGAARD"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_SIEGE" />
-				</type_flags>
+				on_conflict="extend"
+				power="2">
 				<effect_flags>
 					<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 				</effect_flags>
@@ -581,17 +428,9 @@
 				power="4"
 				/>
 			<card index="217"
-				title="gwint_name_vanhemar"
 				name="vanhemar"
-				description="gwint_desc_vanhemar"
-				power="2"
-				picture="nil_vanhemar"
-				faction_index="F_NILFGAARD"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_RANGED" />
-				</type_flags>
+				on_conflict="extend"
+				power="2">
 				<effect_flags>
 					<flag name="EFFECT_NURSE" />
 				</effect_flags>
@@ -602,65 +441,33 @@
 				power="4"
 				/>
 			<card index="221"
-				title="gwint_name_puttkammer"
 				name="puttkammer"
-				description="gwint_desc_puttkammer"
-				power="1"
-				picture="nil_puttkammer"
-				faction_index="F_NILFGAARD"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_RANGED" />
-				</type_flags>
+				on_conflict="extend"
+				power="1">
 				<effect_flags>
 					<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 				</effect_flags>
 			</card>
 			<card index="230"
-				title="gwint_name_archer_support"
 				name="archer_support"
-				description="gwint_desc_archer_support"
-				power="7"
-				picture="nil_archer_support"
-				faction_index="F_NILFGAARD"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_RANGED" />
-				</type_flags>
+				on_conflict="extend"
+				power="7">
 				<effect_flags>
 					<flag name="EFFECT_NONE" />
 				</effect_flags>
 			</card>
 			<card index="231"
-				title="gwint_name_archer_support"
 				name="archer_support2"
-				description="gwint_desc_archer_support"
-				power="7"
-				picture="nil_archer_support_1"
-				faction_index="F_NILFGAARD"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_RANGED" />
-				</type_flags>
+				on_conflict="extend"
+				power="7">
 				<effect_flags>
 					<flag name="EFFECT_NONE" />
 				</effect_flags>
 			</card>
 			<card index="235"
-				title="gwint_name_black_archer"
 				name="black_archer"
-				description="gwint_desc_black_archer"
-				power="5"
-				picture="nil_black_archer"
-				faction_index="F_NILFGAARD"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_RANGED" />
-				</type_flags>
+				on_conflict="extend"
+				power="5">
 				<effect_flags>
 					<flag name="EFFECT_SAME_TYPE_MORALE" />
 				</effect_flags>
@@ -670,17 +477,9 @@
 				</summonFlags>
 			</card>
 			<card index="236"
-				title="gwint_name_black_archer"
 				name="black_archer2"
-				description="gwint_desc_black_archer"
-				power="5"
-				picture="nil_black_archer_1"
-				faction_index="F_NILFGAARD"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_RANGED" />
-				</type_flags>
+				on_conflict="extend"
+				power="5">
 				<effect_flags>
 					<flag name="EFFECT_SAME_TYPE_MORALE" />
 				</effect_flags>
@@ -715,95 +514,48 @@
 				picture="nil_nauzicaa_1"
 				/>
 			<card index="255"
-				title="gwint_name_combat_engineer"
 				name="combat_engineer"
-				description="gwint_desc_combat_engineer"
-				power="2"
-				picture="nil_siege_engineer"
-				faction_index="F_NILFGAARD"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_SIEGE" />
-				</type_flags>
+				on_conflict="extend"
+				power="2">
 				<effect_flags>
 					<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 				</effect_flags>
 			</card>
 			<card index="265"
-				title="gwint_name_siege_support"
 				name="siege_support"
-				description="gwint_desc_siege_support"
-				power="0"
-				picture="nil_siege_support"
-				faction_index="F_NILFGAARD"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_SIEGE" />
-				</type_flags>
+				on_conflict="extend">
 				<effect_flags>
 					<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 				</effect_flags>
 			</card>
 			<card index="300"
-				title="gwint_name_eithne"
 				name="eithne"
-				description="gwint_desc_eithne"
-				power="10"
-				picture="sco_eithne"
-				faction_index="F_SCOIATAEL"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_HERO" />
-					<flag name="TYPE_RANGED" />
-				</type_flags>
+				on_conflict="extend">
 				<effect_flags>
 					<flag name="EFFECT_NURSE" />
 				</effect_flags>
 			</card>
 			<card index="301"
-				title="gwint_name_saskia"
 				name="saskia"
-				description="gwint_desc_saskia"
-				power="8"
-				picture="sco_saskia"
-				faction_index="F_SCOIATAEL"
-				on_conflict="replace">
+				on_conflict="extend"
+				power="8">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_RANGED" />
 				</type_flags>
-				<effect_flags>
-					<flag name="EFFECT_NONE" />
-				</effect_flags>
 			</card>
 			<card index="302"
-				title="gwint_name_isengrim"
 				name="isengrim"
-				description="gwint_desc_isengrim"
-				power="9"
-				picture="sco_isengrim"
-				faction_index="F_SCOIATAEL"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_HERO" />
-					<flag name="TYPE_MELEE" />
-				</type_flags>
+				on_conflict="extend"
+				power="9">
 				<effect_flags>
 					<flag name="EFFECT_NONE" />
 				</effect_flags>
 			</card>
 			<card index="303"
-				title="gwint_name_iorveth"
 				name="iorveth"
-				description="gwint_desc_iorveth"
-				power="7"
-				picture="sco_iorveth"
-				faction_index="F_SCOIATAEL"
-				on_conflict="replace">
+				on_conflict="extend"
+				power="7">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_RANGED" />
@@ -828,21 +580,14 @@
 				power="5"
 				/>
 			<card index="310"
-				title="gwint_name_toruviel"
 				name="toruviel"
-				description="gwint_desc_toruviel"
-				power="4"
-				picture="sco_toruviel"
-				faction_index="F_SCOIATAEL"
-				on_conflict="replace">
+				on_conflict="extend"
+				power="4">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_MELEE" />
 					<flag name="TYPE_RANGED" />
 				</type_flags>
-				<effect_flags>
-					<flag name="EFFECT_NONE" />
-				</effect_flags>
 			</card>
 			<card index="311"
 				name="riordain"
@@ -850,20 +595,12 @@
 				power="3"
 				/>
 			<card index="313"
-				title="gwint_name_barclay"
 				name="barclay"
-				description="gwint_desc_barclay"
-				power="6"
-				picture="sco_barclay"
-				faction_index="F_SCOIATAEL"
-				on_conflict="replace">
+				on_conflict="extend">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_MELEE" />
 				</type_flags>
-				<effect_flags>
-					<flag name="EFFECT_NONE" />
-				</effect_flags>
 			</card>
 			<card index="325"
 				name="vrihedd_brigade"
@@ -876,19 +613,9 @@
 				power="6"
 				/>
 			<card index="330"
-				title="gwint_name_dol_scout"
 				name="dol_scout"
-				item="gwint_card_dol_infantry"
-				description="gwint_desc_dol_scout"
-				power="5"
-				picture="sco_dol_infantry"
-				faction_index="F_SCOIATAEL"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_MELEE" />
-					<flag name="TYPE_RANGED" />
-				</type_flags>
+				on_conflict="extend"
+				power="5">
 				<effect_flags>
 					<flag name="EFFECT_SUMMON_CLONES" />
 				</effect_flags>
@@ -899,19 +626,9 @@
 				</summonFlags>
 			</card>
 			<card index="331"
-				title="gwint_name_dol_scout"
 				name="dol_scout2"
-				item="gwint_card_dol_infantry2"
-				description="gwint_desc_dol_scout"
-				power="5"
-				picture="sco_dol_infantry_1"
-				faction_index="F_SCOIATAEL"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_MELEE" />
-					<flag name="TYPE_RANGED" />
-				</type_flags>
+				on_conflict="extend"
+				power="5">
 				<effect_flags>
 					<flag name="EFFECT_SUMMON_CLONES" />
 				</effect_flags>
@@ -922,19 +639,9 @@
 				</summonFlags>
 			</card>
 			<card index="332"
-				title="gwint_name_dol_scout"
 				name="dol_scout3"
-				item="gwint_card_dol_infantry3"
-				description="gwint_desc_dol_scout"
-				power="5"
-				picture="sco_dol_infantry_2"
-				faction_index="F_SCOIATAEL"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_MELEE" />
-					<flag name="TYPE_RANGED" />
-				</type_flags>
+				on_conflict="extend"
+				power="5">
 				<effect_flags>
 					<flag name="EFFECT_SUMMON_CLONES" />
 				</effect_flags>
@@ -960,81 +667,36 @@
 				power="4"
 				/>
 			<card index="340"
-				title="gwint_name_mahakam"
 				name="mahakam"
-				description="gwint_desc_mahakam"
-				power="5"
-				picture="sco_mahakam"
-				faction_index="F_SCOIATAEL"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_MELEE" />
-				</type_flags>
+				on_conflict="extend">
 				<effect_flags>
 					<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 				</effect_flags>
 			</card>
 			<card index="341"
-				title="gwint_name_mahakam"
 				name="mahakam2"
-				description="gwint_desc_mahakam"
-				power="5"
-				picture="sco_mahakam_1"
-				faction_index="F_SCOIATAEL"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_MELEE" />
-				</type_flags>
+				on_conflict="extend">
 				<effect_flags>
 					<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 				</effect_flags>
 			</card>
 			<card index="342"
-				title="gwint_name_mahakam"
 				name="mahakam3"
-				description="gwint_desc_mahakam"
-				power="5"
-				picture="sco_mahakam_2"
-				faction_index="F_SCOIATAEL"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_MELEE" />
-				</type_flags>
+				on_conflict="extend">
 				<effect_flags>
 					<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 				</effect_flags>
 			</card>
 			<card index="343"
-				title="gwint_name_mahakam"
 				name="mahakam4"
-				description="gwint_desc_mahakam"
-				power="5"
-				picture="sco_mahakam_3"
-				faction_index="F_SCOIATAEL"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_MELEE" />
-				</type_flags>
+				on_conflict="extend">
 				<effect_flags>
 					<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 				</effect_flags>
 			</card>
 			<card index="344"
-				title="gwint_name_mahakam"
 				name="mahakam5"
-				description="gwint_desc_mahakam"
-				power="5"
-				picture="sco_mahakam_4"
-				faction_index="F_SCOIATAEL"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_MELEE" />
-				</type_flags>
+				on_conflict="extend">
 				<effect_flags>
 					<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 				</effect_flags>
@@ -1065,21 +727,14 @@
 				power="7"
 				/>
 			<card index="401"
-				title="gwint_name_kayran"
 				name="kayran"
-				description="gwint_desc_kayran"
-				power="7"
-				picture="nml_kayran"
-				faction_index="F_NO_MANS_LAND"
-				on_conflict="replace">
+				on_conflict="extend"
+				power="7">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_MELEE" />
 					<flag name="TYPE_RANGED" />
 				</type_flags>
-				<effect_flags>
-					<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
-				</effect_flags>
 			</card>
 			<card index="402"
 				name="imlerith"
@@ -1087,20 +742,13 @@
 				power="13"
 				/>
 			<card index="403"
-				title="gwint_name_leshen"
 				name="leshen"
-				description="gwint_desc_leshen"
-				power="7"
-				picture="nml_leshan"
-				faction_index="F_NO_MANS_LAND"
-				on_conflict="replace">
+				on_conflict="extend"
+				power="7">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_RANGED" />
 				</type_flags>
-				<effect_flags>
-					<flag name="EFFECT_NONE" />
-				</effect_flags>
 			</card>
 			<card index="413"
 				name="plague_maiden"
@@ -1168,18 +816,8 @@
 				power="17"
 				/>
 			<card index="501"
-				title="gwint_name_hjalmar"
 				name="hjalmar"
-				description="gwint_desc_hjalmar"
-				power="10"
-				picture="ske_hjalmar"
-				faction_index="F_SKELLIGE"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_HERO" />
-					<flag name="TYPE_RANGED" />
-				</type_flags>
+				on_conflict="extend">
 				<effect_flags>
 					<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 				</effect_flags>

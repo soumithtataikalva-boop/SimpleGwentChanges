@@ -1258,7 +1258,6 @@
 		<loot_entry name="Rotten meat"								player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="5"	chance="-1"			/>
 		<loot_entry name="Torch"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="5"	chance="-1"			/>
 <!-- GWINT -->
-		<loot_entry name="gwint_card_poor_infantry2"				player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
 		<loot_entry name="gwint_card_crinfrid3"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
 		<loot_entry name="gwint_card_blue_stripes3"					player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
 		<loot_entry name="gwint_card_morteisen"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>

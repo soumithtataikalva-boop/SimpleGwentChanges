@@ -26,15 +26,19 @@
 					<card name="trebuchet" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
+					<!-- SGR: Use distinct variant poor_infantry2 instead of another poor_infantry. -->
 					<card name="poor_infantry2" />
 					<card name="redanian" />
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
+					<!-- SGR: Use distinct variant kaedweni_siege2 instead of another kaedweni_siege. -->
 					<card name="kaedweni_siege2" />
+					<!-- SGR: Use distinct variant kaedweni_siege3 instead of another kaedweni_siege. -->
 					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -59,15 +63,19 @@
 					<card name="trebuchet" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
+					<!-- SGR: Use distinct variant poor_infantry2 instead of another poor_infantry. -->
 					<card name="poor_infantry2" />
 					<card name="redanian" />
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
+					<!-- SGR: Use distinct variant kaedweni_siege2 instead of another kaedweni_siege. -->
 					<card name="kaedweni_siege2" />
+					<!-- SGR: Use distinct variant kaedweni_siege3 instead of another kaedweni_siege. -->
 					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -92,15 +100,19 @@
 					<card name="trebuchet" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
+					<!-- SGR: Use distinct variant poor_infantry2 instead of another poor_infantry. -->
 					<card name="poor_infantry2" />
 					<card name="redanian" />
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
+					<!-- SGR: Use distinct variant kaedweni_siege2 instead of another kaedweni_siege. -->
 					<card name="kaedweni_siege2" />
+					<!-- SGR: Use distinct variant kaedweni_siege3 instead of another kaedweni_siege. -->
 					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -221,6 +233,7 @@
 					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -251,6 +264,7 @@
 					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -281,6 +295,7 @@
 					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -312,7 +327,9 @@
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
+					<!-- SGR: Use distinct variant blue_stripes3 instead of another blue_stripes. -->
 					<card name="blue_stripes3" />
 					<!-- difficulty 1 -->
 					<card name="horn" />
@@ -323,13 +340,16 @@
 					<card name="redanian" />
 					<card name="redanian2" />
 					<card name="gwint_card_siegfried" />
+					<!-- SGR: Include faction-compatible special card vernon in the static deck. -->
 					<card name="vernon" />
 				</deck>
 
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="foltest_copper" specialCard="vernon">
 					<card name="poor_infantry" />
+					<!-- SGR: Use distinct variant poor_infantry2 instead of another poor_infantry. -->
 					<card name="poor_infantry2" />
+					<!-- SGR: Use distinct variant poor_infantry3 instead of another poor_infantry. -->
 					<card name="poor_infantry3" />
 					<card name="crinfrid" />
 					<card name="crinfrid" />
@@ -337,9 +357,12 @@
 					<card name="catapult" />
 					<card name="catapult" />
 					<card name="ballista" />
+					<!-- SGR: Use distinct variant ballista2 instead of another ballista. -->
 					<card name="ballista2" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
+					<!-- SGR: Use distinct variant blue_stripes3 instead of another blue_stripes. -->
 					<card name="blue_stripes3" />
 					<!-- difficulty 1 -->
 					<card name="horn" />
@@ -359,6 +382,7 @@
 					<card name="clear_sky" />
 					<card name="clear_sky" />
 					<card name="gwint_card_siegfried" />
+					<!-- SGR: Include faction-compatible special card vernon in the static deck. -->
 					<card name="vernon" />
 				</deck>
 
@@ -375,7 +399,9 @@
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
+					<!-- SGR: Use distinct variant blue_stripes3 instead of another blue_stripes. -->
 					<card name="blue_stripes3" />
 					<!-- difficulty 1 -->
 					<card name="horn" />
@@ -404,6 +430,7 @@
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="yennefer" />
+					<!-- SGR: Include faction-compatible special card vernon in the static deck. -->
 					<card name="vernon" />
 				</deck>
 
@@ -439,6 +466,7 @@
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
@@ -447,6 +475,7 @@
 					<card name="fog" />
 					<card name="yarpen" />
 					<card name="redanian2" />
+					<!-- SGR: Include faction-compatible special card esterad in the static deck. -->
 					<card name="esterad" />
 				</deck>
 
@@ -468,6 +497,7 @@
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
@@ -482,6 +512,7 @@
 					<card name="frost" />
 					<card name="fog" />
 					<card name="clear_sky" />
+					<!-- SGR: Include faction-compatible special card esterad in the static deck. -->
 					<card name="esterad" />
 				</deck>
 
@@ -503,6 +534,7 @@
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
@@ -521,6 +553,7 @@
 					<card name="dummy" />
 					<card name="natalis" />
 					<card name="yennefer" />
+					<!-- SGR: Include faction-compatible special card esterad in the static deck. -->
 					<card name="esterad" />
 				</deck>
 
@@ -550,7 +583,9 @@
 					<card name="stennis" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
+					<!-- SGR: Use distinct variant poor_infantry2 instead of another poor_infantry. -->
 					<card name="poor_infantry2" />
+					<!-- SGR: Use distinct variant poor_infantry3 instead of another poor_infantry. -->
 					<card name="poor_infantry3" />
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
@@ -558,9 +593,12 @@
 					<card name="catapult" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
+					<!-- SGR: Use distinct variant blue_stripes3 instead of another blue_stripes. -->
 					<card name="blue_stripes3" />
 					<card name="siege_tower" />
+					<!-- SGR: Include faction-compatible special card dijkstra in the static deck. -->
 					<card name="dijkstra" />
 				</deck>
 
@@ -576,7 +614,9 @@
 					<card name="stennis" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
+					<!-- SGR: Use distinct variant poor_infantry2 instead of another poor_infantry. -->
 					<card name="poor_infantry2" />
+					<!-- SGR: Use distinct variant poor_infantry3 instead of another poor_infantry. -->
 					<card name="poor_infantry3" />
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
@@ -584,7 +624,9 @@
 					<card name="catapult" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
+					<!-- SGR: Use distinct variant blue_stripes3 instead of another blue_stripes. -->
 					<card name="blue_stripes3" />
 					<card name="siege_tower" />
 					<!-- difficulty 1 -->
@@ -593,6 +635,7 @@
 					<card name="rain" />
 					<!-- difficulty 2 -->
 					<card name="scorch" />
+					<!-- SGR: Include faction-compatible special card dijkstra in the static deck. -->
 					<card name="dijkstra" />
 				</deck>
 
@@ -608,7 +651,9 @@
 					<card name="stennis" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
+					<!-- SGR: Use distinct variant poor_infantry2 instead of another poor_infantry. -->
 					<card name="poor_infantry2" />
+					<!-- SGR: Use distinct variant poor_infantry3 instead of another poor_infantry. -->
 					<card name="poor_infantry3" />
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
@@ -616,7 +661,9 @@
 					<card name="catapult" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
+					<!-- SGR: Use distinct variant blue_stripes3 instead of another blue_stripes. -->
 					<card name="blue_stripes3" />
 					<card name="siege_tower" />
 					<!-- difficulty 1 -->
@@ -629,6 +676,7 @@
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="natalis" />
+					<!-- SGR: Include faction-compatible special card dijkstra in the static deck. -->
 					<card name="dijkstra" />
 				</deck>
 
@@ -639,6 +687,7 @@
 					<card name="triss" difficulty="11" />
 					<card name="dandelion" difficulty="11" />
 					<card name="villen" difficulty="14" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
@@ -746,10 +795,12 @@
 				<dynamicCards>
 					<card name="villen" difficulty="5" />
 					<card name="scorch" difficulty="7" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="vesemir" difficulty="11" />
 					<card name="dandelion" difficulty="14" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
@@ -781,6 +832,7 @@
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 				</deck>
 
@@ -813,6 +865,7 @@
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 				</deck>
 
@@ -848,6 +901,7 @@
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 				</deck>
 
@@ -857,7 +911,9 @@
 					<card name="yennefer" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="vesemir" difficulty="11" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" difficulty="14" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
@@ -890,8 +946,11 @@
 					<card name="impera_brigade" />
 					<card name="impera_brigade2" />
 					<card name="impera_brigade3" />
+					<!-- SGR: Replace archer_support with albrich to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="albrich" />
+					<!-- SGR: Replace archer_support2 with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
+					<!-- SGR: Include faction-compatible special card yennefer in the static deck. -->
 					<card name="yennefer" />
 				</deck>
 
@@ -924,8 +983,11 @@
 					<card name="impera_brigade" />
 					<card name="impera_brigade2" />
 					<card name="impera_brigade3" />
+					<!-- SGR: Replace archer_support with albrich to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="albrich" />
+					<!-- SGR: Replace archer_support2 with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
+					<!-- SGR: Include faction-compatible special card yennefer in the static deck. -->
 					<card name="yennefer" />
 				</deck>
 
@@ -960,8 +1022,11 @@
 					<card name="impera_brigade" />
 					<card name="impera_brigade2" />
 					<card name="impera_brigade3" />
+					<!-- SGR: Replace archer_support with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
+					<!-- SGR: Replace archer_support2 with albrich to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="albrich" />
+					<!-- SGR: Include faction-compatible special card yennefer in the static deck. -->
 					<card name="yennefer" />
 				</deck>
 
@@ -972,6 +1037,7 @@
 					<card name="archer_support2" difficulty="11" />
 					<card name="vesemir" difficulty="11" />
 					<card name="dandelion" difficulty="14" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
@@ -994,7 +1060,9 @@
 					<!-- common -->
 					<card name="renuald" />
 					<card name="shilard" />
+					<!-- SGR: Replace archer_support with cynthia to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="cynthia" />
+					<!-- SGR: Replace archer_support2 with albrich to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="albrich" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
@@ -1007,7 +1075,9 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
+					<!-- SGR: Replace siege_support with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
+					<!-- SGR: Include faction-compatible special card menno in the static deck. -->
 					<card name="menno" />
 				</deck>
 
@@ -1032,7 +1102,9 @@
 					<!-- common -->
 					<card name="renuald" />
 					<card name="shilard" />
+					<!-- SGR: Replace archer_support with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
+					<!-- SGR: Replace archer_support2 with albrich to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="albrich" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
@@ -1045,7 +1117,9 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
+					<!-- SGR: Replace siege_support with cynthia to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="cynthia" />
+					<!-- SGR: Include faction-compatible special card menno in the static deck. -->
 					<card name="menno" />
 				</deck>
 
@@ -1073,7 +1147,9 @@
 					<!-- common -->
 					<card name="renuald" />
 					<card name="shilard" />
+					<!-- SGR: Replace archer_support with albrich to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="albrich" />
+					<!-- SGR: Replace archer_support2 with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
@@ -1086,7 +1162,9 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
+					<!-- SGR: Replace siege_support with cynthia to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="cynthia" />
+					<!-- SGR: Include faction-compatible special card menno in the static deck. -->
 					<card name="menno" />
 				</deck>
 
@@ -1096,8 +1174,10 @@
 					<card name="horn" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="zoltan" difficulty="11" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -1129,7 +1209,9 @@
 					<card name="impera_brigade2" />
 					<card name="nausicaa" />
 					<card name="combat_engineer" />
+					<!-- SGR: Replace siege_support with cynthia to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="cynthia" />
+					<!-- SGR: Include faction-compatible special card letho in the static deck. -->
 					<card name="letho" />
 				</deck>
 
@@ -1162,7 +1244,9 @@
 					<card name="impera_brigade2" />
 					<card name="nausicaa" />
 					<card name="combat_engineer" />
+					<!-- SGR: Replace siege_support with cynthia to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="cynthia" />
+					<!-- SGR: Include faction-compatible special card letho in the static deck. -->
 					<card name="letho" />
 				</deck>
 
@@ -1198,7 +1282,9 @@
 					<card name="impera_brigade2" />
 					<card name="nausicaa" />
 					<card name="combat_engineer" />
+					<!-- SGR: Replace siege_support with cynthia to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="cynthia" />
+					<!-- SGR: Include faction-compatible special card letho in the static deck. -->
 					<card name="letho" />
 				</deck>
 
@@ -1208,6 +1294,7 @@
 					<card name="nausicaa2" difficulty="9" />
 					<card name="nausicaa3" difficulty="11" />
 					<card name="young_emissary" difficulty="11" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 					<card name="dandelion" difficulty="14" />
@@ -1237,13 +1324,16 @@
 					<card name="stefan" />
 					<card name="cahir" />
 					<card name="puttkammer" />
+					<!-- SGR: Replace archer_support with albrich to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="albrich" />
+					<!-- SGR: Replace archer_support2 with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
 					<card name="impera_brigade" />
 					<card name="impera_brigade2" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
+					<!-- SGR: Include faction-compatible special card moorvran in the static deck. -->
 					<card name="moorvran" />
 				</deck>
 
@@ -1275,13 +1365,16 @@
 					<card name="stefan" />
 					<card name="cahir" />
 					<card name="puttkammer" />
+					<!-- SGR: Replace archer_support with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
+					<!-- SGR: Replace archer_support2 with cynthia to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="cynthia" />
 					<card name="impera_brigade" />
 					<card name="impera_brigade2" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
+					<!-- SGR: Include faction-compatible special card moorvran in the static deck. -->
 					<card name="moorvran" />
 				</deck>
 
@@ -1318,13 +1411,16 @@
 					<card name="stefan" />
 					<card name="cahir" />
 					<card name="puttkammer" />
+					<!-- SGR: Replace archer_support with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
+					<!-- SGR: Replace archer_support2 with cynthia to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="cynthia" />
 					<card name="impera_brigade" />
 					<card name="impera_brigade2" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
+					<!-- SGR: Include faction-compatible special card moorvran in the static deck. -->
 					<card name="moorvran" />
 				</deck>
 
@@ -1334,8 +1430,10 @@
 					<card name="zoltan" difficulty="9" />
 					<card name="dandelion" difficulty="11" />
 					<card name="emiel" difficulty="11" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -1362,8 +1460,10 @@
 					<card name="black_archer2" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
+					<!-- SGR: Replace siege_support with cynthia to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="cynthia" />
-					<card name="moorvran" />
+					<!-- SGR: Move Mysterious Elf into every static deck to match Gremist's reward. -->
+					<card name="mysterious_elf" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1393,8 +1493,10 @@
 					<card name="black_archer2" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
+					<!-- SGR: Replace siege_support with cynthia to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="cynthia" />
-					<card name="moorvran" />
+					<!-- SGR: Move Mysterious Elf into every static deck to match Gremist's reward. -->
+					<card name="mysterious_elf" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1430,19 +1532,23 @@
 					<card name="black_archer2" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
+					<!-- SGR: Replace siege_support with cynthia to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="cynthia" />
-					<card name="moorvran" />
+					<!-- SGR: Move Mysterious Elf into every static deck to match Gremist's reward. -->
+					<card name="mysterious_elf" />
 				</deck>
 
 				<dynamicCards>
 					<card name="villen" difficulty="5" />
 					<card name="dandelion" difficulty="7" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" difficulty="9" />
 					<card name="vesemir" difficulty="11" />
 					<card name="yennefer" difficulty="11" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
-					<card name="mysterious_elf" difficulty="14" />
+					<!-- SGR: Remove dynamic Mysterious Elf; it is now present at every static difficulty. -->
 				</dynamicCards>
 			</deck_collection>
 
@@ -1472,6 +1578,7 @@
 					<card name="mahakam2" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<!-- SGR: Include faction-compatible special card eithne in the static deck. -->
 					<card name="eithne" />
 				</deck>
 
@@ -1507,6 +1614,7 @@
 					<card name="mahakam2" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<!-- SGR: Include faction-compatible special card eithne in the static deck. -->
 					<card name="eithne" />
 				</deck>
 
@@ -1547,6 +1655,7 @@
 					<card name="mahakam2" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<!-- SGR: Include faction-compatible special card eithne in the static deck. -->
 					<card name="eithne" />
 				</deck>
 
@@ -1556,6 +1665,7 @@
 					<card name="yennefer" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="emiel" difficulty="11" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 					<card name="mysterious_elf" difficulty="14" />
@@ -1589,6 +1699,7 @@
 					<card name="dol_archer" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<!-- SGR: Include faction-compatible special card triss in the static deck. -->
 					<card name="triss" />
 				</deck>
 
@@ -1621,6 +1732,7 @@
 					<card name="dol_archer" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<!-- SGR: Include faction-compatible special card triss in the static deck. -->
 					<card name="triss" />
 				</deck>
 
@@ -1658,6 +1770,7 @@
 					<card name="dol_archer" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<!-- SGR: Include faction-compatible special card triss in the static deck. -->
 					<card name="triss" />
 				</deck>
 
@@ -1668,6 +1781,7 @@
 					<card name="scorch" difficulty="11" />
 					<card name="zoltan" difficulty="11" />
 					<card name="villen" difficulty="14" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -1703,6 +1817,7 @@
 					<card name="vrihedd_cadet" />
 					<card name="dol_archer" />
 					<card name="havcaaren_medic" />
+					<!-- SGR: Include faction-compatible special card geralt in the static deck. -->
 					<card name="geralt" />
 				</deck>
 
@@ -1740,6 +1855,7 @@
 					<card name="vrihedd_cadet" />
 					<card name="dol_archer" />
 					<card name="havcaaren_medic" />
+					<!-- SGR: Include faction-compatible special card geralt in the static deck. -->
 					<card name="geralt" />
 				</deck>
 
@@ -1784,6 +1900,7 @@
 					<card name="vrihedd_cadet" />
 					<card name="dol_archer" />
 					<card name="havcaaren_medic" />
+					<!-- SGR: Include faction-compatible special card geralt in the static deck. -->
 					<card name="geralt" />
 				</deck>
 
@@ -1826,6 +1943,7 @@
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 					<card name="havcaaren_medic3" />
+					<!-- SGR: Include faction-compatible special card vesemir in the static deck. -->
 					<card name="vesemir" />
 				</deck>
 
@@ -1857,6 +1975,7 @@
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 					<card name="havcaaren_medic3" />
+					<!-- SGR: Include faction-compatible special card vesemir in the static deck. -->
 					<card name="vesemir" />
 				</deck>
 
@@ -1891,6 +2010,7 @@
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 					<card name="havcaaren_medic3" />
+					<!-- SGR: Include faction-compatible special card vesemir in the static deck. -->
 					<card name="vesemir" />
 				</deck>
 
@@ -1900,6 +2020,7 @@
 					<card name="dummy" difficulty="9" />
 					<card name="mysterious_elf" difficulty="11" />
 					<card name="triss" difficulty="11" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 					<card name="emiel" difficulty="14" />
@@ -1934,6 +2055,7 @@
 					<card name="elf_skirmisher" />
 					<card name="elf_skirmisher2" />
 					<card name="elf_skirmisher3" />
+					<!-- SGR: Include faction-compatible special card ciri in the static deck. -->
 					<card name="ciri" />
 				</deck>
 
@@ -1969,6 +2091,7 @@
 					<card name="elf_skirmisher" />
 					<card name="elf_skirmisher2" />
 					<card name="elf_skirmisher3" />
+					<!-- SGR: Include faction-compatible special card ciri in the static deck. -->
 					<card name="ciri" />
 				</deck>
 
@@ -2010,6 +2133,7 @@
 					<card name="elf_skirmisher" />
 					<card name="elf_skirmisher2" />
 					<card name="elf_skirmisher3" />
+					<!-- SGR: Include faction-compatible special card ciri in the static deck. -->
 					<card name="ciri" />
 				</deck>
 
@@ -2050,6 +2174,7 @@
 					<card name="wyvern" />
 					<card name="arachas_behemoth" />
 					<card name="arachas" />
+					<!-- SGR: Include faction-compatible special card draug in the static deck. -->
 					<card name="draug" />
 				</deck>
 
@@ -2085,6 +2210,7 @@
 					<card name="wyvern" />
 					<card name="arachas_behemoth" />
 					<card name="arachas" />
+					<!-- SGR: Include faction-compatible special card draug in the static deck. -->
 					<card name="draug" />
 				</deck>
 
@@ -2127,6 +2253,7 @@
 					<card name="wyvern" />
 					<card name="arachas_behemoth" />
 					<card name="arachas" />
+					<!-- SGR: Include faction-compatible special card draug in the static deck. -->
 					<card name="draug" />
 				</deck>
 
@@ -2136,8 +2263,10 @@
 					<card name="vesemir" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="emiel" difficulty="11" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -2175,6 +2304,7 @@
 					<card name="ekkima" />
 					<card name="fleder" />
 					<card name="bruxa" />
+					<!-- SGR: Include faction-compatible special card katakan in the static deck. -->
 					<card name="katakan" />
 				</deck>
 
@@ -2216,6 +2346,7 @@
 					<card name="ekkima" />
 					<card name="fleder" />
 					<card name="bruxa" />
+					<!-- SGR: Include faction-compatible special card katakan in the static deck. -->
 					<card name="katakan" />
 				</deck>
 
@@ -2264,6 +2395,7 @@
 					<card name="ekkima" />
 					<card name="fleder" />
 					<card name="bruxa" />
+					<!-- SGR: Include faction-compatible special card katakan in the static deck. -->
 					<card name="katakan" />
 				</deck>
 
@@ -2274,6 +2406,7 @@
 					<card name="triss" difficulty="11" />
 					<card name="vesemir" difficulty="11" />
 					<card name="scorch" difficulty="14" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -2308,6 +2441,7 @@
 					<card name="ghoul3" />
 					<card name="crone_brewess" />
 					<card name="crone_whispess" />
+					<!-- SGR: Include faction-compatible special card crone_weavess in the static deck. -->
 					<card name="crone_weavess" />
 				</deck>
 
@@ -2346,6 +2480,7 @@
 					<card name="ghoul3" />
 					<card name="crone_brewess" />
 					<card name="crone_whispess" />
+					<!-- SGR: Include faction-compatible special card crone_weavess in the static deck. -->
 					<card name="crone_weavess" />
 				</deck>
 
@@ -2392,6 +2527,7 @@
 					<card name="ghoul3" />
 					<card name="crone_brewess" />
 					<card name="crone_whispess" />
+					<!-- SGR: Include faction-compatible special card crone_weavess in the static deck. -->
 					<card name="crone_weavess" />
 				</deck>
 
@@ -2401,6 +2537,7 @@
 					<card name="scorch" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="emiel" difficulty="11" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 					<card name="dandelion" difficulty="14" />
@@ -2523,6 +2660,7 @@
 					<card name="dummy" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="vesemir" difficulty="11" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 					<card name="dandelion" difficulty="14" />
@@ -2565,6 +2703,7 @@
 					<card name="ghoul3" />
 					<card name="crone_weavess" />
 					<card name="crone_whispess" />
+					<!-- SGR: Include faction-compatible special card leshen in the static deck. -->
 					<card name="leshen" />
 				</deck>
 
@@ -2611,6 +2750,7 @@
 					<card name="ghoul3" />
 					<card name="crone_weavess" />
 					<card name="crone_whispess" />
+					<!-- SGR: Include faction-compatible special card leshen in the static deck. -->
 					<card name="leshen" />
 				</deck>
 
@@ -2666,6 +2806,7 @@
 					<card name="ghoul3" />
 					<card name="crone_weavess" />
 					<card name="crone_whispess" />
+					<!-- SGR: Include faction-compatible special card leshen in the static deck. -->
 					<card name="leshen" />
 				</deck>
 
@@ -2676,6 +2817,7 @@
 					<card name="triss" difficulty="11" />
 					<card name="emiel" difficulty="11" />
 					<card name="scorch" difficulty="14" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
@@ -2708,6 +2850,7 @@
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 					<card name="havcaaren_medic3" />
+					<!-- SGR: Include faction-compatible special card olgierd in the static deck. -->
 					<card name="olgierd" />
 				</deck>
 
@@ -2742,6 +2885,7 @@
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 					<card name="havcaaren_medic3" />
+					<!-- SGR: Include faction-compatible special card olgierd in the static deck. -->
 					<card name="olgierd" />
 				</deck>
 
@@ -2764,6 +2908,7 @@
 					<card name="mysterious_elf" />
 
 					<card name="scorch" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" />
 					<card name="eithne" />
 					<card name="saskia" />
@@ -2781,6 +2926,7 @@
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 					<card name="havcaaren_medic3" />
+					<!-- SGR: Include faction-compatible special card olgierd in the static deck. -->
 					<card name="olgierd" />
 				</deck>
 
@@ -2790,6 +2936,7 @@
 					<card name="triss" difficulty="11" />
 					<card name="dandelion" difficulty="11" />
 					<card name="villen" difficulty="14" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
@@ -2820,6 +2967,7 @@
 					<card name="bruxa" />
 					<card name="crone_weavess" />
 					<card name="crone_whispess" />
+					<!-- SGR: Include faction-compatible special card toad in the static deck. -->
 					<card name="toad" />
 				</deck>
 
@@ -2854,6 +3002,7 @@
 					<card name="bruxa" />
 					<card name="crone_weavess" />
 					<card name="crone_whispess" />
+					<!-- SGR: Include faction-compatible special card toad in the static deck. -->
 					<card name="toad" />
 				</deck>
 
@@ -2879,6 +3028,7 @@
 
 					<card name="dummy" />
 					<card name="horn" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" />
 
 					<card name="kayran" />
@@ -2892,6 +3042,7 @@
 					<card name="bruxa" />
 					<card name="crone_weavess" />
 					<card name="crone_whispess" />
+					<!-- SGR: Include faction-compatible special card toad in the static deck. -->
 					<card name="toad" />
 				</deck>
 
@@ -2902,6 +3053,7 @@
 					<card name="yennefer" difficulty="11" />
 					<card name="emiel" difficulty="11" />
 					<card name="scorch" difficulty="14" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
@@ -2909,84 +3061,212 @@
 
 			<!-- GamblerDeck -->
 			<deck_collection name="Gambler">
+				<!-- SGR: Use a Monsters leader; weather selection on easy and melee Horn on normal/hard. -->
 				<deck difficulty="1" leaderCard="eredin_bronze" specialCard="mrmirror">
+					<!-- SGR: Replace scorch with mrmirror for the Monsters rebuild and difficulty progression. -->
 					<card name="mrmirror" />
+					<!-- SGR: Remove impera_brigade for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove nausicaa for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove puttkammer for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove black_archer2 for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove tibor for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove fringilla for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove shilard for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove archer_support for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove archer_support2 for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove black_archer for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove zerri for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove young_emissary2 for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<card name="mrmirror_foglet" />
+					<!-- SGR: Add imlerith for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="imlerith" />
+					<!-- SGR: Add katakan for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="katakan" />
+					<!-- SGR: Add fleder for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="fleder" />
+					<!-- SGR: Add ghoul for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="ghoul" />
+					<!-- SGR: Add nekker for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="nekker" />
+					<!-- SGR: Add forktail for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="forktail" />
+					<!-- SGR: Add earth_elemental for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="earth_elemental" />
+					<!-- SGR: Add fire_elemental for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="fire_elemental" />
+					<!-- SGR: Add wyvern for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="wyvern" />
+					<!-- SGR: Add cockatrice for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="cockatrice" />
+					<!-- SGR: Add plague_maiden for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="plague_maiden" />
+					<!-- SGR: Add botchling for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="botchling" />
+					<!-- SGR: Add clear_sky for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="clear_sky" />
 				</deck>
+				<!-- SGR: Use a Monsters leader; weather selection on easy and melee Horn on normal/hard. -->
 				<deck difficulty="2" leaderCard="eredin_copper" specialCard="mrmirror">
+					<!-- SGR: Replace scorch with mrmirror for the Monsters rebuild and difficulty progression. -->
 					<card name="mrmirror" />
+					<!-- SGR: Replace impera_brigade with mrmirror_foglet for the Monsters rebuild and difficulty progression. -->
 					<card name="mrmirror_foglet" />
+					<!-- SGR: Replace nausicaa with mrmirror_foglet for the Monsters rebuild and difficulty progression. -->
 					<card name="mrmirror_foglet" />
+					<!-- SGR: Replace puttkammer with crone_brewess for the Monsters rebuild and difficulty progression. -->
 					<card name="crone_brewess" />
+					<!-- SGR: Add crone_weavess for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="crone_weavess" />
+					<!-- SGR: Add crone_whispess for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="crone_whispess" />
+					<!-- SGR: Add ekkima for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="ekkima" />
+					<!-- SGR: Add fleder for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="fleder" />
+					<!-- SGR: Add garkain for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="garkain" />
+					<!-- SGR: Add bruxa for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="bruxa" />
+					<!-- SGR: Add katakan for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="katakan" />
+					<!-- SGR: Add arachas_behemoth for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="arachas_behemoth" />
+					<!-- SGR: Add arachas for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="arachas" />
+					<!-- SGR: Add arachas2 for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="arachas2" />
+					<!-- SGR: Add arachas3 for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="arachas3" />
+					<!-- SGR: Add ice_giant for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="ice_giant" />
+					<!-- SGR: Add kayran for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="kayran" />
+					<!-- SGR: Add toad for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="toad" />
+					<!-- SGR: Add fiend for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="fiend" />
+					<!-- SGR: Add earth_elemental for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="earth_elemental" />
+					<!-- SGR: Add forktail for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="forktail" />
+					<!-- SGR: Add wyvern for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="wyvern" />
+					<!-- SGR: Add draug for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="draug" />
+					<!-- SGR: Add dummy for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="dummy" />
 					<card name="clear_sky" />
+					<!-- SGR: Remove dummy for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove dummy for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove letho for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove stefan for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove mrmirror_foglet for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove young_emissary for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove heavy_zerri for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove moorvran for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove black_archer2 for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove tibor for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove fringilla for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove shilard for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove archer_support for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove archer_support2 for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove black_archer for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove zerri for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove young_emissary2 for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove mrmirror_foglet for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 				</deck>
+				<!-- SGR: Use a Monsters leader; weather selection on easy and melee Horn on normal/hard. -->
 				<deck difficulty="3" leaderCard="eredin_copper" specialCard="mrmirror">
+					<!-- SGR: Replace scorch with mrmirror for the Monsters rebuild and difficulty progression. -->
 					<card name="mrmirror" />
+					<!-- SGR: Replace impera_brigade with ekkima for the Monsters rebuild and difficulty progression. -->
 					<card name="ekkima" />
+					<!-- SGR: Replace nausicaa with fleder for the Monsters rebuild and difficulty progression. -->
 					<card name="fleder" />
+					<!-- SGR: Replace puttkammer with garkain for the Monsters rebuild and difficulty progression. -->
 					<card name="garkain" />
+					<!-- SGR: Add bruxa for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="bruxa" />
+					<!-- SGR: Add katakan for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="katakan" />
+					<!-- SGR: Add arachas_behemoth for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="arachas_behemoth" />
+					<!-- SGR: Add arachas for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="arachas" />
+					<!-- SGR: Add arachas2 for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="arachas2" />
+					<!-- SGR: Add arachas3 for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="arachas3" />
+					<!-- SGR: Add crone_brewess for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="crone_brewess" />
+					<!-- SGR: Add crone_weavess for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="crone_weavess" />
+					<!-- SGR: Add crone_whispess for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="crone_whispess" />
+					<!-- SGR: Add imlerith for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="imlerith" />
+					<!-- SGR: Add draug for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="draug" />
+					<!-- SGR: Add kayran for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="kayran" />
+					<!-- SGR: Add toad for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="toad" />
+					<!-- SGR: Add ice_giant for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="ice_giant" />
+					<!-- SGR: Add geralt for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="geralt" />
+					<!-- SGR: Add roach for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="roach" />
+					<!-- SGR: Add ciri for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="ciri" />
+					<!-- SGR: Add yennefer for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="yennefer" />
+					<!-- SGR: Add mrmirror_foglet for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="mrmirror_foglet" />
+					<!-- SGR: Add mrmirror_foglet for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="mrmirror_foglet" />
+					<!-- SGR: Add mrmirror_foglet for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="mrmirror_foglet" />
+					<!-- SGR: Add dummy for the rebuilt Monsters deck and its difficulty progression. -->
 					<card name="dummy" />
 					<card name="clear_sky" />
+					<!-- SGR: Remove dummy for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove dummy for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove letho for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove stefan for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove mrmirror_foglet for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove young_emissary for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove heavy_zerri for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove moorvran for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove dummy for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove horn for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove horn for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove scorch for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove menno for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove vattier for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove mrmirror_foglet for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove yennefer for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove siege_support for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove black_archer2 for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove tibor for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove fringilla for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove shilard for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove archer_support for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove archer_support2 for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove black_archer for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove zerri for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove young_emissary2 for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove mrmirror_foglet for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 				</deck>
 				<dynamicCards>
 					<card name="villen" difficulty="1" />
 					<card name="mysterious_elf" difficulty="4" />
+					<!-- SGR: Remove dandelion for the Monsters rebuild; rebalance units, support and dynamic additions. -->
+					<!-- SGR: Remove impera_brigade4 for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 					<card name="triss" difficulty="6" />
+					<!-- SGR: Replace geraltgog with letho for the Monsters rebuild and difficulty progression. -->
 					<card name="letho" difficulty="8" />
+					<!-- SGR: Remove roach for the Monsters rebuild; rebalance units, support and dynamic additions. -->
 				</dynamicCards>
 			</deck_collection>
 
@@ -3011,7 +3291,6 @@
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-					<card name="mysterious_elf" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -3032,6 +3311,7 @@
 					<card name="thaler" />
 					<card name="dijkstra" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 
 					<card name="stennis" />
@@ -3039,10 +3319,10 @@
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista" />
+					<!-- SGR: Use distinct variant blue_stripes3 instead of another blue_stripes. -->
 					<card name="blue_stripes3" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-					<card name="mysterious_elf" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -3063,11 +3343,13 @@
 					<card name="thaler" />
 					<card name="dijkstra" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 
 					<card name="horn" />
 					<card name="esterad" />
 					<card name="natalis" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" />
 
 					<card name="stennis" />
@@ -3075,10 +3357,10 @@
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista" />
+					<!-- SGR: Use distinct variant blue_stripes3 instead of another blue_stripes. -->
 					<card name="blue_stripes3" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-					<card name="mysterious_elf" />
 				</deck>
 
 				<dynamicCards>
@@ -3086,6 +3368,7 @@
 					<card name="kaedweni_siege2" difficulty="5" />
 					<card name="dandelion" difficulty="6" />
 					<card name="triss" difficulty="8" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="8" />
 					<card name="roach" difficulty="8" />
 					<card name="villen" difficulty="8" />
@@ -3121,6 +3404,7 @@
 					<card name="vrihedd_brigade2" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<!-- SGR: Include faction-compatible special card schirru in the static deck. -->
 					<card name="schirru" />
 				</deck>
 
@@ -3139,6 +3423,7 @@
 					<card name="scorch" />
 					<card name="havcaaren_medic3" />
 					<card name="eithne" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" />
 
 					<card name="mysterious_elf" />
@@ -3155,6 +3440,7 @@
 					<card name="vrihedd_brigade2" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<!-- SGR: Include faction-compatible special card schirru in the static deck. -->
 					<card name="schirru" />
 				</deck>
 
@@ -3173,6 +3459,7 @@
 					<card name="scorch" />
 					<card name="havcaaren_medic3" />
 					<card name="eithne" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" />
 
 					<card name="dummy" />
@@ -3193,6 +3480,7 @@
 					<card name="vrihedd_brigade2" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
+					<!-- SGR: Include faction-compatible special card schirru in the static deck. -->
 					<card name="schirru" />
 				</deck>
 
@@ -3203,6 +3491,7 @@
 					<card name="yennefer" difficulty="11" />
 					<card name="emiel" difficulty="11" />
 					<card name="scorch" difficulty="14" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="14" />
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
@@ -3237,6 +3526,7 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="kaedweni_siege" />
+					<!-- SGR: Use distinct variant kaedweni_siege2 instead of another kaedweni_siege. -->
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -3267,6 +3557,7 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="kaedweni_siege" />
+					<!-- SGR: Use distinct variant kaedweni_siege2 instead of another kaedweni_siege. -->
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -3300,6 +3591,7 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="kaedweni_siege" />
+					<!-- SGR: Use distinct variant kaedweni_siege2 instead of another kaedweni_siege. -->
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -3419,6 +3711,7 @@
 				<dynamicCards>
 					<card name="dandelion" difficulty="12" />
 					<card name="triss" difficulty="13" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" difficulty="15" />
 				</dynamicCards>
 			</deck_collection>
@@ -3472,9 +3765,11 @@
 
 					<card name="horn" />
 					<card name="scorch" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" />
 					<card name="roach" />
 					<card name="yennefer" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" />
 
 					<card name="triss" />
@@ -3511,16 +3806,21 @@
 
 					<card name="horn" />
 					<card name="scorch" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" />
 					<card name="roach" />
 					<card name="yennefer" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" />
 
 					<card name="horn" />
 					<card name="scorch" />
+					<!-- SGR: Replace geraltgog with letho to fit the revised deck. -->
 					<card name="letho" />
+					<!-- SGR: Remove the extra Roach after replacing the duplicate Geralt. -->
 					<card name="villen" />
 					<card name="yennefer" />
+					<!-- SGR: Replace cirigog with mysterious_elf to fit the revised deck. -->
 					<card name="mysterious_elf" />
 
 					<card name="triss" />
@@ -3573,7 +3873,6 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
-					<card name="young_emissary" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -3598,7 +3897,6 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
-					<card name="young_emissary" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -3629,7 +3927,6 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
-					<card name="young_emissary" />
 				</deck>
 
 				<dynamicCards>
@@ -3679,6 +3976,7 @@
 					<card name="frost" />
 					<card name="clear_sky" />
 					<card name="letho" />
+					<!-- SGR: Replace archer_support with albrich to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="albrich" />
 					<card name="vattier" />
 
@@ -3716,6 +4014,7 @@
 					<card name="frost" />
 					<card name="clear_sky" />
 					<card name="letho" />
+					<!-- SGR: Replace archer_support with albrich to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="albrich" />
 					<card name="vattier" />
 
@@ -3727,6 +4026,7 @@
 					<card name="clear_sky" />
 					<card name="yennefer" />
 					<card name="letho" />
+					<!-- SGR: Replace archer_support with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
 					<card name="vattier" />
 
@@ -3753,6 +4053,7 @@
 				<dynamicCards>
 					<card name="villen" difficulty="12" />
 					<card name="moorvran" difficulty="13" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="15" />
 					<card name="roach" difficulty="15" />
 				</dynamicCards>
@@ -3774,6 +4075,7 @@
 					<card name="fringilla" />
 					<card name="shilard" />
 					<card name="stefan" />
+					<!-- SGR: Replace archer_support with albrich to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="albrich" />
 					<card name="black_archer2" />
 					<card name="heavy_zerri" />
@@ -3784,7 +4086,6 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
-					<card name="young_emissary2" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -3799,6 +4100,7 @@
 					<card name="scorch" />
 					<card name="vattier" />
 					<card name="letho" />
+					<!-- SGR: Replace archer_support2 with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
 					<card name="black_archer" />
 
@@ -3810,6 +4112,7 @@
 					<card name="fringilla" />
 					<card name="shilard" />
 					<card name="stefan" />
+					<!-- SGR: Replace archer_support with cynthia to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="cynthia" />
 					<card name="black_archer2" />
 					<card name="heavy_zerri" />
@@ -3820,7 +4123,6 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
-					<card name="young_emissary2" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -3835,6 +4137,7 @@
 					<card name="scorch" />
 					<card name="vattier" />
 					<card name="letho" />
+					<!-- SGR: Replace archer_support2 with albrich to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="albrich" />
 					<card name="black_archer" />
 
@@ -3846,6 +4149,7 @@
 					<card name="scorch" />
 					<card name="vattier" />
 					<card name="letho" />
+					<!-- SGR: Replace archer_support2 with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
 					<card name="black_archer" />
 					<card name="yennefer" />
@@ -3868,7 +4172,6 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
-					<card name="young_emissary2" />
 				</deck>
 
 				<dynamicCards>
@@ -4102,6 +4405,7 @@
 				<dynamicCards>
 					<card name="dandelion" difficulty="12" />
 					<card name="villen" difficulty="13" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" difficulty="15" />
 				</dynamicCards>
 			</deck_collection>
@@ -4151,8 +4455,10 @@
 
 					<card name="fog" />
 
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" />
 					<card name="roach" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" />
 					<card name="saskia" />
 					<card name="isengrim" />
@@ -4188,14 +4494,19 @@
 
 					<card name="fog" />
 
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" />
 					<card name="roach" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" />
 					<card name="saskia" />
 					<card name="isengrim" />
 
+					<!-- SGR: Replace geraltgog with letho to fit the revised deck. -->
 					<card name="letho" />
+					<!-- SGR: Replace roach with triss to fit the revised deck. -->
 					<card name="triss" />
+					<!-- SGR: Remove cirigog to avoid duplicate or unsuitable entries. -->
 					<card name="saskia" />
 					<card name="isengrim" />
 					<card name="yennefer" />
@@ -4418,6 +4729,7 @@
 					<card name="scorch" />
 					<card name="dummy" />
 					<card name="dummy" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" />
 					<card name="roach" />
 					<card name="yennefer" />
@@ -4600,7 +4912,11 @@
 					<card name="clan_brokvar_archer" />
 					<card name="clan_dimun_pirate" />
 					<card name="mysterious_elf" />
+					<!-- SGR: Remove mrmirror; it now belongs to Monsters. -->
+					<!-- SGR: Remove mrmirror_foglet; it now belongs to Monsters. -->
+					<!-- SGR: Remove mrmirror_foglet; it now belongs to Monsters. -->
 					<card name="cow" />
+					<!-- SGR: Add letho to support the revised deck. -->
 					<card name="letho" />
 				</deck>
 
@@ -4625,7 +4941,11 @@
 					<card name="clan_brokvar_archer" />
 					<card name="clan_dimun_pirate" />
 					<card name="mysterious_elf" />
+					<!-- SGR: Remove mrmirror; it now belongs to Monsters. -->
+					<!-- SGR: Remove mrmirror_foglet; it now belongs to Monsters. -->
+					<!-- SGR: Remove mrmirror_foglet; it now belongs to Monsters. -->
 					<card name="cow" />
+					<!-- SGR: Add letho to support the revised deck. -->
 					<card name="letho" />
 				</deck>
 
@@ -4660,7 +4980,11 @@
 					<card name="clan_brokvar_archer" />
 					<card name="clan_dimun_pirate" />
 					<card name="mysterious_elf" />
+					<!-- SGR: Remove mrmirror; it now belongs to Monsters. -->
+					<!-- SGR: Remove mrmirror_foglet; it now belongs to Monsters. -->
+					<!-- SGR: Remove mrmirror_foglet; it now belongs to Monsters. -->
 					<card name="cow" />
+					<!-- SGR: Add letho to support the revised deck. -->
 					<card name="letho" />
 				</deck>
 
@@ -4746,6 +5070,7 @@
 					<card name="cerys" />
 					<card name="mysterious_elf" />
 
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" />
 					<card name="roach" />
 					<card name="cerys" />
@@ -4775,6 +5100,7 @@
 				<dynamicCards>
 					<card name="dandelion" difficulty="12" />
 					<card name="villen" difficulty="13" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" difficulty="15" />
 				</dynamicCards>
 			</deck_collection>
@@ -4824,8 +5150,10 @@
 
 					<card name="fog" />
 
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" />
 					<card name="roach" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" />
 					<card name="cow" />
 
@@ -4860,8 +5188,10 @@
 
 					<card name="fog" />
 
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" />
 					<card name="roach" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" />
 					<card name="cow" />
 
@@ -4918,7 +5248,6 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
-					<card name="vreemde" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -4942,7 +5271,6 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
-					<card name="vreemde" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -4966,7 +5294,6 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
-					<card name="vreemde" />
 				</deck>
 
 				<dynamicCards>
@@ -5000,10 +5327,10 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-					<card name="mysterious_elf" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5028,10 +5355,10 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-					<card name="mysterious_elf" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5056,10 +5383,10 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-					<card name="mysterious_elf" />
 				</deck>
 
 				<dynamicCards>
@@ -5067,9 +5394,11 @@
 					<card name="kaedweni_siege2" difficulty="5" />
 					<card name="dandelion" difficulty="6" />
 					<card name="triss" difficulty="8" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="8" />
 					<card name="roach" difficulty="8" />
 					<card name="villen" difficulty="8" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" difficulty="10" />
 					<card name="yennefer" difficulty="10" />
 				</dynamicCards>
@@ -5097,6 +5426,7 @@
 					<card name="fringilla" />
 					<card name="shilard" />
 					<card name="stefan" />
+					<!-- SGR: Replace archer_support2 with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
@@ -5119,6 +5449,7 @@
 					<card name="horn" />
 					<card name="vattier" />
 					<card name="letho" />
+					<!-- SGR: Replace archer_support with albrich to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="albrich" />
 
 					<card name="menno" />
@@ -5127,6 +5458,7 @@
 					<card name="fringilla" />
 					<card name="shilard" />
 					<card name="stefan" />
+					<!-- SGR: Replace archer_support2 with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
@@ -5149,6 +5481,7 @@
 					<card name="horn" />
 					<card name="vattier" />
 					<card name="letho" />
+					<!-- SGR: Replace archer_support with cynthia to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="cynthia" />
 
 					<card name="menno" />
@@ -5157,6 +5490,7 @@
 					<card name="fringilla" />
 					<card name="shilard" />
 					<card name="stefan" />
+					<!-- SGR: Replace archer_support2 with albrich to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="albrich" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
@@ -5172,6 +5506,7 @@
 					<card name="dandelion" difficulty="4" />
 					<card name="impera_brigade4" difficulty="6" />
 					<card name="triss" difficulty="6" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="8" />
 					<card name="roach" difficulty="8" />
 					<card name="yennefer" difficulty="10" />
@@ -5270,8 +5605,10 @@
 					<card name="eithne" difficulty="6" />
 					<card name="triss" difficulty="8" />
 					<card name="emiel" difficulty="8" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="10" />
 					<card name="roach" difficulty="10" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" difficulty="10" />
 				</dynamicCards>
 			</deck_collection>
@@ -5303,7 +5640,6 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
-					<card name="kayran" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5332,7 +5668,6 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
-					<card name="kayran" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5361,7 +5696,6 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
-					<card name="kayran" />
 				</deck>
 
 				<dynamicCards>
@@ -5372,6 +5706,7 @@
 					<card name="villen" difficulty="6" />
 					<card name="emiel" difficulty="7" />
 					<card name="zoltan" difficulty="8" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="10" />
 					<card name="roach" difficulty="10" />
 					<card name="mysterious_elf" difficulty="10" />
@@ -5473,8 +5808,10 @@
 					<card name="eithne" difficulty="6" />
 					<card name="triss" difficulty="8" />
 					<card name="emiel" difficulty="8" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="10" />
 					<card name="roach" difficulty="10" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" difficulty="10" />
 				</dynamicCards>
 			</deck_collection>
@@ -5506,7 +5843,6 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
-					<card name="kayran" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5535,7 +5871,6 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
-					<card name="kayran" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5564,7 +5899,6 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
-					<card name="kayran" />
 				</deck>
 
 				<dynamicCards>
@@ -5573,6 +5907,7 @@
 					<card name="dandelion" difficulty="4" />
 					<card name="scorch" difficulty="4" />
 					<card name="villen" difficulty="6" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="10" />
 					<card name="roach" difficulty="10" />
 				</dynamicCards>
@@ -5604,10 +5939,10 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-					<card name="mysterious_elf" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5632,10 +5967,10 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-					<card name="mysterious_elf" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5660,10 +5995,10 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
+					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-					<card name="mysterious_elf" />
 				</deck>
 
 				<dynamicCards>
@@ -5671,9 +6006,11 @@
 					<card name="kaedweni_siege2" difficulty="5" />
 					<card name="dandelion" difficulty="6" />
 					<card name="triss" difficulty="8" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="8" />
 					<card name="roach" difficulty="8" />
 					<card name="villen" difficulty="8" />
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" difficulty="10" />
 					<card name="yennefer" difficulty="10" />
 				</dynamicCards>
@@ -5701,6 +6038,7 @@
 					<card name="fringilla" />
 					<card name="shilard" />
 					<card name="stefan" />
+					<!-- SGR: Replace archer_support2 with cynthia to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="cynthia" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
@@ -5723,6 +6061,7 @@
 					<card name="horn" />
 					<card name="vattier" />
 					<card name="letho" />
+					<!-- SGR: Replace archer_support with albrich to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="albrich" />
 
 					<card name="menno" />
@@ -5731,6 +6070,7 @@
 					<card name="fringilla" />
 					<card name="shilard" />
 					<card name="stefan" />
+					<!-- SGR: Replace archer_support2 with vanhemar to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="vanhemar" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
@@ -5753,6 +6093,7 @@
 					<card name="horn" />
 					<card name="vattier" />
 					<card name="letho" />
+					<!-- SGR: Replace archer_support with cynthia to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="cynthia" />
 
 					<card name="menno" />
@@ -5761,6 +6102,7 @@
 					<card name="fringilla" />
 					<card name="shilard" />
 					<card name="stefan" />
+					<!-- SGR: Replace archer_support2 with albrich to restore Medic coverage; avoid existing copies and balance selections. -->
 					<card name="albrich" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
@@ -5776,6 +6118,7 @@
 					<card name="dandelion" difficulty="4" />
 					<card name="impera_brigade4" difficulty="6" />
 					<card name="triss" difficulty="6" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" difficulty="8" />
 					<card name="roach" difficulty="10" />
 					<card name="yennefer" difficulty="10" />
@@ -5825,7 +6168,9 @@
 					<card name="scorch" />
 					<card name="dummy" />
 
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" />
 					<card name="roach" />
 					<card name="olgierd" />
@@ -5861,7 +6206,9 @@
 					<card name="scorch" />
 					<card name="dummy" />
 
+					<!-- SGR: Use regular ciri instead of the equivalent GOG variant. -->
 					<card name="ciri" />
+					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
 					<card name="geralt" />
 					<card name="roach" />
 					<card name="olgierd" />

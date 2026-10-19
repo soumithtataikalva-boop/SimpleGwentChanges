@@ -881,8 +881,8 @@
 					<card name="impera_brigade" />
 					<card name="impera_brigade2" />
 					<card name="impera_brigade3" />
-					<card name="archer_support" />
-					<card name="archer_support2" />
+					<card name="albrich" />
+					<card name="vanhemar" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -914,8 +914,8 @@
 					<card name="impera_brigade" />
 					<card name="impera_brigade2" />
 					<card name="impera_brigade3" />
-					<card name="archer_support" />
-					<card name="archer_support2" />
+					<card name="albrich" />
+					<card name="vanhemar" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -949,8 +949,8 @@
 					<card name="impera_brigade" />
 					<card name="impera_brigade2" />
 					<card name="impera_brigade3" />
-					<card name="archer_support" />
-					<card name="archer_support2" />
+					<card name="vanhemar" />
+					<card name="albrich" />
 				</deck>
 
 				<dynamicCards>
@@ -982,8 +982,8 @@
 					<!-- common -->
 					<card name="renuald" />
 					<card name="shilard" />
-					<card name="archer_support" />
-					<card name="archer_support2" />
+					<card name="cynthia" />
+					<card name="albrich" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
 					<card name="heavy_zerri" />
@@ -995,7 +995,7 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
-					<card name="siege_support" />
+					<card name="vanhemar" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1019,8 +1019,8 @@
 					<!-- common -->
 					<card name="renuald" />
 					<card name="shilard" />
-					<card name="archer_support" />
-					<card name="archer_support2" />
+					<card name="vanhemar" />
+					<card name="albrich" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
 					<card name="heavy_zerri" />
@@ -1032,7 +1032,7 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
-					<card name="siege_support" />
+					<card name="cynthia" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1059,8 +1059,8 @@
 					<!-- common -->
 					<card name="renuald" />
 					<card name="shilard" />
-					<card name="archer_support" />
-					<card name="archer_support2" />
+					<card name="albrich" />
+					<card name="vanhemar" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
 					<card name="heavy_zerri" />
@@ -1072,7 +1072,7 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
-					<card name="siege_support" />
+					<card name="cynthia" />
 				</deck>
 
 				<dynamicCards>
@@ -1114,7 +1114,7 @@
 					<card name="impera_brigade2" />
 					<card name="nausicaa" />
 					<card name="combat_engineer" />
-					<card name="siege_support" />
+					<card name="cynthia" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1146,7 +1146,7 @@
 					<card name="impera_brigade2" />
 					<card name="nausicaa" />
 					<card name="combat_engineer" />
-					<card name="siege_support" />
+					<card name="cynthia" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1181,7 +1181,7 @@
 					<card name="impera_brigade2" />
 					<card name="nausicaa" />
 					<card name="combat_engineer" />
-					<card name="siege_support" />
+					<card name="cynthia" />
 				</deck>
 
 				<dynamicCards>
@@ -1219,8 +1219,8 @@
 					<card name="stefan" />
 					<card name="cahir" />
 					<card name="puttkammer" />
-					<card name="archer_support" />
-					<card name="archer_support2" />
+					<card name="albrich" />
+					<card name="vanhemar" />
 					<card name="impera_brigade" />
 					<card name="impera_brigade2" />
 					<card name="nausicaa" />
@@ -1256,8 +1256,8 @@
 					<card name="stefan" />
 					<card name="cahir" />
 					<card name="puttkammer" />
-					<card name="archer_support" />
-					<card name="archer_support2" />
+					<card name="vanhemar" />
+					<card name="cynthia" />
 					<card name="impera_brigade" />
 					<card name="impera_brigade2" />
 					<card name="nausicaa" />
@@ -1298,8 +1298,8 @@
 					<card name="stefan" />
 					<card name="cahir" />
 					<card name="puttkammer" />
-					<card name="archer_support" />
-					<card name="archer_support2" />
+					<card name="vanhemar" />
+					<card name="cynthia" />
 					<card name="impera_brigade" />
 					<card name="impera_brigade2" />
 					<card name="nausicaa" />
@@ -1341,7 +1341,7 @@
 					<card name="black_archer2" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
-					<card name="siege_support" />
+					<card name="cynthia" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1371,7 +1371,7 @@
 					<card name="black_archer2" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
-					<card name="siege_support" />
+					<card name="cynthia" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1407,7 +1407,7 @@
 					<card name="black_archer2" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
-					<card name="siege_support" />
+					<card name="cynthia" />
 				</deck>
 
 				<dynamicCards>
@@ -2852,105 +2852,84 @@
 
 			<!-- GamblerDeck -->
 			<deck_collection name="Gambler">
-
-				<!-- Difficulty Easy -->
-				<deck difficulty="1" leaderCard="emhyr_platinium" specialCard="mrmirror">
-					<card name="scorch" />
-
-					<card name="impera_brigade" />
-					<card name="nausicaa" />
-					<card name="puttkammer" />
-
-					<card name="black_archer2" />
-					<card name="tibor" />
-					<card name="fringilla" />
-					<card name="shilard" />
-					<card name="archer_support" />
-					<card name="archer_support2" />
-					<card name="black_archer" />
-					<card name="zerri" />
-					<card name="young_emissary2" />
+				<deck difficulty="1" leaderCard="eredin_bronze" specialCard="mrmirror">
+					<card name="mrmirror" />
 					<card name="mrmirror_foglet" />
-				</deck>
-
-				<!-- Difficulty Normal -->
-				<deck difficulty="2" leaderCard="emhyr_platinium" specialCard="mrmirror">
-					<card name="scorch" />
-
-					<card name="impera_brigade" />
-					<card name="nausicaa" />
-					<card name="puttkammer" />
-
+					<card name="imlerith" />
+					<card name="katakan" />
+					<card name="fleder" />
+					<card name="ghoul" />
+					<card name="nekker" />
+					<card name="forktail" />
+					<card name="earth_elemental" />
+					<card name="fire_elemental" />
+					<card name="wyvern" />
+					<card name="cockatrice" />
+					<card name="plague_maiden" />
+					<card name="botchling" />
 					<card name="clear_sky" />
-					<card name="dummy" />
-					<card name="dummy" />
-					<card name="letho" />
-					<card name="stefan" />
-					<card name="mrmirror_foglet" />
-					<card name="young_emissary" />
-					<card name="heavy_zerri" />
-					<card name="moorvran" />
-
-					<card name="black_archer2" />
-					<card name="tibor" />
-					<card name="fringilla" />
-					<card name="shilard" />
-					<card name="archer_support" />
-					<card name="archer_support2" />
-					<card name="black_archer" />
-					<card name="zerri" />
-					<card name="young_emissary2" />
-					<card name="mrmirror_foglet" />
 				</deck>
-
-				<!-- Difficulty Hard -->
-				<deck difficulty="3" leaderCard="emhyr_platinium" specialCard="mrmirror">
-					<card name="scorch" />
-
-					<card name="impera_brigade" />
-					<card name="nausicaa" />
-					<card name="puttkammer" />
-
+				<deck difficulty="2" leaderCard="eredin_copper" specialCard="mrmirror">
+					<card name="mrmirror" />
+					<card name="mrmirror_foglet" />
+					<card name="mrmirror_foglet" />
+					<card name="crone_brewess" />
+					<card name="crone_weavess" />
+					<card name="crone_whispess" />
+					<card name="ekkima" />
+					<card name="fleder" />
+					<card name="garkain" />
+					<card name="bruxa" />
+					<card name="katakan" />
+					<card name="arachas_behemoth" />
+					<card name="arachas" />
+					<card name="arachas2" />
+					<card name="arachas3" />
+					<card name="ice_giant" />
+					<card name="kayran" />
+					<card name="toad" />
+					<card name="fiend" />
+					<card name="earth_elemental" />
+					<card name="forktail" />
+					<card name="wyvern" />
+					<card name="draug" />
+					<card name="dummy" />
 					<card name="clear_sky" />
-					<card name="dummy" />
-					<card name="dummy" />
-					<card name="letho" />
-					<card name="stefan" />
-					<card name="mrmirror_foglet" />
-					<card name="young_emissary" />
-					<card name="heavy_zerri" />
-					<card name="moorvran" />
-
-					<card name="dummy" />
-					<card name="horn" />
-					<card name="horn" />
-					<card name="scorch" />
-					<card name="menno" />
-					<card name="vattier" />
-					<card name="mrmirror_foglet" />
+				</deck>
+				<deck difficulty="3" leaderCard="eredin_copper" specialCard="mrmirror">
+					<card name="mrmirror" />
+					<card name="ekkima" />
+					<card name="fleder" />
+					<card name="garkain" />
+					<card name="bruxa" />
+					<card name="katakan" />
+					<card name="arachas_behemoth" />
+					<card name="arachas" />
+					<card name="arachas2" />
+					<card name="arachas3" />
+					<card name="crone_brewess" />
+					<card name="crone_weavess" />
+					<card name="crone_whispess" />
+					<card name="imlerith" />
+					<card name="draug" />
+					<card name="kayran" />
+					<card name="toad" />
+					<card name="ice_giant" />
+					<card name="geralt" />
+					<card name="roach" />
+					<card name="ciri" />
 					<card name="yennefer" />
-					<card name="siege_support" />
-
-					<card name="black_archer2" />
-					<card name="tibor" />
-					<card name="fringilla" />
-					<card name="shilard" />
-					<card name="archer_support" />
-					<card name="archer_support2" />
-					<card name="black_archer" />
-					<card name="zerri" />
-					<card name="young_emissary2" />
 					<card name="mrmirror_foglet" />
+					<card name="mrmirror_foglet" />
+					<card name="mrmirror_foglet" />
+					<card name="dummy" />
+					<card name="clear_sky" />
 				</deck>
-
 				<dynamicCards>
 					<card name="villen" difficulty="1" />
 					<card name="mysterious_elf" difficulty="4" />
-					<card name="dandelion" difficulty="4" />
-					<card name="impera_brigade4" difficulty="6" />
 					<card name="triss" difficulty="6" />
-					<card name="geralt" difficulty="8" />
-					<card name="roach" difficulty="8" />
+					<card name="letho" difficulty="8" />
 				</dynamicCards>
 			</deck_collection>
 
@@ -3635,7 +3614,7 @@
 					<card name="frost" />
 					<card name="clear_sky" />
 					<card name="letho" />
-					<card name="archer_support" />
+					<card name="albrich" />
 					<card name="vattier" />
 
 					<card name="menno" />
@@ -3672,7 +3651,7 @@
 					<card name="frost" />
 					<card name="clear_sky" />
 					<card name="letho" />
-					<card name="archer_support" />
+					<card name="albrich" />
 					<card name="vattier" />
 
 					<card name="dummy" />
@@ -3683,7 +3662,7 @@
 					<card name="clear_sky" />
 					<card name="yennefer" />
 					<card name="letho" />
-					<card name="archer_support" />
+					<card name="vanhemar" />
 					<card name="vattier" />
 
 					<card name="menno" />
@@ -3730,7 +3709,7 @@
 					<card name="fringilla" />
 					<card name="shilard" />
 					<card name="stefan" />
-					<card name="archer_support" />
+					<card name="albrich" />
 					<card name="black_archer2" />
 					<card name="heavy_zerri" />
 					<card name="zerri" />
@@ -3754,7 +3733,7 @@
 					<card name="scorch" />
 					<card name="vattier" />
 					<card name="letho" />
-					<card name="archer_support2" />
+					<card name="vanhemar" />
 					<card name="black_archer" />
 
 					<card name="villen" />
@@ -3765,7 +3744,7 @@
 					<card name="fringilla" />
 					<card name="shilard" />
 					<card name="stefan" />
-					<card name="archer_support" />
+					<card name="cynthia" />
 					<card name="black_archer2" />
 					<card name="heavy_zerri" />
 					<card name="zerri" />
@@ -3789,7 +3768,7 @@
 					<card name="scorch" />
 					<card name="vattier" />
 					<card name="letho" />
-					<card name="archer_support2" />
+					<card name="albrich" />
 					<card name="black_archer" />
 
 					<card name="dummy" />
@@ -3800,7 +3779,7 @@
 					<card name="scorch" />
 					<card name="vattier" />
 					<card name="letho" />
-					<card name="archer_support2" />
+					<card name="vanhemar" />
 					<card name="black_archer" />
 					<card name="yennefer" />
 
@@ -4554,10 +4533,8 @@
 					<card name="clan_brokvar_archer" />
 					<card name="clan_dimun_pirate" />
 					<card name="mysterious_elf" />
-					<card name="mrmirror" />
-					<card name="mrmirror_foglet" />
-					<card name="mrmirror_foglet" />
 					<card name="cow" />
+					<card name="letho" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -4581,10 +4558,8 @@
 					<card name="clan_brokvar_archer" />
 					<card name="clan_dimun_pirate" />
 					<card name="mysterious_elf" />
-					<card name="mrmirror" />
-					<card name="mrmirror_foglet" />
-					<card name="mrmirror_foglet" />
 					<card name="cow" />
+					<card name="letho" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -4618,10 +4593,8 @@
 					<card name="clan_brokvar_archer" />
 					<card name="clan_dimun_pirate" />
 					<card name="mysterious_elf" />
-					<card name="mrmirror" />
-					<card name="mrmirror_foglet" />
-					<card name="mrmirror_foglet" />
 					<card name="cow" />
+					<card name="letho" />
 				</deck>
 
 				<dynamicCards>
@@ -5051,7 +5024,7 @@
 					<card name="fringilla" />
 					<card name="shilard" />
 					<card name="stefan" />
-					<card name="archer_support2" />
+					<card name="vanhemar" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
 					<card name="heavy_zerri" />
@@ -5073,7 +5046,7 @@
 					<card name="horn" />
 					<card name="vattier" />
 					<card name="letho" />
-					<card name="archer_support" />
+					<card name="albrich" />
 
 					<card name="menno" />
 					<card name="moorvran" />
@@ -5081,7 +5054,7 @@
 					<card name="fringilla" />
 					<card name="shilard" />
 					<card name="stefan" />
-					<card name="archer_support2" />
+					<card name="vanhemar" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
 					<card name="heavy_zerri" />
@@ -5103,7 +5076,7 @@
 					<card name="horn" />
 					<card name="vattier" />
 					<card name="letho" />
-					<card name="archer_support" />
+					<card name="cynthia" />
 
 					<card name="menno" />
 					<card name="moorvran" />
@@ -5111,7 +5084,7 @@
 					<card name="fringilla" />
 					<card name="shilard" />
 					<card name="stefan" />
-					<card name="archer_support2" />
+					<card name="albrich" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
 					<card name="heavy_zerri" />
@@ -5646,7 +5619,7 @@
 					<card name="fringilla" />
 					<card name="shilard" />
 					<card name="stefan" />
-					<card name="archer_support2" />
+					<card name="cynthia" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
 					<card name="heavy_zerri" />
@@ -5668,7 +5641,7 @@
 					<card name="horn" />
 					<card name="vattier" />
 					<card name="letho" />
-					<card name="archer_support" />
+					<card name="albrich" />
 
 					<card name="menno" />
 					<card name="moorvran" />
@@ -5676,7 +5649,7 @@
 					<card name="fringilla" />
 					<card name="shilard" />
 					<card name="stefan" />
-					<card name="archer_support2" />
+					<card name="vanhemar" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
 					<card name="heavy_zerri" />
@@ -5698,7 +5671,7 @@
 					<card name="horn" />
 					<card name="vattier" />
 					<card name="letho" />
-					<card name="archer_support" />
+					<card name="cynthia" />
 
 					<card name="menno" />
 					<card name="moorvran" />
@@ -5706,7 +5679,7 @@
 					<card name="fringilla" />
 					<card name="shilard" />
 					<card name="stefan" />
-					<card name="archer_support2" />
+					<card name="albrich" />
 					<card name="black_archer" />
 					<card name="black_archer2" />
 					<card name="heavy_zerri" />

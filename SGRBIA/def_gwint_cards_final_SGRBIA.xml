@@ -95,13 +95,11 @@
 			<card index="26"
 				name="geraltGOG"
 				on_conflict="extend"
-				item=""
 				power="14"
 				/>
 			<card index="27"
 				name="ciriGOG"
-				on_conflict="extend"
-				item="">
+				on_conflict="extend">
 				<type_flags>
 					<flag name="TYPE_CREATURE" />
 					<flag name="TYPE_HERO" />
@@ -166,34 +164,28 @@
 				/>
 			<card index="125"
 				on_conflict="extend"
-				title="gwint_name_poor_infantry"
 				name="poor_infantry"
-				item="gwint_card_poor_infantry"
-				picture="nor_poor_infantry">
+				item="gwint_card_poor_infantry">
 		</card>
 			<card index="126"
 				on_conflict="extend"
-				title="gwint_name_poor_infantry"
 				name="poor_infantry2"
 				item="gwint_card_poor_infantry2"
 				picture="nor_poor_infantry_1">
 		</card>
 			<card index="127"
 				on_conflict="extend"
-				title="gwint_name_poor_infantry"
 				name="poor_infantry3"
 				item="gwint_card_poor_infantry3"
 				picture="nor_poor_infantry_2">
 		</card>
 			<card index="131"
 				on_conflict="extend"
-				title="gwint_name_crinfrid"
 				name="crinfrid2"
 				picture="nor_crinfrid_1">
 		</card>
 			<card index="132"
 				on_conflict="extend"
-				title="gwint_name_crinfrid"
 				name="crinfrid3"
 				picture="nor_crinfrid_2">
 		</card>
@@ -223,37 +215,28 @@
 			</card>
 			<card index="140"
 				on_conflict="extend"
-				title="gwint_name_catapult"
 				name="catapult"
 				picture="nor_catapult">
 		</card>
 			<card index="150"
 				on_conflict="extend"
-				title="gwint_name_kaedweni_siege"
 				name="kaedweni_siege"
-				item="gwint_card_kaedweni_siege"
-				picture="nor_kaedwen_siege">
+				item="gwint_card_kaedweni_siege">
 		</card>
 			<card index="151"
 				on_conflict="extend"
-				title="gwint_name_kaedweni_siege"
 				name="kaedweni_siege2"
-				item="gwint_card_kaedweni_siege2"
-				picture="nor_kaedwen_siege_1">
+				item="gwint_card_kaedweni_siege2">
 		</card>
 			<card index="152"
 				on_conflict="extend"
-				title="gwint_name_kaedweni_siege"
 				name="kaedweni_siege3"
-				item="gwint_card_kaedweni_siege3"
-				picture="nor_kaedwen_siege_2">
+				item="gwint_card_kaedweni_siege3">
 		</card>
 			<card index="160"
 				on_conflict="extend"
-				title="gwint_name_blue_stripes"
 				name="blue_stripes"
-				item="gwint_card_blue_stripes"
-				picture="nor_blue_stripes">
+				item="gwint_card_blue_stripes">
 				<summonFlags>
 					<flag name="blue_stripes" />
 					<flag name="blue_stripes2" />
@@ -491,31 +474,26 @@
 			</card>
 			<card index="246"
 				on_conflict="extend"
-				title="gwint_name_impera_brigade"
 				name="impera_brigade2"
 				picture="nil_impera_brigade_1">
 		</card>
 			<card index="247"
 				on_conflict="extend"
-				title="gwint_name_impera_brigade"
 				name="impera_brigade3"
 				picture="nil_impera_brigade_2">
 		</card>
 			<card index="248"
 				on_conflict="extend"
-				title="gwint_name_impera_brigade"
 				name="impera_brigade4"
 				picture="nil_impera_brigade_3">
 		</card>
 			<card index="250"
 				on_conflict="extend"
-				title="gwint_name_nausicaa"
 				name="nausicaa"
 				picture="nil_nauzicaa">
 		</card>
 			<card index="251"
 				on_conflict="extend"
-				title="gwint_name_nausicaa"
 				name="nausicaa2"
 				picture="nil_nauzicaa_1">
 		</card>

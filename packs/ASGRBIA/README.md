@@ -5,7 +5,7 @@ Combines the current regular pack with the XMLs in `BIA reference new`, using `b
 - 92 changed card entries from Simple Gwent Rework.
 - 15 entries incorporating BIA's partial updates.
 - 5 complete BIA additions.
-- 112 definitions per XML: 65 partial `extend` entries and 47 complete `replace` entries.
+- 112 definitions per XML: 62 partial `extend` entries and 50 complete `replace` entries.
 - Unchanged vanilla definitions are omitted. The resulting combined card set has 211 entries.
 - Normal and NG+ XMLs are identical.
 
@@ -35,8 +35,8 @@ Cook and deploy through REDkit. This repository package contains XML source, not
 
 Keep BIA installed for its added artwork, localization, item definitions, rewards and other resources; this package combines card definitions only. Use this package in place of the regular Simple Gwent Rework pack. Arrange for its definitions to load after BIA's card definitions so BIA's own patches cannot supersede the combined overrides. Exact runtime mounting order and in-game results require verification in the game.
 
-Validated locally: XML parsing; additive extensions reconstructed against the base and compared with the full combined definitions; unique combined indices and names; resolved summon references; identical normal and NG+ output. No in-game or REDkit cooking test has been performed.
+Validated locally: XML parsing; attribute-only extensions checked; complete replacements compared with the full combined definitions; unique combined indices and names; resolved summon references; identical normal and NG+ output. No in-game or REDkit cooking test has been performed.
 
 ## Conflict handling
 
-`extend` is used for attribute updates and purely additive flags or summon references. These entries contain identifying attributes and only the changes. `replace` is retained where existing attributes or flags must be removed, names are repurposed, or complete BIA-added definitions must be registered reliably alongside BIA. All five BIA additions retain complete replacements because BIA may already register them. The change reports describe the resulting card changes, independently of the override strategy.
+`extend` is used only for attribute updates. These entries contain identifying attributes and only changed attributes; they contain no nested elements. Complete `replace` definitions are used for every change to nested flags or summon lists, attribute removals, repurposed cards, and all five BIA additions. This avoids relying on unverified nested-list merge behavior. The change reports describe the resulting card changes, independently of the override strategy.

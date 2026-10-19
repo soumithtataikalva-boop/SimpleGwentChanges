@@ -3697,7 +3697,8 @@
 					<card name="horn" />
 					<card name="vernon" />
 
-					<card name="vernon" />
+					<!-- SGR: Replace duplicate vernon with absent, faction-compatible sile of similar strength. -->
+					<card name="sile" />
 					<card name="yennefer" />
 
 					<card name="natalis" />
@@ -4391,7 +4392,8 @@
 					<card name="scorch" />
 					<card name="clear_sky" />
 					<card name="rain" />
-					<card name="saskia" />
+					<!-- SGR: Replace duplicate saskia with absent, faction-compatible schirru of similar strength. -->
+					<card name="schirru" />
 					<!-- SGR: Replace the extra isengrim with vesemir; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="vesemir" />
 
@@ -4523,7 +4525,8 @@
 					<!-- SGR: Replace roach with triss to fit the revised deck. -->
 					<card name="triss" />
 					<!-- SGR: Remove cirigog to avoid duplicate or unsuitable entries. -->
-					<card name="saskia" />
+					<!-- SGR: Replace duplicate saskia with absent, faction-compatible ida of similar strength. -->
+					<card name="ida" />
 					<!-- SGR: Replace the extra isengrim with vesemir; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="vesemir" />
 					<card name="yennefer" />
@@ -4874,7 +4877,8 @@
 					<card name="horn" />
 					<card name="scorch" />
 					<card name="dummy" />
-					<card name="villen" />
+					<!-- SGR: Replace duplicate villen with absent, faction-compatible toad of similar strength. -->
+					<card name="toad" />
 					<!-- SGR: Replace the extra imlerith with letho; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="letho" />
 					<card name="crone_weavess" />

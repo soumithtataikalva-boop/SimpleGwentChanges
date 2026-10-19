@@ -46,17 +46,8 @@
 				power="6"
 				/>
 			<card index="14"
-				title="gwint_name_emiel"
 				name="emiel"
-				description="gwint_desc_emiel"
-				power="5"
-				picture="neu_emiel"
-				faction_index="F_NEUTRAL"
-				on_conflict="replace">
-				<type_flags>
-					<flag name="TYPE_CREATURE" />
-					<flag name="TYPE_MELEE" />
-				</type_flags>
+				on_conflict="extend">
 				<effect_flags>
 					<flag name="EFFECT_SUICIDE_SUMMON" />
 				</effect_flags>

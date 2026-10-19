@@ -140,14 +140,6 @@
     "source": "Simple Gwent Rework",
     "added": false,
     "changes": {
-      "dlcPicture": {
-        "original": "neu_emiel_dlc",
-        "combined": null
-      },
-      "dlcPictureFlag_name": {
-        "original": "dlc8",
-        "combined": null
-      },
       "effect_flags": {
         "original": [
           {

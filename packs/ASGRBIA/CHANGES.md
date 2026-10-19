@@ -9,7 +9,7 @@ Compared with the base XML. Normal and NG+ definitions are identical.
 | 10 | ciri | Simple Gwent Rework | type_flags: [{"name": "TYPE_CREATURE"}, {"name": "TYPE_HERO"}, {"name": "TYPE_MELEE"}] → [{"name": "TYPE_CREATURE"}, {"name": "TYPE_HERO"}, {"name": "TYPE_MELEE"}, {"name": "TYPE_RANGED"}] |
 | 11 | triss | Simple Gwent Rework | effect_flags: [{"name": "EFFECT_NONE"}] → [{"name": "EFFECT_RANGED_SCORCH"}]; type_flags: [{"name": "TYPE_CREATURE"}, {"name": "TYPE_HERO"}, {"name": "TYPE_MELEE"}] → [{"name": "TYPE_CREATURE"}, {"name": "TYPE_HERO"}, {"name": "TYPE_RANGED"}] |
 | 13 | zoltan | Simple Gwent Rework | power: "5" → "6" |
-| 14 | emiel | Simple Gwent Rework | dlcPicture: "neu_emiel_dlc" → null; dlcPictureFlag_name: "dlc8" → null; effect_flags: [{"name": "EFFECT_NONE"}] → [{"name": "EFFECT_SUICIDE_SUMMON"}]; summonFlags: null → [{"name": "emiel_summoned"}] |
+| 14 | emiel | Simple Gwent Rework | effect_flags: [{"name": "EFFECT_NONE"}] → [{"name": "EFFECT_SUICIDE_SUMMON"}]; summonFlags: null → [{"name": "emiel_summoned"}] |
 | 17 | olgierd | Simple Gwent Rework | effect_flags: [{"name": "EFFECT_IMPROVE_NEIGHBOURS"}] → [{"name": "EFFECT_SUICIDE_SUMMON"}]; summonFlags: null → [{"name": "olgierd_summoned"}] |
 | 18 | mrmirror | Simple Gwent Rework | faction_index: "F_NEUTRAL" → "F_NO_MANS_LAND"; type_flags: [{"name": "TYPE_CREATURE"}, {"name": "TYPE_SIEGE"}] → [{"name": "TYPE_CREATURE"}, {"name": "TYPE_RANGED"}] |
 | 19 | mrmirror_foglet | Simple Gwent Rework | faction_index: "F_NEUTRAL" → "F_NO_MANS_LAND"; type_flags: [{"name": "TYPE_CREATURE"}, {"name": "TYPE_RANGED"}] → [{"name": "TYPE_CREATURE"}, {"name": "TYPE_MELEE"}] |

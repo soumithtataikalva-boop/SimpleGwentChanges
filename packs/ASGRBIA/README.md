@@ -5,7 +5,7 @@ Combines the current regular pack with the XMLs in `BIA reference new`, using `b
 - 92 changed card entries from Simple Gwent Rework.
 - 15 entries incorporating BIA's partial updates.
 - 5 complete BIA additions.
-- 112 definitions per XML: 104 partial `extend` entries, 3 complete `replace` entries and 5 new definitions without conflict tags.
+- 112 definitions per XML: 105 partial `extend` entries, 2 complete `replace` entries and 5 new definitions without conflict tags.
 - Unchanged vanilla definitions are omitted. The resulting combined card set has 211 entries.
 - Normal and NG+ XMLs are identical.
 
@@ -41,4 +41,4 @@ Validated locally: XML parsing; extensions reconstructed using the user-confirme
 
 Following the behavior confirmed by the user, `extend` overwrites supplied attributes and replaces supplied flag lists in full; omitted attributes and lists remain unchanged. Extensions therefore contain only changed attributes and complete changed lists. This applies to row flags, Hero status, abilities and summon lists.
 
-Complete `replace` definitions remain for Regis (14), which removes alternate-art attributes, and the repurposed GOG slots (26 and 27), which change identity and remove old data. The five BIA-added cards have complete definitions without `on_conflict` tags. The change reports describe the resulting card changes, independently of the override strategy.
+Complete `replace` definitions remain only for the repurposed GOG slots (26 and 27), which change identity and remove old data. Regular Regis (14) uses `extend` for his suicide-summon ability and target, retaining his base alternate-art attributes. The five BIA-added cards have complete definitions without `on_conflict` tags. The change reports describe the resulting card changes, independently of the override strategy.

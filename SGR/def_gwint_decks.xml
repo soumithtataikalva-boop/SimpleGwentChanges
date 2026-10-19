@@ -3455,11 +3455,11 @@
 
 					<card name="horn" />
 					<card name="scorch" />
-					<card name="geralt" />
+					<card name="letho" />
 					<card name="roach" />
 					<card name="villen" />
 					<card name="yennefer" />
-					<card name="ciri" />
+					<card name="mysterious_elf" />
 
 					<card name="triss" />
 					<card name="dandelion" />
@@ -4126,9 +4126,9 @@
 					<card name="saskia" />
 					<card name="isengrim" />
 
-					<card name="geralt" />
+					<card name="letho" />
 					<card name="roach" />
-					<card name="ciri" />
+					<card name="triss" />
 					<card name="saskia" />
 					<card name="isengrim" />
 					<card name="yennefer" />

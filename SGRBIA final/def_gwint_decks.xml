@@ -41,6 +41,8 @@
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
+				
+					<card name="crinfrid" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -78,6 +80,8 @@
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
+				
+					<card name="crinfrid" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -115,6 +119,8 @@
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
+				
+					<card name="catapult2" />
 				</deck>
 
 				<dynamicCards>
@@ -236,6 +242,9 @@
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
+				
+					<card name="crinfrid3" />
+					<card name="ballista_officer" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -267,6 +276,9 @@
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
+				
+					<card name="crinfrid" />
+					<card name="crinfrid2" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -298,6 +310,9 @@
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
+				
+					<card name="catapult" />
+					<card name="crinfrid" />
 				</deck>
 
 				<dynamicCards>
@@ -342,6 +357,12 @@
 					<card name="siegfried" />
 					<!-- SGR: Include faction-compatible special card vernon in the static deck. -->
 					<card name="vernon" />
+				
+					<card name="ballista_officer" />
+					<card name="siege_tower2" />
+					<card name="siege_tower" />
+					<card name="kaedweni_siege2" />
+					<card name="kaedweni_siege3" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -388,6 +409,11 @@
 					<card name="ves" />
 					<!-- SGR: Include faction-compatible special card vernon in the static deck. -->
 					<card name="vernon" />
+				
+					<card name="siege_tower2" />
+					<card name="siege_tower" />
+					<card name="witch_hunter" />
+					<card name="ballista_officer" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -439,6 +465,8 @@
 					<card name="yennefer" />
 					<!-- SGR: Include faction-compatible special card vernon in the static deck. -->
 					<card name="vernon" />
+				
+					<card name="siege_tower2" />
 				</deck>
 
 				<dynamicCards>
@@ -484,6 +512,12 @@
 					<card name="redanian2" />
 					<!-- SGR: Include faction-compatible special card esterad in the static deck. -->
 					<card name="esterad" />
+				
+					<card name="crinfrid3" />
+					<card name="crinfrid" />
+					<card name="blue_stripes3" />
+					<card name="crinfrid2" />
+					<card name="witch_hunter" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -521,6 +555,12 @@
 					<card name="clear_sky" />
 					<!-- SGR: Include faction-compatible special card esterad in the static deck. -->
 					<card name="esterad" />
+				
+					<card name="crinfrid2" />
+					<card name="crinfrid" />
+					<card name="crinfrid3" />
+					<card name="vernon" />
+					<card name="witch_hunter" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -562,6 +602,10 @@
 					<card name="yennefer" />
 					<!-- SGR: Include faction-compatible special card esterad in the static deck. -->
 					<card name="esterad" />
+				
+					<card name="philippa" />
+					<card name="crinfrid2" />
+					<card name="crinfrid3" />
 				</deck>
 
 				<dynamicCards>
@@ -607,6 +651,11 @@
 					<card name="siege_tower" />
 					<!-- SGR: Include faction-compatible special card dijkstra in the static deck. -->
 					<card name="dijkstra" />
+				
+					<card name="ballista_officer" />
+					<card name="kaedweni_siege3" />
+					<card name="witch_hunter" />
+					<card name="siege_tower2" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -644,6 +693,9 @@
 					<card name="scorch" />
 					<!-- SGR: Include faction-compatible special card dijkstra in the static deck. -->
 					<card name="dijkstra" />
+				
+					<card name="siege_tower2" />
+					<card name="philippa" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -685,6 +737,8 @@
 					<card name="natalis" />
 					<!-- SGR: Include faction-compatible special card dijkstra in the static deck. -->
 					<card name="dijkstra" />
+				
+					<card name="catapult2" />
 				</deck>
 
 				<dynamicCards>
@@ -729,6 +783,12 @@
 					<card name="kaedweni_siege2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+				
+					<card name="crinfrid" />
+					<card name="crinfrid2" />
+					<card name="crinfrid3" />
+					<card name="dijkstra" />
+					<card name="blue_stripes2" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -762,6 +822,11 @@
 					<card name="kaedweni_siege2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+				
+					<card name="crinfrid" />
+					<card name="philippa" />
+					<card name="crinfrid2" />
+					<card name="crinfrid3" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -799,6 +864,10 @@
 					<card name="kaedweni_siege2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+				
+					<card name="philippa" />
+					<card name="crinfrid2" />
+					<card name="crinfrid3" />
 				</deck>
 
 				<dynamicCards>
@@ -843,6 +912,11 @@
 					<card name="blue_stripes" />
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
+				
+					<card name="ballista_officer" />
+					<card name="siege_tower" />
+					<card name="siege_tower2" />
+					<card name="thaler" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -879,6 +953,8 @@
 					<card name="blue_stripes" />
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
+				
+					<card name="siege_tower2" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -918,6 +994,8 @@
 					<card name="blue_stripes" />
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
+				
+					<card name="catapult" />
 				</deck>
 
 				<dynamicCards>
@@ -967,6 +1045,11 @@
 					<card name="vanhemar" />
 					<!-- SGR: Include faction-compatible special card yennefer in the static deck. -->
 					<card name="yennefer" />
+				
+					<card name="combat_engineer" />
+					<card name="morteisen" />
+					<card name="vreemde" />
+					<card name="rotten" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1005,6 +1088,10 @@
 					<card name="vanhemar" />
 					<!-- SGR: Include faction-compatible special card yennefer in the static deck. -->
 					<card name="yennefer" />
+				
+					<card name="cahir" />
+					<card name="renuald" />
+					<card name="young_emissary" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1045,6 +1132,10 @@
 					<card name="albrich" />
 					<!-- SGR: Include faction-compatible special card yennefer in the static deck. -->
 					<card name="yennefer" />
+				
+					<card name="moorvran" />
+					<card name="young_emissary" />
+					<card name="cahir" />
 				</deck>
 
 				<dynamicCards>
@@ -1096,6 +1187,10 @@
 					<card name="vanhemar" />
 					<!-- SGR: Include faction-compatible special card menno in the static deck. -->
 					<card name="menno" />
+				
+					<card name="sweers" />
+					<card name="combat_engineer" />
+					<card name="assire" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1139,6 +1234,8 @@
 					<card name="cynthia" />
 					<!-- SGR: Include faction-compatible special card menno in the static deck. -->
 					<card name="menno" />
+				
+					<card name="fringilla" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1185,6 +1282,8 @@
 					<card name="cynthia" />
 					<!-- SGR: Include faction-compatible special card menno in the static deck. -->
 					<card name="menno" />
+				
+					<card name="archer_support" />
 				</deck>
 
 				<dynamicCards>
@@ -1232,6 +1331,13 @@
 					<card name="cynthia" />
 					<!-- SGR: Include faction-compatible special card letho in the static deck. -->
 					<card name="letho" />
+				
+					<card name="sweers" />
+					<card name="renuald" />
+					<card name="vanhemar" />
+					<card name="vreemde" />
+					<card name="albrich" />
+					<card name="rotten" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1268,6 +1374,12 @@
 					<card name="cynthia" />
 					<!-- SGR: Include faction-compatible special card letho in the static deck. -->
 					<card name="letho" />
+				
+					<card name="fringilla" />
+					<card name="vanhemar" />
+					<card name="archer_support2" />
+					<card name="sweers" />
+					<card name="archer_support" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1307,6 +1419,12 @@
 					<card name="cynthia" />
 					<!-- SGR: Include faction-compatible special card letho in the static deck. -->
 					<card name="letho" />
+				
+					<card name="archer_support" />
+					<card name="archer_support2" />
+					<card name="fringilla" />
+					<card name="shilard" />
+					<card name="vanhemar" />
 				</deck>
 
 				<dynamicCards>
@@ -1356,6 +1474,12 @@
 					<card name="nausicaa3" />
 					<!-- SGR: Include faction-compatible special card moorvran in the static deck. -->
 					<card name="moorvran" />
+				
+					<card name="zerri" />
+					<card name="combat_engineer" />
+					<card name="rotten" />
+					<card name="sweers" />
+					<card name="cynthia" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1398,6 +1522,11 @@
 					<card name="nausicaa3" />
 					<!-- SGR: Include faction-compatible special card moorvran in the static deck. -->
 					<card name="moorvran" />
+				
+					<card name="archer_support2" />
+					<card name="heavy_zerri" />
+					<card name="black_archer2" />
+					<card name="archer_support" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1445,6 +1574,11 @@
 					<card name="nausicaa3" />
 					<!-- SGR: Include faction-compatible special card moorvran in the static deck. -->
 					<card name="moorvran" />
+				
+					<card name="heavy_zerri" />
+					<card name="archer_support2" />
+					<card name="archer_support" />
+					<card name="rotten" />
 				</deck>
 
 				<dynamicCards>
@@ -1487,6 +1621,16 @@
 					<card name="cynthia" />
 					<!-- SGR: Move Mysterious Elf into every static deck to match Gremist's reward. -->
 					<card name="mysterious_elf" />
+				
+					<card name="rotten" />
+					<card name="zerri" />
+					<card name="morteisen" />
+					<card name="combat_engineer" />
+					<card name="vreemde" />
+					<card name="vattier" />
+					<card name="renuald" />
+					<card name="impera_brigade" />
+					<card name="assire" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1521,6 +1665,15 @@
 					<card name="cynthia" />
 					<!-- SGR: Move Mysterious Elf into every static deck to match Gremist's reward. -->
 					<card name="mysterious_elf" />
+				
+					<card name="zerri" />
+					<card name="cahir" />
+					<card name="fringilla" />
+					<card name="rotten" />
+					<card name="assire" />
+					<card name="heavy_zerri" />
+					<card name="shilard" />
+					<card name="black_archer" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1562,6 +1715,13 @@
 					<card name="cynthia" />
 					<!-- SGR: Move Mysterious Elf into every static deck to match Gremist's reward. -->
 					<card name="mysterious_elf" />
+				
+					<card name="zerri" />
+					<card name="moorvran" />
+					<card name="stefan" />
+					<card name="fringilla" />
+					<card name="shilard" />
+					<card name="black_archer" />
 				</deck>
 
 				<dynamicCards>
@@ -1606,6 +1766,13 @@
 					<card name="havcaaren_medic2" />
 					<!-- SGR: Include faction-compatible special card eithne in the static deck. -->
 					<card name="eithne" />
+				
+					<card name="toruviel" />
+					<card name="dol_archer" />
+					<card name="schirru" />
+					<card name="yaevinn" />
+					<card name="havcaaren_medic3" />
+					<card name="dol_scout2" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1643,6 +1810,11 @@
 					<card name="havcaaren_medic2" />
 					<!-- SGR: Include faction-compatible special card eithne in the static deck. -->
 					<card name="eithne" />
+				
+					<card name="schirru" />
+					<card name="filavandrel" />
+					<card name="dol_scout3" />
+					<card name="iorveth" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1686,6 +1858,10 @@
 					<card name="havcaaren_medic2" />
 					<!-- SGR: Include faction-compatible special card eithne in the static deck. -->
 					<card name="eithne" />
+				
+					<card name="schirru" />
+					<card name="iorveth" />
+					<card name="milva" />
 				</deck>
 
 				<dynamicCards>
@@ -1730,6 +1906,12 @@
 					<card name="havcaaren_medic2" />
 					<!-- SGR: Include faction-compatible special card triss in the static deck. -->
 					<card name="triss" />
+				
+					<card name="schirru" />
+					<card name="dwarf2" />
+					<card name="dwarf" />
+					<card name="elf_skirmisher3" />
+					<card name="dwarf3" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1763,6 +1945,12 @@
 					<card name="havcaaren_medic2" />
 					<!-- SGR: Include faction-compatible special card triss in the static deck. -->
 					<card name="triss" />
+				
+					<card name="schirru" />
+					<card name="barclay" />
+					<card name="dennis" />
+					<card name="vrihedd_brigade" />
+					<card name="vrihedd_brigade2" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1801,6 +1989,11 @@
 					<card name="havcaaren_medic2" />
 					<!-- SGR: Include faction-compatible special card triss in the static deck. -->
 					<card name="triss" />
+				
+					<card name="schirru" />
+					<card name="barclay" />
+					<card name="vrihedd_brigade2" />
+					<card name="vrihedd_brigade" />
 				</deck>
 
 				<dynamicCards>
@@ -1848,6 +2041,10 @@
 					<card name="havcaaren_medic" />
 					<!-- SGR: Include faction-compatible special card geralt in the static deck. -->
 					<card name="geralt" />
+				
+					<card name="schirru" />
+					<card name="havcaaren_medic3" />
+					<card name="havcaaren_medic2" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -1888,6 +2085,9 @@
 					<card name="geralt" />
 					<!-- SGR: Add Roach alongside Geralt for his summon ability. -->
 					<card name="roach" />
+				
+					<card name="schirru" />
+					<card name="dennis" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -1935,6 +2135,8 @@
 					<card name="geralt" />
 					<!-- SGR: Add Roach alongside Geralt for his summon ability. -->
 					<card name="roach" />
+				
+					<card name="schirru" />
 				</deck>
 
 				<dynamicCards>
@@ -1978,6 +2180,12 @@
 					<card name="havcaaren_medic3" />
 					<!-- SGR: Include faction-compatible special card vesemir in the static deck. -->
 					<card name="vesemir" />
+				
+					<card name="dol_archer" />
+					<card name="schirru" />
+					<card name="elf_skirmisher2" />
+					<card name="dol_scout" />
+					<card name="elf_skirmisher" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -2010,6 +2218,12 @@
 					<card name="havcaaren_medic3" />
 					<!-- SGR: Include faction-compatible special card vesemir in the static deck. -->
 					<card name="vesemir" />
+				
+					<card name="schirru" />
+					<card name="milva" />
+					<card name="filavandrel" />
+					<card name="dol_scout2" />
+					<card name="dol_scout3" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -2045,6 +2259,11 @@
 					<card name="havcaaren_medic3" />
 					<!-- SGR: Include faction-compatible special card vesemir in the static deck. -->
 					<card name="vesemir" />
+				
+					<card name="schirru" />
+					<card name="ida" />
+					<card name="milva" />
+					<card name="iorveth" />
 				</deck>
 
 				<dynamicCards>
@@ -2091,6 +2310,12 @@
 					<card name="elf_skirmisher3" />
 					<!-- SGR: Include faction-compatible special card ciri in the static deck. -->
 					<card name="ciri" />
+				
+					<card name="dwarf2" />
+					<card name="dwarf3" />
+					<card name="schirru" />
+					<card name="dwarf" />
+					<card name="mahakam4" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -2128,6 +2353,12 @@
 					<card name="elf_skirmisher3" />
 					<!-- SGR: Include faction-compatible special card ciri in the static deck. -->
 					<card name="ciri" />
+				
+					<card name="schirru" />
+					<card name="vrihedd_brigade" />
+					<card name="mahakam3" />
+					<card name="mahakam2" />
+					<card name="vrihedd_brigade2" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -2171,6 +2402,10 @@
 					<card name="elf_skirmisher3" />
 					<!-- SGR: Include faction-compatible special card ciri in the static deck. -->
 					<card name="ciri" />
+				
+					<card name="schirru" />
+					<card name="vrihedd_brigade" />
+					<card name="vrihedd_brigade2" />
 				</deck>
 
 				<dynamicCards>
@@ -2212,6 +2447,14 @@
 					<card name="arachas" />
 					<!-- SGR: Include faction-compatible special card draug in the static deck. -->
 					<card name="draug" />
+				
+					<card name="cockatrice" />
+					<card name="plague_maiden" />
+					<card name="bruxa" />
+					<card name="fleder" />
+					<card name="kayran" />
+					<card name="garkain" />
+					<card name="mrmirror" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -2248,6 +2491,12 @@
 					<card name="arachas" />
 					<!-- SGR: Include faction-compatible special card draug in the static deck. -->
 					<card name="draug" />
+				
+					<card name="cockatrice" />
+					<card name="leshen" />
+					<card name="crone_whispess" />
+					<card name="toad" />
+					<card name="crone_weavess" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -2291,6 +2540,10 @@
 					<card name="arachas" />
 					<!-- SGR: Include faction-compatible special card draug in the static deck. -->
 					<card name="draug" />
+				
+					<card name="toad" />
+					<card name="kayran" />
+					<card name="cockatrice" />
 				</deck>
 
 				<dynamicCards>
@@ -2343,6 +2596,8 @@
 					<card name="bruxa" />
 					<!-- SGR: Include faction-compatible special card katakan in the static deck. -->
 					<card name="katakan" />
+				
+					<card name="gargoyle" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -2482,6 +2737,9 @@
 					<card name="crone_whispess" />
 					<!-- SGR: Include faction-compatible special card crone_weavess in the static deck. -->
 					<card name="crone_weavess" />
+				
+					<card name="gargoyle" />
+					<card name="fire_elemental" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -2521,6 +2779,9 @@
 					<card name="crone_whispess" />
 					<!-- SGR: Include faction-compatible special card crone_weavess in the static deck. -->
 					<card name="crone_weavess" />
+				
+					<card name="earth_elemental" />
+					<card name="fire_elemental" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -2613,6 +2874,11 @@
 					<card name="ghoul" />
 					<card name="ghoul2" />
 					<card name="ghoul3" />
+				
+					<card name="gargoyle" />
+					<card name="celaeno_harpy" />
+					<card name="harpy" />
+					<card name="fleder" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -2649,6 +2915,8 @@
 					<card name="ghoul" />
 					<card name="ghoul2" />
 					<card name="ghoul3" />
+				
+					<card name="toad" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -2891,6 +3159,11 @@
 					<card name="havcaaren_medic3" />
 					<!-- SGR: Include faction-compatible special card olgierd in the static deck. -->
 					<card name="olgierd" />
+				
+					<card name="dol_scout3" />
+					<card name="schirru" />
+					<card name="dol_archer" />
+					<card name="elf_skirmisher3" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -3008,6 +3281,12 @@
 					<card name="crone_whispess" />
 					<!-- SGR: Include faction-compatible special card toad in the static deck. -->
 					<card name="toad" />
+				
+					<card name="cockatrice" />
+					<card name="wyvern" />
+					<card name="gargoyle" />
+					<card name="fire_elemental" />
+					<card name="celaeno_harpy" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -3145,6 +3424,15 @@
 					<card name="clear_sky" />
 					<!-- SGR: Restore scorch to the original Gambler quantity. -->
 					<card name="scorch" />
+				
+					<card name="gargoyle" />
+					<card name="grave_hag" />
+					<card name="arachas_behemoth" />
+					<card name="arachas3" />
+					<card name="celaeno_harpy" />
+					<card name="werewolf" />
+					<card name="harpy" />
+					<card name="garkain" />
 				</deck>
 				<!-- SGR: Use a Monsters leader; weather selection on easy and melee Horn on normal/hard. -->
 				<deck difficulty="2" leaderCard="eredin_copper" specialCard="mrmirror">
@@ -3340,6 +3628,20 @@
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+				
+					<card name="blue_stripes3" />
+					<card name="crinfrid2" />
+					<card name="crinfrid3" />
+					<card name="dijkstra" />
+					<card name="blue_stripes2" />
+					<card name="crinfrid" />
+					<card name="ballista_officer" />
+					<card name="witch_hunter" />
+					<card name="vernon" />
+					<card name="siege_tower2" />
+					<card name="poor_infantry2" />
+					<card name="philippa" />
+					<card name="poor_infantry" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -3373,6 +3675,13 @@
 					<card name="blue_stripes3" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+				
+					<card name="crinfrid2" />
+					<card name="crinfrid3" />
+					<card name="crinfrid" />
+					<card name="witch_hunter" />
+					<card name="siege_tower2" />
+					<card name="esterad" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -3412,6 +3721,10 @@
 					<card name="blue_stripes3" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+				
+					<card name="crinfrid" />
+					<card name="crinfrid3" />
+					<card name="crinfrid2" />
 				</deck>
 
 				<dynamicCards>
@@ -3457,6 +3770,12 @@
 					<card name="havcaaren_medic2" />
 					<!-- SGR: Include faction-compatible special card schirru in the static deck. -->
 					<card name="schirru" />
+				
+					<card name="elf_skirmisher3" />
+					<card name="dol_archer" />
+					<card name="dwarf3" />
+					<card name="dwarf2" />
+					<card name="elf_skirmisher2" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -3493,6 +3812,9 @@
 					<card name="havcaaren_medic2" />
 					<!-- SGR: Include faction-compatible special card schirru in the static deck. -->
 					<card name="schirru" />
+				
+					<card name="mahakam5" />
+					<card name="mahakam2" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -3580,6 +3902,8 @@
 					<!-- SGR: Use distinct variant kaedweni_siege2 instead of another kaedweni_siege. -->
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
+				
+					<card name="crinfrid2" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -3611,6 +3935,8 @@
 					<!-- SGR: Use distinct variant kaedweni_siege2 instead of another kaedweni_siege. -->
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
+				
+					<card name="siege_tower2" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -3684,6 +4010,11 @@
 					<card name="kaedweni_siege" />
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
+				
+					<card name="blue_stripes3" />
+					<card name="blue_stripes" />
+					<card name="crinfrid3" />
+					<card name="blue_stripes2" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -3719,6 +4050,10 @@
 					<card name="kaedweni_siege" />
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
+				
+					<card name="witch_hunter" />
+					<card name="crinfrid3" />
+					<card name="philippa" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -3758,6 +4093,8 @@
 					<card name="kaedweni_siege" />
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
+				
+					<card name="philippa" />
 				</deck>
 
 				<dynamicCards>
@@ -3801,6 +4138,11 @@
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
 					<card name="dun_banner_medic" />
+				
+					<card name="blue_stripes3" />
+					<card name="crinfrid3" />
+					<card name="crinfrid2" />
+					<card name="blue_stripes2" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -3926,6 +4268,13 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
+				
+					<card name="combat_engineer" />
+					<card name="black_archer2" />
+					<card name="young_emissary2" />
+					<card name="impera_brigade3" />
+					<card name="assire" />
+					<card name="siege_support" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -3950,6 +4299,13 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
+				
+					<card name="cahir" />
+					<card name="fringilla" />
+					<card name="black_archer2" />
+					<card name="assire" />
+					<card name="young_emissary2" />
+					<card name="archer_support2" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -3980,6 +4336,11 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
+				
+					<card name="heavy_zerri" />
+					<card name="archer_support" />
+					<card name="archer_support2" />
+					<card name="moorvran" />
 				</deck>
 
 				<dynamicCards>
@@ -4013,6 +4374,11 @@
 					<card name="nausicaa3" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
+				
+					<card name="sweers" />
+					<card name="zerri" />
+					<card name="renuald" />
+					<card name="assire" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -4051,6 +4417,8 @@
 					<card name="nausicaa3" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
+				
+					<card name="zerri" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -4141,6 +4509,11 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
+				
+					<card name="sweers" />
+					<card name="cynthia" />
+					<card name="renuald" />
+					<card name="rotten" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -4265,6 +4638,10 @@
 					<card name="elf_skirmisher2" />
 					<card name="vrihedd_cadet" />
 					<card name="dol_archer" />
+				
+					<card name="schirru" />
+					<card name="mahakam5" />
+					<card name="havcaaren_support2" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -4292,6 +4669,10 @@
 					<card name="elf_skirmisher2" />
 					<card name="vrihedd_cadet" />
 					<card name="dol_archer" />
+				
+					<card name="schirru" />
+					<card name="barclay" />
+					<card name="vrihedd_brigade2" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -4325,6 +4706,8 @@
 					<card name="elf_skirmisher2" />
 					<card name="vrihedd_cadet" />
 					<card name="dol_archer" />
+				
+					<card name="schirru" />
 				</deck>
 
 				<dynamicCards>
@@ -4365,6 +4748,8 @@
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 					<card name="havcaaren_medic3" />
+				
+					<card name="toruviel" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -4502,6 +4887,11 @@
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 					<card name="havcaaren_medic3" />
+				
+					<card name="dwarf" />
+					<card name="schirru" />
+					<card name="toruviel" />
+					<card name="dol_archer" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -4627,6 +5017,9 @@
 					<card name="ekkima" />
 					<card name="ghoul" />
 					<card name="crone_brewess" />
+				
+					<card name="wyvern" />
+					<card name="fire_elemental" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -4655,6 +5048,9 @@
 					<card name="ekkima" />
 					<card name="ghoul" />
 					<card name="crone_brewess" />
+				
+					<card name="wyvern" />
+					<card name="fire_elemental" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -4728,6 +5124,9 @@
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
 					<card name="crone_whispess" />
+				
+					<card name="gargoyle" />
+					<card name="grave_hag" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -4767,6 +5166,8 @@
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
 					<card name="crone_whispess" />
+				
+					<card name="toad" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -4859,6 +5260,10 @@
 					<card name="ghoul3" />
 					<card name="crone_brewess" />
 					<card name="crone_whispess" />
+				
+					<card name="gargoyle" />
+					<card name="wyvern" />
+					<card name="grave_hag" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -4985,6 +5390,12 @@
 					<card name="cow" />
 					<!-- SGR: Replace Gaunter and Darkness with vesemir; faction-compatible and absent from static and dynamic cards. -->
 					<card name="vesemir" />
+				
+					<card name="clan_tordarroch_armorsmith" />
+					<card name="clan_drummond_shieldmaiden3" />
+					<card name="udalryk" />
+					<card name="clan_heymaey_skald" />
+					<card name="clan_drummond_shieldmaiden2" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5014,6 +5425,12 @@
 					<card name="cow" />
 					<!-- SGR: Replace Gaunter and Darkness with triss; faction-compatible and absent from static and dynamic cards. -->
 					<card name="triss" />
+				
+					<card name="birna_bran" />
+					<card name="ermion" />
+					<card name="cerys" />
+					<card name="clan_drummond_shieldmaiden2" />
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5091,6 +5508,11 @@
 					<card name="clan_drummond_shieldmaiden2" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden3" />
+				
+					<card name="holger_blackhand" />
+					<card name="clan_heymaey_skald" />
+					<card name="clan_dimun_pirate" />
+					<card name="donar_an_hindar" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5126,6 +5548,8 @@
 					<card name="clan_drummond_shieldmaiden2" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden3" />
+				
+					<card name="holger_blackhand" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5215,6 +5639,11 @@
 					<card name="clan_drummond_shieldmaiden2" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden3" />
+				
+					<card name="holger_blackhand" />
+					<card name="clan_dimun_pirate" />
+					<card name="clan_heymaey_skald" />
+					<card name="blueboy_lugos" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5332,6 +5761,14 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
+				
+					<card name="vattier" />
+					<card name="black_archer" />
+					<card name="impera_brigade2" />
+					<card name="assire" />
+					<card name="young_emissary2" />
+					<card name="impera_brigade4" />
+					<card name="siege_support" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5357,6 +5794,14 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
+				
+					<card name="cahir" />
+					<card name="archer_support" />
+					<card name="fringilla" />
+					<card name="archer_support2" />
+					<card name="shilard" />
+					<card name="assire" />
+					<card name="black_archer" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5382,6 +5827,14 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
+				
+					<card name="moorvran" />
+					<card name="archer_support2" />
+					<card name="heavy_zerri" />
+					<card name="shilard" />
+					<card name="archer_support" />
+					<card name="stefan" />
+					<card name="cahir" />
 				</deck>
 
 				<dynamicCards>
@@ -5419,6 +5872,14 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+				
+					<card name="crinfrid3" />
+					<card name="crinfrid2" />
+					<card name="blue_stripes3" />
+					<card name="crinfrid" />
+					<card name="ballista_officer" />
+					<card name="witch_hunter" />
+					<card name="siege_tower2" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5447,6 +5908,16 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+				
+					<card name="crinfrid2" />
+					<card name="vernon" />
+					<card name="crinfrid3" />
+					<card name="witch_hunter" />
+					<card name="crinfrid" />
+					<card name="siege_tower2" />
+					<card name="blue_stripes3" />
+					<card name="natalis" />
+					<card name="ballista_officer" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5475,6 +5946,16 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+				
+					<card name="crinfrid3" />
+					<card name="crinfrid2" />
+					<card name="vernon" />
+					<card name="crinfrid" />
+					<card name="witch_hunter" />
+					<card name="siege_tower2" />
+					<card name="natalis" />
+					<card name="blue_stripes3" />
+					<card name="ballista_officer" />
 				</deck>
 
 				<dynamicCards>
@@ -5522,6 +6003,13 @@
 					<card name="zerri" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
+				
+					<card name="cynthia" />
+					<card name="vreemde" />
+					<card name="sweers" />
+					<card name="vattier" />
+					<card name="combat_engineer" />
+					<card name="assire" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5554,6 +6042,13 @@
 					<card name="zerri" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
+				
+					<card name="assire" />
+					<card name="archer_support" />
+					<card name="renuald" />
+					<card name="combat_engineer" />
+					<card name="cahir" />
+					<card name="archer_support2" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5586,6 +6081,13 @@
 					<card name="zerri" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
+				
+					<card name="archer_support2" />
+					<card name="archer_support" />
+					<card name="vanhemar" />
+					<card name="renuald" />
+					<card name="combat_engineer" />
+					<card name="cahir" />
 				</deck>
 
 				<dynamicCards>
@@ -5629,6 +6131,14 @@
 					<card name="havcaaren_support3" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic3" />
+				
+					<card name="schirru" />
+					<card name="dwarf2" />
+					<card name="elf_skirmisher3" />
+					<card name="dol_archer" />
+					<card name="mahakam5" />
+					<card name="havcaaren_medic2" />
+					<card name="dwarf3" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5657,6 +6167,14 @@
 					<card name="havcaaren_support3" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic3" />
+				
+					<card name="schirru" />
+					<card name="mahakam4" />
+					<card name="mahakam5" />
+					<card name="vrihedd_brigade2" />
+					<card name="vrihedd_brigade" />
+					<card name="mahakam" />
+					<card name="dol_scout" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5685,6 +6203,14 @@
 					<card name="havcaaren_support3" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic3" />
+				
+					<card name="schirru" />
+					<card name="vrihedd_brigade" />
+					<card name="mahakam4" />
+					<card name="vrihedd_brigade2" />
+					<card name="mahakam2" />
+					<card name="mahakam5" />
+					<card name="dol_scout3" />
 				</deck>
 
 				<dynamicCards>
@@ -5728,6 +6254,15 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
+				
+					<card name="cockatrice" />
+					<card name="gargoyle" />
+					<card name="grave_hag" />
+					<card name="wyvern" />
+					<card name="fire_elemental" />
+					<card name="mrmirror" />
+					<card name="celaeno_harpy" />
+					<card name="endrega" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5756,6 +6291,15 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
+				
+					<card name="fire_elemental" />
+					<card name="wyvern" />
+					<card name="cockatrice" />
+					<card name="ice_giant" />
+					<card name="kayran" />
+					<card name="toad" />
+					<card name="gargoyle" />
+					<card name="grave_hag" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5784,6 +6328,15 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
+				
+					<card name="toad" />
+					<card name="ice_giant" />
+					<card name="kayran" />
+					<card name="fire_elemental" />
+					<card name="wyvern" />
+					<card name="cockatrice" />
+					<card name="gargoyle" />
+					<card name="draug" />
 				</deck>
 
 				<dynamicCards>
@@ -5830,6 +6383,14 @@
 					<card name="havcaaren_support3" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic3" />
+				
+					<card name="schirru" />
+					<card name="dwarf3" />
+					<card name="riordain" />
+					<card name="elf_skirmisher2" />
+					<card name="dol_archer" />
+					<card name="dwarf2" />
+					<card name="dol_scout3" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5859,6 +6420,13 @@
 					<card name="havcaaren_support3" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic3" />
+				
+					<card name="vrihedd_brigade" />
+					<card name="vrihedd_brigade2" />
+					<card name="mahakam5" />
+					<card name="mahakam4" />
+					<card name="dol_scout2" />
+					<card name="dol_scout" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5888,6 +6456,13 @@
 					<card name="havcaaren_support3" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic3" />
+				
+					<card name="vrihedd_brigade" />
+					<card name="dol_scout" />
+					<card name="mahakam2" />
+					<card name="mahakam3" />
+					<card name="vrihedd_brigade2" />
+					<card name="dol_scout3" />
 				</deck>
 
 				<dynamicCards>
@@ -5931,6 +6506,15 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
+				
+					<card name="wyvern" />
+					<card name="gargoyle" />
+					<card name="grave_hag" />
+					<card name="harpy" />
+					<card name="fire_elemental" />
+					<card name="cockatrice" />
+					<card name="mrmirror" />
+					<card name="endrega" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5959,6 +6543,14 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
+				
+					<card name="wyvern" />
+					<card name="fire_elemental" />
+					<card name="kayran" />
+					<card name="toad" />
+					<card name="cockatrice" />
+					<card name="ice_giant" />
+					<card name="gargoyle" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5987,6 +6579,14 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
+				
+					<card name="ice_giant" />
+					<card name="toad" />
+					<card name="kayran" />
+					<card name="fire_elemental" />
+					<card name="wyvern" />
+					<card name="cockatrice" />
+					<card name="gargoyle" />
 				</deck>
 
 				<dynamicCards>
@@ -6031,6 +6631,14 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+				
+					<card name="crinfrid2" />
+					<card name="crinfrid3" />
+					<card name="crinfrid" />
+					<card name="blue_stripes3" />
+					<card name="ballista_officer" />
+					<card name="vernon" />
+					<card name="siege_tower2" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -6059,6 +6667,16 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+				
+					<card name="crinfrid" />
+					<card name="crinfrid2" />
+					<card name="crinfrid3" />
+					<card name="vernon" />
+					<card name="siege_tower2" />
+					<card name="witch_hunter" />
+					<card name="blue_stripes3" />
+					<card name="ballista_officer" />
+					<card name="natalis" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -6087,6 +6705,16 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+				
+					<card name="crinfrid3" />
+					<card name="crinfrid2" />
+					<card name="witch_hunter" />
+					<card name="crinfrid" />
+					<card name="natalis" />
+					<card name="vernon" />
+					<card name="siege_tower2" />
+					<card name="blue_stripes3" />
+					<card name="ballista_officer" />
 				</deck>
 
 				<dynamicCards>
@@ -6134,6 +6762,13 @@
 					<card name="zerri" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
+				
+					<card name="sweers" />
+					<card name="combat_engineer" />
+					<card name="assire" />
+					<card name="vattier" />
+					<card name="vanhemar" />
+					<card name="renuald" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -6166,6 +6801,13 @@
 					<card name="zerri" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
+				
+					<card name="archer_support2" />
+					<card name="archer_support" />
+					<card name="cahir" />
+					<card name="renuald" />
+					<card name="rotten" />
+					<card name="rainfarn" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -6198,6 +6840,13 @@
 					<card name="zerri" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
+				
+					<card name="archer_support" />
+					<card name="archer_support2" />
+					<card name="cahir" />
+					<card name="assire" />
+					<card name="vanhemar" />
+					<card name="combat_engineer" />
 				</deck>
 
 				<dynamicCards>
@@ -6247,6 +6896,11 @@
 					<card name="clan_drummond_shieldmaiden2" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden3" />
+				
+					<card name="holger_blackhand" />
+					<card name="clan_dimun_pirate" />
+					<card name="clan_heymaey_skald" />
+					<card name="birna_bran" />
 				</deck>
 
 				<!-- Difficulty Normal -->

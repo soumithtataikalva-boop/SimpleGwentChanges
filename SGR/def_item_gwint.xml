@@ -260,7 +260,7 @@
 
 				<item name="gwint_card_letho" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="50"
 					icon_path="icons/inventory/gwint/ico_gwent_hero_neutral.png" localisation_key_name = "gwint_name_letho" localisation_key_description = "gwint_desc_gwint_card" >
-					<tags>GwintCardNlfg,NoShowInPlayersInventory,EncumbranceOff,Lootable,GwintCollectorAchievement,GwintCard,GwentTournament,GT6</tags>
+					<tags>GwintCardNeutral,NoShowInPlayersInventory,EncumbranceOff,Lootable,GwintCollectorAchievement,GwintCard,GwentTournament,GT6</tags>
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
@@ -714,7 +714,6 @@
 						</base_abilities>
 					</item>
 
-
 			<!-- Scoia'tael Cards -->
 				<item name="gwint_card_eithne" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="50"
 					icon_path="icons/inventory/gwint/ico_gwent_hero_scoia_tael.png" localisation_key_name = "gwint_name_eithne" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1014,7 +1013,7 @@
 				</item>
 
 				<item name="gwint_card_schirru" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price ="50"
-					icon_path="icons/inventory/gwint/ico_gwent_soldier_scoia_tael.png" localisation_key_name = "gwint_name_schirru" localisation_key_description = "gwint_desc_gwint_card" >
+					icon_path="icons/inventory/gwint/ico_gwent_siege_scoia_tael.png" localisation_key_name = "gwint_name_schirru" localisation_key_description = "gwint_desc_gwint_card" >
 					<tags>GwintCardSctl,NoShowInPlayersInventory,EncumbranceOff,Lootable,GwintCard</tags>
 					<base_abilities>
 						<a>max_card_0</a> <!-- Should be given as reward -->
@@ -1668,7 +1667,7 @@
 
 				<item name="gwint_card_mrmirror" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="20"
 					icon_path="icons/inventory/gwint/ico_gwent_range_no_mans_land.png" localisation_key_name = "gwint_name_mrmirror" localisation_key_description = "gwint_desc_gwint_card" >
-					<tags>GwintCardNeutral,NoShowInPlayersInventory,EncumbranceOff,Lootable,GwintCard</tags>
+					<tags>GwintCardMstr,NoShowInPlayersInventory,EncumbranceOff,Lootable,GwintCard</tags>
 					<base_abilities>
 						<a>max_card_1</a> <!-- Should be given as reward -->
 					</base_abilities>
@@ -1676,7 +1675,7 @@
 
 				<item name="gwint_card_mrmirror_foglet" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="20"
 					icon_path="icons/inventory/gwint/ico_gwent_melee_no_mans_land.png" localisation_key_name = "gwint_name_mrmirror_foglet" localisation_key_description = "gwint_desc_gwint_card" >
-					<tags>GwintCardNeutral,NoShowInPlayersInventory,EncumbranceOff,Lootable,GwintCard</tags>
+					<tags>GwintCardMstr,NoShowInPlayersInventory,EncumbranceOff,Lootable,GwintCard</tags>
 					<base_abilities>
 						<a>max_card_3</a> <!-- Place those in shops -->
 					</base_abilities>

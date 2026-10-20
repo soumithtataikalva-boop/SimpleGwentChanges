@@ -471,7 +471,6 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-			<summonFlags />
 		</card>
 
 		<card   index="28"

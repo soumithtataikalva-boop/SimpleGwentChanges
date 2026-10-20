@@ -41,7 +41,7 @@
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="witch_hunter" />
 				</deck>
 
@@ -80,9 +80,9 @@
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="crinfrid" />
-				
+
 					<card name="redanian2" />
 					<card name="crinfrid2" />
 				</deck>
@@ -122,9 +122,9 @@
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="catapult2" />
-				
+
 					<card name="poor_infantry3" />
 					<card name="redanian2" />
 					<card name="blue_stripes3" />
@@ -250,7 +250,7 @@
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="witch_hunter" />
 					<card name="ballista_officer" />
 				</deck>
@@ -284,10 +284,10 @@
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
-				
+
 					<card name="redanian2" />
 				</deck>
 
@@ -320,10 +320,10 @@
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="catapult" />
 					<card name="crinfrid" />
-				
+
 					<card name="poor_infantry" />
 					<card name="redanian2" />
 					<card name="blue_stripes3" />
@@ -374,7 +374,7 @@
 					<card name="siegfried" />
 					<!-- SGR: Include faction-compatible special card vernon in the static deck. -->
 					<card name="witch_hunter" />
-				
+
 					<card name="ballista_officer" />
 					<card name="siege_tower2" />
 					<card name="siege_tower" />
@@ -419,14 +419,14 @@
 					<card name="horn" />
 					<card name="scorch" />
 					<card name="fog" />
-					
+
 					<card name="clear_sky" />
-					
+
 					<!-- SGR: Replace the extra siegfried with ves; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="ves" />
 					<!-- SGR: Include faction-compatible special card vernon in the static deck. -->
 					<card name="vernon" />
-				
+
 					<card name="siege_tower2" />
 					<card name="siege_tower" />
 					<card name="witch_hunter" />
@@ -464,17 +464,16 @@
 					<card name="horn" />
 					<card name="scorch" />
 					<card name="fog" />
-					
+
 					<card name="clear_sky" />
-					
+
 					<!-- SGR: Replace the extra siegfried with ves; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="ves" />
 					<!-- difficulty 3 -->
-					
+
 					<card name="dummy" />
 					<card name="scorch" />
-					
-					
+
 					<!-- SGR: Replace extra catapult with vesemir; closest-strength available unit, absent from static and dynamic cards. -->
 					<card name="vesemir" />
 					<!-- SGR: Replace extra catapult2 with triss; closest-strength available unit, absent from static and dynamic cards. -->
@@ -482,7 +481,7 @@
 					<card name="yennefer" />
 					<!-- SGR: Include faction-compatible special card vernon in the static deck. -->
 					<card name="vernon" />
-				
+
 					<card name="siege_tower2" />
 				</deck>
 
@@ -529,7 +528,7 @@
 					<card name="ballista_officer" />
 					<!-- SGR: Include faction-compatible special card esterad in the static deck. -->
 					<card name="esterad" />
-				
+
 					<card name="crinfrid3" />
 					<card name="crinfrid" />
 					<card name="blue_stripes3" />
@@ -572,13 +571,13 @@
 					<card name="clear_sky" />
 					<!-- SGR: Include faction-compatible special card esterad in the static deck. -->
 					<card name="esterad" />
-				
+
 					<card name="crinfrid2" />
 					<card name="crinfrid" />
 					<card name="crinfrid3" />
 					<card name="vernon" />
 					<card name="witch_hunter" />
-				
+
 					<card name="redanian" />
 					<card name="ves" />
 				</deck>
@@ -622,11 +621,11 @@
 					<card name="yennefer" />
 					<!-- SGR: Include faction-compatible special card esterad in the static deck. -->
 					<card name="esterad" />
-				
+
 					<card name="philippa" />
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
-				
+
 					<card name="blue_stripes3" />
 					<card name="redanian" />
 					<card name="crinfrid" />
@@ -675,7 +674,7 @@
 					<card name="siege_tower" />
 					<!-- SGR: Include faction-compatible special card dijkstra in the static deck. -->
 					<card name="dijkstra" />
-				
+
 					<card name="ballista_officer" />
 					<card name="kaedweni_siege3" />
 					<card name="witch_hunter" />
@@ -717,10 +716,10 @@
 					<card name="scorch" />
 					<!-- SGR: Include faction-compatible special card dijkstra in the static deck. -->
 					<card name="dijkstra" />
-				
+
 					<card name="siege_tower2" />
 					<card name="philippa" />
-				
+
 					<card name="catapult2" />
 				</deck>
 
@@ -763,7 +762,7 @@
 					<card name="natalis" />
 					<!-- SGR: Include faction-compatible special card dijkstra in the static deck. -->
 					<card name="dijkstra" />
-				
+
 					<card name="catapult2" />
 				</deck>
 
@@ -809,7 +808,7 @@
 					<card name="kaedweni_siege2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
@@ -848,7 +847,7 @@
 					<card name="kaedweni_siege2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="crinfrid" />
 					<card name="philippa" />
 					<card name="crinfrid2" />
@@ -890,11 +889,11 @@
 					<card name="kaedweni_siege2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="philippa" />
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
-				
+
 					<card name="crinfrid" />
 				</deck>
 
@@ -940,7 +939,7 @@
 					<card name="blue_stripes" />
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
-				
+
 					<card name="ballista_officer" />
 					<card name="siege_tower" />
 					<card name="siege_tower2" />
@@ -981,7 +980,7 @@
 					<card name="blue_stripes" />
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
-				
+
 					<card name="siege_tower2" />
 				</deck>
 
@@ -1022,9 +1021,9 @@
 					<card name="blue_stripes" />
 					<!-- SGR: Use distinct variant blue_stripes2 instead of another blue_stripes. -->
 					<card name="blue_stripes2" />
-				
+
 					<card name="catapult" />
-				
+
 					<card name="blue_stripes3" />
 					<card name="catapult2" />
 				</deck>
@@ -1076,7 +1075,7 @@
 					<card name="vanhemar" />
 					<!-- SGR: Include faction-compatible special card yennefer in the static deck. -->
 					<card name="yennefer" />
-				
+
 					<card name="combat_engineer" />
 					<card name="morteisen" />
 					<card name="vreemde" />
@@ -1119,11 +1118,11 @@
 					<card name="vanhemar" />
 					<!-- SGR: Include faction-compatible special card yennefer in the static deck. -->
 					<card name="yennefer" />
-				
+
 					<card name="cahir" />
 					<card name="renuald" />
 					<card name="young_emissary" />
-				
+
 					<card name="young_emissary2" />
 				</deck>
 
@@ -1165,11 +1164,11 @@
 					<card name="albrich" />
 					<!-- SGR: Include faction-compatible special card yennefer in the static deck. -->
 					<card name="yennefer" />
-				
+
 					<card name="moorvran" />
 					<card name="young_emissary" />
 					<card name="cahir" />
-				
+
 					<card name="impera_brigade4" />
 					<card name="young_emissary2" />
 				</deck>
@@ -1223,7 +1222,7 @@
 					<card name="vanhemar" />
 					<!-- SGR: Include faction-compatible special card menno in the static deck. -->
 					<card name="menno" />
-				
+
 					<card name="sweers" />
 					<card name="combat_engineer" />
 					<card name="assire" />
@@ -1243,7 +1242,7 @@
 					<!-- difficulty 2 -->
 					<card name="scorch" />
 					<card name="fog" />
-					
+
 					<card name="clear_sky" />
 					<!-- SGR: Replace the extra morteisen with vreemde; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="vreemde" />
@@ -1270,7 +1269,7 @@
 					<card name="cynthia" />
 					<!-- SGR: Include faction-compatible special card menno in the static deck. -->
 					<card name="menno" />
-				
+
 					<card name="fringilla" />
 				</deck>
 
@@ -1288,14 +1287,14 @@
 					<!-- difficulty 2 -->
 					<card name="scorch" />
 					<card name="fog" />
-					
+
 					<card name="clear_sky" />
 					<!-- SGR: Replace the extra morteisen with vreemde; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="vreemde" />
 					<card name="combat_engineer" />
 					<!-- difficulty 3 -->
 					<card name="scorch" />
-					
+
 					<!-- common -->
 					<card name="renuald" />
 					<card name="shilard" />
@@ -1318,7 +1317,7 @@
 					<card name="cynthia" />
 					<!-- SGR: Include faction-compatible special card menno in the static deck. -->
 					<card name="menno" />
-				
+
 					<card name="archer_support" />
 				</deck>
 
@@ -1367,7 +1366,7 @@
 					<card name="cynthia" />
 					<!-- SGR: Include faction-compatible special card letho in the static deck. -->
 					<card name="letho" />
-				
+
 					<card name="sweers" />
 					<card name="renuald" />
 					<card name="vanhemar" />
@@ -1410,7 +1409,7 @@
 					<card name="cynthia" />
 					<!-- SGR: Include faction-compatible special card letho in the static deck. -->
 					<card name="letho" />
-				
+
 					<card name="fringilla" />
 					<card name="vanhemar" />
 					<card name="archer_support2" />
@@ -1455,7 +1454,7 @@
 					<card name="cynthia" />
 					<!-- SGR: Include faction-compatible special card letho in the static deck. -->
 					<card name="letho" />
-				
+
 					<card name="archer_support" />
 					<card name="archer_support2" />
 					<card name="fringilla" />
@@ -1510,7 +1509,7 @@
 					<card name="nausicaa3" />
 					<!-- SGR: Include faction-compatible special card moorvran in the static deck. -->
 					<card name="moorvran" />
-				
+
 					<card name="zerri" />
 					<card name="combat_engineer" />
 					<card name="rotten" />
@@ -1531,7 +1530,7 @@
 					<card name="rainfarn" />
 					<!-- difficulty 2 -->
 					<card name="frost" />
-					
+
 					<card name="rain" />
 					<card name="dummy" />
 					<card name="horn" />
@@ -1558,7 +1557,7 @@
 					<card name="nausicaa3" />
 					<!-- SGR: Include faction-compatible special card moorvran in the static deck. -->
 					<card name="moorvran" />
-				
+
 					<card name="archer_support2" />
 					<card name="heavy_zerri" />
 					<card name="black_archer2" />
@@ -1578,7 +1577,7 @@
 					<card name="rainfarn" />
 					<!-- difficulty 2 -->
 					<card name="frost" />
-					
+
 					<card name="rain" />
 					<card name="dummy" />
 					<card name="horn" />
@@ -1586,7 +1585,7 @@
 					<!-- SGR: Replace the extra rainfarn with zerri; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="zerri" />
 					<!-- difficulty 3 -->
-					
+
 					<card name="dummy" />
 					<card name="horn" />
 					<card name="scorch" />
@@ -1610,12 +1609,12 @@
 					<card name="nausicaa3" />
 					<!-- SGR: Include faction-compatible special card moorvran in the static deck. -->
 					<card name="moorvran" />
-				
+
 					<card name="heavy_zerri" />
 					<card name="archer_support2" />
 					<card name="archer_support" />
 					<card name="rotten" />
-				
+
 					<card name="impera_brigade3" />
 					<card name="impera_brigade4" />
 				</deck>
@@ -1660,7 +1659,7 @@
 					<card name="cynthia" />
 					<!-- SGR: Move Mysterious Elf into every static deck to match Gremist's reward. -->
 					<card name="mysterious_elf" />
-				
+
 					<card name="rotten" />
 					<card name="zerri" />
 					<card name="morteisen" />
@@ -1704,7 +1703,7 @@
 					<card name="cynthia" />
 					<!-- SGR: Move Mysterious Elf into every static deck to match Gremist's reward. -->
 					<card name="mysterious_elf" />
-				
+
 					<card name="zerri" />
 					<card name="cahir" />
 					<card name="fringilla" />
@@ -1733,8 +1732,6 @@
 					<!-- SGR: Replace the extra sweers with morteisen; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="morteisen" />
 
-					
-					
 					<card name="clear_sky" />
 					<card name="combat_engineer" />
 					<card name="tibor" />
@@ -1754,7 +1751,7 @@
 					<card name="cynthia" />
 					<!-- SGR: Move Mysterious Elf into every static deck to match Gremist's reward. -->
 					<card name="mysterious_elf" />
-				
+
 					<card name="zerri" />
 					<card name="moorvran" />
 					<card name="stefan" />
@@ -1805,7 +1802,7 @@
 					<card name="havcaaren_medic2" />
 					<!-- SGR: Include faction-compatible special card eithne in the static deck. -->
 					<card name="eithne" />
-				
+
 					<card name="toruviel" />
 					<card name="dol_archer" />
 					<card name="schirru" />
@@ -1849,12 +1846,12 @@
 					<card name="havcaaren_medic2" />
 					<!-- SGR: Include faction-compatible special card eithne in the static deck. -->
 					<card name="eithne" />
-				
+
 					<card name="schirru" />
 					<card name="filavandrel" />
 					<card name="dol_scout3" />
 					<card name="iorveth" />
-				
+
 					<card name="dol_scout" />
 				</deck>
 
@@ -1879,7 +1876,7 @@
 					<card name="riordain" />
 
 					<card name="horn" />
-					
+
 					<card name="scorch" />
 					<card name="isengrim" />
 
@@ -1899,11 +1896,11 @@
 					<card name="havcaaren_medic2" />
 					<!-- SGR: Include faction-compatible special card eithne in the static deck. -->
 					<card name="eithne" />
-				
+
 					<card name="schirru" />
 					<card name="iorveth" />
 					<card name="milva" />
-				
+
 					<card name="havcaaren_support3" />
 				</deck>
 
@@ -1949,7 +1946,7 @@
 					<card name="havcaaren_medic2" />
 					<!-- SGR: Include faction-compatible special card triss in the static deck. -->
 					<card name="triss" />
-				
+
 					<card name="schirru" />
 					<card name="dwarf2" />
 					<card name="dwarf" />
@@ -1988,7 +1985,7 @@
 					<card name="havcaaren_medic2" />
 					<!-- SGR: Include faction-compatible special card triss in the static deck. -->
 					<card name="triss" />
-				
+
 					<card name="schirru" />
 					<card name="barclay" />
 					<card name="dennis" />
@@ -2013,7 +2010,7 @@
 
 					<card name="dummy" />
 					<card name="horn" />
-					
+
 					<card name="saskia" />
 
 					<card name="yennefer" />
@@ -2032,12 +2029,12 @@
 					<card name="havcaaren_medic2" />
 					<!-- SGR: Include faction-compatible special card triss in the static deck. -->
 					<card name="triss" />
-				
+
 					<card name="schirru" />
 					<card name="barclay" />
 					<card name="vrihedd_brigade2" />
 					<card name="vrihedd_brigade" />
-				
+
 					<card name="havcaaren_support2" />
 					<card name="elf_skirmisher3" />
 				</deck>
@@ -2087,7 +2084,7 @@
 					<card name="havcaaren_medic" />
 					<!-- SGR: Include faction-compatible special card geralt in the static deck. -->
 					<card name="ciri" />
-				
+
 					<card name="schirru" />
 					<card name="havcaaren_medic3" />
 					<card name="havcaaren_medic2" />
@@ -2105,7 +2102,7 @@
 					<card name="toruviel" />
 
 					<card name="frost" />
-					
+
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
@@ -2131,7 +2128,7 @@
 					<card name="geralt" />
 					<!-- SGR: Add Roach alongside Geralt for his summon ability. -->
 					<card name="roach" />
-				
+
 					<card name="schirru" />
 					<card name="dennis" />
 				</deck>
@@ -2148,12 +2145,11 @@
 					<card name="toruviel" />
 
 					<card name="frost" />
-					
+
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
 
-					
 					<card name="rain" />
 					<card name="dummy" />
 					<card name="dummy" />
@@ -2181,7 +2177,7 @@
 					<card name="geralt" />
 					<!-- SGR: Add Roach alongside Geralt for his summon ability. -->
 					<card name="roach" />
-				
+
 					<card name="schirru" />
 				</deck>
 
@@ -2226,7 +2222,7 @@
 					<card name="havcaaren_medic3" />
 					<!-- SGR: Include faction-compatible special card vesemir in the static deck. -->
 					<card name="vesemir" />
-				
+
 					<card name="dol_archer" />
 					<card name="schirru" />
 					<card name="elf_skirmisher2" />
@@ -2264,7 +2260,7 @@
 					<card name="havcaaren_medic3" />
 					<!-- SGR: Include faction-compatible special card vesemir in the static deck. -->
 					<card name="vesemir" />
-				
+
 					<card name="schirru" />
 					<card name="milva" />
 					<card name="filavandrel" />
@@ -2305,7 +2301,7 @@
 					<card name="havcaaren_medic3" />
 					<!-- SGR: Include faction-compatible special card vesemir in the static deck. -->
 					<card name="vesemir" />
-				
+
 					<card name="schirru" />
 					<card name="ida" />
 					<card name="milva" />
@@ -2356,7 +2352,7 @@
 					<card name="elf_skirmisher3" />
 					<!-- SGR: Include faction-compatible special card ciri in the static deck. -->
 					<card name="ciri" />
-				
+
 					<card name="dwarf2" />
 					<card name="dwarf3" />
 					<card name="schirru" />
@@ -2399,7 +2395,7 @@
 					<card name="elf_skirmisher3" />
 					<!-- SGR: Include faction-compatible special card ciri in the static deck. -->
 					<card name="ciri" />
-				
+
 					<card name="schirru" />
 					<card name="vrihedd_brigade" />
 					<card name="mahakam3" />
@@ -2448,11 +2444,11 @@
 					<card name="elf_skirmisher3" />
 					<!-- SGR: Include faction-compatible special card ciri in the static deck. -->
 					<card name="ciri" />
-				
+
 					<card name="schirru" />
 					<card name="vrihedd_brigade" />
 					<card name="vrihedd_brigade2" />
-				
+
 					<card name="havcaaren_support3" />
 				</deck>
 
@@ -2495,7 +2491,7 @@
 					<card name="arachas" />
 					<!-- SGR: Include faction-compatible special card draug in the static deck. -->
 					<card name="draug" />
-				
+
 					<card name="cockatrice" />
 					<card name="plague_maiden" />
 					<card name="bruxa" />
@@ -2539,15 +2535,15 @@
 					<card name="arachas" />
 					<!-- SGR: Include faction-compatible special card draug in the static deck. -->
 					<card name="draug" />
-				
+
 					<card name="cockatrice" />
 					<card name="leshen" />
 					<card name="crone_whispess" />
 					<card name="toad" />
 					<card name="crone_weavess" />
-				
+
 					<card name="mrmirror_foglet" />
-				
+
 					<card name="mrmirror_foglet" />
 				</deck>
 
@@ -2592,15 +2588,15 @@
 					<card name="arachas" />
 					<!-- SGR: Include faction-compatible special card draug in the static deck. -->
 					<card name="draug" />
-				
+
 					<card name="toad" />
 					<card name="kayran" />
 					<card name="cockatrice" />
-				
+
 					<card name="mrmirror_foglet" />
 					<card name="crone_weavess" />
 					<card name="crone_whispess" />
-				
+
 					<card name="mrmirror_foglet" />
 					<card name="mrmirror_foglet" />
 				</deck>
@@ -2655,9 +2651,9 @@
 					<card name="bruxa" />
 					<!-- SGR: Include faction-compatible special card katakan in the static deck. -->
 					<card name="katakan" />
-				
+
 					<card name="gargoyle" />
-				
+
 					<card name="mrmirror_foglet" />
 				</deck>
 
@@ -2676,9 +2672,9 @@
 					<card name="dummy" />
 					<card name="frost" />
 					<card name="fog" />
-					
+
 					<card name="rain" />
-					
+
 					<card name="mrmirror_foglet" />
 
 					<card name="kayran" />
@@ -2702,7 +2698,7 @@
 					<card name="bruxa" />
 					<!-- SGR: Include faction-compatible special card katakan in the static deck. -->
 					<card name="katakan" />
-				
+
 					<card name="mrmirror_foglet" />
 				</deck>
 
@@ -2721,13 +2717,11 @@
 					<card name="dummy" />
 					<card name="frost" />
 					<card name="fog" />
-					
+
 					<card name="rain" />
-					
+
 					<card name="mrmirror_foglet" />
 
-					
-					
 					<card name="dummy" />
 					<card name="clear_sky" />
 					<card name="leshen" />
@@ -2754,7 +2748,7 @@
 					<card name="bruxa" />
 					<!-- SGR: Include faction-compatible special card katakan in the static deck. -->
 					<card name="katakan" />
-				
+
 					<card name="mrmirror_foglet" />
 					<card name="mrmirror_foglet" />
 					<card name="arachas3" />
@@ -2804,7 +2798,7 @@
 					<card name="crone_whispess" />
 					<!-- SGR: Include faction-compatible special card crone_weavess in the static deck. -->
 					<card name="crone_weavess" />
-				
+
 					<card name="gargoyle" />
 					<card name="fire_elemental" />
 				</deck>
@@ -2824,7 +2818,7 @@
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
-					
+
 					<card name="dummy" />
 
 					<card name="draug" />
@@ -2846,7 +2840,7 @@
 					<card name="crone_whispess" />
 					<!-- SGR: Include faction-compatible special card crone_weavess in the static deck. -->
 					<card name="crone_weavess" />
-				
+
 					<card name="earth_elemental" />
 					<card name="fire_elemental" />
 				</deck>
@@ -2866,14 +2860,13 @@
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
-					
+
 					<card name="dummy" />
 
 					<card name="dummy" />
 					<card name="horn" />
 					<card name="fog" />
-					
-					
+
 					<card name="leshen" />
 					<card name="fire_elemental" />
 
@@ -2941,7 +2934,7 @@
 					<card name="ghoul" />
 					<card name="ghoul2" />
 					<card name="ghoul3" />
-				
+
 					<card name="gargoyle" />
 					<card name="celaeno_harpy" />
 					<card name="harpy" />
@@ -2982,11 +2975,11 @@
 					<card name="ghoul" />
 					<card name="ghoul2" />
 					<card name="ghoul3" />
-				
+
 					<card name="toad" />
-				
+
 					<card name="mrmirror_foglet" />
-				
+
 					<card name="mrmirror_foglet" />
 				</deck>
 
@@ -3030,9 +3023,9 @@
 					<card name="ghoul" />
 					<card name="ghoul2" />
 					<card name="ghoul3" />
-				
+
 					<card name="mrmirror_foglet" />
-				
+
 					<card name="mrmirror_foglet" />
 					<card name="mrmirror_foglet" />
 				</deck>
@@ -3105,9 +3098,9 @@
 					<card name="endrega" />
 
 					<card name="dummy" />
-					
+
 					<card name="horn" />
-					
+
 					<card name="scorch" />
 					<card name="frost" />
 					<card name="fog" />
@@ -3152,19 +3145,15 @@
 					<card name="endrega" />
 
 					<card name="dummy" />
-					
+
 					<card name="horn" />
-					
+
 					<card name="scorch" />
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
 
-					
-					
-					
-					
 					<card name="fog" />
 					<card name="clear_sky" />
 					<card name="kayran" />
@@ -3191,7 +3180,7 @@
 					<card name="crone_whispess" />
 					<!-- SGR: Include faction-compatible special card leshen in the static deck. -->
 					<card name="leshen" />
-				
+
 					<card name="arachas3" />
 					<card name="katakan" />
 					<card name="crone_brewess" />
@@ -3239,7 +3228,7 @@
 					<card name="havcaaren_medic3" />
 					<!-- SGR: Include faction-compatible special card olgierd in the static deck. -->
 					<card name="olgierd" />
-				
+
 					<card name="mahakam2" />
 					<card name="schirru" />
 					<card name="dol_archer" />
@@ -3320,7 +3309,7 @@
 					<card name="havcaaren_medic3" />
 					<!-- SGR: Include faction-compatible special card olgierd in the static deck. -->
 					<card name="olgierd" />
-				
+
 					<card name="dwarf" />
 				</deck>
 
@@ -3363,7 +3352,7 @@
 					<card name="crone_whispess" />
 					<!-- SGR: Include faction-compatible special card toad in the static deck. -->
 					<card name="toad" />
-				
+
 					<card name="cockatrice" />
 					<card name="wyvern" />
 					<card name="gargoyle" />
@@ -3444,7 +3433,7 @@
 					<card name="crone_whispess" />
 					<!-- SGR: Include faction-compatible special card toad in the static deck. -->
 					<card name="toad" />
-				
+
 					<card name="katakan" />
 				</deck>
 
@@ -3508,7 +3497,7 @@
 					<card name="clear_sky" />
 					<!-- SGR: Restore scorch to the original Gambler quantity. -->
 					<card name="scorch" />
-				
+
 					<card name="gargoyle" />
 					<card name="grave_hag" />
 					<card name="fiend" />
@@ -3517,7 +3506,7 @@
 					<card name="werewolf" />
 					<card name="harpy" />
 					<card name="garkain" />
-				
+
 					<card name="mrmirror_foglet" />
 				</deck>
 				<!-- SGR: Use a Monsters leader; weather selection on easy and melee Horn on normal/hard. -->
@@ -3714,7 +3703,7 @@
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="blue_stripes3" />
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
@@ -3761,14 +3750,14 @@
 					<card name="blue_stripes3" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
 					<card name="crinfrid" />
 					<card name="witch_hunter" />
 					<card name="siege_tower2" />
 					<card name="esterad" />
-				
+
 					<card name="ves" />
 				</deck>
 
@@ -3809,11 +3798,11 @@
 					<card name="blue_stripes3" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="crinfrid" />
 					<card name="crinfrid3" />
 					<card name="crinfrid2" />
-				
+
 					<card name="ves" />
 				</deck>
 
@@ -3860,7 +3849,7 @@
 					<card name="havcaaren_medic2" />
 					<!-- SGR: Include faction-compatible special card schirru in the static deck. -->
 					<card name="schirru" />
-				
+
 					<card name="elf_skirmisher3" />
 					<card name="dol_archer" />
 					<card name="dwarf3" />
@@ -3902,7 +3891,7 @@
 					<card name="havcaaren_medic2" />
 					<!-- SGR: Include faction-compatible special card schirru in the static deck. -->
 					<card name="schirru" />
-				
+
 					<card name="mahakam5" />
 					<card name="mahakam2" />
 				</deck>
@@ -3992,7 +3981,7 @@
 					<!-- SGR: Use distinct variant kaedweni_siege2 instead of another kaedweni_siege. -->
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="crinfrid2" />
 				</deck>
 
@@ -4025,9 +4014,9 @@
 					<!-- SGR: Use distinct variant kaedweni_siege2 instead of another kaedweni_siege. -->
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="siege_tower2" />
-				
+
 					<card name="crinfrid2" />
 					<card name="catapult" />
 				</deck>
@@ -4064,7 +4053,7 @@
 					<!-- SGR: Use distinct variant kaedweni_siege2 instead of another kaedweni_siege. -->
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="poor_infantry3" />
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
@@ -4108,7 +4097,7 @@
 					<card name="kaedweni_siege" />
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="blue_stripes3" />
 					<card name="blue_stripes" />
 					<card name="crinfrid3" />
@@ -4148,7 +4137,7 @@
 					<card name="kaedweni_siege" />
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="witch_hunter" />
 					<card name="crinfrid3" />
 					<card name="philippa" />
@@ -4191,9 +4180,9 @@
 					<card name="kaedweni_siege" />
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="philippa" />
-				
+
 					<card name="crinfrid3" />
 				</deck>
 
@@ -4238,7 +4227,7 @@
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="blue_stripes3" />
 					<card name="crinfrid3" />
 					<card name="crinfrid2" />
@@ -4284,7 +4273,7 @@
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="ves" />
 				</deck>
 
@@ -4338,7 +4327,7 @@
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="ves" />
 				</deck>
 
@@ -4372,7 +4361,7 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
-				
+
 					<card name="combat_engineer" />
 					<card name="fringilla" />
 					<card name="cahir" />
@@ -4403,14 +4392,14 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
-				
+
 					<card name="cahir" />
 					<card name="fringilla" />
 					<card name="black_archer2" />
 					<card name="assire" />
 					<card name="young_emissary2" />
 					<card name="archer_support2" />
-				
+
 					<card name="impera_brigade2" />
 					<card name="black_archer" />
 					<card name="young_emissary" />
@@ -4444,12 +4433,12 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
-				
+
 					<card name="heavy_zerri" />
 					<card name="archer_support" />
 					<card name="archer_support2" />
 					<card name="moorvran" />
-				
+
 					<card name="impera_brigade2" />
 					<card name="impera_brigade3" />
 					<card name="impera_brigade4" />
@@ -4487,7 +4476,7 @@
 					<card name="nausicaa3" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
-				
+
 					<card name="sweers" />
 					<card name="zerri" />
 					<card name="renuald" />
@@ -4530,7 +4519,7 @@
 					<card name="nausicaa3" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
-				
+
 					<card name="zerri" />
 				</deck>
 
@@ -4554,9 +4543,9 @@
 
 					<card name="dummy" />
 					<card name="horn" />
-					
+
 					<card name="scorch" />
-					
+
 					<card name="clear_sky" />
 					<card name="yennefer" />
 					<!-- SGR: Replace the extra letho with ciri; similar strength, faction-compatible and absent from static/dynamic cards. -->
@@ -4584,7 +4573,7 @@
 					<card name="nausicaa3" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
-				
+
 					<card name="impera_brigade4" />
 				</deck>
 
@@ -4624,7 +4613,7 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
-				
+
 					<card name="sweers" />
 					<card name="cynthia" />
 					<card name="renuald" />
@@ -4687,9 +4676,9 @@
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="horn" />
-					
+
 					<card name="scorch" />
-					
+
 					<!-- SGR: Replace the extra vattier with morteisen; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="morteisen" />
 					<!-- SGR: Replace the extra letho with ciri; similar strength, faction-compatible and absent from static/dynamic cards. -->
@@ -4718,7 +4707,7 @@
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
 					<card name="nausicaa3" />
-				
+
 					<card name="impera_brigade4" />
 				</deck>
 
@@ -4755,7 +4744,7 @@
 					<card name="elf_skirmisher2" />
 					<card name="vrihedd_cadet" />
 					<card name="dol_archer" />
-				
+
 					<card name="schirru" />
 					<card name="mahakam5" />
 					<card name="havcaaren_support2" />
@@ -4786,11 +4775,11 @@
 					<card name="elf_skirmisher2" />
 					<card name="vrihedd_cadet" />
 					<card name="dol_archer" />
-				
+
 					<card name="schirru" />
 					<card name="barclay" />
 					<card name="vrihedd_brigade2" />
-				
+
 					<card name="havcaaren_support2" />
 				</deck>
 
@@ -4825,9 +4814,9 @@
 					<card name="elf_skirmisher2" />
 					<card name="vrihedd_cadet" />
 					<card name="dol_archer" />
-				
+
 					<card name="schirru" />
-				
+
 					<card name="havcaaren_support2" />
 					<card name="havcaaren_support3" />
 					<card name="dol_scout3" />
@@ -4872,7 +4861,7 @@
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 					<card name="havcaaren_medic3" />
-				
+
 					<card name="toruviel" />
 				</deck>
 
@@ -4938,7 +4927,7 @@
 					<card name="isengrim" />
 
 					<card name="dummy" />
-					
+
 					<card name="horn" />
 					<card name="scorch" />
 					<card name="clear_sky" />
@@ -4969,7 +4958,7 @@
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 					<card name="havcaaren_medic3" />
-				
+
 					<card name="dol_scout3" />
 				</deck>
 
@@ -5013,7 +5002,7 @@
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 					<card name="havcaaren_medic3" />
-				
+
 					<card name="mahakam3" />
 					<card name="schirru" />
 					<card name="toruviel" />
@@ -5143,7 +5132,7 @@
 					<card name="fogling" />
 					<card name="grave_hag" />
 					<card name="toad" />
-				
+
 					<card name="wyvern" />
 					<card name="fire_elemental" />
 				</deck>
@@ -5174,15 +5163,15 @@
 					<card name="ekkima" />
 					<card name="ghoul" />
 					<card name="crone_brewess" />
-				
+
 					<card name="wyvern" />
 					<card name="fire_elemental" />
-				
+
 					<card name="arachas" />
 					<card name="fleder" />
 					<card name="ghoul2" />
 					<card name="crone_weavess" />
-				
+
 					<card name="arachas2" />
 				</deck>
 
@@ -5216,7 +5205,7 @@
 					<card name="ekkima" />
 					<card name="ghoul" />
 					<card name="crone_brewess" />
-				
+
 					<card name="crone_whispess" />
 					<card name="arachas" />
 					<card name="arachas2" />
@@ -5269,7 +5258,7 @@
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
 					<card name="crone_whispess" />
-				
+
 					<card name="gargoyle" />
 					<card name="grave_hag" />
 				</deck>
@@ -5311,7 +5300,7 @@
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
 					<card name="crone_whispess" />
-				
+
 					<card name="toad" />
 				</deck>
 
@@ -5332,9 +5321,6 @@
 					<card name="scorch" />
 					<card name="draug" />
 
-					
-					
-					
 					<card name="dummy" />
 					<card name="dummy" />
 					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
@@ -5405,7 +5391,7 @@
 					<card name="ghoul3" />
 					<card name="crone_brewess" />
 					<card name="crone_whispess" />
-				
+
 					<card name="gargoyle" />
 					<card name="wyvern" />
 					<card name="grave_hag" />
@@ -5467,7 +5453,7 @@
 					<card name="arachas" />
 
 					<card name="horn" />
-					
+
 					<card name="dummy" />
 					<!-- SGR: Replace duplicate villen with absent, faction-compatible toad of similar strength. -->
 					<card name="toad" />
@@ -5535,13 +5521,13 @@
 					<card name="cow" />
 					<!-- SGR: Replace Gaunter and Darkness with vesemir; faction-compatible and absent from static and dynamic cards. -->
 					<card name="vesemir" />
-				
+
 					<card name="clan_tordarroch_armorsmith" />
 					<card name="clan_drummond_shieldmaiden3" />
 					<card name="udalryk" />
 					<card name="clan_heymaey_skald" />
 					<card name="clan_drummond_shieldmaiden2" />
-				
+
 					<card name="clan_an_craite_warrior" />
 					<card name="war_drakkar" />
 					<card name="light_drakkar" />
@@ -5574,13 +5560,13 @@
 					<card name="cow" />
 					<!-- SGR: Replace Gaunter and Darkness with triss; faction-compatible and absent from static and dynamic cards. -->
 					<card name="triss" />
-				
+
 					<card name="birna_bran" />
 					<card name="ermion" />
 					<card name="cerys" />
 					<card name="clan_drummond_shieldmaiden2" />
 					<card name="clan_drummond_shieldmaiden3" />
-				
+
 					<card name="clan_an_craite_warrior" />
 					<card name="war_drakkar" />
 					<card name="light_drakkar" />
@@ -5624,7 +5610,7 @@
 					<card name="cow" />
 					<!-- SGR: Replace Gaunter and Darkness with hjalmar; faction-compatible and absent from static and dynamic cards. -->
 					<card name="hjalmar" />
-				
+
 					<card name="light_drakkar" />
 					<card name="light_drakkar" />
 					<card name="clan_drummond_shieldmaiden3" />
@@ -5669,12 +5655,12 @@
 					<card name="clan_drummond_shieldmaiden2" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden3" />
-				
+
 					<card name="holger_blackhand" />
 					<card name="clan_heymaey_skald" />
 					<card name="clan_dimun_pirate" />
 					<card name="donar_an_hindar" />
-				
+
 					<card name="light_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_an_craite_warrior" />
@@ -5713,9 +5699,9 @@
 					<card name="clan_drummond_shieldmaiden2" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden3" />
-				
+
 					<card name="holger_blackhand" />
-				
+
 					<card name="light_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_an_craite_warrior" />
@@ -5764,7 +5750,7 @@
 					<card name="clan_drummond_shieldmaiden2" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden3" />
-				
+
 					<card name="light_drakkar" />
 					<card name="light_drakkar" />
 					<card name="war_drakkar" />
@@ -5815,12 +5801,12 @@
 					<card name="clan_drummond_shieldmaiden2" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden3" />
-				
+
 					<card name="holger_blackhand" />
 					<card name="clan_dimun_pirate" />
 					<card name="clan_heymaey_skald" />
 					<card name="blueboy_lugos" />
-				
+
 					<card name="light_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_an_craite_warrior" />
@@ -5864,7 +5850,7 @@
 					<card name="clan_drummond_shieldmaiden2" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden3" />
-				
+
 					<card name="light_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_an_craite_warrior" />
@@ -5912,7 +5898,7 @@
 					<card name="clan_drummond_shieldmaiden2" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden3" />
-				
+
 					<card name="light_drakkar" />
 					<card name="light_drakkar" />
 					<card name="war_drakkar" />
@@ -5952,7 +5938,7 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
-				
+
 					<card name="vattier" />
 					<card name="fringilla" />
 					<card name="impera_brigade2" />
@@ -5985,7 +5971,7 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
-				
+
 					<card name="cahir" />
 					<card name="archer_support" />
 					<card name="fringilla" />
@@ -5993,7 +5979,7 @@
 					<card name="shilard" />
 					<card name="assire" />
 					<card name="black_archer" />
-				
+
 					<card name="impera_brigade2" />
 					<card name="black_archer2" />
 				</deck>
@@ -6021,7 +6007,7 @@
 					<card name="impera_brigade" />
 					<card name="nausicaa" />
 					<card name="nausicaa2" />
-				
+
 					<card name="moorvran" />
 					<card name="archer_support2" />
 					<card name="heavy_zerri" />
@@ -6029,7 +6015,7 @@
 					<card name="archer_support" />
 					<card name="stefan" />
 					<card name="cahir" />
-				
+
 					<card name="impera_brigade2" />
 					<card name="impera_brigade3" />
 					<card name="impera_brigade4" />
@@ -6071,7 +6057,7 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="crinfrid3" />
 					<card name="crinfrid2" />
 					<card name="blue_stripes3" />
@@ -6107,7 +6093,7 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="crinfrid2" />
 					<card name="vernon" />
 					<card name="crinfrid3" />
@@ -6117,7 +6103,7 @@
 					<card name="blue_stripes3" />
 					<card name="natalis" />
 					<card name="ballista_officer" />
-				
+
 					<card name="ves" />
 				</deck>
 
@@ -6147,7 +6133,7 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="crinfrid3" />
 					<card name="crinfrid2" />
 					<card name="vernon" />
@@ -6157,7 +6143,7 @@
 					<card name="natalis" />
 					<card name="blue_stripes3" />
 					<card name="ballista_officer" />
-				
+
 					<card name="ves" />
 				</deck>
 
@@ -6206,7 +6192,7 @@
 					<card name="zerri" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
-				
+
 					<card name="cynthia" />
 					<card name="vreemde" />
 					<card name="sweers" />
@@ -6245,7 +6231,7 @@
 					<card name="zerri" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
-				
+
 					<card name="assire" />
 					<card name="archer_support" />
 					<card name="renuald" />
@@ -6284,7 +6270,7 @@
 					<card name="zerri" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
-				
+
 					<card name="archer_support2" />
 					<card name="archer_support" />
 					<card name="vanhemar" />
@@ -6334,7 +6320,7 @@
 					<card name="havcaaren_support3" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic3" />
-				
+
 					<card name="schirru" />
 					<card name="dwarf2" />
 					<card name="riordain" />
@@ -6370,7 +6356,7 @@
 					<card name="havcaaren_support3" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic3" />
-				
+
 					<card name="schirru" />
 					<card name="mahakam4" />
 					<card name="mahakam5" />
@@ -6378,7 +6364,7 @@
 					<card name="vrihedd_brigade" />
 					<card name="mahakam" />
 					<card name="dol_scout" />
-				
+
 					<card name="dol_scout2" />
 				</deck>
 
@@ -6408,7 +6394,7 @@
 					<card name="havcaaren_support3" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic3" />
-				
+
 					<card name="schirru" />
 					<card name="vrihedd_brigade" />
 					<card name="mahakam4" />
@@ -6416,7 +6402,7 @@
 					<card name="mahakam2" />
 					<card name="mahakam5" />
 					<card name="dol_scout3" />
-				
+
 					<card name="dol_scout" />
 					<card name="dol_scout2" />
 				</deck>
@@ -6462,7 +6448,7 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
-				
+
 					<card name="cockatrice" />
 					<card name="gargoyle" />
 					<card name="grave_hag" />
@@ -6499,7 +6485,7 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
-				
+
 					<card name="fire_elemental" />
 					<card name="wyvern" />
 					<card name="cockatrice" />
@@ -6536,7 +6522,7 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
-				
+
 					<card name="toad" />
 					<card name="ice_giant" />
 					<card name="kayran" />
@@ -6545,7 +6531,7 @@
 					<card name="cockatrice" />
 					<card name="gargoyle" />
 					<card name="draug" />
-				
+
 					<card name="arachas3" />
 				</deck>
 
@@ -6593,7 +6579,7 @@
 					<card name="havcaaren_support3" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic3" />
-				
+
 					<card name="schirru" />
 					<card name="dwarf3" />
 					<card name="riordain" />
@@ -6630,7 +6616,7 @@
 					<card name="havcaaren_support3" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic3" />
-				
+
 					<card name="vrihedd_brigade" />
 					<card name="vrihedd_brigade2" />
 					<card name="mahakam5" />
@@ -6666,14 +6652,14 @@
 					<card name="havcaaren_support3" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic3" />
-				
+
 					<card name="vrihedd_brigade" />
 					<card name="dol_scout" />
 					<card name="mahakam2" />
 					<card name="mahakam3" />
 					<card name="vrihedd_brigade2" />
 					<card name="dol_scout3" />
-				
+
 					<card name="dol_scout2" />
 				</deck>
 
@@ -6718,7 +6704,7 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
-				
+
 					<card name="wyvern" />
 					<card name="gargoyle" />
 					<card name="grave_hag" />
@@ -6755,7 +6741,7 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
-				
+
 					<card name="wyvern" />
 					<card name="fire_elemental" />
 					<card name="kayran" />
@@ -6791,7 +6777,7 @@
 					<card name="katakan" />
 					<card name="crone_brewess" />
 					<card name="crone_weavess" />
-				
+
 					<card name="ice_giant" />
 					<card name="toad" />
 					<card name="kayran" />
@@ -6799,7 +6785,7 @@
 					<card name="wyvern" />
 					<card name="cockatrice" />
 					<card name="gargoyle" />
-				
+
 					<card name="arachas3" />
 				</deck>
 
@@ -6845,7 +6831,7 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
 					<card name="crinfrid" />
@@ -6881,7 +6867,7 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
@@ -6891,7 +6877,7 @@
 					<card name="blue_stripes3" />
 					<card name="ballista_officer" />
 					<card name="natalis" />
-				
+
 					<card name="ves" />
 				</deck>
 
@@ -6921,7 +6907,7 @@
 					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-				
+
 					<card name="crinfrid3" />
 					<card name="crinfrid2" />
 					<card name="witch_hunter" />
@@ -6931,7 +6917,7 @@
 					<card name="siege_tower2" />
 					<card name="blue_stripes3" />
 					<card name="ballista_officer" />
-				
+
 					<card name="ves" />
 				</deck>
 
@@ -6980,7 +6966,7 @@
 					<card name="zerri" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
-				
+
 					<card name="sweers" />
 					<card name="combat_engineer" />
 					<card name="assire" />
@@ -7019,7 +7005,7 @@
 					<card name="zerri" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
-				
+
 					<card name="archer_support2" />
 					<card name="archer_support" />
 					<card name="cahir" />
@@ -7058,7 +7044,7 @@
 					<card name="zerri" />
 					<card name="young_emissary" />
 					<card name="young_emissary2" />
-				
+
 					<card name="archer_support" />
 					<card name="archer_support2" />
 					<card name="cahir" />
@@ -7114,12 +7100,12 @@
 					<card name="clan_drummond_shieldmaiden2" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden3" />
-				
+
 					<card name="holger_blackhand" />
 					<card name="clan_dimun_pirate" />
 					<card name="clan_heymaey_skald" />
 					<card name="birna_bran" />
-				
+
 					<card name="light_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_an_craite_warrior" />
@@ -7163,7 +7149,7 @@
 					<card name="clan_drummond_shieldmaiden2" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden3" />
-				
+
 					<card name="light_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_an_craite_warrior" />
@@ -7207,7 +7193,7 @@
 					<card name="clan_drummond_shieldmaiden2" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden3 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden3" />
-				
+
 					<card name="light_drakkar" />
 					<card name="light_drakkar" />
 					<card name="war_drakkar" />

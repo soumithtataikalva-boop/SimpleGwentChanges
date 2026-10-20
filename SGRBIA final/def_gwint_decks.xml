@@ -381,9 +381,9 @@
 					<card name="horn" />
 					<card name="scorch" />
 					<card name="fog" />
-					<card name="fog" />
+					
 					<card name="clear_sky" />
-					<card name="clear_sky" />
+					
 					<!-- SGR: Replace the extra siegfried with ves; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="ves" />
 					<!-- SGR: Include faction-compatible special card vernon in the static deck. -->
@@ -421,17 +421,17 @@
 					<card name="horn" />
 					<card name="scorch" />
 					<card name="fog" />
-					<card name="fog" />
+					
 					<card name="clear_sky" />
-					<card name="clear_sky" />
+					
 					<!-- SGR: Replace the extra siegfried with ves; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="ves" />
 					<!-- difficulty 3 -->
-					<card name="horn" />
+					
 					<card name="dummy" />
 					<card name="scorch" />
-					<card name="fog" />
-					<card name="clear_sky" />
+					
+					
 					<!-- SGR: Replace extra catapult with vesemir; closest-strength available unit, absent from static and dynamic cards. -->
 					<card name="vesemir" />
 					<!-- SGR: Replace extra catapult2 with triss; closest-strength available unit, absent from static and dynamic cards. -->
@@ -1112,11 +1112,11 @@
 					<!-- difficulty 2 -->
 					<card name="scorch" />
 					<card name="fog" />
-					<card name="fog" />
+					
 					<card name="clear_sky" />
 					<!-- SGR: Replace the extra morteisen with vreemde; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="vreemde" />
-					<card name="rotten" />
+					<card name="combat_engineer" />
 					<!-- common -->
 					<card name="renuald" />
 					<card name="shilard" />
@@ -1155,14 +1155,14 @@
 					<!-- difficulty 2 -->
 					<card name="scorch" />
 					<card name="fog" />
-					<card name="fog" />
+					
 					<card name="clear_sky" />
 					<!-- SGR: Replace the extra morteisen with vreemde; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="vreemde" />
-					<card name="rotten" />
+					<card name="combat_engineer" />
 					<!-- difficulty 3 -->
 					<card name="scorch" />
-					<card name="fog" />
+					
 					<!-- common -->
 					<card name="renuald" />
 					<card name="shilard" />
@@ -1371,7 +1371,7 @@
 					<card name="rainfarn" />
 					<!-- difficulty 2 -->
 					<card name="frost" />
-					<card name="frost" />
+					
 					<card name="rain" />
 					<card name="dummy" />
 					<card name="horn" />
@@ -1413,7 +1413,7 @@
 					<card name="rainfarn" />
 					<!-- difficulty 2 -->
 					<card name="frost" />
-					<card name="frost" />
+					
 					<card name="rain" />
 					<card name="dummy" />
 					<card name="horn" />
@@ -1421,7 +1421,7 @@
 					<!-- SGR: Replace the extra rainfarn with zerri; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="zerri" />
 					<!-- difficulty 3 -->
-					<card name="frost" />
+					
 					<card name="dummy" />
 					<card name="horn" />
 					<card name="scorch" />
@@ -1541,8 +1541,8 @@
 					<!-- SGR: Replace the extra sweers with morteisen; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="morteisen" />
 
-					<card name="dummy" />
-					<card name="dummy" />
+					
+					
 					<card name="clear_sky" />
 					<card name="combat_engineer" />
 					<card name="tibor" />
@@ -1626,7 +1626,7 @@
 					<card name="rain" />
 					<!-- SGR: Use unused variant mahakam4 instead of another mahakam3. -->
 					<card name="mahakam4" />
-					<card name="vrihedd_cadet" />
+					<card name="riordain" />
 
 					<card name="isengrim" />
 					<card name="ida" />
@@ -1663,10 +1663,10 @@
 					<card name="rain" />
 					<!-- SGR: Use unused variant mahakam4 instead of another mahakam3. -->
 					<card name="mahakam4" />
-					<card name="vrihedd_cadet" />
+					<card name="riordain" />
 
 					<card name="horn" />
-					<card name="horn" />
+					
 					<card name="scorch" />
 					<card name="isengrim" />
 
@@ -1782,7 +1782,7 @@
 
 					<card name="dummy" />
 					<card name="horn" />
-					<card name="scorch" />
+					
 					<card name="saskia" />
 
 					<card name="yennefer" />
@@ -1862,7 +1862,7 @@
 					<card name="toruviel" />
 
 					<card name="frost" />
-					<card name="frost" />
+					
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
@@ -1902,12 +1902,12 @@
 					<card name="toruviel" />
 
 					<card name="frost" />
-					<card name="frost" />
+					
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
 
-					<card name="frost" />
+					
 					<card name="rain" />
 					<card name="dummy" />
 					<card name="dummy" />
@@ -2231,8 +2231,8 @@
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
-					<card name="botchling" />
-					<card name="endrega" />
+					<card name="plague_maiden" />
+					<card name="mrmirror" />
 
 					<card name="earth_elemental" />
 					<card name="fiend" />
@@ -2267,8 +2267,8 @@
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
-					<card name="botchling" />
-					<card name="endrega" />
+					<card name="plague_maiden" />
+					<card name="mrmirror" />
 
 					<card name="horn" />
 					<card name="dummy" />
@@ -2285,7 +2285,7 @@
 					<card name="ice_giant" />
 					<card name="gargoyle" />
 					<card name="grave_hag" />
-					<card name="fire_elemental" />
+					<card name="crone_brewess" />
 					<card name="wyvern" />
 					<card name="arachas_behemoth" />
 					<card name="arachas" />
@@ -2327,9 +2327,9 @@
 					<card name="werewolf" />
 					<card name="earth_elemental" />
 					<card name="griffin" />
-					<card name="werewolf" />
+					<card name="mrmirror_foglet" />
 					<card name="frightener" />
-					<card name="frightener" />
+					<card name="arachas" />
 					<card name="cockatrice" />
 					<card name="grave_hag" />
 					<card name="fogling" />
@@ -2360,19 +2360,19 @@
 					<card name="dummy" />
 					<card name="frost" />
 					<card name="fog" />
-					<card name="fog" />
+					
 					<card name="rain" />
-					<card name="rain" />
-					<card name="botchling" />
+					
+					<card name="mrmirror_foglet" />
 
 					<card name="kayran" />
 					<card name="plague_maiden" />
 					<card name="werewolf" />
 					<card name="earth_elemental" />
 					<card name="griffin" />
-					<card name="werewolf" />
+					<card name="arachas" />
 					<card name="frightener" />
-					<card name="frightener" />
+					<card name="arachas2" />
 					<card name="cockatrice" />
 					<card name="grave_hag" />
 					<card name="fogling" />
@@ -2403,13 +2403,13 @@
 					<card name="dummy" />
 					<card name="frost" />
 					<card name="fog" />
-					<card name="fog" />
+					
 					<card name="rain" />
-					<card name="rain" />
-					<card name="botchling" />
+					
+					<card name="mrmirror_foglet" />
 
-					<card name="fog" />
-					<card name="rain" />
+					
+					
 					<card name="dummy" />
 					<card name="clear_sky" />
 					<card name="leshen" />
@@ -2420,9 +2420,9 @@
 					<card name="werewolf" />
 					<card name="earth_elemental" />
 					<card name="griffin" />
-					<card name="werewolf" />
+					<card name="arachas" />
 					<card name="frightener" />
-					<card name="frightener" />
+					<card name="arachas2" />
 					<card name="cockatrice" />
 					<card name="grave_hag" />
 					<card name="fogling" />
@@ -2499,7 +2499,7 @@
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
-					<card name="clear_sky" />
+					
 					<card name="dummy" />
 
 					<card name="draug" />
@@ -2538,14 +2538,14 @@
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
-					<card name="clear_sky" />
+					
 					<card name="dummy" />
 
 					<card name="dummy" />
 					<card name="horn" />
 					<card name="fog" />
-					<card name="clear_sky" />
-					<card name="clear_sky" />
+					
+					
 					<card name="leshen" />
 					<card name="fire_elemental" />
 
@@ -2630,9 +2630,9 @@
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
-					<card name="botchling" />
-					<card name="endrega" />
-					<card name="wyvern" />
+					<card name="werewolf" />
+					<card name="mrmirror" />
+					<card name="cockatrice" />
 
 					<card name="leshen" />
 					<card name="earth_elemental" />
@@ -2666,9 +2666,9 @@
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
-					<card name="botchling" />
-					<card name="endrega" />
-					<card name="wyvern" />
+					<card name="werewolf" />
+					<card name="mrmirror" />
+					<card name="cockatrice" />
 
 					<card name="horn" />
 					<card name="horn" />
@@ -2761,9 +2761,9 @@
 					<card name="endrega" />
 
 					<card name="dummy" />
-					<card name="dummy" />
+					
 					<card name="horn" />
-					<card name="horn" />
+					
 					<card name="scorch" />
 					<card name="frost" />
 					<card name="fog" />
@@ -2808,19 +2808,19 @@
 					<card name="endrega" />
 
 					<card name="dummy" />
-					<card name="dummy" />
+					
 					<card name="horn" />
-					<card name="horn" />
+					
 					<card name="scorch" />
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
 
-					<card name="dummy" />
-					<card name="dummy" />
-					<card name="horn" />
-					<card name="horn" />
+					
+					
+					
+					
 					<card name="fog" />
 					<card name="clear_sky" />
 					<card name="kayran" />
@@ -4073,9 +4073,9 @@
 
 					<card name="dummy" />
 					<card name="horn" />
-					<card name="horn" />
+					
 					<card name="scorch" />
-					<card name="frost" />
+					
 					<card name="clear_sky" />
 					<card name="yennefer" />
 					<!-- SGR: Replace the extra letho with ciri; similar strength, faction-compatible and absent from static/dynamic cards. -->
@@ -4199,9 +4199,9 @@
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="horn" />
-					<card name="horn" />
+					
 					<card name="scorch" />
-					<card name="scorch" />
+					
 					<!-- SGR: Replace the extra vattier with morteisen; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="morteisen" />
 					<!-- SGR: Replace the extra letho with ciri; similar strength, faction-compatible and absent from static/dynamic cards. -->
@@ -4429,7 +4429,7 @@
 					<card name="isengrim" />
 
 					<card name="dummy" />
-					<card name="dummy" />
+					
 					<card name="horn" />
 					<card name="scorch" />
 					<card name="clear_sky" />
@@ -4786,9 +4786,9 @@
 					<card name="scorch" />
 					<card name="draug" />
 
-					<card name="horn" />
-					<card name="horn" />
-					<card name="scorch" />
+					
+					
+					
 					<card name="dummy" />
 					<card name="dummy" />
 					<!-- SGR: Use regular geralt instead of the equivalent GOG variant. -->
@@ -4917,7 +4917,7 @@
 					<card name="arachas" />
 
 					<card name="horn" />
-					<card name="scorch" />
+					
 					<card name="dummy" />
 					<!-- SGR: Replace duplicate villen with absent, faction-compatible toad of similar strength. -->
 					<card name="toad" />
@@ -4973,10 +4973,10 @@
 					<card name="berserker" />
 					<card name="young_berserker" />
 					<card name="clan_an_craite_warrior" />
-					<card name="clan_an_craite_warrior" />
-					<card name="clan_an_craite_warrior" />
+					<card name="war_drakkar" />
+					<card name="clan_drummond_shieldmaiden" />
 					<card name="clan_brokvar_archer" />
-					<card name="clan_brokvar_archer" />
+					<card name="light_drakkar" />
 					<card name="clan_dimun_pirate" />
 					<card name="mysterious_elf" />
 					<!-- SGR: Remove mrmirror; it now belongs to Monsters. -->
@@ -5002,10 +5002,10 @@
 					<card name="berserker" />
 					<card name="young_berserker" />
 					<card name="clan_an_craite_warrior" />
-					<card name="clan_an_craite_warrior" />
-					<card name="clan_an_craite_warrior" />
+					<card name="war_drakkar" />
+					<card name="clan_drummond_shieldmaiden" />
 					<card name="clan_brokvar_archer" />
-					<card name="clan_brokvar_archer" />
+					<card name="light_drakkar" />
 					<card name="clan_dimun_pirate" />
 					<card name="mysterious_elf" />
 					<!-- SGR: Remove mrmirror; it now belongs to Monsters. -->
@@ -5027,7 +5027,7 @@
 					<card name="ermion" />
 					<card name="young_berserker" />
 					<card name="young_berserker" />
-					<card name="young_berserker" />
+					<card name="light_drakkar" />
 					<card name="yennefer" />
 					<card name="cerys" />
 					<card name="mysterious_elf" />
@@ -5039,12 +5039,12 @@
 					<card name="blueboy_lugos" />
 					<card name="svanrige" />
 					<card name="berserker" />
-					<card name="young_berserker" />
+					<card name="clan_drummond_shieldmaiden" />
 					<card name="clan_an_craite_warrior" />
-					<card name="clan_an_craite_warrior" />
-					<card name="clan_an_craite_warrior" />
+					<card name="war_drakkar" />
+					<card name="clan_drummond_shieldmaiden2" />
 					<card name="clan_brokvar_archer" />
-					<card name="clan_brokvar_archer" />
+					<card name="udalryk" />
 					<card name="clan_dimun_pirate" />
 					<!-- SGR: Replace the extra mysterious_elf with birna_bran; similar strength, faction-compatible and absent from static/dynamic cards. -->
 					<card name="birna_bran" />
@@ -5079,13 +5079,13 @@
 					<card name="berserker" />
 					<card name="young_berserker" />
 					<card name="young_berserker" />
-					<card name="young_berserker" />
+					<card name="birna_bran" />
 					<card name="light_drakkar" />
-					<card name="light_drakkar" />
-					<card name="light_drakkar" />
+					<card name="udalryk" />
+					<card name="clan_tordarroch_armorsmith" />
 					<card name="war_drakkar" />
-					<card name="war_drakkar" />
-					<card name="war_drakkar" />
+					<card name="clan_an_craite_warrior" />
+					<card name="clan_brokvar_archer" />
 					<card name="clan_drummond_shieldmaiden" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden2" />
@@ -5114,13 +5114,13 @@
 					<card name="berserker" />
 					<card name="young_berserker" />
 					<card name="young_berserker" />
-					<card name="young_berserker" />
+					<card name="birna_bran" />
 					<card name="light_drakkar" />
-					<card name="light_drakkar" />
-					<card name="light_drakkar" />
+					<card name="udalryk" />
+					<card name="clan_tordarroch_armorsmith" />
 					<card name="war_drakkar" />
-					<card name="war_drakkar" />
-					<card name="war_drakkar" />
+					<card name="clan_an_craite_warrior" />
+					<card name="clan_brokvar_archer" />
 					<card name="clan_drummond_shieldmaiden" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden2" />
@@ -5159,13 +5159,13 @@
 					<card name="berserker" />
 					<card name="young_berserker" />
 					<card name="young_berserker" />
-					<card name="young_berserker" />
+					<card name="udalryk" />
 					<card name="light_drakkar" />
-					<card name="light_drakkar" />
-					<card name="light_drakkar" />
+					<card name="clan_tordarroch_armorsmith" />
+					<card name="clan_heymaey_skald" />
 					<card name="war_drakkar" />
-					<card name="war_drakkar" />
-					<card name="war_drakkar" />
+					<card name="clan_an_craite_warrior" />
+					<card name="clan_brokvar_archer" />
 					<card name="clan_drummond_shieldmaiden" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden2" />
@@ -5203,13 +5203,13 @@
 					<card name="berserker" />
 					<card name="young_berserker" />
 					<card name="young_berserker" />
-					<card name="young_berserker" />
+					<card name="draig" />
 					<card name="light_drakkar" />
-					<card name="light_drakkar" />
-					<card name="light_drakkar" />
+					<card name="udalryk" />
+					<card name="clan_tordarroch_armorsmith" />
 					<card name="war_drakkar" />
-					<card name="war_drakkar" />
-					<card name="war_drakkar" />
+					<card name="clan_an_craite_warrior" />
+					<card name="clan_brokvar_archer" />
 					<card name="clan_drummond_shieldmaiden" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden2" />
@@ -5243,13 +5243,13 @@
 					<card name="berserker" />
 					<card name="young_berserker" />
 					<card name="young_berserker" />
-					<card name="young_berserker" />
+					<card name="draig" />
 					<card name="light_drakkar" />
-					<card name="light_drakkar" />
-					<card name="light_drakkar" />
+					<card name="udalryk" />
+					<card name="clan_tordarroch_armorsmith" />
 					<card name="war_drakkar" />
-					<card name="war_drakkar" />
-					<card name="war_drakkar" />
+					<card name="clan_an_craite_warrior" />
+					<card name="clan_brokvar_archer" />
 					<card name="clan_drummond_shieldmaiden" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden2" />
@@ -5287,13 +5287,13 @@
 					<card name="berserker" />
 					<card name="young_berserker" />
 					<card name="young_berserker" />
-					<card name="young_berserker" />
+					<card name="cock" />
 					<card name="light_drakkar" />
-					<card name="light_drakkar" />
-					<card name="light_drakkar" />
+					<card name="udalryk" />
+					<card name="clan_tordarroch_armorsmith" />
 					<card name="war_drakkar" />
-					<card name="war_drakkar" />
-					<card name="war_drakkar" />
+					<card name="clan_an_craite_warrior" />
+					<card name="clan_brokvar_archer" />
 					<card name="clan_drummond_shieldmaiden" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden2" />
@@ -5714,7 +5714,7 @@
 					<card name="clear_sky" />
 
 					<card name="botchling" />
-					<card name="botchling" />
+					<card name="plague_maiden" />
 
 					<card name="imlerith" />
 					<card name="earth_elemental" />
@@ -5917,7 +5917,7 @@
 					<card name="skellige_storm" />
 
 					<card name="botchling" />
-					<card name="botchling" />
+					<card name="plague_maiden" />
 
 					<card name="imlerith" />
 					<card name="earth_elemental" />
@@ -6235,13 +6235,13 @@
 					<card name="berserker" />
 					<card name="young_berserker" />
 					<card name="young_berserker" />
-					<card name="young_berserker" />
+					<card name="draig" />
 					<card name="light_drakkar" />
-					<card name="light_drakkar" />
-					<card name="light_drakkar" />
+					<card name="udalryk" />
+					<card name="clan_tordarroch_armorsmith" />
 					<card name="war_drakkar" />
-					<card name="war_drakkar" />
-					<card name="war_drakkar" />
+					<card name="clan_an_craite_warrior" />
+					<card name="clan_brokvar_archer" />
 					<card name="clan_drummond_shieldmaiden" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden2" />
@@ -6275,13 +6275,13 @@
 					<card name="berserker" />
 					<card name="young_berserker" />
 					<card name="young_berserker" />
-					<card name="young_berserker" />
+					<card name="cock" />
 					<card name="light_drakkar" />
-					<card name="light_drakkar" />
-					<card name="light_drakkar" />
+					<card name="udalryk" />
+					<card name="clan_tordarroch_armorsmith" />
 					<card name="war_drakkar" />
-					<card name="war_drakkar" />
-					<card name="war_drakkar" />
+					<card name="clan_an_craite_warrior" />
+					<card name="clan_brokvar_archer" />
 					<card name="clan_drummond_shieldmaiden" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden2" />
@@ -6315,13 +6315,13 @@
 					<card name="berserker" />
 					<card name="young_berserker" />
 					<card name="young_berserker" />
-					<card name="young_berserker" />
+					<card name="cock" />
 					<card name="light_drakkar" />
-					<card name="light_drakkar" />
-					<card name="light_drakkar" />
+					<card name="udalryk" />
+					<card name="clan_tordarroch_armorsmith" />
 					<card name="war_drakkar" />
-					<card name="war_drakkar" />
-					<card name="war_drakkar" />
+					<card name="clan_an_craite_warrior" />
+					<card name="clan_brokvar_archer" />
 					<card name="clan_drummond_shieldmaiden" />
 					<!-- SGR: Use unused variant clan_drummond_shieldmaiden2 instead of another clan_drummond_shieldmaiden. -->
 					<card name="clan_drummond_shieldmaiden2" />

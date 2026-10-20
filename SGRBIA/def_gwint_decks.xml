@@ -118,8 +118,8 @@
 				</deck>
 
 				<dynamicCards>
-					<card name="gwint_card_scorch" difficulty="5" />
-					<card name="gwint_card_scorch" difficulty="7" />
+					<card name="scorch" difficulty="5" />
+					<card name="scorch" difficulty="7" />
 					<card name="gwint_card_philippa" difficulty="9" />
 					<card name="gwint_card_esterad" difficulty="11" />
 					<card name="gwint_card_dijkstra" difficulty="11" />
@@ -301,8 +301,8 @@
 				</deck>
 
 				<dynamicCards>
-					<card name="gwint_card_scorch" difficulty="5" />
-					<card name="gwint_card_scorch" difficulty="7" />
+					<card name="scorch" difficulty="5" />
+					<card name="scorch" difficulty="7" />
 					<card name="gwint_card_philippa" difficulty="9" />
 					<card name="gwint_card_esterad" difficulty="11" />
 					<card name="gwint_card_dijkstra" difficulty="11" />
@@ -339,7 +339,7 @@
 					<card name="clear_sky" />
 					<card name="redanian" />
 					<card name="redanian2" />
-					<card name="gwint_card_siegfried" />
+					<card name="siegfried" />
 					<!-- SGR: Include faction-compatible special card vernon in the static deck. -->
 					<card name="vernon" />
 				</deck>
@@ -375,11 +375,11 @@
 					<card name="clear_sky" />
 					<card name="redanian" />
 					<card name="redanian2" />
-					<card name="gwint_card_siegfried" />
+					<card name="siegfried" />
 					<!-- difficulty 2 -->
 					<card name="horn" />
 					<card name="horn" />
-					<card name="gwint_card_scorch" />
+					<card name="scorch" />
 					<card name="fog" />
 					<card name="fog" />
 					<card name="clear_sky" />
@@ -415,11 +415,11 @@
 					<card name="clear_sky" />
 					<card name="redanian" />
 					<card name="redanian2" />
-					<card name="gwint_card_siegfried" />
+					<card name="siegfried" />
 					<!-- difficulty 2 -->
 					<card name="horn" />
 					<card name="horn" />
-					<card name="gwint_card_scorch" />
+					<card name="scorch" />
 					<card name="fog" />
 					<card name="fog" />
 					<card name="clear_sky" />
@@ -429,7 +429,7 @@
 					<!-- difficulty 3 -->
 					<card name="horn" />
 					<card name="dummy" />
-					<card name="gwint_card_scorch" />
+					<card name="scorch" />
 					<card name="fog" />
 					<card name="clear_sky" />
 					<!-- SGR: Replace extra catapult with vesemir; closest-strength available unit, absent from static and dynamic cards. -->
@@ -442,8 +442,8 @@
 				</deck>
 
 				<dynamicCards>
-					<card name="gwint_card_scorch" difficulty="5" />
-					<card name="gwint_card_scorch" difficulty="7" />
+					<card name="scorch" difficulty="5" />
+					<card name="scorch" difficulty="7" />
 					<card name="gwint_card_philippa" difficulty="9" />
 					<card name="gwint_card_esterad" difficulty="11" />
 					<card name="gwint_card_dijkstra" difficulty="11" />

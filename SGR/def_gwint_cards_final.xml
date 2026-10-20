@@ -448,6 +448,7 @@
 			picture="neu_geralt"
 			dlcPictureFlag_name="dlc8"
 			dlcPicture="neu_geralt_dlc"
+			item=""
 			faction_index="F_NEUTRAL">
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
@@ -470,6 +471,7 @@
 			picture="neu_ciri"
 			dlcPictureFlag_name="dlc8"
 			dlcPicture="neu_ciri_dlc"
+			item=""
 			faction_index="F_NEUTRAL">
 			<type_flags>
 				<flag name="TYPE_CREATURE" />

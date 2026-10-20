@@ -120,11 +120,11 @@
 				<dynamicCards>
 					<card name="scorch" difficulty="5" />
 					<card name="scorch" difficulty="7" />
-					<card name="gwint_card_philippa" difficulty="9" />
-					<card name="gwint_card_esterad" difficulty="11" />
-					<card name="gwint_card_dijkstra" difficulty="11" />
-					<card name="gwint_card_natalis" difficulty="14" />
-					<card name="gwint_card_dandelion" difficulty="14" />
+					<card name="philippa" difficulty="9" />
+					<card name="esterad" difficulty="11" />
+					<card name="dijkstra" difficulty="11" />
+					<card name="natalis" difficulty="14" />
+					<card name="dandelion" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
 
@@ -303,11 +303,11 @@
 				<dynamicCards>
 					<card name="scorch" difficulty="5" />
 					<card name="scorch" difficulty="7" />
-					<card name="gwint_card_philippa" difficulty="9" />
-					<card name="gwint_card_esterad" difficulty="11" />
-					<card name="gwint_card_dijkstra" difficulty="11" />
-					<card name="gwint_card_natalis" difficulty="14" />
-					<card name="gwint_card_dandelion" difficulty="14" />
+					<card name="philippa" difficulty="9" />
+					<card name="esterad" difficulty="11" />
+					<card name="dijkstra" difficulty="11" />
+					<card name="natalis" difficulty="14" />
+					<card name="dandelion" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
 
@@ -444,11 +444,11 @@
 				<dynamicCards>
 					<card name="scorch" difficulty="5" />
 					<card name="scorch" difficulty="7" />
-					<card name="gwint_card_philippa" difficulty="9" />
-					<card name="gwint_card_esterad" difficulty="11" />
-					<card name="gwint_card_dijkstra" difficulty="11" />
-					<card name="gwint_card_natalis" difficulty="14" />
-					<card name="gwint_card_dandelion" difficulty="14" />
+					<card name="philippa" difficulty="9" />
+					<card name="esterad" difficulty="11" />
+					<card name="dijkstra" difficulty="11" />
+					<card name="natalis" difficulty="14" />
+					<card name="dandelion" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
 

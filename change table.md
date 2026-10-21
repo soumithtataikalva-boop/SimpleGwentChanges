@@ -1,12 +1,22 @@
-| Card (Index) | Faction | Strength | Ability Changes |
+# Change table
+
+Compared with the supplied vanilla XML files. Changes apply to both SGR and SGRBIA unless noted. `(BIA only)` marks cards included only in SGRBIA. Summoned Regis and Olgierd forms are included in both versions.
+
+## Card definitions
+
+| Card (Index) | Faction | Strength | Ability / definition changes |
 | --- | --- | --- | --- |
 | `geralt` (7) | - | 15 → 14 | Ability: None → Muster / summon group<br>Summon / bond group: None → roach |
 | `vesemir` (8) | - | 6 → 8 | - |
 | `ciri` (10) | - | - | Type / row: Creature, Hero, Melee → Creature, Hero, Melee, Ranged |
 | `triss` (11) | - | - | Ability: None → Ranged Scorch<br>Type / row: Creature, Hero, Melee → Creature, Hero, Ranged |
 | `zoltan` (13) | - | 5 → 6 | - |
+| `emiel` (14) | - | 5 → 2 | Ability: None → Summon after removal<br>Summon / bond group: None → emiel_summoned |
+| `olgierd` (17) | - | - | Ability: Morale Boost → Summon after removal<br>Summon / bond group: None → olgierd_summoned |
 | `mrmirror` (18) | Neutral → Monsters | - | Type / row: Creature, Siege → Creature, Ranged |
 | `mrmirror_foglet` (19) | Neutral → Monsters | - | Type / row: Creature, Ranged → Creature, Melee |
+| `geraltGOG` (26) | - | 15 → 14 | - |
+| `ciriGOG` (27) | - | - | Ability: Muster / summon group → None<br>Type / row: Creature, Hero, Melee → Creature, Hero, Melee, Ranged<br>Summon / bond group: roach → None |
 | `vernon` (100) | - | 10 → 6 | Ability: None → Muster / summon group<br>Type / row: Creature, Hero, Melee → Creature, Melee<br>Summon / bond group: None → ves |
 | `philippa` (103) | - | 10 → 8 | Type / row: Creature, Ranged, Hero → Creature, Ranged |
 | `yarpen` (108) | - | 2 → 4 | - |
@@ -14,9 +24,24 @@
 | `sabrina` (113) | - | 4 → 6 | - |
 | `sheldon` (114) | - | - | Type / row: Creature, Ranged → Creature, Melee |
 | `dethmold` (115) | - | 6 → 5 | - |
+| `poor_infantry` (125) | - | - | SGRBIA only: Item binding: (empty) → gwint_card_poor_infantry |
+| `poor_infantry2` (126) | - | - | SGRBIA only: Artwork: nor_poor_infantry → nor_poor_infantry_1<br>SGRBIA only: Item binding: (empty) → gwint_card_poor_infantry2 |
+| `poor_infantry3` (127) | - | - | SGRBIA only: Artwork: nor_poor_infantry → nor_poor_infantry_2<br>Item binding: (empty) → gwint_card_poor_infantry3 |
+| `crinfrid2` (131) | - | - | SGRBIA only: Artwork: nor_crinfrid → nor_crinfrid_1 |
+| `crinfrid3` (132) | - | - | SGRBIA only: Artwork: nor_crinfrid → nor_crinfrid_2 |
 | `redanian` (135) | - | 1 → 2 | Ability: None → Tight Bond<br>Summon / bond group: None → redanian, redanian2 |
 | `redanian2` (136) | - | 1 → 2 | Ability: None → Tight Bond<br>Summon / bond group: None → redanian, redanian2 |
+| `catapult` (140) | - | - | SGRBIA only: Artwork: nor_catapult_1 → nor_catapult |
+| `kaedweni_siege` (150) | - | - | SGRBIA only: Item binding: (empty) → gwint_card_kaedweni_siege |
+| `kaedweni_siege2` (151) | - | - | SGRBIA only: Item binding: (empty) → gwint_card_kaedweni_siege2 |
+| `kaedweni_siege3` (152) | - | - | SGRBIA only: Item binding: (empty) → gwint_card_kaedweni_siege3 |
+| `blue_stripes` (160) | - | - | SGRBIA only: Summon / bond group: blue_stripes → blue_stripes, blue_stripes2, blue_stripes3 |
+| `blue_stripes2` (161) (BIA only) | Northern Realms | New: 4 | New card<br>Type / row: Creature, Melee<br>Ability: Tight Bond<br>Summon / bond group: blue_stripes, blue_stripes2, blue_stripes3 |
+| `blue_stripes3` (162) (BIA only) | Northern Realms | New: 4 | New card<br>Type / row: Creature, Melee<br>Ability: Tight Bond<br>Summon / bond group: blue_stripes, blue_stripes2, blue_stripes3 |
+| `siege_tower2` (171) (BIA only) | Northern Realms | New: 6 | New card<br>Type / row: Creature, Siege<br>Ability: None |
 | `dun_banner_medic` (175) | - | 5 → 3 | - |
+| `witch_hunter` (176) (BIA only) | Northern Realms | New: 6 | New card<br>Type / row: Creature, Melee<br>Ability: None |
+| `ballista_officer` (177) (BIA only) | Northern Realms | New: 3 | New card<br>Type / row: Creature, Siege<br>Ability: Morale Boost |
 | `letho` (200) | Nilfgaard → Neutral | 10 → 12 | - |
 | `menno` (201) | - | 10 → 8 | - |
 | `moorvran` (202) | - | 10 → 8 | Type / row: Creature, Hero, Siege → Creature, Melee |
@@ -35,11 +60,16 @@
 | `archer_support2` (231) | - | 1 → 7 | Ability: Medic → None |
 | `black_archer` (235) | - | 10 → 5 | Ability: None → Tight Bond<br>Summon / bond group: None → black_archer, black_archer2 |
 | `black_archer2` (236) | - | 10 → 5 | Ability: None → Tight Bond<br>Summon / bond group: None → black_archer, black_archer2 |
+| `impera_brigade2` (246) | - | - | SGRBIA only: Artwork: nil_impera_brigade → nil_impera_brigade_1 |
+| `impera_brigade3` (247) | - | - | SGRBIA only: Artwork: nil_impera_brigade → nil_impera_brigade_2 |
+| `impera_brigade4` (248) | - | - | SGRBIA only: Artwork: nil_impera_brigade → nil_impera_brigade_3 |
+| `nausicaa` (250) | - | - | SGRBIA only: Artwork: nil_nauzicaa_2 → nil_nauzicaa |
+| `nausicaa2` (251) | - | - | SGRBIA only: Artwork: nil_nauzicaa_2 → nil_nauzicaa_1 |
 | `combat_engineer` (255) | - | 6 → 2 | Ability: None → Morale Boost |
 | `siege_support` (265) | - | - | Ability: Medic → Morale Boost |
 | `eithne` (300) | - | - | Ability: None → Medic |
-| `saskia` (301) | - | 10 → 8 | Type / row: Creature, Hero, Ranged → Creature, Ranged |
-| `isengrim` (302) | - | 10 → 9 | Ability: Morale Boost → None |
+| `saskia` (301) | - | 10 → 9 | Type / row: Creature, Hero, Ranged → Creature, Ranged |
+| `isengrim` (302) | - | 10 → 8 | Ability: Morale Boost → None |
 | `iorveth` (303) | - | 10 → 7 | Ability: None → Morale Boost<br>Type / row: Creature, Hero, Ranged → Creature, Ranged |
 | `milva` (306) | - | 10 → 7 | - |
 | `ida` (307) | - | 6 → 8 | - |
@@ -88,3 +118,18 @@
 | `donar_an_hindar` (507) | - | 4 → 5 | - |
 | `blueboy_lugos` (510) | - | 6 → 5 | - |
 | `svanrige` (511) | - | 4 → 6 | - |
+| `emiel_summoned` (528) | Neutral | New: 12 | New card<br>Type / row: Creature, Melee<br>Ability: None |
+| `olgierd_summoned` (529) | Neutral | New: 6 | New card<br>Type / row: Creature, Melee, Ranged<br>Ability: None |
+
+## Supporting changes
+
+- Item icons and faction tags reflect the revised cards. Letho is Neutral; Gaunter and Darkness are Monsters; Schirrú uses a Siege icon.
+- SGRBIA includes the 11 BIA Gwent item definitions, distinct artwork/item bindings, and its five additional playable card variants. Ballista Officer is Northern Realms rather than BIA’s Neutral.
+- Every nonempty static opponent deck has at least 22 creatures. The 12 empty faction templates are preserved.
+- Opponent card choices vary by difficulty. Unsupported Muster/Tight Bond combinations were replaced or given supporting partners; self-copy groups generally use two copies on easy/normal and three on hard.
+- No individual card exceeds three copies in a static opponent deck. Zero player reward limits do not prohibit opponent use.
+- SGR decks use standalone-compatible alternatives to BIA-only cards.
+- Both versions remove one `gwint_card_poor_infantry2` entry from the vanilla Mouths Shopkeeper table.
+- SGRBIA replaces four shop references to `gwint_card_blue_stripes` with `gwint_card_blue_stripes3`; SGR retains the standalone references.
+
+This table documents XML changes. Artwork availability, reward integration, and gameplay balance still require in-game validation.

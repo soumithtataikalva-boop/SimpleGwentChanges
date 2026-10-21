@@ -463,8 +463,8 @@
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
+					<card name="blue_stripes3" />
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 					<!-- difficulty 1 -->
@@ -497,8 +497,8 @@
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
-					<card name="blue_stripes" />
 					<card name="blue_stripes2" />
+					<card name="blue_stripes3" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 					<!-- difficulty 1 -->
@@ -803,8 +803,8 @@
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
+					<card name="blue_stripes3" />
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -838,8 +838,8 @@
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
-					<card name="blue_stripes" />
 					<card name="blue_stripes2" />
+					<card name="blue_stripes3" />
 				</deck>
 
 				<dynamicCards>
@@ -2994,15 +2994,15 @@
 					<card name="philippa" />
 					<card name="thaler" />
 					<card name="dijkstra" />
-					<card name="blue_stripes" />
 					<card name="blue_stripes2" />
+					<card name="blue_stripes3" />
 
 					<card name="stennis" />
 					<card name="trebuchet" />
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista" />
-					<card name="blue_stripes3" />
+					<card name="blue_stripes" />
 					<card name="siege_tower2" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -3024,8 +3024,8 @@
 					<card name="philippa" />
 					<card name="thaler" />
 					<card name="dijkstra" />
-					<card name="blue_stripes" />
 					<card name="blue_stripes2" />
+					<card name="blue_stripes3" />
 
 					<card name="horn" />
 					<card name="esterad" />
@@ -3037,7 +3037,7 @@
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista" />
-					<card name="blue_stripes3" />
+					<card name="blue_stripes" />
 					<card name="siege_tower2" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -4956,8 +4956,8 @@
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista" />
-					<card name="blue_stripes" />
 					<card name="blue_stripes2" />
+					<card name="blue_stripes3" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -5010,8 +5010,8 @@
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista" />
+					<card name="blue_stripes3" />
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -5551,8 +5551,8 @@
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista" />
-					<card name="blue_stripes" />
 					<card name="blue_stripes2" />
+					<card name="blue_stripes3" />
 					<card name="siege_tower2" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -5605,8 +5605,8 @@
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista" />
+					<card name="blue_stripes3" />
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" />
 					<card name="siege_tower2" />
 					<card name="dun_banner_medic" />
 				</deck>

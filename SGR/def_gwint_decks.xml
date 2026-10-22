@@ -26,13 +26,13 @@
 					<card name="trebuchet" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
-					<card name="poor_infantry" />
+					<card name="poor_infantry2" />
 					<card name="redanian" />
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
-					<card name="kaedweni_siege" />
-					<card name="kaedweni_siege" />
+					<card name="kaedweni_siege2" />
+					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
@@ -59,13 +59,13 @@
 					<card name="trebuchet" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
-					<card name="poor_infantry" />
+					<card name="poor_infantry2" />
 					<card name="redanian" />
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
-					<card name="kaedweni_siege" />
-					<card name="kaedweni_siege" />
+					<card name="kaedweni_siege2" />
+					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
@@ -92,13 +92,13 @@
 					<card name="trebuchet" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
-					<card name="poor_infantry" />
+					<card name="poor_infantry2" />
 					<card name="redanian" />
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
-					<card name="kaedweni_siege" />
-					<card name="kaedweni_siege" />
+					<card name="kaedweni_siege2" />
+					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
@@ -328,15 +328,15 @@
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="foltest_copper" specialCard="vernon">
 					<card name="poor_infantry" />
-					<card name="poor_infantry" />
-					<card name="poor_infantry" />
+					<card name="poor_infantry2" />
+					<card name="poor_infantry3" />
 					<card name="crinfrid" />
-					<card name="crinfrid" />
-					<card name="crinfrid" />
+					<card name="crinfrid2" />
+					<card name="crinfrid3" />
 					<card name="catapult" />
-					<card name="catapult" />
+					<card name="catapult2" />
 					<card name="ballista" />
-					<card name="ballista" />
+					<card name="ballista2" />
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
@@ -434,7 +434,7 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="ballista2" />
-					<card name="kaedweni_siege" />
+					<card name="kaedweni_siege3" />
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
@@ -544,8 +544,8 @@
 					<card name="stennis" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
-					<card name="poor_infantry" />
-					<card name="poor_infantry" />
+					<card name="poor_infantry2" />
+					<card name="poor_infantry3" />
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
@@ -569,8 +569,8 @@
 					<card name="stennis" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
-					<card name="poor_infantry" />
-					<card name="poor_infantry" />
+					<card name="poor_infantry2" />
+					<card name="poor_infantry3" />
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
@@ -600,8 +600,8 @@
 					<card name="stennis" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
-					<card name="poor_infantry" />
-					<card name="poor_infantry" />
+					<card name="poor_infantry2" />
+					<card name="poor_infantry3" />
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
@@ -766,7 +766,7 @@
 					<card name="sile" />
 					<card name="sabrina" />
 					<card name="stennis" />
-					<card name="poor_infantry" />
+					<card name="poor_infantry3" />
 					<card name="poor_infantry2" />
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
@@ -798,7 +798,7 @@
 					<card name="sile" />
 					<card name="sabrina" />
 					<card name="stennis" />
-					<card name="poor_infantry" />
+					<card name="poor_infantry3" />
 					<card name="poor_infantry2" />
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
@@ -1445,7 +1445,7 @@
 					<card name="dwarf2" />
 					<card name="dwarf3" />
 					<card name="mahakam" />
-					<card name="mahakam2" />
+					<card name="mahakam5" />
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 				</deck>
@@ -1466,7 +1466,7 @@
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
-					<card name="mahakam3" />
+					<card name="mahakam4" />
 					<card name="vrihedd_cadet" />
 
 					<card name="isengrim" />
@@ -1500,7 +1500,7 @@
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
-					<card name="mahakam3" />
+					<card name="mahakam4" />
 					<card name="vrihedd_cadet" />
 
 					<card name="horn" />
@@ -1622,7 +1622,7 @@
 					<card name="havcaaren_support" />
 					<card name="mahakam" />
 					<card name="mahakam2" />
-					<card name="mahakam3" />
+					<card name="mahakam5" />
 					<card name="mahakam4" />
 					<card name="elf_skirmisher" />
 					<card name="elf_skirmisher2" />
@@ -2010,7 +2010,7 @@
 					<card name="fire_elemental" />
 					<card name="wyvern" />
 					<card name="arachas_behemoth" />
-					<card name="arachas" />
+					<card name="arachas3" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -2044,7 +2044,7 @@
 					<card name="fire_elemental" />
 					<card name="wyvern" />
 					<card name="arachas_behemoth" />
-					<card name="arachas" />
+					<card name="arachas3" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -2965,7 +2965,7 @@
 					<card name="fog" />
 
 					<card name="frost" />
-					<card name="kaedweni_siege3" />
+					<card name="kaedweni_siege" />
 
 					<card name="stennis" />
 					<card name="trebuchet" />
@@ -2985,9 +2985,9 @@
 					<card name="fog" />
 
 					<card name="frost" />
-					<card name="kaedweni_siege3" />
+					<card name="kaedweni_siege2" />
 
-					<card name="kaedweni_siege3" />
+					<card name="kaedweni_siege" />
 					<card name="scorch" />
 					<card name="dummy" />
 					<card name="vernon" />
@@ -3015,9 +3015,9 @@
 					<card name="fog" />
 
 					<card name="frost" />
-					<card name="kaedweni_siege3" />
+					<card name="kaedweni_siege2" />
 
-					<card name="kaedweni_siege3" />
+					<card name="kaedweni_siege" />
 					<card name="scorch" />
 					<card name="dummy" />
 					<card name="vernon" />
@@ -3195,7 +3195,7 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="kaedweni_siege" />
-					<card name="kaedweni_siege" />
+					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -3218,14 +3218,14 @@
 					<card name="sheldon" />
 					<card name="trebuchet" />
 					<card name="poor_infantry" />
-					<card name="poor_infantry2" />
+					<card name="poor_infantry3" />
 					<card name="crinfrid" />
 					<card name="redanian" />
 					<card name="redanian2" />
 					<card name="catapult2" />
 					<card name="ballista" />
-					<card name="kaedweni_siege" />
-					<card name="kaedweni_siege" />
+					<card name="kaedweni_siege3" />
+					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -3251,14 +3251,14 @@
 					<card name="sheldon" />
 					<card name="trebuchet" />
 					<card name="poor_infantry" />
-					<card name="poor_infantry2" />
+					<card name="poor_infantry3" />
 					<card name="crinfrid" />
 					<card name="redanian" />
 					<card name="redanian2" />
 					<card name="catapult2" />
-					<card name="ballista" />
-					<card name="kaedweni_siege" />
-					<card name="kaedweni_siege" />
+					<card name="ballista2" />
+					<card name="kaedweni_siege3" />
+					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -3290,13 +3290,13 @@
 					<card name="sheldon" />
 					<card name="trebuchet2" />
 					<card name="trebuchet" />
-					<card name="crinfrid" />
+					<card name="crinfrid3" />
 					<card name="crinfrid2" />
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="ballista2" />
-					<card name="kaedweni_siege" />
+					<card name="kaedweni_siege3" />
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -3325,13 +3325,13 @@
 					<card name="sheldon" />
 					<card name="trebuchet2" />
 					<card name="trebuchet" />
-					<card name="crinfrid" />
+					<card name="crinfrid3" />
 					<card name="crinfrid2" />
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="ballista2" />
-					<card name="kaedweni_siege" />
+					<card name="kaedweni_siege3" />
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -3363,14 +3363,14 @@
 					<card name="sheldon" />
 					<card name="trebuchet2" />
 					<card name="trebuchet" />
-					<card name="crinfrid" />
+					<card name="crinfrid3" />
 					<card name="crinfrid2" />
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
-					<card name="kaedweni_siege2" />
+					<card name="kaedweni_siege3" />
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -3412,7 +3412,7 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="ballista2" />
-					<card name="kaedweni_siege" />
+					<card name="kaedweni_siege3" />
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -3451,7 +3451,7 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="ballista2" />
-					<card name="kaedweni_siege" />
+					<card name="kaedweni_siege3" />
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -3498,7 +3498,7 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="ballista2" />
-					<card name="kaedweni_siege" />
+					<card name="kaedweni_siege3" />
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -3683,7 +3683,7 @@
 					<card name="clear_sky" />
 					<card name="yennefer" />
 					<card name="letho" />
-					<card name="archer_support" />
+					<card name="archer_support2" />
 					<card name="vattier" />
 
 					<card name="menno" />
@@ -3800,7 +3800,7 @@
 					<card name="scorch" />
 					<card name="vattier" />
 					<card name="letho" />
-					<card name="archer_support2" />
+					<card name="archer_support" />
 					<card name="black_archer" />
 					<card name="yennefer" />
 
@@ -3852,7 +3852,7 @@
 					<card name="dwarf" />
 					<card name="dwarf2" />
 					<card name="dwarf3" />
-					<card name="mahakam" />
+					<card name="mahakam5" />
 					<card name="elf_skirmisher" />
 					<card name="elf_skirmisher2" />
 					<card name="vrihedd_cadet" />
@@ -3879,7 +3879,7 @@
 					<card name="dwarf" />
 					<card name="dwarf2" />
 					<card name="dwarf3" />
-					<card name="mahakam" />
+					<card name="mahakam5" />
 					<card name="elf_skirmisher" />
 					<card name="elf_skirmisher2" />
 					<card name="vrihedd_cadet" />
@@ -3912,7 +3912,7 @@
 					<card name="dwarf" />
 					<card name="dwarf2" />
 					<card name="dwarf3" />
-					<card name="mahakam" />
+					<card name="mahakam5" />
 					<card name="elf_skirmisher" />
 					<card name="elf_skirmisher2" />
 					<card name="vrihedd_cadet" />
@@ -4424,7 +4424,7 @@
 					<card name="leshen" />
 					<card name="earth_elemental" />
 					<card name="arachas_behemoth" />
-					<card name="arachas2" />
+					<card name="arachas" />
 					<card name="nekker" />
 					<card name="nekker2" />
 					<card name="nekker3" />
@@ -4501,7 +4501,7 @@
 					<card name="villen" />
 					<card name="imlerith" />
 					<card name="crone_weavess" />
-					<card name="arachas" />
+					<card name="arachas3" />
 					<card name="yennefer" />
 
 					<card name="mysterious_elf" />
@@ -4655,8 +4655,8 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<card name="clan_drummond_shieldmaiden2" />
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -4688,8 +4688,8 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<card name="clan_drummond_shieldmaiden2" />
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -4728,8 +4728,8 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<card name="clan_drummond_shieldmaiden2" />
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<dynamicCards>
@@ -4769,8 +4769,8 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<card name="clan_drummond_shieldmaiden2" />
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -4805,8 +4805,8 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<card name="clan_drummond_shieldmaiden2" />
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -4845,8 +4845,8 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<card name="clan_drummond_shieldmaiden2" />
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<dynamicCards>
@@ -4955,7 +4955,7 @@
 					<card name="trebuchet" />
 					<card name="catapult" />
 					<card name="catapult2" />
-					<card name="ballista" />
+					<card name="ballista2" />
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
@@ -4982,7 +4982,7 @@
 					<card name="trebuchet" />
 					<card name="catapult" />
 					<card name="catapult2" />
-					<card name="ballista" />
+					<card name="ballista2" />
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
@@ -5009,7 +5009,7 @@
 					<card name="trebuchet" />
 					<card name="catapult" />
 					<card name="catapult2" />
-					<card name="ballista" />
+					<card name="ballista2" />
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
@@ -5248,7 +5248,7 @@
 					<card name="imlerith" />
 					<card name="earth_elemental" />
 					<card name="arachas_behemoth" />
-					<card name="arachas" />
+					<card name="arachas3" />
 					<card name="arachas2" />
 					<card name="ekkima" />
 					<card name="bruxa" />
@@ -5276,7 +5276,7 @@
 					<card name="imlerith" />
 					<card name="earth_elemental" />
 					<card name="arachas_behemoth" />
-					<card name="arachas" />
+					<card name="arachas3" />
 					<card name="arachas2" />
 					<card name="ekkima" />
 					<card name="bruxa" />
@@ -5304,7 +5304,7 @@
 					<card name="imlerith" />
 					<card name="earth_elemental" />
 					<card name="arachas_behemoth" />
-					<card name="arachas" />
+					<card name="arachas3" />
 					<card name="arachas2" />
 					<card name="ekkima" />
 					<card name="bruxa" />
@@ -5448,7 +5448,7 @@
 					<card name="imlerith" />
 					<card name="earth_elemental" />
 					<card name="arachas_behemoth" />
-					<card name="arachas" />
+					<card name="arachas3" />
 					<card name="arachas2" />
 					<card name="ekkima" />
 					<card name="bruxa" />
@@ -5477,7 +5477,7 @@
 					<card name="earth_elemental" />
 					<card name="arachas_behemoth" />
 					<card name="arachas" />
-					<card name="arachas2" />
+					<card name="arachas3" />
 					<card name="ekkima" />
 					<card name="bruxa" />
 					<card name="fleder" />
@@ -5505,7 +5505,7 @@
 					<card name="earth_elemental" />
 					<card name="arachas_behemoth" />
 					<card name="arachas" />
-					<card name="arachas2" />
+					<card name="arachas3" />
 					<card name="ekkima" />
 					<card name="bruxa" />
 					<card name="fleder" />
@@ -5550,7 +5550,7 @@
 					<card name="trebuchet" />
 					<card name="catapult" />
 					<card name="catapult2" />
-					<card name="ballista" />
+					<card name="ballista2" />
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
@@ -5577,7 +5577,7 @@
 					<card name="trebuchet" />
 					<card name="catapult" />
 					<card name="catapult2" />
-					<card name="ballista" />
+					<card name="ballista2" />
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
@@ -5604,7 +5604,7 @@
 					<card name="trebuchet" />
 					<card name="catapult" />
 					<card name="catapult2" />
-					<card name="ballista" />
+					<card name="ballista2" />
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
@@ -5757,8 +5757,8 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<card name="clan_drummond_shieldmaiden2" />
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5793,8 +5793,8 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<card name="clan_drummond_shieldmaiden2" />
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5829,8 +5829,8 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden" />
+					<card name="clan_drummond_shieldmaiden2" />
+					<card name="clan_drummond_shieldmaiden3" />
 				</deck>
 
 				<dynamicCards>

@@ -358,6 +358,8 @@
 					<card name="clear_sky" />
 					<card name="clear_sky" />
 					<card name="gwint_card_siegfried" />
+					<card name="witch_hunter" />
+					<card name="ballista_officer" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -402,6 +404,8 @@
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="yennefer" />
+					<card name="witch_hunter" />
+					<card name="ballista_officer" />
 				</deck>
 
 				<dynamicCards>
@@ -586,6 +590,8 @@
 					<card name="rain" />
 					<!-- difficulty 2 -->
 					<card name="scorch" />
+					<card name="witch_hunter" />
+					<card name="ballista_officer" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -621,6 +627,8 @@
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="natalis" />
+					<card name="witch_hunter" />
+					<card name="ballista_officer" />
 				</deck>
 
 				<dynamicCards>
@@ -696,6 +704,8 @@
 					<card name="kaedweni_siege2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+					<card name="witch_hunter" />
+					<card name="ballista_officer" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -732,6 +742,8 @@
 					<card name="kaedweni_siege2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
+					<card name="witch_hunter" />
+					<card name="ballista_officer" />
 				</deck>
 
 				<dynamicCards>
@@ -3334,6 +3346,8 @@
 					<card name="kaedweni_siege3" />
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
+					<card name="witch_hunter" />
+					<card name="ballista_officer" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -3372,6 +3386,8 @@
 					<card name="kaedweni_siege" />
 					<card name="kaedweni_siege3" />
 					<card name="dun_banner_medic" />
+					<card name="witch_hunter" />
+					<card name="ballista_officer" />
 				</deck>
 
 				<dynamicCards>
@@ -3453,6 +3469,8 @@
 					<card name="ballista2" />
 					<card name="kaedweni_siege3" />
 					<card name="dun_banner_medic" />
+					<card name="witch_hunter" />
+					<card name="ballista_officer" />
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -3500,6 +3518,8 @@
 					<card name="ballista2" />
 					<card name="kaedweni_siege3" />
 					<card name="dun_banner_medic" />
+					<card name="witch_hunter" />
+					<card name="ballista_officer" />
 				</deck>
 
 				<dynamicCards>

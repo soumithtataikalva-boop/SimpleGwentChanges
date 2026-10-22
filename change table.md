@@ -16,8 +16,8 @@
 | `geraltGOG` (26) | - | - | 15 → 14 | - | - |
 | `ciriGOG` (27) | Melee → Melee, Ranged | - | - | - | Ability: Muster → None<br>Summon group: roach → None |
 | `letho` (200) | - | - | 10 → 12 | Nilfgaard → Neutral | - |
-| `emiel_summoned` (528) | Melee | - | New: 12 | Neutral | New card<br>Ability: None |
-| `olgierd_summoned` (529) | Melee, Ranged | - | New: 6 | Neutral | New card<br>Ability: None |
+| `emiel_summoned` (528) | Melee | - | New: 12 | Neutral | Summon after removal of Regis (emiel) |
+| `olgierd_summoned` (529) | Melee, Ranged | - | New: 6 | Neutral | Summon after removal of Olgierd |
 
 ### Northern Realms
 

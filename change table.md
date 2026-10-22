@@ -6,15 +6,15 @@
 
 | Card (Index) | Faction | Strength | Hero | Ability / definition changes |
 | --- | --- | --- | --- | --- |
-| `geralt` (7) | - | 15 → 14 | - | Ability: None → Muster / summon group<br>Summon / bond group: None → roach |
+| `geralt` (7) | - | 15 → 14 | - | Ability: None → Muster / summon group<br>Summon group: None → roach |
 | `vesemir` (8) | - | 6 → 8 | - | - |
 | `ciri` (10) | - | - | - | Type / row: Melee → Melee, Ranged |
 | `triss` (11) | - | - | - | Ability: None → Ranged Scorch<br>Type / row: Melee → Ranged |
 | `zoltan` (13) | - | 5 → 6 | - | - |
-| `emiel` (14) | - | 5 → 2 | - | Ability: None → Summon after removal<br>Summon / bond group: None → emiel_summoned |
-| `olgierd` (17) | - | - | - | Ability: Morale Boost → Summon after removal<br>Summon / bond group: None → olgierd_summoned |
+| `emiel` (14) | - | 5 → 2 | - | Ability: None → Summon after removal<br>Summon group: None → emiel_summoned |
+| `olgierd` (17) | - | - | - | Ability: Morale Boost → Summon after removal<br>Summon group: None → olgierd_summoned |
 | `geraltGOG` (26) | - | 15 → 14 | - | - |
-| `ciriGOG` (27) | - | - | - | Ability: Muster / summon group → None<br>Type / row: Melee → Melee, Ranged<br>Summon / bond group: roach → None |
+| `ciriGOG` (27) | - | - | - | Ability: Muster / summon group → None<br>Type / row: Melee → Melee, Ranged<br>Summon group: roach → None |
 | `letho` (200) | Nilfgaard → Neutral | 10 → 12 | - | - |
 | `emiel_summoned` (528) | Neutral | New: 12 | - | New card<br>Type / row: Melee<br>Ability: None |
 | `olgierd_summoned` (529) | Neutral | New: 6 | - | New card<br>Type / row: Melee, Ranged<br>Ability: None |
@@ -23,7 +23,7 @@
 
 | Card (Index) | Faction | Strength | Hero | Ability / definition changes |
 | --- | --- | --- | --- | --- |
-| `vernon` (100) | - | 10 → 6 | Yes → No | Ability: None → Muster / summon group<br>Summon / bond group: None → ves |
+| `vernon` (100) | - | 10 → 6 | Yes → No | Ability: None → Muster / summon group<br>Summon group: None → ves |
 | `philippa` (103) | - | 10 → 8 | Yes → No | - |
 | `yarpen` (108) | - | 2 → 4 | - | - |
 | `sile` (112) | - | 5 → 6 | - | - |
@@ -35,15 +35,15 @@
 | `poor_infantry3` (127) | - | - | - | SGRBIA only: Artwork: nor_poor_infantry → nor_poor_infantry_2<br>Item binding: (empty) → gwint_card_poor_infantry3 |
 | `crinfrid2` (131) | - | - | - | SGRBIA only: Artwork: nor_crinfrid → nor_crinfrid_1 |
 | `crinfrid3` (132) | - | - | - | SGRBIA only: Artwork: nor_crinfrid → nor_crinfrid_2 |
-| `redanian` (135) | - | 1 → 2 | - | Ability: None → Tight Bond<br>Summon / bond group: None → redanian, redanian2 |
-| `redanian2` (136) | - | 1 → 2 | - | Ability: None → Tight Bond<br>Summon / bond group: None → redanian, redanian2 |
+| `redanian` (135) | - | 1 → 2 | - | Ability: None → Tight Bond<br>Bond group: None → redanian, redanian2 |
+| `redanian2` (136) | - | 1 → 2 | - | Ability: None → Tight Bond<br>Bond group: None → redanian, redanian2 |
 | `catapult` (140) | - | - | - | SGRBIA only: Artwork: nor_catapult_1 → nor_catapult |
 | `kaedweni_siege` (150) | - | - | - | SGRBIA only: Item binding: (empty) → gwint_card_kaedweni_siege |
 | `kaedweni_siege2` (151) | - | - | - | SGRBIA only: Item binding: (empty) → gwint_card_kaedweni_siege2 |
 | `kaedweni_siege3` (152) | - | - | - | SGRBIA only: Item binding: (empty) → gwint_card_kaedweni_siege3 |
-| `blue_stripes` (160) | - | - | - | SGRBIA only: Summon / bond group: blue_stripes → blue_stripes, blue_stripes2, blue_stripes3 |
-| `blue_stripes2` (161) (BIA only) | Northern Realms | New: 4 | - | New card<br>Type / row: Melee<br>Ability: Tight Bond<br>Summon / bond group: blue_stripes, blue_stripes2, blue_stripes3 |
-| `blue_stripes3` (162) (BIA only) | Northern Realms | New: 4 | - | New card<br>Type / row: Melee<br>Ability: Tight Bond<br>Summon / bond group: blue_stripes, blue_stripes2, blue_stripes3 |
+| `blue_stripes` (160) | - | - | - | SGRBIA only: Bond group: blue_stripes → blue_stripes, blue_stripes2, blue_stripes3 |
+| `blue_stripes2` (161) (BIA only) | Northern Realms | New: 4 | - | New card<br>Type / row: Melee<br>Ability: Tight Bond<br>Bond group: blue_stripes, blue_stripes2, blue_stripes3 |
+| `blue_stripes3` (162) (BIA only) | Northern Realms | New: 4 | - | New card<br>Type / row: Melee<br>Ability: Tight Bond<br>Bond group: blue_stripes, blue_stripes2, blue_stripes3 |
 | `siege_tower2` (171) (BIA only) | Northern Realms | New: 6 | - | New card<br>Type / row: Siege<br>Ability: None |
 | `dun_banner_medic` (175) | - | 5 → 3 | - | - |
 | `witch_hunter` (176) (BIA only) | Northern Realms | New: 6 | - | New card<br>Type / row: Melee<br>Ability: None |
@@ -68,8 +68,8 @@
 | `puttkammer` (221) | - | 3 → 1 | - | Ability: None → Morale Boost |
 | `archer_support` (230) | - | 1 → 7 | - | Ability: Medic → None |
 | `archer_support2` (231) | - | 1 → 7 | - | Ability: Medic → None |
-| `black_archer` (235) | - | 10 → 5 | - | Ability: None → Tight Bond<br>Summon / bond group: None → black_archer, black_archer2 |
-| `black_archer2` (236) | - | 10 → 5 | - | Ability: None → Tight Bond<br>Summon / bond group: None → black_archer, black_archer2 |
+| `black_archer` (235) | - | 10 → 5 | - | Ability: None → Tight Bond<br>Bond group: None → black_archer, black_archer2 |
+| `black_archer2` (236) | - | 10 → 5 | - | Ability: None → Tight Bond<br>Bond group: None → black_archer, black_archer2 |
 | `impera_brigade2` (246) | - | - | - | SGRBIA only: Artwork: nil_impera_brigade → nil_impera_brigade_1 |
 | `impera_brigade3` (247) | - | - | - | SGRBIA only: Artwork: nil_impera_brigade → nil_impera_brigade_2 |
 | `impera_brigade4` (248) | - | - | - | SGRBIA only: Artwork: nil_impera_brigade → nil_impera_brigade_3 |
@@ -94,9 +94,9 @@
 | `barclay` (313) | - | - | - | Type / row: Melee, Ranged → Melee |
 | `vrihedd_brigade` (325) | - | 5 → 6 | - | - |
 | `vrihedd_brigade2` (326) | - | 5 → 6 | - | - |
-| `dol_scout` (330) | - | 6 → 5 | - | Ability: None → Muster / summon group<br>Summon / bond group: None → dol_scout, dol_scout2, dol_scout3 |
-| `dol_scout2` (331) | - | 6 → 5 | - | Ability: None → Muster / summon group<br>Summon / bond group: None → dol_scout, dol_scout2, dol_scout3 |
-| `dol_scout3` (332) | - | 6 → 5 | - | Ability: None → Muster / summon group<br>Summon / bond group: None → dol_scout, dol_scout2, dol_scout3 |
+| `dol_scout` (330) | - | 6 → 5 | - | Ability: None → Muster / summon group<br>Summon group: None → dol_scout, dol_scout2, dol_scout3 |
+| `dol_scout2` (331) | - | 6 → 5 | - | Ability: None → Muster / summon group<br>Summon group: None → dol_scout, dol_scout2, dol_scout3 |
+| `dol_scout3` (332) | - | 6 → 5 | - | Ability: None → Muster / summon group<br>Summon group: None → dol_scout, dol_scout2, dol_scout3 |
 | `dwarf` (335) | - | 3 → 4 | - | - |
 | `dwarf2` (336) | - | 3 → 4 | - | - |
 | `dwarf3` (337) | - | 3 → 4 | - | - |

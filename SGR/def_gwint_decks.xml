@@ -26,13 +26,13 @@
 					<card name="trebuchet" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
-					<card name="poor_infantry2" />
+					<card name="poor_infantry2" /> <!-- SGR [poor_infantry -> poor_infantry2] -->
 					<card name="redanian" />
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
-					<card name="kaedweni_siege2" />
-					<card name="kaedweni_siege3" />
+					<card name="kaedweni_siege2" /> <!-- SGR [kaedweni_siege -> kaedweni_siege2] -->
+					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
 					<card name="siegfried" />
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
@@ -59,13 +59,13 @@
 					<card name="trebuchet" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
-					<card name="poor_infantry2" />
+					<card name="poor_infantry2" /> <!-- SGR [poor_infantry -> poor_infantry2] -->
 					<card name="redanian" />
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
-					<card name="kaedweni_siege2" />
-					<card name="kaedweni_siege3" />
+					<card name="kaedweni_siege2" /> <!-- SGR [kaedweni_siege -> kaedweni_siege2] -->
+					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
 					<card name="siegfried" />
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
@@ -92,13 +92,13 @@
 					<card name="trebuchet" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
-					<card name="poor_infantry2" />
+					<card name="poor_infantry2" /> <!-- SGR [poor_infantry -> poor_infantry2] -->
 					<card name="redanian" />
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
-					<card name="kaedweni_siege2" />
-					<card name="kaedweni_siege3" />
+					<card name="kaedweni_siege2" /> <!-- SGR [kaedweni_siege -> kaedweni_siege2] -->
+					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
 					<card name="siegfried" />
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
@@ -328,15 +328,15 @@
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="foltest_copper" specialCard="vernon">
 					<card name="poor_infantry" />
-					<card name="poor_infantry2" />
-					<card name="poor_infantry3" />
+					<card name="poor_infantry2" /> <!-- SGR [poor_infantry -> poor_infantry2] -->
+					<card name="poor_infantry3" /> <!-- SGR [poor_infantry -> poor_infantry3] -->
 					<card name="crinfrid" />
-					<card name="crinfrid2" />
-					<card name="crinfrid3" />
+					<card name="crinfrid2" /> <!-- SGR [crinfrid -> crinfrid2] -->
+					<card name="crinfrid3" /> <!-- SGR [crinfrid -> crinfrid3] -->
 					<card name="catapult" />
-					<card name="catapult2" />
+					<card name="catapult2" /> <!-- SGR [catapult -> catapult2] -->
 					<card name="ballista" />
-					<card name="ballista2" />
+					<card name="ballista2" /> <!-- SGR [ballista -> ballista2] -->
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
@@ -434,7 +434,7 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="ballista2" />
-					<card name="kaedweni_siege3" />
+					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
@@ -544,8 +544,8 @@
 					<card name="stennis" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
-					<card name="poor_infantry2" />
-					<card name="poor_infantry3" />
+					<card name="poor_infantry2" /> <!-- SGR [poor_infantry -> poor_infantry2] -->
+					<card name="poor_infantry3" /> <!-- SGR [poor_infantry -> poor_infantry3] -->
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
@@ -569,8 +569,8 @@
 					<card name="stennis" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
-					<card name="poor_infantry2" />
-					<card name="poor_infantry3" />
+					<card name="poor_infantry2" /> <!-- SGR [poor_infantry -> poor_infantry2] -->
+					<card name="poor_infantry3" /> <!-- SGR [poor_infantry -> poor_infantry3] -->
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
@@ -600,8 +600,8 @@
 					<card name="stennis" />
 					<card name="trebuchet2" />
 					<card name="poor_infantry" />
-					<card name="poor_infantry2" />
-					<card name="poor_infantry3" />
+					<card name="poor_infantry2" /> <!-- SGR [poor_infantry -> poor_infantry2] -->
+					<card name="poor_infantry3" /> <!-- SGR [poor_infantry -> poor_infantry3] -->
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
@@ -630,7 +630,7 @@
 					<card name="triss" difficulty="11" />
 					<card name="dandelion" difficulty="11" />
 					<card name="villen" difficulty="14" />
-					<card name="geralt" difficulty="14" />
+					<card name="geralt" difficulty="14" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -737,11 +737,11 @@
 				<dynamicCards>
 					<card name="villen" difficulty="5" />
 					<card name="scorch" difficulty="7" />
-					<card name="ciri" difficulty="9" />
+					<card name="ciri" difficulty="9" /> <!-- SGR [cirigog -> ciri] -->
 					<card name="triss" difficulty="11" />
 					<card name="vesemir" difficulty="11" />
 					<card name="dandelion" difficulty="14" />
-					<card name="geralt" difficulty="14" />
+					<card name="geralt" difficulty="14" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -766,7 +766,7 @@
 					<card name="sile" />
 					<card name="sabrina" />
 					<card name="stennis" />
-					<card name="poor_infantry3" />
+					<card name="poor_infantry3" /> <!-- SGR [poor_infantry -> poor_infantry3] -->
 					<card name="poor_infantry2" />
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
@@ -798,7 +798,7 @@
 					<card name="sile" />
 					<card name="sabrina" />
 					<card name="stennis" />
-					<card name="poor_infantry3" />
+					<card name="poor_infantry3" /> <!-- SGR [poor_infantry -> poor_infantry3] -->
 					<card name="poor_infantry2" />
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
@@ -848,8 +848,8 @@
 					<card name="yennefer" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="vesemir" difficulty="11" />
-					<card name="ciri" difficulty="14" />
-					<card name="geralt" difficulty="14" />
+					<card name="ciri" difficulty="14" /> <!-- SGR [cirigog -> ciri] -->
+					<card name="geralt" difficulty="14" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -960,7 +960,7 @@
 					<card name="archer_support2" difficulty="11" />
 					<card name="vesemir" difficulty="11" />
 					<card name="dandelion" difficulty="14" />
-					<card name="geralt" difficulty="14" />
+					<card name="geralt" difficulty="14" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -1081,9 +1081,9 @@
 					<card name="horn" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="zoltan" difficulty="11" />
-					<card name="geralt" difficulty="14" />
+					<card name="geralt" difficulty="14" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="14" />
-					<card name="ciri" difficulty="14" />
+					<card name="ciri" difficulty="14" /> <!-- SGR [cirigog -> ciri] -->
 				</dynamicCards>
 			</deck_collection>
 
@@ -1190,7 +1190,7 @@
 					<card name="nausicaa2" difficulty="9" />
 					<card name="nausicaa3" difficulty="11" />
 					<card name="young_emissary" difficulty="11" />
-					<card name="geralt" difficulty="14" />
+					<card name="geralt" difficulty="14" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="14" />
 					<card name="dandelion" difficulty="14" />
 				</dynamicCards>
@@ -1313,9 +1313,9 @@
 					<card name="zoltan" difficulty="9" />
 					<card name="dandelion" difficulty="11" />
 					<card name="emiel" difficulty="11" />
-					<card name="geralt" difficulty="14" />
+					<card name="geralt" difficulty="14" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="14" />
-					<card name="ciri" difficulty="14" />
+					<card name="ciri" difficulty="14" /> <!-- SGR [cirigog -> ciri] -->
 				</dynamicCards>
 			</deck_collection>
 
@@ -1413,10 +1413,10 @@
 				<dynamicCards>
 					<card name="villen" difficulty="5" />
 					<card name="dandelion" difficulty="7" />
-					<card name="ciri" difficulty="9" />
+					<card name="ciri" difficulty="9" /> <!-- SGR [cirigog -> ciri] -->
 					<card name="vesemir" difficulty="11" />
 					<card name="yennefer" difficulty="11" />
-					<card name="geralt" difficulty="14" />
+					<card name="geralt" difficulty="14" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="14" />
 					<card name="mysterious_elf" difficulty="14" />
 				</dynamicCards>
@@ -1445,7 +1445,7 @@
 					<card name="dwarf2" />
 					<card name="dwarf3" />
 					<card name="mahakam" />
-					<card name="mahakam5" />
+					<card name="mahakam5" /> <!-- SGR [mahakam2 -> mahakam5] -->
 					<card name="havcaaren_medic" />
 					<card name="havcaaren_medic2" />
 				</deck>
@@ -1466,7 +1466,7 @@
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
-					<card name="mahakam4" />
+					<card name="mahakam4" /> <!-- SGR [mahakam3 -> mahakam4] -->
 					<card name="vrihedd_cadet" />
 
 					<card name="isengrim" />
@@ -1500,7 +1500,7 @@
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
-					<card name="mahakam4" />
+					<card name="mahakam4" /> <!-- SGR [mahakam3 -> mahakam4] -->
 					<card name="vrihedd_cadet" />
 
 					<card name="horn" />
@@ -1529,7 +1529,7 @@
 					<card name="yennefer" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="emiel" difficulty="11" />
-					<card name="geralt" difficulty="14" />
+					<card name="geralt" difficulty="14" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="14" />
 					<card name="mysterious_elf" difficulty="14" />
 				</dynamicCards>
@@ -1622,7 +1622,7 @@
 					<card name="havcaaren_support" />
 					<card name="mahakam" />
 					<card name="mahakam2" />
-					<card name="mahakam5" />
+					<card name="mahakam5" /> <!-- SGR [mahakam3 -> mahakam5] -->
 					<card name="mahakam4" />
 					<card name="elf_skirmisher" />
 					<card name="elf_skirmisher2" />
@@ -1638,7 +1638,7 @@
 					<card name="scorch" difficulty="11" />
 					<card name="zoltan" difficulty="11" />
 					<card name="villen" difficulty="14" />
-					<card name="ciri" difficulty="14" />
+					<card name="ciri" difficulty="14" /> <!-- SGR [cirigog -> ciri] -->
 				</dynamicCards>
 			</deck_collection>
 
@@ -1864,7 +1864,7 @@
 					<card name="dummy" difficulty="9" />
 					<card name="mysterious_elf" difficulty="11" />
 					<card name="triss" difficulty="11" />
-					<card name="geralt" difficulty="14" />
+					<card name="geralt" difficulty="14" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="14" />
 					<card name="emiel" difficulty="14" />
 				</dynamicCards>
@@ -2010,7 +2010,7 @@
 					<card name="fire_elemental" />
 					<card name="wyvern" />
 					<card name="arachas_behemoth" />
-					<card name="arachas3" />
+					<card name="arachas3" /> <!-- SGR [arachas -> arachas3] -->
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -2044,7 +2044,7 @@
 					<card name="fire_elemental" />
 					<card name="wyvern" />
 					<card name="arachas_behemoth" />
-					<card name="arachas3" />
+					<card name="arachas3" /> <!-- SGR [arachas -> arachas3] -->
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -2094,9 +2094,9 @@
 					<card name="vesemir" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="emiel" difficulty="11" />
-					<card name="geralt" difficulty="14" />
+					<card name="geralt" difficulty="14" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="14" />
-					<card name="ciri" difficulty="14" />
+					<card name="ciri" difficulty="14" /> <!-- SGR [cirigog -> ciri] -->
 				</dynamicCards>
 			</deck_collection>
 
@@ -2229,7 +2229,7 @@
 					<card name="triss" difficulty="11" />
 					<card name="vesemir" difficulty="11" />
 					<card name="scorch" difficulty="14" />
-					<card name="ciri" difficulty="14" />
+					<card name="ciri" difficulty="14" /> <!-- SGR [cirigog -> ciri] -->
 				</dynamicCards>
 			</deck_collection>
 
@@ -2353,7 +2353,7 @@
 					<card name="scorch" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="emiel" difficulty="11" />
-					<card name="geralt" difficulty="14" />
+					<card name="geralt" difficulty="14" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="14" />
 					<card name="dandelion" difficulty="14" />
 				</dynamicCards>
@@ -2475,7 +2475,7 @@
 					<card name="dummy" difficulty="9" />
 					<card name="triss" difficulty="11" />
 					<card name="vesemir" difficulty="11" />
-					<card name="geralt" difficulty="14" />
+					<card name="geralt" difficulty="14" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="14" />
 					<card name="dandelion" difficulty="14" />
 				</dynamicCards>
@@ -2625,7 +2625,7 @@
 					<card name="triss" difficulty="11" />
 					<card name="emiel" difficulty="11" />
 					<card name="scorch" difficulty="14" />
-					<card name="geralt" difficulty="14" />
+					<card name="geralt" difficulty="14" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -2711,7 +2711,7 @@
 					<card name="mysterious_elf" />
 
 					<card name="scorch" />
-					<card name="ciri" />
+					<card name="ciri" /> <!-- SGR [cirigog -> ciri] -->
 					<card name="eithne" />
 					<card name="saskia" />
 
@@ -2736,7 +2736,7 @@
 					<card name="triss" difficulty="11" />
 					<card name="dandelion" difficulty="11" />
 					<card name="villen" difficulty="14" />
-					<card name="geralt" difficulty="14" />
+					<card name="geralt" difficulty="14" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -2823,7 +2823,7 @@
 
 					<card name="dummy" />
 					<card name="horn" />
-					<card name="ciri" />
+					<card name="ciri" /> <!-- SGR [cirigog -> ciri] -->
 
 					<card name="kayran" />
 					<card name="earth_elemental" />
@@ -2845,7 +2845,7 @@
 					<card name="yennefer" difficulty="11" />
 					<card name="emiel" difficulty="11" />
 					<card name="scorch" difficulty="14" />
-					<card name="geralt" difficulty="14" />
+					<card name="geralt" difficulty="14" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -2949,7 +2949,7 @@
 					<card name="dandelion" difficulty="4" />
 					<card name="impera_brigade4" difficulty="6" />
 					<card name="triss" difficulty="6" />
-					<card name="geralt" difficulty="8" />
+					<card name="geralt" difficulty="8" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="8" />
 				</dynamicCards>
 			</deck_collection>
@@ -2965,7 +2965,7 @@
 					<card name="fog" />
 
 					<card name="frost" />
-					<card name="kaedweni_siege" />
+					<card name="kaedweni_siege" /> <!-- SGR [kaedweni_siege3 -> kaedweni_siege] -->
 
 					<card name="stennis" />
 					<card name="trebuchet" />
@@ -2985,9 +2985,9 @@
 					<card name="fog" />
 
 					<card name="frost" />
-					<card name="kaedweni_siege2" />
+					<card name="kaedweni_siege2" /> <!-- SGR [kaedweni_siege3 -> kaedweni_siege2] -->
 
-					<card name="kaedweni_siege" />
+					<card name="kaedweni_siege" /> <!-- SGR [kaedweni_siege3 -> kaedweni_siege] -->
 					<card name="scorch" />
 					<card name="dummy" />
 					<card name="vernon" />
@@ -3015,9 +3015,9 @@
 					<card name="fog" />
 
 					<card name="frost" />
-					<card name="kaedweni_siege2" />
+					<card name="kaedweni_siege2" /> <!-- SGR [kaedweni_siege3 -> kaedweni_siege2] -->
 
-					<card name="kaedweni_siege" />
+					<card name="kaedweni_siege" /> <!-- SGR [kaedweni_siege3 -> kaedweni_siege] -->
 					<card name="scorch" />
 					<card name="dummy" />
 					<card name="vernon" />
@@ -3030,7 +3030,7 @@
 					<card name="horn" />
 					<card name="esterad" />
 					<card name="natalis" />
-					<card name="ciri" />
+					<card name="ciri" /> <!-- SGR [cirigog -> ciri] -->
 
 					<card name="stennis" />
 					<card name="trebuchet" />
@@ -3047,7 +3047,7 @@
 					<card name="kaedweni_siege2" difficulty="5" />
 					<card name="dandelion" difficulty="6" />
 					<card name="triss" difficulty="8" />
-					<card name="geralt" difficulty="8" />
+					<card name="geralt" difficulty="8" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="8" />
 					<card name="villen" difficulty="8" />
 					<card name="yennefer" difficulty="10" />
@@ -3099,7 +3099,7 @@
 					<card name="scorch" />
 					<card name="havcaaren_medic3" />
 					<card name="eithne" />
-					<card name="ciri" />
+					<card name="ciri" /> <!-- SGR [cirigog -> ciri] -->
 
 					<card name="mysterious_elf" />
 					<card name="iorveth" />
@@ -3132,7 +3132,7 @@
 					<card name="scorch" />
 					<card name="havcaaren_medic3" />
 					<card name="eithne" />
-					<card name="ciri" />
+					<card name="ciri" /> <!-- SGR [cirigog -> ciri] -->
 
 					<card name="dummy" />
 					<card name="saskia" />
@@ -3161,7 +3161,7 @@
 					<card name="yennefer" difficulty="11" />
 					<card name="emiel" difficulty="11" />
 					<card name="scorch" difficulty="14" />
-					<card name="geralt" difficulty="14" />
+					<card name="geralt" difficulty="14" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="14" />
 				</dynamicCards>
 			</deck_collection>
@@ -3195,7 +3195,7 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="kaedweni_siege" />
-					<card name="kaedweni_siege2" />
+					<card name="kaedweni_siege2" /> <!-- SGR [kaedweni_siege -> kaedweni_siege2] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -3218,14 +3218,14 @@
 					<card name="sheldon" />
 					<card name="trebuchet" />
 					<card name="poor_infantry" />
-					<card name="poor_infantry3" />
+					<card name="poor_infantry3" /> <!-- SGR [poor_infantry2 -> poor_infantry3] -->
 					<card name="crinfrid" />
 					<card name="redanian" />
 					<card name="redanian2" />
 					<card name="catapult2" />
 					<card name="ballista" />
-					<card name="kaedweni_siege3" />
-					<card name="kaedweni_siege2" />
+					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
+					<card name="kaedweni_siege2" /> <!-- SGR [kaedweni_siege -> kaedweni_siege2] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -3251,14 +3251,14 @@
 					<card name="sheldon" />
 					<card name="trebuchet" />
 					<card name="poor_infantry" />
-					<card name="poor_infantry3" />
+					<card name="poor_infantry3" /> <!-- SGR [poor_infantry2 -> poor_infantry3] -->
 					<card name="crinfrid" />
 					<card name="redanian" />
 					<card name="redanian2" />
 					<card name="catapult2" />
-					<card name="ballista2" />
-					<card name="kaedweni_siege3" />
-					<card name="kaedweni_siege2" />
+					<card name="ballista2" /> <!-- SGR [ballista -> ballista2] -->
+					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
+					<card name="kaedweni_siege2" /> <!-- SGR [kaedweni_siege -> kaedweni_siege2] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -3290,13 +3290,13 @@
 					<card name="sheldon" />
 					<card name="trebuchet2" />
 					<card name="trebuchet" />
-					<card name="crinfrid3" />
+					<card name="crinfrid3" /> <!-- SGR [crinfrid -> crinfrid3] -->
 					<card name="crinfrid2" />
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="ballista2" />
-					<card name="kaedweni_siege3" />
+					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -3325,13 +3325,13 @@
 					<card name="sheldon" />
 					<card name="trebuchet2" />
 					<card name="trebuchet" />
-					<card name="crinfrid3" />
+					<card name="crinfrid3" /> <!-- SGR [crinfrid -> crinfrid3] -->
 					<card name="crinfrid2" />
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="ballista2" />
-					<card name="kaedweni_siege3" />
+					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
 				</deck>
@@ -3363,21 +3363,21 @@
 					<card name="sheldon" />
 					<card name="trebuchet2" />
 					<card name="trebuchet" />
-					<card name="crinfrid3" />
+					<card name="crinfrid3" /> <!-- SGR [crinfrid -> crinfrid3] -->
 					<card name="crinfrid2" />
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
-					<card name="kaedweni_siege3" />
+					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege2 -> kaedweni_siege3] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
 				<dynamicCards>
 					<card name="dandelion" difficulty="12" />
 					<card name="triss" difficulty="13" />
-					<card name="ciri" difficulty="15" />
+					<card name="ciri" difficulty="15" /> <!-- SGR [cirigog -> ciri] -->
 				</dynamicCards>
 			</deck_collection>
 
@@ -3412,7 +3412,7 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="ballista2" />
-					<card name="kaedweni_siege3" />
+					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -3430,10 +3430,10 @@
 
 					<card name="horn" />
 					<card name="scorch" />
-					<card name="geralt" />
+					<card name="geralt" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" />
 					<card name="yennefer" />
-					<card name="ciri" />
+					<card name="ciri" /> <!-- SGR [cirigog -> ciri] -->
 
 					<card name="triss" />
 					<card name="dandelion" />
@@ -3451,7 +3451,7 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="ballista2" />
-					<card name="kaedweni_siege3" />
+					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -3469,18 +3469,18 @@
 
 					<card name="horn" />
 					<card name="scorch" />
-					<card name="geralt" />
+					<card name="geralt" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" />
 					<card name="yennefer" />
-					<card name="ciri" />
+					<card name="ciri" /> <!-- SGR [cirigog -> ciri] -->
 
 					<card name="horn" />
 					<card name="scorch" />
-					<card name="geralt" />
+					<card name="geralt" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" />
 					<card name="villen" />
 					<card name="yennefer" />
-					<card name="ciri" />
+					<card name="ciri" /> <!-- SGR [cirigog -> ciri] -->
 
 					<card name="triss" />
 					<card name="dandelion" />
@@ -3498,7 +3498,7 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="ballista2" />
-					<card name="kaedweni_siege3" />
+					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -3683,7 +3683,7 @@
 					<card name="clear_sky" />
 					<card name="yennefer" />
 					<card name="letho" />
-					<card name="archer_support2" />
+					<card name="archer_support2" /> <!-- SGR [archer_support -> archer_support2] -->
 					<card name="vattier" />
 
 					<card name="menno" />
@@ -3709,7 +3709,7 @@
 				<dynamicCards>
 					<card name="villen" difficulty="12" />
 					<card name="moorvran" difficulty="13" />
-					<card name="geralt" difficulty="15" />
+					<card name="geralt" difficulty="15" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="15" />
 				</dynamicCards>
 			</deck_collection>
@@ -3800,7 +3800,7 @@
 					<card name="scorch" />
 					<card name="vattier" />
 					<card name="letho" />
-					<card name="archer_support" />
+					<card name="archer_support" /> <!-- SGR [archer_support2 -> archer_support] -->
 					<card name="black_archer" />
 					<card name="yennefer" />
 
@@ -3852,7 +3852,7 @@
 					<card name="dwarf" />
 					<card name="dwarf2" />
 					<card name="dwarf3" />
-					<card name="mahakam5" />
+					<card name="mahakam5" /> <!-- SGR [mahakam -> mahakam5] -->
 					<card name="elf_skirmisher" />
 					<card name="elf_skirmisher2" />
 					<card name="vrihedd_cadet" />
@@ -3879,7 +3879,7 @@
 					<card name="dwarf" />
 					<card name="dwarf2" />
 					<card name="dwarf3" />
-					<card name="mahakam5" />
+					<card name="mahakam5" /> <!-- SGR [mahakam -> mahakam5] -->
 					<card name="elf_skirmisher" />
 					<card name="elf_skirmisher2" />
 					<card name="vrihedd_cadet" />
@@ -3912,7 +3912,7 @@
 					<card name="dwarf" />
 					<card name="dwarf2" />
 					<card name="dwarf3" />
-					<card name="mahakam5" />
+					<card name="mahakam5" /> <!-- SGR [mahakam -> mahakam5] -->
 					<card name="elf_skirmisher" />
 					<card name="elf_skirmisher2" />
 					<card name="vrihedd_cadet" />
@@ -4055,7 +4055,7 @@
 				<dynamicCards>
 					<card name="dandelion" difficulty="12" />
 					<card name="villen" difficulty="13" />
-					<card name="ciri" difficulty="15" />
+					<card name="ciri" difficulty="15" /> <!-- SGR [cirigog -> ciri] -->
 				</dynamicCards>
 			</deck_collection>
 
@@ -4104,9 +4104,9 @@
 
 					<card name="fog" />
 
-					<card name="geralt" />
+					<card name="geralt" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" />
-					<card name="ciri" />
+					<card name="ciri" /> <!-- SGR [cirigog -> ciri] -->
 					<card name="saskia" />
 					<card name="isengrim" />
 
@@ -4141,15 +4141,15 @@
 
 					<card name="fog" />
 
-					<card name="geralt" />
+					<card name="geralt" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" />
-					<card name="ciri" />
+					<card name="ciri" /> <!-- SGR [cirigog -> ciri] -->
 					<card name="saskia" />
 					<card name="isengrim" />
 
-					<card name="geralt" />
+					<card name="geralt" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" />
-					<card name="ciri" />
+					<card name="ciri" /> <!-- SGR [cirigog -> ciri] -->
 					<card name="saskia" />
 					<card name="isengrim" />
 					<card name="yennefer" />
@@ -4372,7 +4372,7 @@
 					<card name="scorch" />
 					<card name="dummy" />
 					<card name="dummy" />
-					<card name="geralt" />
+					<card name="geralt" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" />
 					<card name="yennefer" />
 					<card name="draug" />
@@ -4424,7 +4424,7 @@
 					<card name="leshen" />
 					<card name="earth_elemental" />
 					<card name="arachas_behemoth" />
-					<card name="arachas" />
+					<card name="arachas" /> <!-- SGR [arachas2 -> arachas] -->
 					<card name="nekker" />
 					<card name="nekker2" />
 					<card name="nekker3" />
@@ -4501,7 +4501,7 @@
 					<card name="villen" />
 					<card name="imlerith" />
 					<card name="crone_weavess" />
-					<card name="arachas3" />
+					<card name="arachas3" /> <!-- SGR [arachas -> arachas3] -->
 					<card name="yennefer" />
 
 					<card name="mysterious_elf" />
@@ -4655,8 +4655,8 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden2" />
-					<card name="clan_drummond_shieldmaiden3" />
+					<card name="clan_drummond_shieldmaiden2" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden2] -->
+					<card name="clan_drummond_shieldmaiden3" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden3] -->
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -4688,8 +4688,8 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden2" />
-					<card name="clan_drummond_shieldmaiden3" />
+					<card name="clan_drummond_shieldmaiden2" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden2] -->
+					<card name="clan_drummond_shieldmaiden3" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden3] -->
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -4706,7 +4706,7 @@
 					<card name="cerys" />
 					<card name="mysterious_elf" />
 
-					<card name="geralt" />
+					<card name="geralt" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" />
 					<card name="cerys" />
 					<card name="olgierd" />
@@ -4728,14 +4728,14 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden2" />
-					<card name="clan_drummond_shieldmaiden3" />
+					<card name="clan_drummond_shieldmaiden2" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden2] -->
+					<card name="clan_drummond_shieldmaiden3" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden3] -->
 				</deck>
 
 				<dynamicCards>
 					<card name="dandelion" difficulty="12" />
 					<card name="villen" difficulty="13" />
-					<card name="ciri" difficulty="15" />
+					<card name="ciri" difficulty="15" /> <!-- SGR [cirigog -> ciri] -->
 				</dynamicCards>
 			</deck_collection>
 
@@ -4769,8 +4769,8 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden2" />
-					<card name="clan_drummond_shieldmaiden3" />
+					<card name="clan_drummond_shieldmaiden2" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden2] -->
+					<card name="clan_drummond_shieldmaiden3" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden3] -->
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -4784,9 +4784,9 @@
 
 					<card name="fog" />
 
-					<card name="geralt" />
+					<card name="geralt" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" />
-					<card name="ciri" />
+					<card name="ciri" /> <!-- SGR [cirigog -> ciri] -->
 					<card name="cow" />
 
 					<card name="yennefer" />
@@ -4805,8 +4805,8 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden2" />
-					<card name="clan_drummond_shieldmaiden3" />
+					<card name="clan_drummond_shieldmaiden2" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden2] -->
+					<card name="clan_drummond_shieldmaiden3" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden3] -->
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -4820,9 +4820,9 @@
 
 					<card name="fog" />
 
-					<card name="geralt" />
+					<card name="geralt" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" />
-					<card name="ciri" />
+					<card name="ciri" /> <!-- SGR [cirigog -> ciri] -->
 					<card name="cow" />
 
 					<card name="olgierd" />
@@ -4845,8 +4845,8 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden2" />
-					<card name="clan_drummond_shieldmaiden3" />
+					<card name="clan_drummond_shieldmaiden2" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden2] -->
+					<card name="clan_drummond_shieldmaiden3" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden3] -->
 				</deck>
 
 				<dynamicCards>
@@ -4955,7 +4955,7 @@
 					<card name="trebuchet" />
 					<card name="catapult" />
 					<card name="catapult2" />
-					<card name="ballista2" />
+					<card name="ballista2" /> <!-- SGR [ballista -> ballista2] -->
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
@@ -4982,7 +4982,7 @@
 					<card name="trebuchet" />
 					<card name="catapult" />
 					<card name="catapult2" />
-					<card name="ballista2" />
+					<card name="ballista2" /> <!-- SGR [ballista -> ballista2] -->
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
@@ -5009,7 +5009,7 @@
 					<card name="trebuchet" />
 					<card name="catapult" />
 					<card name="catapult2" />
-					<card name="ballista2" />
+					<card name="ballista2" /> <!-- SGR [ballista -> ballista2] -->
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
@@ -5021,10 +5021,10 @@
 					<card name="kaedweni_siege2" difficulty="5" />
 					<card name="dandelion" difficulty="6" />
 					<card name="triss" difficulty="8" />
-					<card name="geralt" difficulty="8" />
+					<card name="geralt" difficulty="8" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="8" />
 					<card name="villen" difficulty="8" />
-					<card name="ciri" difficulty="10" />
+					<card name="ciri" difficulty="10" /> <!-- SGR [cirigog -> ciri] -->
 					<card name="yennefer" difficulty="10" />
 				</dynamicCards>
 			</deck_collection>
@@ -5126,7 +5126,7 @@
 					<card name="dandelion" difficulty="4" />
 					<card name="impera_brigade4" difficulty="6" />
 					<card name="triss" difficulty="6" />
-					<card name="geralt" difficulty="8" />
+					<card name="geralt" difficulty="8" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="8" />
 					<card name="yennefer" difficulty="10" />
 				</dynamicCards>
@@ -5224,9 +5224,9 @@
 					<card name="eithne" difficulty="6" />
 					<card name="triss" difficulty="8" />
 					<card name="emiel" difficulty="8" />
-					<card name="geralt" difficulty="10" />
+					<card name="geralt" difficulty="10" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="10" />
-					<card name="ciri" difficulty="10" />
+					<card name="ciri" difficulty="10" /> <!-- SGR [cirigog -> ciri] -->
 				</dynamicCards>
 			</deck_collection>
 
@@ -5248,7 +5248,7 @@
 					<card name="imlerith" />
 					<card name="earth_elemental" />
 					<card name="arachas_behemoth" />
-					<card name="arachas3" />
+					<card name="arachas3" /> <!-- SGR [arachas -> arachas3] -->
 					<card name="arachas2" />
 					<card name="ekkima" />
 					<card name="bruxa" />
@@ -5276,7 +5276,7 @@
 					<card name="imlerith" />
 					<card name="earth_elemental" />
 					<card name="arachas_behemoth" />
-					<card name="arachas3" />
+					<card name="arachas3" /> <!-- SGR [arachas -> arachas3] -->
 					<card name="arachas2" />
 					<card name="ekkima" />
 					<card name="bruxa" />
@@ -5304,7 +5304,7 @@
 					<card name="imlerith" />
 					<card name="earth_elemental" />
 					<card name="arachas_behemoth" />
-					<card name="arachas3" />
+					<card name="arachas3" /> <!-- SGR [arachas -> arachas3] -->
 					<card name="arachas2" />
 					<card name="ekkima" />
 					<card name="bruxa" />
@@ -5323,7 +5323,7 @@
 					<card name="villen" difficulty="6" />
 					<card name="emiel" difficulty="7" />
 					<card name="zoltan" difficulty="8" />
-					<card name="geralt" difficulty="10" />
+					<card name="geralt" difficulty="10" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="10" />
 					<card name="mysterious_elf" difficulty="10" />
 				</dynamicCards>
@@ -5424,9 +5424,9 @@
 					<card name="eithne" difficulty="6" />
 					<card name="triss" difficulty="8" />
 					<card name="emiel" difficulty="8" />
-					<card name="geralt" difficulty="10" />
+					<card name="geralt" difficulty="10" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="10" />
-					<card name="ciri" difficulty="10" />
+					<card name="ciri" difficulty="10" /> <!-- SGR [cirigog -> ciri] -->
 				</dynamicCards>
 			</deck_collection>
 
@@ -5448,7 +5448,7 @@
 					<card name="imlerith" />
 					<card name="earth_elemental" />
 					<card name="arachas_behemoth" />
-					<card name="arachas3" />
+					<card name="arachas3" /> <!-- SGR [arachas -> arachas3] -->
 					<card name="arachas2" />
 					<card name="ekkima" />
 					<card name="bruxa" />
@@ -5477,7 +5477,7 @@
 					<card name="earth_elemental" />
 					<card name="arachas_behemoth" />
 					<card name="arachas" />
-					<card name="arachas3" />
+					<card name="arachas3" /> <!-- SGR [arachas2 -> arachas3] -->
 					<card name="ekkima" />
 					<card name="bruxa" />
 					<card name="fleder" />
@@ -5505,7 +5505,7 @@
 					<card name="earth_elemental" />
 					<card name="arachas_behemoth" />
 					<card name="arachas" />
-					<card name="arachas3" />
+					<card name="arachas3" /> <!-- SGR [arachas2 -> arachas3] -->
 					<card name="ekkima" />
 					<card name="bruxa" />
 					<card name="fleder" />
@@ -5521,7 +5521,7 @@
 					<card name="dandelion" difficulty="4" />
 					<card name="scorch" difficulty="4" />
 					<card name="villen" difficulty="6" />
-					<card name="geralt" difficulty="10" />
+					<card name="geralt" difficulty="10" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="10" />
 				</dynamicCards>
 			</deck_collection>
@@ -5550,7 +5550,7 @@
 					<card name="trebuchet" />
 					<card name="catapult" />
 					<card name="catapult2" />
-					<card name="ballista2" />
+					<card name="ballista2" /> <!-- SGR [ballista -> ballista2] -->
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
@@ -5577,7 +5577,7 @@
 					<card name="trebuchet" />
 					<card name="catapult" />
 					<card name="catapult2" />
-					<card name="ballista2" />
+					<card name="ballista2" /> <!-- SGR [ballista -> ballista2] -->
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
@@ -5604,7 +5604,7 @@
 					<card name="trebuchet" />
 					<card name="catapult" />
 					<card name="catapult2" />
-					<card name="ballista2" />
+					<card name="ballista2" /> <!-- SGR [ballista -> ballista2] -->
 					<card name="blue_stripes" />
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
@@ -5616,10 +5616,10 @@
 					<card name="kaedweni_siege2" difficulty="5" />
 					<card name="dandelion" difficulty="6" />
 					<card name="triss" difficulty="8" />
-					<card name="geralt" difficulty="8" />
+					<card name="geralt" difficulty="8" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="8" />
 					<card name="villen" difficulty="8" />
-					<card name="ciri" difficulty="10" />
+					<card name="ciri" difficulty="10" /> <!-- SGR [cirigog -> ciri] -->
 					<card name="yennefer" difficulty="10" />
 				</dynamicCards>
 			</deck_collection>
@@ -5721,7 +5721,7 @@
 					<card name="dandelion" difficulty="4" />
 					<card name="impera_brigade4" difficulty="6" />
 					<card name="triss" difficulty="6" />
-					<card name="geralt" difficulty="8" />
+					<card name="geralt" difficulty="8" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" difficulty="10" />
 					<card name="yennefer" difficulty="10" />
 				</dynamicCards>
@@ -5757,8 +5757,8 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden2" />
-					<card name="clan_drummond_shieldmaiden3" />
+					<card name="clan_drummond_shieldmaiden2" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden2] -->
+					<card name="clan_drummond_shieldmaiden3" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden3] -->
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -5770,8 +5770,8 @@
 					<card name="scorch" />
 					<card name="dummy" />
 
-					<card name="ciri" />
-					<card name="geralt" />
+					<card name="ciri" /> <!-- SGR [cirigog -> ciri] -->
+					<card name="geralt" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" />
 					<card name="olgierd" />
 					<card name="draig" />
@@ -5793,8 +5793,8 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden2" />
-					<card name="clan_drummond_shieldmaiden3" />
+					<card name="clan_drummond_shieldmaiden2" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden2] -->
+					<card name="clan_drummond_shieldmaiden3" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden3] -->
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -5806,8 +5806,8 @@
 					<card name="scorch" />
 					<card name="dummy" />
 
-					<card name="ciri" />
-					<card name="geralt" />
+					<card name="ciri" /> <!-- SGR [cirigog -> ciri] -->
+					<card name="geralt" /> <!-- SGR [geraltgog -> geralt] -->
 					<card name="roach" />
 					<card name="olgierd" />
 					<card name="draig" />
@@ -5829,8 +5829,8 @@
 					<card name="war_drakkar" />
 					<card name="war_drakkar" />
 					<card name="clan_drummond_shieldmaiden" />
-					<card name="clan_drummond_shieldmaiden2" />
-					<card name="clan_drummond_shieldmaiden3" />
+					<card name="clan_drummond_shieldmaiden2" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden2] -->
+					<card name="clan_drummond_shieldmaiden3" /> <!-- SGR [clan_drummond_shieldmaiden -> clan_drummond_shieldmaiden3] -->
 				</deck>
 
 				<dynamicCards>

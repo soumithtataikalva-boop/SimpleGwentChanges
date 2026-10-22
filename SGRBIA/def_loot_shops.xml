@@ -1150,7 +1150,7 @@
 <!-- GWINT -->
 		<loot_entry name="gwint_card_dummy"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
 		<loot_entry name="gwint_card_nausicaa"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
-		<loot_entry name="gwint_card_blue_stripes3"					player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
+		<loot_entry name="gwint_card_blue_stripes3"					player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/> <!-- SGR [gwint_card_blue_stripes -> gwint_card_blue_stripes3] -->
 		<loot_entry name="gwint_card_cynthia"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
 	</loot>
 
@@ -1259,9 +1259,9 @@
 		<loot_entry name="Torch"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="5"	chance="-1"			/>
 <!-- GWINT -->
 		<loot_entry name="gwint_card_crinfrid3"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
-		<loot_entry name="gwint_card_blue_stripes3"					player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
+		<loot_entry name="gwint_card_blue_stripes3"					player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/> <!-- SGR [gwint_card_blue_stripes -> gwint_card_blue_stripes3] -->
 		<loot_entry name="gwint_card_morteisen"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
-	</loot>
+	</loot> <!-- SGR [gwint_card_poor_infantry2 -> None] -->
 
 <!-- NML -->
 	<loot name="_store__Keira_Metz"									player_level_min="0"	player_level_max="0"	quantity_min="220"	quantity_max="250"	chance="-1"			>
@@ -2026,8 +2026,8 @@
 
 <!-- Novigrad -->
 	<loot name="_store__Market_Trader1"								player_level_min="0"	player_level_max="0"	quantity_min="205"	quantity_max="210"	chance="-1"			>
-		<loot_entry name="Wolfsbane"								player_level_min="0"	player_level_max="0"	quantity_min="5"	quantity_max="10"	chance="-1"			/>
-		<loot_entry name="Verbena"									player_level_min="0"	player_level_max="0"	quantity_min="5"	quantity_max="10"	chance="-1"			/>
+		<loot_entry name="Wolfsbane"								player_level_min="0"	player_level_max="0"	quantity_min="5"	quantity_max="10"	chance="-1"		 	/>
+		<loot_entry name="Verbena"									player_level_min="0"	player_level_max="0"	quantity_min="5"	quantity_max="10"	chance="-1"		 	/>
 		<loot_entry name="Inkwell"									player_level_min="0"	player_level_max="0"	quantity_min="5"	quantity_max="10"	chance="-1"			/>
 		<loot_entry name="Candle"									player_level_min="0"	player_level_max="0"	quantity_min="5"	quantity_max="10"	chance="-1"			/>
 		<loot_entry name="Necrophage vol 1"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
@@ -2280,10 +2280,10 @@
 		<loot_entry name="Emerald dust"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
 		<loot_entry name="Sapphire dust"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
 		<loot_entry name="Glowing ore"								player_level_min="30"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
-		<loot_entry name="Glyph axii lesser"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
-		<loot_entry name="Glyph yrden lesser"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
+		<loot_entry name="Glyph axii lesser"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		/>
+		<loot_entry name="Glyph yrden lesser"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		/>
 		<loot_entry name="Crystalized essence"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
-		<loot_entry name="Glyph aard lesser"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
+		<loot_entry name="Glyph aard lesser"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"		/>
 		<loot_entry name="Venom extract"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
 		<loot_entry name="Alchemical paste"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
 		<loot_entry name="Saltpetre"								player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
@@ -3100,7 +3100,7 @@
 		<loot_entry name="Dwarven spirit"							player_level_min="0"	player_level_max="0"	quantity_min="2"	quantity_max="5"	chance="-1"			/>
 <!-- GWINT -->
 		<loot_entry name="gwint_card_catapult"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
-		<loot_entry name="gwint_card_blue_stripes3"					player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
+		<loot_entry name="gwint_card_blue_stripes3"					player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/> <!-- SGR [gwint_card_blue_stripes -> gwint_card_blue_stripes3] -->
 		<loot_entry name="gwint_card_crinfrid"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
 		<loot_entry name="gwint_card_foltest_bronze"				player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
 	</loot>
@@ -3131,7 +3131,7 @@
 		<loot_entry name="Alcohest"									player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="5"	chance="-1"			/>
 <!-- GWINT -->
 		<loot_entry name="gwint_card_catapult"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
-		<loot_entry name="gwint_card_blue_stripes3"					player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
+		<loot_entry name="gwint_card_blue_stripes3"					player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/> <!-- SGR [gwint_card_blue_stripes -> gwint_card_blue_stripes3] -->
 		<loot_entry name="gwint_card_crinfrid"						player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
 		<loot_entry name="gwint_card_foltest_bronze"				player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>
 		<loot_entry name="gwint_card_dummy"							player_level_min="0"	player_level_max="0"	quantity_min="1"	quantity_max="1"	chance="-1"			/>

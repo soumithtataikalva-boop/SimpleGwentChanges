@@ -264,7 +264,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_hero_nilfgaard.png -> icons/inventory/gwint/ico_gwent_hero_neutral.png] --> <!-- SGR [GwintCardNlfg,NoShowInPlayersInventory,EncumbranceOff,Lootable,GwintCollectorAchievement,GwintCard,GwentTournament,GT6 -> GwintCardNeutral,NoShowInPlayersInventory,EncumbranceOff,Lootable,GwintCollectorAchievement,GwintCard,GwentTournament,GT6] -->
 
 				<item name="gwint_card_archer_support" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="50"
 					icon_path="icons/inventory/gwint/ico_gwent_range_nilfgaard.png" localisation_key_name = "gwint_name_archer_support" localisation_key_description = "gwint_desc_gwint_card" >
@@ -304,7 +304,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_hero_nilfgaard.png -> icons/inventory/gwint/ico_gwent_melee_nilfgaard.png] -->
 
 				<item name="gwint_card_nausicaa2" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="20"
 					icon_path="icons/inventory/gwint/ico_gwent_melee_nilfgaard.png" localisation_key_name = "gwint_name_nausicaa" localisation_key_description = "gwint_desc_gwint_card" >
@@ -312,7 +312,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_soldier_nilfgaard.png -> icons/inventory/gwint/ico_gwent_melee_nilfgaard.png] -->
 
 				<item name="gwint_card_nausicaa3" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="20"
 					icon_path="icons/inventory/gwint/ico_gwent_melee_nilfgaard.png" localisation_key_name = "gwint_name_nausicaa" localisation_key_description = "gwint_desc_gwint_card" >
@@ -320,7 +320,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_hero_nilfgaard.png -> icons/inventory/gwint/ico_gwent_melee_nilfgaard.png] -->
 
 				<item name="gwint_card_stefan" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="50"
 					icon_path="icons/inventory/gwint/ico_gwent_melee_nilfgaard.png" localisation_key_name = "gwint_name_stefan" localisation_key_description = "gwint_desc_gwint_card" >
@@ -360,7 +360,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_hero_nilfgaard.png -> icons/inventory/gwint/ico_gwent_melee_nilfgaard.png] -->
 
 				<item name="gwint_card_tibor" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="50"
 					icon_path="icons/inventory/gwint/ico_gwent_hero_nilfgaard.png" localisation_key_name = "gwint_name_tibor" localisation_key_description = "gwint_desc_gwint_card" >
@@ -488,7 +488,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_hero_nilfgaard.png -> icons/inventory/gwint/ico_gwent_siege_nilfgaard.png] -->
 
 				<item name="gwint_card_combat_engineer" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="20"
 					icon_path="icons/inventory/gwint/ico_gwent_siege_nilfgaard.png" localisation_key_name = "gwint_name_combat_engineer" localisation_key_description = "gwint_desc_gwint_card" >
@@ -594,7 +594,7 @@
 						<base_abilities>
 							<a>max_card_1</a>
 						</base_abilities>
-					</item>
+					</item> <!-- SGR [icons/inventory/gwint/ico_gwent_hero_northern_realms.png -> icons/inventory/gwint/ico_gwent_range_northern_realms.png] -->
 
 					<item name="gwint_card_vernon" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="50"
 						icon_path="icons/inventory/gwint/ico_gwent_melee_northern_realms.png" localisation_key_name = "gwint_name_vernon" localisation_key_description = "gwint_desc_gwint_card" >
@@ -602,7 +602,7 @@
 						<base_abilities>
 							<a>max_card_1</a>
 						</base_abilities>
-					</item>
+					</item> <!-- SGR [icons/inventory/gwint/ico_gwent_hero_northern_realms.png -> icons/inventory/gwint/ico_gwent_melee_northern_realms.png] -->
 
 					<item name="gwint_card_thaler" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="20"
 						icon_path="icons/inventory/gwint/ico_gwent_siege_northern_realms.png" localisation_key_name = "gwint_name_thaler" localisation_key_description = "gwint_desc_gwint_card" >
@@ -712,7 +712,7 @@
 						<base_abilities>
 							<a>max_card_1</a>
 						</base_abilities>
-					</item>
+					</item> <!-- SGR [None -> item gwint_card_poor_infantry3] -->
 
 			<!-- Scoia'tael Cards -->
 				<item name="gwint_card_eithne" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="50"
@@ -729,7 +729,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_hero_scoia_tael.png -> icons/inventory/gwint/ico_gwent_range_scoia_tael.png] -->
 
 				<item name="gwint_card_barclay" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="20"
 					icon_path="icons/inventory/gwint/ico_gwent_melee_scoia_tael.png" localisation_key_name = "gwint_name_barclay" localisation_key_description = "gwint_desc_gwint_card" >
@@ -737,7 +737,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_soldier_scoia_tael.png -> icons/inventory/gwint/ico_gwent_melee_scoia_tael.png] -->
 
 				<item name="gwint_card_dennis" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="20"
 					icon_path="icons/inventory/gwint/ico_gwent_melee_scoia_tael.png" localisation_key_name = "gwint_name_dennis" localisation_key_description = "gwint_desc_gwint_card" >
@@ -785,7 +785,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_range_scoia_tael.png -> icons/inventory/gwint/ico_gwent_soldier_scoia_tael.png] -->
 
 				<item name="gwint_card_riordain" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="10"
 					icon_path="icons/inventory/gwint/ico_gwent_range_scoia_tael.png" localisation_key_name = "gwint_name_riordain" localisation_key_description = "gwint_desc_gwint_card" >
@@ -890,7 +890,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_melee_scoia_tael.png -> icons/inventory/gwint/ico_gwent_soldier_scoia_tael.png] -->
 
 				<item name="gwint_card_dol_infantry2" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="10"
 					icon_path="icons/inventory/gwint/ico_gwent_soldier_scoia_tael.png" localisation_key_name = "gwint_name_dol_scout" localisation_key_description = "gwint_desc_gwint_card" >
@@ -898,7 +898,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_melee_scoia_tael.png -> icons/inventory/gwint/ico_gwent_soldier_scoia_tael.png] -->
 
 				<item name="gwint_card_dol_infantry3" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="10"
 					icon_path="icons/inventory/gwint/ico_gwent_soldier_scoia_tael.png" localisation_key_name = "gwint_name_dol_scout" localisation_key_description = "gwint_desc_gwint_card" >
@@ -906,7 +906,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_melee_scoia_tael.png -> icons/inventory/gwint/ico_gwent_soldier_scoia_tael.png] -->
 
 				<item name="gwint_card_dol_dwarf" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="10"
 					icon_path="icons/inventory/gwint/ico_gwent_melee_scoia_tael.png" localisation_key_name = "gwint_name_dwarf" localisation_key_description = "gwint_desc_gwint_card" >
@@ -938,7 +938,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_soldier_scoia_tael.png -> icons/inventory/gwint/ico_gwent_range_scoia_tael.png] -->
 
 				<item name="gwint_card_elf_skirmisher2" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="10"
 					icon_path="icons/inventory/gwint/ico_gwent_range_scoia_tael.png" localisation_key_name = "gwint_name_elf_skirmisher" localisation_key_description = "gwint_desc_gwint_card" >
@@ -946,7 +946,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_soldier_scoia_tael.png -> icons/inventory/gwint/ico_gwent_range_scoia_tael.png] -->
 
 				<item name="gwint_card_elf_skirmisher3" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="10"
 					icon_path="icons/inventory/gwint/ico_gwent_range_scoia_tael.png" localisation_key_name = "gwint_name_elf_skirmisher" localisation_key_description = "gwint_desc_gwint_card" >
@@ -954,7 +954,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_soldier_scoia_tael.png -> icons/inventory/gwint/ico_gwent_range_scoia_tael.png] -->
 
 				<item name="gwint_card_vrihedd_cadet" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="10"
 					icon_path="icons/inventory/gwint/ico_gwent_range_scoia_tael.png" localisation_key_name = "gwint_name_vrihedd_cadet" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1002,7 +1002,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_hero_scoia_tael.png -> icons/inventory/gwint/ico_gwent_range_scoia_tael.png] -->
 
 				<item name="gwint_card_isengrim" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price ="50"
 					icon_path="icons/inventory/gwint/ico_gwent_hero_scoia_tael.png" localisation_key_name = "gwint_name_isengrim" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1010,7 +1010,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_soldier_scoia_tael.png -> icons/inventory/gwint/ico_gwent_hero_scoia_tael.png] -->
 
 				<item name="gwint_card_schirru" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price ="50"
 					icon_path="icons/inventory/gwint/ico_gwent_siege_scoia_tael.png" localisation_key_name = "gwint_name_schirru" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1018,7 +1018,7 @@
 					<base_abilities>
 						<a>max_card_0</a> <!-- Should be given as reward -->
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_range_scoia_tael.png -> icons/inventory/gwint/ico_gwent_siege_scoia_tael.png] -->
 
 			<!-- No Man's Land (Monsters) Cards -->
 				<item name="gwint_card_draug" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="50"
@@ -1027,7 +1027,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_melee_no_mans_land.png -> icons/inventory/gwint/ico_gwent_hero_no_mans_land.png] -->
 
 				<item name="gwint_card_kayran" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="50"
 					icon_path="icons/inventory/gwint/ico_gwent_soldier_no_mans_land.png" localisation_key_name = "gwint_name_kayran" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1035,7 +1035,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_range_no_mans_land.png -> icons/inventory/gwint/ico_gwent_soldier_no_mans_land.png] -->
 
 				<item name="gwint_card_imlerith" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="50"
 					icon_path="icons/inventory/gwint/ico_gwent_hero_no_mans_land.png" localisation_key_name = "gwint_name_imlerith" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1043,7 +1043,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_melee_no_mans_land.png -> icons/inventory/gwint/ico_gwent_hero_no_mans_land.png] -->
 
 				<item name="gwint_card_leshen" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="50"
 					icon_path="icons/inventory/gwint/ico_gwent_range_no_mans_land.png" localisation_key_name = "gwint_name_leshen" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1139,7 +1139,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_range_no_mans_land.png -> icons/inventory/gwint/ico_gwent_soldier_no_mans_land.png] -->
 
 				<item name="gwint_card_gargoyle" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="10"
 					icon_path="icons/inventory/gwint/ico_gwent_range_no_mans_land.png" localisation_key_name = "gwint_name_gargoyle" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1155,7 +1155,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_range_no_mans_land.png -> icons/inventory/gwint/ico_gwent_soldier_no_mans_land.png] -->
 
 				<item name="gwint_card_fire_elemental" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="20"
 					icon_path="icons/inventory/gwint/ico_gwent_siege_no_mans_land.png" localisation_key_name = "gwint_name_fire_elemental" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1356,7 +1356,7 @@
 					<base_abilities>
 						<a>max_card_1</a> <!-- LOWER THIS VALUE IF YOU PUT IT IN BASE DECK OR AS QUEST REWARD -->
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_melee_skellige.png -> icons/inventory/gwint/ico_gwent_hero_skellige.png] -->
 
 				<item name="gwint_card_cerys" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="10"
 					icon_path="icons/inventory/gwint/ico_gwent_hero_skellige.png" localisation_key_name = "gwint_name_cerys" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1364,7 +1364,7 @@
 					<base_abilities>
 						<a>max_card_1</a> <!-- LOWER THIS VALUE IF YOU PUT IT IN BASE DECK OR AS QUEST REWARD -->
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_melee_skellige.png -> icons/inventory/gwint/ico_gwent_hero_skellige.png] -->
 
 				<item name="gwint_card_ermion" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="10"
 					icon_path="icons/inventory/gwint/ico_gwent_hero_skellige.png" localisation_key_name = "gwint_name_ermion" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1372,7 +1372,7 @@
 					<base_abilities>
 						<a>max_card_1</a> <!-- LOWER THIS VALUE IF YOU PUT IT IN BASE DECK OR AS QUEST REWARD -->
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_melee_skellige.png -> icons/inventory/gwint/ico_gwent_hero_skellige.png] -->
 
 				<item name="gwint_card_draig" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="10"
 					icon_path="icons/inventory/gwint/ico_gwent_morale_booster_skellige.png" localisation_key_name = "gwint_name_draig" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1380,7 +1380,7 @@
 					<base_abilities>
 						<a>max_card_1</a> <!-- LOWER THIS VALUE IF YOU PUT IT IN BASE DECK OR AS QUEST REWARD -->
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_melee_skellige.png -> icons/inventory/gwint/ico_gwent_morale_booster_skellige.png] -->
 
 				<item name="gwint_card_holger_blackhand" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="10"
 					icon_path="icons/inventory/gwint/ico_gwent_siege_skellige.png" localisation_key_name = "gwint_name_holger_blackhand" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1388,7 +1388,7 @@
 					<base_abilities>
 						<a>max_card_0</a> <!-- LOWER THIS VALUE IF YOU PUT IT IN BASE DECK OR AS QUEST REWARD -->
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_melee_skellige.png -> icons/inventory/gwint/ico_gwent_siege_skellige.png] -->
 
 				<item name="gwint_card_madman_lugos" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="10"
 					icon_path="icons/inventory/gwint/ico_gwent_melee_skellige.png" localisation_key_name = "gwint_name_madman_lugos" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1444,7 +1444,7 @@
 					<base_abilities>
 						<a>max_card_1</a> <!-- LOWER THIS VALUE IF YOU PUT IT IN BASE DECK OR AS QUEST REWARD -->
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_melee_skellige.png -> icons/inventory/gwint/ico_gwent_soldier_skellige.png] -->
 
 				<item name="gwint_card_berserker" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="10"
 					icon_path="icons/inventory/gwint/ico_gwent_melee_skellige.png" localisation_key_name = "gwint_name_berserker" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1460,7 +1460,7 @@
 					<base_abilities>
 						<a>max_card_2</a> <!-- LOWER THIS VALUE IF YOU PUT IT IN BASE DECK OR AS QUEST REWARD -->
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_melee_skellige.png -> icons/inventory/gwint/ico_gwent_range_skellige.png] -->
 
 				<item name="gwint_card_clan_an_craite_warrior" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="10"
 					icon_path="icons/inventory/gwint/ico_gwent_melee_skellige.png" localisation_key_name = "gwint_name_clan_an_craite_warrior" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1540,7 +1540,7 @@
 					<base_abilities>
 						<a>max_card_1</a> <!-- LOWER THIS VALUE IF YOU PUT IT IN BASE DECK OR AS QUEST REWARD -->
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_melee_skellige.png -> icons/inventory/gwint/ico_gwent_range_skellige.png] -->
 
 				<item name="gwint_card_cock" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="10"
 					icon_path="icons/inventory/gwint/ico_gwent_melee_skellige.png" localisation_key_name = "gwint_name_cock" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1615,7 +1615,7 @@
 					<base_abilities>
 						<a>max_card_1</a>
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_melee_neutral.png -> icons/inventory/gwint/ico_gwent_hero_neutral.png] -->
 
 				<item name="gwint_card_dandelion" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="20"
 					icon_path="icons/inventory/gwint/ico_gwent_morale_booster_neutral.png" localisation_key_name = "gwint_name_dandelion" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1671,7 +1671,7 @@
 					<base_abilities>
 						<a>max_card_1</a> <!-- Should be given as reward -->
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_siege_neutral.png -> icons/inventory/gwint/ico_gwent_range_no_mans_land.png] --> <!-- SGR [GwintCardNeutral,NoShowInPlayersInventory,EncumbranceOff,Lootable,GwintCard -> GwintCardMstr,NoShowInPlayersInventory,EncumbranceOff,Lootable,GwintCard] -->
 
 				<item name="gwint_card_mrmirror_foglet" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="20"
 					icon_path="icons/inventory/gwint/ico_gwent_melee_no_mans_land.png" localisation_key_name = "gwint_name_mrmirror_foglet" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1679,7 +1679,7 @@
 					<base_abilities>
 						<a>max_card_3</a> <!-- Place those in shops -->
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_range_neutral.png -> icons/inventory/gwint/ico_gwent_melee_no_mans_land.png] --> <!-- SGR [GwintCardNeutral,NoShowInPlayersInventory,EncumbranceOff,Lootable,GwintCard -> GwintCardMstr,NoShowInPlayersInventory,EncumbranceOff,Lootable,GwintCard] -->
 
 				<item name="gwint_card_cow" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="20"
 					icon_path="icons/inventory/gwint/ico_gwent_range_neutral.png" localisation_key_name = "gwint_name_cow" localisation_key_description = "gwint_desc_gwint_card" >
@@ -1687,7 +1687,7 @@
 					<base_abilities>
 						<a>max_card_1</a> <!-- Should be given as reward -->
 					</base_abilities>
-				</item>
+				</item> <!-- SGR [icons/inventory/gwint/ico_gwent_melee_neutral.png -> icons/inventory/gwint/ico_gwent_range_neutral.png] -->
 
 				<item name="gwint_card_roach" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="20"
 					icon_path="icons/inventory/gwint/ico_gwent_melee_neutral.png" localisation_key_name = "map_location_horse" localisation_key_description = "gwint_desc_gwint_card" >

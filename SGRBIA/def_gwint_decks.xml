@@ -35,7 +35,7 @@
 					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
 					<card name="siegfried" />
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -68,7 +68,7 @@
 					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
 					<card name="siegfried" />
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -101,7 +101,7 @@
 					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
 					<card name="siegfried" />
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -221,7 +221,7 @@
 					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -251,7 +251,7 @@
 					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -281,7 +281,7 @@
 					<card name="kaedweni_siege3" />
 					<card name="siegfried" />
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -312,8 +312,8 @@
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
-					<card name="blue_stripes3" /> <!-- SGRBIA [blue_stripes -> blue_stripes3] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes3" /> <!-- SGR [blue_stripes -> blue_stripes3] -->
 					<!-- difficulty 1 -->
 					<card name="horn" />
 					<card name="fog" />
@@ -338,8 +338,8 @@
 					<card name="ballista" />
 					<card name="ballista2" /> <!-- SGR [ballista -> ballista2] -->
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
-					<card name="blue_stripes3" /> <!-- SGRBIA [blue_stripes -> blue_stripes3] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes3" /> <!-- SGR [blue_stripes -> blue_stripes3] -->
 					<!-- difficulty 1 -->
 					<card name="horn" />
 					<card name="fog" />
@@ -358,8 +358,8 @@
 					<card name="clear_sky" />
 					<card name="clear_sky" />
 					<card name="gwint_card_siegfried" />
-					<card name="witch_hunter" /> <!-- SGRBIA [+ witch_hunter] -->
-					<card name="ballista_officer" /> <!-- SGRBIA [+ ballista_officer] -->
+					<card name="witch_hunter" /> <!-- SGR [None -> witch_hunter] -->
+					<card name="ballista_officer" /> <!-- SGR [None -> ballista_officer] -->
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -375,8 +375,8 @@
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
-					<card name="blue_stripes3" /> <!-- SGRBIA [blue_stripes -> blue_stripes3] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes3" /> <!-- SGR [blue_stripes -> blue_stripes3] -->
 					<!-- difficulty 1 -->
 					<card name="horn" />
 					<card name="fog" />
@@ -404,8 +404,8 @@
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="yennefer" />
-					<card name="witch_hunter" /> <!-- SGRBIA [+ witch_hunter] -->
-					<card name="ballista_officer" /> <!-- SGRBIA [+ ballista_officer] -->
+					<card name="witch_hunter" /> <!-- SGR [None -> witch_hunter] -->
+					<card name="ballista_officer" /> <!-- SGR [None -> ballista_officer] -->
 				</deck>
 
 				<dynamicCards>
@@ -440,7 +440,7 @@
 					<card name="ballista2" />
 					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 					<!-- difficulty 1 -->
@@ -467,7 +467,7 @@
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
-					<card name="blue_stripes3" /> <!-- SGRBIA [blue_stripes -> blue_stripes3] -->
+					<card name="blue_stripes3" /> <!-- SGR [blue_stripes -> blue_stripes3] -->
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
@@ -501,8 +501,8 @@
 					<card name="ballista" />
 					<card name="ballista2" />
 					<card name="kaedweni_siege" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
-					<card name="blue_stripes3" /> <!-- SGRBIA [blue_stripes -> blue_stripes3] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes3" /> <!-- SGR [blue_stripes -> blue_stripes3] -->
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 					<!-- difficulty 1 -->
@@ -556,9 +556,9 @@
 					<card name="catapult" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
-					<card name="blue_stripes3" /> <!-- SGRBIA [blue_stripes -> blue_stripes3] -->
-					<card name="siege_tower2" /> <!-- SGRBIA [siege_tower -> siege_tower2] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes3" /> <!-- SGR [blue_stripes -> blue_stripes3] -->
+					<card name="siege_tower2" /> <!-- SGR [siege_tower -> siege_tower2] -->
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -581,17 +581,17 @@
 					<card name="catapult" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
-					<card name="blue_stripes3" /> <!-- SGRBIA [blue_stripes -> blue_stripes3] -->
-					<card name="siege_tower2" /> <!-- SGRBIA [siege_tower -> siege_tower2] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes3" /> <!-- SGR [blue_stripes -> blue_stripes3] -->
+					<card name="siege_tower2" /> <!-- SGR [siege_tower -> siege_tower2] -->
 					<!-- difficulty 1 -->
 					<card name="yarpen" />
 					<card name="zoltan" />
 					<card name="rain" />
 					<!-- difficulty 2 -->
 					<card name="scorch" />
-					<card name="witch_hunter" /> <!-- SGRBIA [+ witch_hunter] -->
-					<card name="ballista_officer" /> <!-- SGRBIA [+ ballista_officer] -->
+					<card name="witch_hunter" /> <!-- SGR [None -> witch_hunter] -->
+					<card name="ballista_officer" /> <!-- SGR [None -> ballista_officer] -->
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -614,9 +614,9 @@
 					<card name="catapult" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
-					<card name="blue_stripes3" /> <!-- SGRBIA [blue_stripes -> blue_stripes3] -->
-					<card name="siege_tower2" /> <!-- SGRBIA [siege_tower -> siege_tower2] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes3" /> <!-- SGR [blue_stripes -> blue_stripes3] -->
+					<card name="siege_tower2" /> <!-- SGR [siege_tower -> siege_tower2] -->
 					<!-- difficulty 1 -->
 					<card name="yarpen" />
 					<card name="zoltan" />
@@ -627,8 +627,8 @@
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="natalis" />
-					<card name="witch_hunter" /> <!-- SGRBIA [+ witch_hunter] -->
-					<card name="ballista_officer" /> <!-- SGRBIA [+ ballista_officer] -->
+					<card name="witch_hunter" /> <!-- SGR [None -> witch_hunter] -->
+					<card name="ballista_officer" /> <!-- SGR [None -> ballista_officer] -->
 				</deck>
 
 				<dynamicCards>
@@ -704,8 +704,8 @@
 					<card name="kaedweni_siege2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-					<card name="witch_hunter" /> <!-- SGRBIA [+ witch_hunter] -->
-					<card name="ballista_officer" /> <!-- SGRBIA [+ ballista_officer] -->
+					<card name="witch_hunter" /> <!-- SGR [None -> witch_hunter] -->
+					<card name="ballista_officer" /> <!-- SGR [None -> ballista_officer] -->
 				</deck>
 
 				<!-- Difficulty Hard -->
@@ -742,8 +742,8 @@
 					<card name="kaedweni_siege2" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
-					<card name="witch_hunter" /> <!-- SGRBIA [+ witch_hunter] -->
-					<card name="ballista_officer" /> <!-- SGRBIA [+ ballista_officer] -->
+					<card name="witch_hunter" /> <!-- SGR [None -> witch_hunter] -->
+					<card name="ballista_officer" /> <!-- SGR [None -> ballista_officer] -->
 				</deck>
 
 				<dynamicCards>
@@ -784,7 +784,7 @@
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
 				</deck>
 
 				<!-- Difficulty Normal -->
@@ -815,7 +815,7 @@
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
-					<card name="blue_stripes3" /> <!-- SGRBIA [blue_stripes -> blue_stripes3] -->
+					<card name="blue_stripes3" /> <!-- SGR [blue_stripes -> blue_stripes3] -->
 					<card name="blue_stripes" />
 				</deck>
 
@@ -850,8 +850,8 @@
 					<card name="crinfrid" />
 					<card name="crinfrid2" />
 					<card name="crinfrid3" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
-					<card name="blue_stripes3" /> <!-- SGRBIA [blue_stripes -> blue_stripes3] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes3" /> <!-- SGR [blue_stripes -> blue_stripes3] -->
 				</deck>
 
 				<dynamicCards>
@@ -1359,12 +1359,10 @@
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="emhyr_copper" specialCard="moorvran">
 					<card name="frost" />
-
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
 					<card name="sweers" />
-
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="dummy" />
@@ -1389,12 +1387,10 @@
 				<!-- Difficulty Hard -->
 				<deck difficulty="3" leaderCard="emhyr_copper" specialCard="moorvran">
 					<card name="frost" />
-
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
 					<card name="sweers" />
-
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="dummy" />
@@ -1402,7 +1398,6 @@
 					<card name="rain" />
 					<card name="clear_sky" />
 					<card name="sweers" />
-
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="clear_sky" />
@@ -1465,13 +1460,11 @@
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="francesca_bronze" specialCard="eithne">
 					<card name="scorch" />
-
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
 					<card name="mahakam3" />
 					<card name="vrihedd_cadet" />
-
 					<card name="horn" />
 					<card name="horn" />
 					<card name="scorch" />
@@ -1499,13 +1492,11 @@
 				<!-- Difficulty Hard -->
 				<deck difficulty="3" leaderCard="francesca_bronze" specialCard="eithne">
 					<card name="scorch" />
-
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
 					<card name="mahakam3" />
 					<card name="vrihedd_cadet" />
-
 					<card name="horn" />
 					<card name="horn" />
 					<card name="scorch" />
@@ -1514,10 +1505,10 @@
 					<card name="rain" />
 					<card name="mahakam4" /> <!-- SGR [mahakam3 -> mahakam4] -->
 					<card name="vrihedd_cadet" />
-
 					<card name="horn" />
 					<card name="horn" />
 					<card name="scorch" />
+
 					<card name="isengrim" />
 
 					<card name="isengrim" />
@@ -1578,6 +1569,7 @@
 
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="francesca_copper" specialCard="triss">
+
 					<card name="dummy" />
 					<card name="scorch" />
 					<card name="frost" />
@@ -1609,6 +1601,7 @@
 
 				<!-- Difficulty Hard -->
 				<deck difficulty="3" leaderCard="francesca_copper" specialCard="triss">
+
 					<card name="dummy" />
 					<card name="scorch" />
 					<card name="frost" />
@@ -1660,7 +1653,6 @@
 				<!-- Difficulty Easy -->
 				<deck difficulty="1" leaderCard="francesca_silver" specialCard="geralt">
 					<card name="clear_sky" />
-
 					<card name="frost" />
 					<card name="frost" />
 					<card name="fog" />
@@ -1690,14 +1682,12 @@
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="francesca_silver" specialCard="geralt">
 					<card name="clear_sky" />
-
 					<card name="frost" />
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
 					<card name="toruviel" />
-
 					<card name="frost" />
 					<card name="frost" />
 					<card name="fog" />
@@ -1728,6 +1718,7 @@
 					<card name="clear_sky" />
 
 					<card name="frost" />
+
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
@@ -1735,6 +1726,7 @@
 					<card name="toruviel" />
 
 					<card name="frost" />
+
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
@@ -1783,6 +1775,7 @@
 				<!-- Difficulty Easy -->
 				<deck difficulty="1" leaderCard="francesca_bronze" specialCard="vesemir">
 					<card name="clear_sky" />
+
 					<card name="fog" />
 					<card name="rain" />
 					<card name="horn" />
@@ -1812,8 +1805,8 @@
 					<card name="clear_sky" />
 					<card name="fog" />
 					<card name="rain" />
-					<card name="horn" />
 
+					<card name="horn" />
 					<card name="fog" />
 					<card name="toruviel" />
 
@@ -1842,8 +1835,8 @@
 					<card name="clear_sky" />
 					<card name="fog" />
 					<card name="rain" />
-					<card name="horn" />
 
+					<card name="horn" />
 					<card name="fog" />
 					<card name="toruviel" />
 
@@ -1916,7 +1909,6 @@
 				<deck difficulty="2" leaderCard="francesca_copper" specialCard="ciri">
 					<card name="clear_sky" />
 					<card name="horn" />
-
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
@@ -1950,7 +1942,6 @@
 				<deck difficulty="3" leaderCard="francesca_copper" specialCard="ciri">
 					<card name="clear_sky" />
 					<card name="horn" />
-
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
@@ -2027,9 +2018,9 @@
 
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="eredin_bronze" specialCard="draug">
+
 					<card name="horn" />
 					<card name="fog" />
-
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
@@ -2061,9 +2052,9 @@
 
 				<!-- Difficulty Hard -->
 				<deck difficulty="3" leaderCard="eredin_bronze" specialCard="draug">
+
 					<card name="horn" />
 					<card name="fog" />
-
 					<card name="frost" />
 					<card name="fog" />
 					<card name="rain" />
@@ -2149,8 +2140,8 @@
 
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="eredin_copper" specialCard="katakan">
-					<card name="dummy" />
 
+					<card name="dummy" />
 					<card name="frost" />
 					<card name="fog" />
 					<card name="fog" />
@@ -2190,18 +2181,20 @@
 				<!-- Difficulty Hard -->
 				<deck difficulty="3" leaderCard="eredin_copper" specialCard="katakan">
 					<card name="dummy" />
-
 					<card name="frost" />
+
 					<card name="fog" />
+
 					<card name="fog" />
 					<card name="rain" />
 					<card name="rain" />
 					<card name="botchling" />
 					<card name="endrega" />
-
 					<card name="dummy" />
 					<card name="frost" />
+
 					<card name="fog" />
+
 					<card name="fog" />
 					<card name="rain" />
 					<card name="rain" />
@@ -2286,7 +2279,6 @@
 					<card name="clear_sky" />
 					<card name="botchling" />
 					<card name="endrega" />
-
 					<card name="scorch" />
 					<card name="scorch" />
 					<card name="fog" />
@@ -2323,13 +2315,13 @@
 					<card name="clear_sky" />
 					<card name="botchling" />
 					<card name="endrega" />
-
 					<card name="scorch" />
 					<card name="scorch" />
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
 					<card name="clear_sky" />
+
 					<card name="dummy" />
 
 					<card name="dummy" />
@@ -2457,7 +2449,6 @@
 					<card name="botchling" />
 					<card name="endrega" />
 					<card name="wyvern" />
-
 					<card name="horn" />
 					<card name="horn" />
 					<card name="clear_sky" />
@@ -2544,7 +2535,6 @@
 					<card name="clear_sky" />
 					<card name="botchling" />
 					<card name="endrega" />
-
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="horn" />
@@ -2589,7 +2579,6 @@
 					<card name="clear_sky" />
 					<card name="botchling" />
 					<card name="endrega" />
-
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="horn" />
@@ -2599,7 +2588,6 @@
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
-
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="horn" />
@@ -2674,7 +2662,9 @@
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="francesca_platinium" specialCard="olgierd">
 					<card name="scorch" />
+
 					<card name="dummy" />
+
 					<card name="dummy" />
 
 					<card name="toruviel" />
@@ -2706,8 +2696,11 @@
 
 				<!-- Difficulty Hard -->
 				<deck difficulty="3" leaderCard="francesca_platinium" specialCard="olgierd">
+
 					<card name="scorch" />
+
 					<card name="dummy" />
+
 					<card name="dummy" />
 
 					<card name="toruviel" />
@@ -2924,7 +2917,9 @@
 					<card name="puttkammer" />
 
 					<card name="clear_sky" />
+
 					<card name="dummy" />
+
 					<card name="dummy" />
 					<card name="letho" />
 					<card name="stefan" />
@@ -2973,6 +2968,7 @@
 				<deck difficulty="1" leaderCard="foltest_gold" specialCard="mysterious_elf">
 					<card name="scorch" />
 					<card name="horn" />
+
 					<card name="frost" />
 					<card name="fog" />
 
@@ -2985,7 +2981,7 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
-					<card name="siege_tower2" /> <!-- SGRBIA [siege_tower -> siege_tower2] -->
+					<card name="siege_tower2" /> <!-- SGR [siege_tower -> siege_tower2] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -2993,6 +2989,7 @@
 				<deck difficulty="2" leaderCard="foltest_gold" specialCard="mysterious_elf">
 					<card name="scorch" />
 					<card name="horn" />
+
 					<card name="frost" />
 					<card name="fog" />
 
@@ -3006,8 +3003,8 @@
 					<card name="philippa" />
 					<card name="thaler" />
 					<card name="dijkstra" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
-					<card name="blue_stripes3" /> <!-- SGRBIA [blue_stripes -> blue_stripes3] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes3" /> <!-- SGR [blue_stripes -> blue_stripes3] -->
 
 					<card name="stennis" />
 					<card name="trebuchet" />
@@ -3015,14 +3012,16 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
-					<card name="siege_tower2" /> <!-- SGRBIA [siege_tower -> siege_tower2] -->
+					<card name="siege_tower2" /> <!-- SGR [siege_tower -> siege_tower2] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
 				<!-- Difficulty Hard -->
 				<deck difficulty="3" leaderCard="foltest_gold" specialCard="mysterious_elf">
 					<card name="scorch" />
+
 					<card name="horn" />
+
 					<card name="frost" />
 					<card name="fog" />
 
@@ -3036,8 +3035,8 @@
 					<card name="philippa" />
 					<card name="thaler" />
 					<card name="dijkstra" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
-					<card name="blue_stripes3" /> <!-- SGRBIA [blue_stripes -> blue_stripes3] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes3" /> <!-- SGR [blue_stripes -> blue_stripes3] -->
 
 					<card name="horn" />
 					<card name="esterad" />
@@ -3050,7 +3049,7 @@
 					<card name="catapult2" />
 					<card name="ballista" />
 					<card name="blue_stripes" />
-					<card name="siege_tower2" /> <!-- SGRBIA [siege_tower -> siege_tower2] -->
+					<card name="siege_tower2" /> <!-- SGR [siege_tower -> siege_tower2] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -3284,6 +3283,7 @@
 
 				<!-- Difficulty Easy -->
 				<deck difficulty="1" leaderCard="foltest_bronze" specialCard="">
+
 					<card name="fog" />
 					<card name="horn" />
 					<card name="dummy" />
@@ -3315,6 +3315,7 @@
 
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="foltest_bronze" specialCard="">
+
 					<card name="fog" />
 					<card name="horn" />
 					<card name="dummy" />
@@ -3346,12 +3347,13 @@
 					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
 					<card name="kaedweni_siege2" />
 					<card name="dun_banner_medic" />
-					<card name="witch_hunter" /> <!-- SGRBIA [+ witch_hunter] -->
-					<card name="ballista_officer" /> <!-- SGRBIA [+ ballista_officer] -->
+					<card name="witch_hunter" /> <!-- SGR [None -> witch_hunter] -->
+					<card name="ballista_officer" /> <!-- SGR [None -> ballista_officer] -->
 				</deck>
 
 				<!-- Difficulty Hard -->
 				<deck difficulty="3" leaderCard="foltest_bronze" specialCard="">
+
 					<card name="fog" />
 					<card name="horn" />
 					<card name="dummy" />
@@ -3363,6 +3365,7 @@
 
 					<card name="fog" />
 					<card name="horn" />
+
 					<card name="vernon" />
 
 					<card name="vernon" />
@@ -3386,8 +3389,8 @@
 					<card name="kaedweni_siege" />
 					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege2 -> kaedweni_siege3] -->
 					<card name="dun_banner_medic" />
-					<card name="witch_hunter" /> <!-- SGRBIA [+ witch_hunter] -->
-					<card name="ballista_officer" /> <!-- SGRBIA [+ ballista_officer] -->
+					<card name="witch_hunter" /> <!-- SGR [None -> witch_hunter] -->
+					<card name="ballista_officer" /> <!-- SGR [None -> ballista_officer] -->
 				</deck>
 
 				<dynamicCards>
@@ -3406,6 +3409,7 @@
 					<card name="horn" />
 					<card name="scorch" />
 					<card name="frost" />
+
 					<card name="fog" />
 					<card name="clear_sky" />
 
@@ -3435,9 +3439,11 @@
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="foltest_silver" specialCard="">
 					<card name="dummy" />
+
 					<card name="horn" />
 					<card name="scorch" />
 					<card name="frost" />
+
 					<card name="fog" />
 					<card name="clear_sky" />
 
@@ -3469,16 +3475,18 @@
 					<card name="ballista2" />
 					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
 					<card name="dun_banner_medic" />
-					<card name="witch_hunter" /> <!-- SGRBIA [+ witch_hunter] -->
-					<card name="ballista_officer" /> <!-- SGRBIA [+ ballista_officer] -->
+					<card name="witch_hunter" /> <!-- SGR [None -> witch_hunter] -->
+					<card name="ballista_officer" /> <!-- SGR [None -> ballista_officer] -->
 				</deck>
 
 				<!-- Difficulty Hard -->
 				<deck difficulty="3" leaderCard="foltest_silver" specialCard="">
 					<card name="dummy" />
+
 					<card name="horn" />
 					<card name="scorch" />
 					<card name="frost" />
+
 					<card name="fog" />
 					<card name="clear_sky" />
 
@@ -3518,8 +3526,8 @@
 					<card name="ballista2" />
 					<card name="kaedweni_siege3" /> <!-- SGR [kaedweni_siege -> kaedweni_siege3] -->
 					<card name="dun_banner_medic" />
-					<card name="witch_hunter" /> <!-- SGRBIA [+ witch_hunter] -->
-					<card name="ballista_officer" /> <!-- SGRBIA [+ ballista_officer] -->
+					<card name="witch_hunter" /> <!-- SGR [None -> witch_hunter] -->
+					<card name="ballista_officer" /> <!-- SGR [None -> ballista_officer] -->
 				</deck>
 
 				<dynamicCards>
@@ -3801,7 +3809,6 @@
 				<deck difficulty="3" leaderCard="emhyr_silver" specialCard="young_emissary2">
 					<card name="fog" />
 					<card name="frost" />
-
 					<card name="dummy" />
 					<card name="horn" />
 					<card name="horn" />
@@ -3811,7 +3818,6 @@
 					<card name="letho" />
 					<card name="archer_support2" />
 					<card name="black_archer" />
-
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="horn" />
@@ -3981,6 +3987,7 @@
 
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="francesca_bronze" specialCard="">
+
 					<card name="dummy" />
 					<card name="horn" />
 					<card name="frost" />
@@ -4029,7 +4036,6 @@
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
-
 					<card name="dummy" />
 					<card name="horn" />
 					<card name="scorch" />
@@ -4039,7 +4045,6 @@
 					<card name="rain" />
 					<card name="saskia" />
 					<card name="isengrim" />
-
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="horn" />
@@ -4300,6 +4305,7 @@
 
 				<!-- Difficulty Easy -->
 				<deck difficulty="1" leaderCard="eredin_copper" specialCard="">
+
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
@@ -4333,6 +4339,7 @@
 
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="eredin_copper" specialCard="">
+
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
@@ -4341,7 +4348,6 @@
 					<card name="fog" />
 					<card name="horn" />
 					<card name="scorch" />
-
 					<card name="horn" />
 					<card name="horn" />
 					<card name="scorch" />
@@ -4372,6 +4378,7 @@
 
 				<!-- Difficulty Hard -->
 				<deck difficulty="3" leaderCard="eredin_copper" specialCard="">
+
 					<card name="fog" />
 					<card name="rain" />
 					<card name="clear_sky" />
@@ -4380,13 +4387,11 @@
 					<card name="fog" />
 					<card name="horn" />
 					<card name="scorch" />
-
 					<card name="horn" />
 					<card name="horn" />
 					<card name="scorch" />
 					<card name="scorch" />
 					<card name="draug" />
-
 					<card name="horn" />
 					<card name="horn" />
 					<card name="scorch" />
@@ -4462,6 +4467,7 @@
 
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="eredin_gold" specialCard="">
+
 					<card name="horn" />
 					<card name="scorch" />
 					<card name="dummy" />
@@ -4500,6 +4506,7 @@
 
 				<!-- Difficulty Hard -->
 				<deck difficulty="3" leaderCard="eredin_gold" specialCard="">
+
 					<card name="horn" />
 					<card name="scorch" />
 					<card name="dummy" />
@@ -4681,6 +4688,7 @@
 
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="Crach_an_Craite" specialCard="">
+
 					<card name="dummy" />
 					<card name="horn" />
 					<card name="horn" />
@@ -4714,6 +4722,7 @@
 
 				<!-- Difficulty Hard -->
 				<deck difficulty="3" leaderCard="Crach_an_Craite" specialCard="">
+
 					<card name="dummy" />
 					<card name="horn" />
 					<card name="horn" />
@@ -4976,14 +4985,15 @@
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista2" /> <!-- SGR [ballista -> ballista2] -->
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
-					<card name="blue_stripes3" /> <!-- SGRBIA [blue_stripes -> blue_stripes3] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes3" /> <!-- SGR [blue_stripes -> blue_stripes3] -->
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 				</deck>
 
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="foltest_gold" specialCard="mysterious_elf">
+
 					<card name="scorch" />
 					<card name="dummy" />
 					<card name="horn" />
@@ -5004,13 +5014,14 @@
 					<card name="catapult2" />
 					<card name="ballista2" /> <!-- SGR [ballista -> ballista2] -->
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
 				</deck>
 
 				<!-- Difficulty Hard -->
 				<deck difficulty="3" leaderCard="foltest_gold" specialCard="mysterious_elf">
+
 					<card name="scorch" />
 					<card name="dummy" />
 					<card name="horn" />
@@ -5030,7 +5041,7 @@
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista2" /> <!-- SGR [ballista -> ballista2] -->
-					<card name="blue_stripes3" /> <!-- SGRBIA [blue_stripes -> blue_stripes3] -->
+					<card name="blue_stripes3" /> <!-- SGR [blue_stripes -> blue_stripes3] -->
 					<card name="blue_stripes" />
 					<card name="siege_tower" />
 					<card name="dun_banner_medic" />
@@ -5058,6 +5069,7 @@
 					<card name="horn" />
 					<card name="scorch" />
 					<card name="scorch" />
+
 					<card name="clear_sky" />
 
 					<card name="clear_sky" />
@@ -5087,7 +5099,6 @@
 					<card name="scorch" />
 					<card name="scorch" />
 					<card name="clear_sky" />
-
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="horn" />
@@ -5117,7 +5128,6 @@
 					<card name="scorch" />
 					<card name="scorch" />
 					<card name="clear_sky" />
-
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="horn" />
@@ -5186,6 +5196,7 @@
 				<deck difficulty="2" leaderCard="francesca_gold" specialCard="">
 					<card name="dummy" />
 					<card name="horn" />
+
 					<card name="scorch" />
 					<card name="frost" />
 					<card name="fog" />
@@ -5214,6 +5225,7 @@
 				<deck difficulty="3" leaderCard="francesca_gold" specialCard="">
 					<card name="dummy" />
 					<card name="horn" />
+
 					<card name="scorch" />
 					<card name="frost" />
 					<card name="fog" />
@@ -5261,7 +5273,6 @@
 					<card name="rain" />
 					<card name="clear_sky" />
 					<card name="clear_sky" />
-
 					<card name="botchling" />
 					<card name="botchling" />
 
@@ -5281,6 +5292,7 @@
 
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="eredin_silver" specialCard="kayran">
+
 					<card name="dummy" />
 					<card name="horn" />
 					<card name="rain" />
@@ -5309,6 +5321,7 @@
 
 				<!-- Difficulty Hard -->
 				<deck difficulty="3" leaderCard="eredin_silver" specialCard="kayran">
+
 					<card name="dummy" />
 					<card name="horn" />
 					<card name="rain" />
@@ -5461,7 +5474,6 @@
 					<card name="clear_sky" />
 					<card name="skellige_storm" />
 					<card name="skellige_storm" />
-
 					<card name="botchling" />
 					<card name="botchling" />
 
@@ -5483,6 +5495,7 @@
 				<deck difficulty="2" leaderCard="eredin_silver" specialCard="kayran">
 					<card name="dummy" />
 					<card name="dummy" />
+
 					<card name="horn" />
 					<card name="clear_sky" />
 					<card name="skellige_storm" />
@@ -5511,6 +5524,7 @@
 				<deck difficulty="3" leaderCard="eredin_silver" specialCard="kayran">
 					<card name="dummy" />
 					<card name="dummy" />
+
 					<card name="horn" />
 					<card name="clear_sky" />
 					<card name="skellige_storm" />
@@ -5571,14 +5585,15 @@
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista2" /> <!-- SGR [ballista -> ballista2] -->
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
-					<card name="blue_stripes3" /> <!-- SGRBIA [blue_stripes -> blue_stripes3] -->
-					<card name="siege_tower2" /> <!-- SGRBIA [siege_tower -> siege_tower2] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
+					<card name="blue_stripes3" /> <!-- SGR [blue_stripes -> blue_stripes3] -->
+					<card name="siege_tower2" /> <!-- SGR [siege_tower -> siege_tower2] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
 				<!-- Difficulty Normal -->
 				<deck difficulty="2" leaderCard="foltest_gold" specialCard="mysterious_elf">
+
 					<card name="scorch" />
 					<card name="dummy" />
 					<card name="horn" />
@@ -5599,13 +5614,14 @@
 					<card name="catapult2" />
 					<card name="ballista2" /> <!-- SGR [ballista -> ballista2] -->
 					<card name="blue_stripes" />
-					<card name="blue_stripes2" /> <!-- SGRBIA [blue_stripes -> blue_stripes2] -->
-					<card name="siege_tower2" /> <!-- SGRBIA [siege_tower -> siege_tower2] -->
+					<card name="blue_stripes2" /> <!-- SGR [blue_stripes -> blue_stripes2] -->
+					<card name="siege_tower2" /> <!-- SGR [siege_tower -> siege_tower2] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
 				<!-- Difficulty Hard -->
 				<deck difficulty="3" leaderCard="foltest_gold" specialCard="mysterious_elf">
+
 					<card name="scorch" />
 					<card name="dummy" />
 					<card name="horn" />
@@ -5625,9 +5641,9 @@
 					<card name="catapult" />
 					<card name="catapult2" />
 					<card name="ballista2" /> <!-- SGR [ballista -> ballista2] -->
-					<card name="blue_stripes3" /> <!-- SGRBIA [blue_stripes -> blue_stripes3] -->
+					<card name="blue_stripes3" /> <!-- SGR [blue_stripes -> blue_stripes3] -->
 					<card name="blue_stripes" />
-					<card name="siege_tower2" /> <!-- SGRBIA [siege_tower -> siege_tower2] -->
+					<card name="siege_tower2" /> <!-- SGR [siege_tower -> siege_tower2] -->
 					<card name="dun_banner_medic" />
 				</deck>
 
@@ -5653,6 +5669,7 @@
 					<card name="horn" />
 					<card name="scorch" />
 					<card name="scorch" />
+
 					<card name="clear_sky" />
 
 					<card name="clear_sky" />
@@ -5682,7 +5699,6 @@
 					<card name="scorch" />
 					<card name="scorch" />
 					<card name="clear_sky" />
-
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="horn" />
@@ -5712,7 +5728,6 @@
 					<card name="scorch" />
 					<card name="scorch" />
 					<card name="clear_sky" />
-
 					<card name="dummy" />
 					<card name="dummy" />
 					<card name="horn" />

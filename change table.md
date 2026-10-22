@@ -8,16 +8,16 @@
 | --- | --- | --- | --- | --- |
 | `geralt` (7) | - | 15 → 14 | - | Ability: None → Muster<br>Summon group: None → roach |
 | `vesemir` (8) | - | 6 → 8 | - | - |
-| `ciri` (10) | - | - | - | Type / row: Melee → Melee, Ranged |
-| `triss` (11) | - | - | - | Ability: None → Ranged Scorch<br>Type / row: Melee → Ranged |
+| `ciri` (10) | - | - | - | Row: Melee → Melee, Ranged |
+| `triss` (11) | - | - | - | Ability: None → Ranged Scorch<br>Row: Melee → Ranged |
 | `zoltan` (13) | - | 5 → 6 | - | - |
 | `emiel` (14) | - | 5 → 2 | - | Ability: None → Summon after removal<br>Summon group: None → emiel_summoned |
 | `olgierd` (17) | - | - | - | Ability: Morale Boost → Summon after removal<br>Summon group: None → olgierd_summoned |
 | `geraltGOG` (26) | - | 15 → 14 | - | - |
-| `ciriGOG` (27) | - | - | - | Ability: Muster → None<br>Type / row: Melee → Melee, Ranged<br>Summon group: roach → None |
+| `ciriGOG` (27) | - | - | - | Ability: Muster → None<br>Row: Melee → Melee, Ranged<br>Summon group: roach → None |
 | `letho` (200) | Nilfgaard → Neutral | 10 → 12 | - | - |
-| `emiel_summoned` (528) | Neutral | New: 12 | - | New card<br>Type / row: Melee<br>Ability: None |
-| `olgierd_summoned` (529) | Neutral | New: 6 | - | New card<br>Type / row: Melee, Ranged<br>Ability: None |
+| `emiel_summoned` (528) | Neutral | New: 12 | - | New card<br>Row: Melee<br>Ability: None |
+| `olgierd_summoned` (529) | Neutral | New: 6 | - | New card<br>Row: Melee, Ranged<br>Ability: None |
 
 ### Northern Realms
 
@@ -28,7 +28,7 @@
 | `yarpen` (108) | - | 2 → 4 | - | - |
 | `sile` (112) | - | 5 → 6 | - | - |
 | `sabrina` (113) | - | 4 → 6 | - | - |
-| `sheldon` (114) | - | - | - | Type / row: Ranged → Melee |
+| `sheldon` (114) | - | - | - | Row: Ranged → Melee |
 | `dethmold` (115) | - | 6 → 5 | - | - |
 | `poor_infantry` (125) | - | - | - | SGRBIA only: Item binding: (empty) → gwint_card_poor_infantry |
 | `poor_infantry2` (126) | - | - | - | SGRBIA only: Artwork: nor_poor_infantry → nor_poor_infantry_1<br>SGRBIA only: Item binding: (empty) → gwint_card_poor_infantry2 |
@@ -42,20 +42,20 @@
 | `kaedweni_siege2` (151) | - | - | - | SGRBIA only: Item binding: (empty) → gwint_card_kaedweni_siege2 |
 | `kaedweni_siege3` (152) | - | - | - | SGRBIA only: Item binding: (empty) → gwint_card_kaedweni_siege3 |
 | `blue_stripes` (160) | - | - | - | SGRBIA only: Bond group: blue_stripes → blue_stripes, blue_stripes2, blue_stripes3 |
-| `blue_stripes2` (161) (BIA only) | Northern Realms | New: 4 | - | New card<br>Type / row: Melee<br>Ability: Tight Bond<br>Bond group: blue_stripes, blue_stripes2, blue_stripes3 |
-| `blue_stripes3` (162) (BIA only) | Northern Realms | New: 4 | - | New card<br>Type / row: Melee<br>Ability: Tight Bond<br>Bond group: blue_stripes, blue_stripes2, blue_stripes3 |
-| `siege_tower2` (171) (BIA only) | Northern Realms | New: 6 | - | New card<br>Type / row: Siege<br>Ability: None |
+| `blue_stripes2` (161) (BIA only) | Northern Realms | New: 4 | - | New card<br>Row: Melee<br>Ability: Tight Bond<br>Bond group: blue_stripes, blue_stripes2, blue_stripes3 |
+| `blue_stripes3` (162) (BIA only) | Northern Realms | New: 4 | - | New card<br>Row: Melee<br>Ability: Tight Bond<br>Bond group: blue_stripes, blue_stripes2, blue_stripes3 |
+| `siege_tower2` (171) (BIA only) | Northern Realms | New: 6 | - | New card<br>Row: Siege<br>Ability: None |
 | `dun_banner_medic` (175) | - | 5 → 3 | - | - |
-| `witch_hunter` (176) (BIA only) | Northern Realms | New: 6 | - | New card<br>Type / row: Melee<br>Ability: None |
-| `ballista_officer` (177) (BIA only) | Northern Realms | New: 3 | - | New card<br>Type / row: Siege<br>Ability: Morale Boost |
+| `witch_hunter` (176) (BIA only) | Northern Realms | New: 6 | - | New card<br>Row: Melee<br>Ability: None |
+| `ballista_officer` (177) (BIA only) | Northern Realms | New: 3 | - | New card<br>Row: Siege<br>Ability: Morale Boost |
 
 ### Nilfgaard
 
 | Card (Index) | Faction | Strength | Hero | Ability / definition changes |
 | --- | --- | --- | --- | --- |
 | `menno` (201) | - | 10 → 8 | - | - |
-| `moorvran` (202) | - | 10 → 8 | Yes → No | Type / row: Siege → Melee |
-| `tibor` (203) | - | - | - | Type / row: Ranged → Melee |
+| `moorvran` (202) | - | 10 → 8 | Yes → No | Row: Siege → Melee |
+| `tibor` (203) | - | - | - | Row: Ranged → Melee |
 | `albrich` (205) | - | 2 → 0 | - | Ability: None → Medic |
 | `assire` (206) | - | 6 → 5 | - | - |
 | `cynthia` (207) | - | 4 → 1 | - | Ability: None → Medic |
@@ -89,9 +89,9 @@
 | `milva` (306) | - | 10 → 7 | - | - |
 | `ida` (307) | - | 6 → 8 | - | - |
 | `yaevinn` (309) | - | 6 → 5 | - | - |
-| `toruviel` (310) | - | 2 → 4 | - | Type / row: Ranged → Melee, Ranged |
+| `toruviel` (310) | - | 2 → 4 | - | Row: Ranged → Melee, Ranged |
 | `riordain` (311) | - | 1 → 3 | - | - |
-| `barclay` (313) | - | - | - | Type / row: Melee, Ranged → Melee |
+| `barclay` (313) | - | - | - | Row: Melee, Ranged → Melee |
 | `vrihedd_brigade` (325) | - | 5 → 6 | - | - |
 | `vrihedd_brigade2` (326) | - | 5 → 6 | - | - |
 | `dol_scout` (330) | - | 6 → 5 | - | Ability: None → Muster<br>Summon group: None → dol_scout, dol_scout2, dol_scout3 |
@@ -115,8 +115,8 @@
 
 | Card (Index) | Faction | Strength | Hero | Ability / definition changes |
 | --- | --- | --- | --- | --- |
-| `mrmirror` (18) | Neutral → Monsters | - | - | Type / row: Siege → Ranged |
-| `mrmirror_foglet` (19) | Neutral → Monsters | - | - | Type / row: Ranged → Melee |
+| `mrmirror` (18) | Neutral → Monsters | - | - | Row: Siege → Ranged |
+| `mrmirror_foglet` (19) | Neutral → Monsters | - | - | Row: Ranged → Melee |
 | `kayran` (401) | - | 8 → 7 | Yes → No | - |
 | `imlerith` (402) | - | 10 → 13 | - | - |
 | `leshen` (403) | - | 10 → 7 | Yes → No | - |

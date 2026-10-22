@@ -679,7 +679,6 @@
 						</base_abilities>
 					</item>
 
-
 					<item name="gwint_card_kaedwen" hold_slot="" equip_slot="" template="" stackable="20" ability_slots="0" category="gwint" price="20"
 						icon_path="icons/inventory/gwint/ico_gwent_siege_northern_realms.png" localisation_key_name = "gwint_name_kaedweni_siege" localisation_key_description = "gwint_desc_gwint_card" >
 						<tags>GwintCardNrkd,NoShowInPlayersInventory,EncumbranceOff,Lootable,GwintCard,GwentTournament,GT6</tags>

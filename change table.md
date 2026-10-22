@@ -6,7 +6,7 @@
 
 | Card (Index) | Faction | Strength | Hero | Ability / definition changes |
 | --- | --- | --- | --- | --- |
-| `geralt` (7) | - | 15 → 14 | - | Ability: None → Muster / summon group<br>Summon group: None → roach |
+| `geralt` (7) | - | 15 → 14 | - | Ability: None → Muster<br>Summon group: None → roach |
 | `vesemir` (8) | - | 6 → 8 | - | - |
 | `ciri` (10) | - | - | - | Type / row: Melee → Melee, Ranged |
 | `triss` (11) | - | - | - | Ability: None → Ranged Scorch<br>Type / row: Melee → Ranged |
@@ -14,7 +14,7 @@
 | `emiel` (14) | - | 5 → 2 | - | Ability: None → Summon after removal<br>Summon group: None → emiel_summoned |
 | `olgierd` (17) | - | - | - | Ability: Morale Boost → Summon after removal<br>Summon group: None → olgierd_summoned |
 | `geraltGOG` (26) | - | 15 → 14 | - | - |
-| `ciriGOG` (27) | - | - | - | Ability: Muster / summon group → None<br>Type / row: Melee → Melee, Ranged<br>Summon group: roach → None |
+| `ciriGOG` (27) | - | - | - | Ability: Muster → None<br>Type / row: Melee → Melee, Ranged<br>Summon group: roach → None |
 | `letho` (200) | Nilfgaard → Neutral | 10 → 12 | - | - |
 | `emiel_summoned` (528) | Neutral | New: 12 | - | New card<br>Type / row: Melee<br>Ability: None |
 | `olgierd_summoned` (529) | Neutral | New: 6 | - | New card<br>Type / row: Melee, Ranged<br>Ability: None |
@@ -23,7 +23,7 @@
 
 | Card (Index) | Faction | Strength | Hero | Ability / definition changes |
 | --- | --- | --- | --- | --- |
-| `vernon` (100) | - | 10 → 6 | Yes → No | Ability: None → Muster / summon group<br>Summon group: None → ves |
+| `vernon` (100) | - | 10 → 6 | Yes → No | Ability: None → Muster<br>Summon group: None → ves |
 | `philippa` (103) | - | 10 → 8 | Yes → No | - |
 | `yarpen` (108) | - | 2 → 4 | - | - |
 | `sile` (112) | - | 5 → 6 | - | - |
@@ -94,9 +94,9 @@
 | `barclay` (313) | - | - | - | Type / row: Melee, Ranged → Melee |
 | `vrihedd_brigade` (325) | - | 5 → 6 | - | - |
 | `vrihedd_brigade2` (326) | - | 5 → 6 | - | - |
-| `dol_scout` (330) | - | 6 → 5 | - | Ability: None → Muster / summon group<br>Summon group: None → dol_scout, dol_scout2, dol_scout3 |
-| `dol_scout2` (331) | - | 6 → 5 | - | Ability: None → Muster / summon group<br>Summon group: None → dol_scout, dol_scout2, dol_scout3 |
-| `dol_scout3` (332) | - | 6 → 5 | - | Ability: None → Muster / summon group<br>Summon group: None → dol_scout, dol_scout2, dol_scout3 |
+| `dol_scout` (330) | - | 6 → 5 | - | Ability: None → Muster<br>Summon group: None → dol_scout, dol_scout2, dol_scout3 |
+| `dol_scout2` (331) | - | 6 → 5 | - | Ability: None → Muster<br>Summon group: None → dol_scout, dol_scout2, dol_scout3 |
+| `dol_scout3` (332) | - | 6 → 5 | - | Ability: None → Muster<br>Summon group: None → dol_scout, dol_scout2, dol_scout3 |
 | `dwarf` (335) | - | 3 → 4 | - | - |
 | `dwarf2` (336) | - | 3 → 4 | - | - |
 | `dwarf3` (337) | - | 3 → 4 | - | - |

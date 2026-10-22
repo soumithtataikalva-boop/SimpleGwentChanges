@@ -130,19 +130,19 @@
 			picture="neu_geralt"
 			dlcPictureFlag_name="dlc8"
 			dlcPicture="neu_geralt_dlc"
-			faction_index="F_NEUTRAL" >
+			faction_index="F_NEUTRAL" > <!-- SGR [15 -> 14] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_HERO" />
 				<flag name="TYPE_MELEE" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_SUMMON_CLONES" />
+				<flag name="EFFECT_SUMMON_CLONES" /> <!-- SGR [EFFECT_NONE -> EFFECT_SUMMON_CLONES] -->
 			</effect_flags>
 			<summonFlags>
-				<flag name="roach" />
+				<flag name="roach" /> <!-- SGR [None -> roach] -->
 			</summonFlags>
-		</card> <!-- SGR [15 -> 14] --> <!-- SGR [EFFECT_NONE -> EFFECT_SUMMON_CLONES] --> <!-- SGR [None -> roach] -->
+		</card>
 
 		<card   index="8"
 			title="gwint_name_vesemir" name="vesemir"
@@ -151,7 +151,7 @@
 			picture="neu_vesemir"
 			dlcPictureFlag_name="dlc8"
 			dlcPicture="neu_vesemir_dlc"
-			faction_index="F_NEUTRAL" >
+			faction_index="F_NEUTRAL" > <!-- SGR [6 -> 8] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -159,7 +159,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [6 -> 8] -->
+		</card>
 						
 		<card   index="9"
 			title="gwint_name_yennefer" name="yennefer"
@@ -194,9 +194,9 @@
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_HERO" />
 				<flag name="TYPE_MELEE" />
-				<flag name="TYPE_RANGED" />
+				<flag name="TYPE_RANGED" /> <!-- SGR [None -> TYPE_RANGED] -->
 			</type_flags>
-		</card> <!-- SGR [TYPE_CREATURE, TYPE_HERO, TYPE_MELEE -> TYPE_CREATURE, TYPE_HERO, TYPE_MELEE, TYPE_RANGED] -->
+		</card>
 							
 		<card   index="11"							
 			title="gwint_name_triss" name="triss"
@@ -209,12 +209,12 @@
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_HERO" />
-				<flag name="TYPE_RANGED" />
+				<flag name="TYPE_RANGED" /> <!-- SGR [TYPE_MELEE -> TYPE_RANGED] -->
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_RANGED_SCORCH" />
+				<flag name="EFFECT_RANGED_SCORCH" /> <!-- SGR [EFFECT_NONE -> EFFECT_RANGED_SCORCH] -->
 			</effect_flags>
-		</card> <!-- SGR [TYPE_CREATURE, TYPE_HERO, TYPE_MELEE -> TYPE_CREATURE, TYPE_HERO, TYPE_RANGED] --> <!-- SGR [EFFECT_NONE -> EFFECT_RANGED_SCORCH] -->
+		</card>
 							
 		<card   index="12"							
 			title="gwint_name_dandelion" name="dandelion"
@@ -242,7 +242,7 @@
 			picture="neu_zoltan"
 			dlcPictureFlag_name="dlc8"
 			dlcPicture="neu_zoltan_dlc"
-			faction_index="F_NEUTRAL" >
+			faction_index="F_NEUTRAL" > <!-- SGR [5 -> 6] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -250,7 +250,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [5 -> 6] -->
+		</card>
 							
 		<card   index="14"							
 			title="gwint_name_emiel" name="emiel"
@@ -259,18 +259,18 @@
 			picture="neu_emiel"
 			dlcPictureFlag_name="dlc8"
 			dlcPicture="neu_emiel_dlc"
-			faction_index="F_NEUTRAL" >
+			faction_index="F_NEUTRAL" > <!-- SGR [5 -> 2] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_SUICIDE_SUMMON" />
+				<flag name="EFFECT_SUICIDE_SUMMON" /> <!-- SGR [EFFECT_NONE -> EFFECT_SUICIDE_SUMMON] -->
 			</effect_flags>
 			<summonFlags>
-				<flag name="emiel_summoned" />
+				<flag name="emiel_summoned" /> <!-- SGR [None -> emiel_summoned] -->
 			</summonFlags>
-		</card> <!-- SGR [5 -> 2] --> <!-- SGR [EFFECT_NONE -> EFFECT_SUICIDE_SUMMON] --> <!-- SGR [None -> emiel_summoned] -->		
+		</card>		
 							
 		<card   index="15"							
 			title="gwint_name_villen" name="villen"
@@ -321,19 +321,19 @@
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_SUICIDE_SUMMON" />
+				<flag name="EFFECT_SUICIDE_SUMMON" /> <!-- SGR [EFFECT_IMPROVE_NEIGHBOURS -> EFFECT_SUICIDE_SUMMON] -->
 			</effect_flags>
 			<summonFlags>
-				<flag name="olgierd_summoned" />
+				<flag name="olgierd_summoned" /> <!-- SGR [None -> olgierd_summoned] -->
 			</summonFlags>
-		</card> <!-- SGR [EFFECT_IMPROVE_NEIGHBOURS -> EFFECT_SUICIDE_SUMMON] --> <!-- SGR [None -> olgierd_summoned] -->
+		</card>
 
 		<card   index="18"							
 			title="gwint_name_mrmirror" name="mrmirror"
 			description="gwint_desc_mrmirror"
 			power="2"
 			picture="neu_mrmirror"
-			faction_index="F_NO_MANS_LAND" >
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [F_NEUTRAL -> F_NO_MANS_LAND] -->
 			<effect_flags>
 				<flag name="EFFECT_SUMMON_CLONES" />
 			</effect_flags>
@@ -343,16 +343,16 @@
 			</summonFlags>
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
-				<flag name="TYPE_RANGED" />
+				<flag name="TYPE_RANGED" /> <!-- SGR [TYPE_SIEGE -> TYPE_RANGED] -->
 			</type_flags>
-		</card> <!-- SGR [F_NEUTRAL -> F_NO_MANS_LAND] --> <!-- SGR [TYPE_CREATURE, TYPE_SIEGE -> TYPE_CREATURE, TYPE_RANGED] -->
+		</card>
 
 		<card   index="19"							
 			title="gwint_name_mrmirror_foglet" name="mrmirror_foglet"
 			description="gwint_desc_mrmirror_foglet"
 			power="4"
 			picture="neu_mrmirror_foglet"
-			faction_index="F_NO_MANS_LAND" >
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [F_NEUTRAL -> F_NO_MANS_LAND] -->
 			<effect_flags>
 				<flag name="EFFECT_SUMMON_CLONES" />
 			</effect_flags>
@@ -361,9 +361,9 @@
 			</summonFlags>
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
-				<flag name="TYPE_MELEE" />
+				<flag name="TYPE_MELEE" /> <!-- SGR [TYPE_RANGED -> TYPE_MELEE] -->
 			</type_flags>
-		</card> <!-- SGR [F_NEUTRAL -> F_NO_MANS_LAND] --> <!-- SGR [TYPE_CREATURE, TYPE_RANGED -> TYPE_CREATURE, TYPE_MELEE] -->
+		</card>
 
 		<card   index="20"							
 			title="gwint_name_cow" name="cow"
@@ -439,7 +439,7 @@
 			picture="neu_geralt"
 			dlcPictureFlag_name="dlc8"
 			dlcPicture="neu_geralt_dlc"
-			faction_index="F_NEUTRAL" >
+			faction_index="F_NEUTRAL" > <!-- SGR [15 -> 14] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_HERO" />
@@ -451,7 +451,7 @@
 			<summonFlags>
 				<flag name="roach"/>
 			</summonFlags>
-		</card> <!-- SGR [15 -> 14] -->
+		</card>
 
 		<card   index="27"							
 			title="gwint_name_ciri" name="ciriGOG"
@@ -466,12 +466,12 @@
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_HERO" />
 				<flag name="TYPE_MELEE" />
-				<flag name="TYPE_RANGED" />
+				<flag name="TYPE_RANGED" /> <!-- SGR [None -> TYPE_RANGED] -->
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_NONE" />
+				<flag name="EFFECT_NONE" /> <!-- SGR [EFFECT_SUMMON_CLONES -> EFFECT_NONE] -->
 			</effect_flags>
-		</card> <!-- SGR [TYPE_CREATURE, TYPE_HERO, TYPE_MELEE -> TYPE_CREATURE, TYPE_HERO, TYPE_MELEE, TYPE_RANGED] --> <!-- SGR [EFFECT_SUMMON_CLONES -> EFFECT_NONE] --> <!-- SGR [roach -> None] -->
+		</card> <!-- SGR [roach -> None] -->
 							
 		<card   index="28"							
 			title="map_location_horse" name="roach"
@@ -492,18 +492,18 @@
 			description="gwint_desc_vernon"
 			power="6"
 			picture="nor_vernon"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [10 -> 6] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
-			</type_flags>
+			</type_flags> <!-- SGR [TYPE_HERO -> None] -->
 			<effect_flags>
-				<flag name="EFFECT_SUMMON_CLONES" />
+				<flag name="EFFECT_SUMMON_CLONES" /> <!-- SGR [EFFECT_NONE -> EFFECT_SUMMON_CLONES] -->
 			</effect_flags>
 			<summonFlags>
-				<flag name="ves" />
+				<flag name="ves" /> <!-- SGR [None -> ves] -->
 			</summonFlags>
-		</card> <!-- SGR [10 -> 6] --> <!-- SGR [TYPE_CREATURE, TYPE_HERO, TYPE_MELEE -> TYPE_CREATURE, TYPE_MELEE] --> <!-- SGR [EFFECT_NONE -> EFFECT_SUMMON_CLONES] --> <!-- SGR [None -> ves] -->
+		</card>
 		
 		<card   index="101"							
 			title="gwint_name_natalis" name="natalis"
@@ -542,15 +542,15 @@
 			description="gwint_desc_philippa"
 			power="8"
 			picture="nor_philippa"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [10 -> 8] -->
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
-			</type_flags>
-		</card> <!-- SGR [10 -> 8] --> <!-- SGR [TYPE_CREATURE, TYPE_RANGED, TYPE_HERO -> TYPE_CREATURE, TYPE_RANGED] -->
+			</type_flags> <!-- SGR [TYPE_HERO -> None] -->
+		</card>
 		
 		<card   index="105"							
 			title="gwint_name_thaler" name="thaler"
@@ -606,7 +606,7 @@
 			description="gwint_desc_yarpen"
 			power="4"
 			picture="nor_yarpen"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [2 -> 4] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -614,7 +614,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [2 -> 4] -->
+		</card>
 							
 		<card   index="109"							
 			title="gwint_name_dijkstra" name="dijkstra"
@@ -654,7 +654,7 @@
 			description="gwint_desc_sile"
 			power="6"
 			picture="nor_sheala"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [5 -> 6] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -662,7 +662,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [5 -> 6] -->
+		</card>
 							
 		<card   index="113"							
 			title="gwint_name_sabrina" name="sabrina"
@@ -670,7 +670,7 @@
 			item=""
 			power="6"
 			picture="nor_sabrina"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [4 -> 6] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -678,7 +678,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [4 -> 6] -->
+		</card>
 							
 		<card   index="114"							
 			title="gwint_name_sheldon" name="sheldon"
@@ -692,9 +692,9 @@
 			</effect_flags>
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
-				<flag name="TYPE_MELEE" />
+				<flag name="TYPE_MELEE" /> <!-- SGR [TYPE_RANGED -> TYPE_MELEE] -->
 			</type_flags>
-		</card> <!-- SGR [TYPE_CREATURE, TYPE_RANGED -> TYPE_CREATURE, TYPE_MELEE] -->
+		</card>
 		
 		<card   index="115"							
 			title="gwint_name_dethmold" name="dethmold"
@@ -702,7 +702,7 @@
 			item=""
 			power="5"
 			picture="nor_dethmold"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [6 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -710,7 +710,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [6 -> 5] -->
+		</card>
 		
 		<card   index="116"							
 			title="gwint_name_stennis" name="stennis"
@@ -767,7 +767,7 @@
 			item="gwint_card_poor_infantry"
 			power="1"
 			picture="nor_poor_infantry"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [ -> gwint_card_poor_infantry] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -780,7 +780,7 @@
 				<flag name="poor_infantry2"/>
 				<flag name="poor_infantry3"/>
 			</summonFlags>
-		</card> <!-- SGR [ -> gwint_card_poor_infantry] -->
+		</card>
 
 		<card   index="126"							
 			title="gwint_name_poor_infantry" name="poor_infantry2"
@@ -788,7 +788,7 @@
 			description="gwint_desc_poor_infantry"
 			power="1"
 			picture="nor_poor_infantry_1"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [ -> gwint_card_poor_infantry2] --> <!-- SGR [nor_poor_infantry -> nor_poor_infantry_1] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -801,7 +801,7 @@
 				<flag name="poor_infantry2"/>
 				<flag name="poor_infantry3"/>
 			</summonFlags>
-		</card> <!-- SGR [nor_poor_infantry -> nor_poor_infantry_1] --> <!-- SGR [ -> gwint_card_poor_infantry2] -->
+		</card>
 
 		<card   index="127"							
 			title="gwint_name_poor_infantry" name="poor_infantry3"
@@ -809,7 +809,7 @@
 			description="gwint_desc_poor_infantry"
 			power="1"
 			picture="nor_poor_infantry_2"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [ -> gwint_card_poor_infantry3] --> <!-- SGR [nor_poor_infantry -> nor_poor_infantry_2] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -822,7 +822,7 @@
 				<flag name="poor_infantry2"/>
 				<flag name="poor_infantry3"/>
 			</summonFlags>
-		</card> <!-- SGR [ -> gwint_card_poor_infantry3] --> <!-- SGR [nor_poor_infantry -> nor_poor_infantry_2] -->
+		</card>
 							
 		<card   index="130"							
 			title="gwint_name_crinfrid" name="crinfrid"
@@ -849,7 +849,7 @@
 			description="gwint_desc_crinfrid"
 			power="5"
 			picture="nor_crinfrid_1"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [nor_crinfrid -> nor_crinfrid_1] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -862,14 +862,14 @@
 				<flag name="crinfrid2"/>
 				<flag name="crinfrid3"/>
 			</summonFlags>
-		</card> <!-- SGR [nor_crinfrid -> nor_crinfrid_1] -->
+		</card>
 							
 		<card   index="132"							
 			title="gwint_name_crinfrid" name="crinfrid3"
 			description="gwint_desc_crinfrid"
 			power="5"
 			picture="nor_crinfrid_2"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [nor_crinfrid -> nor_crinfrid_2] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -882,7 +882,7 @@
 				<flag name="crinfrid2"/>
 				<flag name="crinfrid3"/>
 			</summonFlags>
-		</card> <!-- SGR [nor_crinfrid -> nor_crinfrid_2] -->
+		</card>
 							
 		<card   index="135"							
 			title="gwint_name_redanian" name="redanian"
@@ -890,19 +890,19 @@
 			item=""
 			power="2"
 			picture="nor_redania"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [1 -> 2] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_SAME_TYPE_MORALE" />
+				<flag name="EFFECT_SAME_TYPE_MORALE" /> <!-- SGR [EFFECT_NONE -> EFFECT_SAME_TYPE_MORALE] -->
 			</effect_flags>
 			<summonFlags>
-				<flag name="redanian" />
-				<flag name="redanian2" />
+				<flag name="redanian" /> <!-- SGR [None -> redanian] -->
+				<flag name="redanian2" /> <!-- SGR [None -> redanian2] -->
 			</summonFlags>
-		</card> <!-- SGR [1 -> 2] --> <!-- SGR [EFFECT_NONE -> EFFECT_SAME_TYPE_MORALE] --> <!-- SGR [None -> redanian, redanian2] -->
+		</card>
 							
 		<card   index="136"							
 			title="gwint_name_redanian" name="redanian2"
@@ -910,26 +910,26 @@
 			item=""
 			power="2"
 			picture="nor_redania_1"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [1 -> 2] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_SAME_TYPE_MORALE" />
+				<flag name="EFFECT_SAME_TYPE_MORALE" /> <!-- SGR [EFFECT_NONE -> EFFECT_SAME_TYPE_MORALE] -->
 			</effect_flags>
 			<summonFlags>
-				<flag name="redanian" />
-				<flag name="redanian2" />
+				<flag name="redanian" /> <!-- SGR [None -> redanian] -->
+				<flag name="redanian2" /> <!-- SGR [None -> redanian2] -->
 			</summonFlags>
-		</card> <!-- SGR [1 -> 2] --> <!-- SGR [EFFECT_NONE -> EFFECT_SAME_TYPE_MORALE] --> <!-- SGR [None -> redanian, redanian2] -->
+		</card>
 							
 		<card   index="140"							
 			title="gwint_name_catapult" name="catapult"
 			description="gwint_desc_catapult"
 			power="8"
 			picture="nor_catapult"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [nor_catapult_1 -> nor_catapult] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_SIEGE" />
@@ -941,7 +941,7 @@
 				<flag name="catapult"/>
 				<flag name="catapult2"/>
 			</summonFlags>
-		</card> <!-- SGR [nor_catapult_1 -> nor_catapult] -->
+		</card>
 							
 		<card   index="141"							
 			title="gwint_name_catapult" name="catapult2"
@@ -1000,7 +1000,7 @@
 			description="gwint_desc_kaedweni_siege"
 			power="1"
 			picture="nor_kaedwen_siege"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [ -> gwint_card_kaedweni_siege] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_SIEGE" />
@@ -1008,7 +1008,7 @@
 			<effect_flags>
 				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 			</effect_flags>
-		</card> <!-- SGR [ -> gwint_card_kaedweni_siege] -->
+		</card>
 
 		<card   index="151"							
 			title="gwint_name_kaedweni_siege" name="kaedweni_siege2"
@@ -1016,7 +1016,7 @@
 			description="gwint_desc_kaedweni_siege"
 			power="1"
 			picture="nor_kaedwen_siege_1"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [ -> gwint_card_kaedweni_siege2] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_SIEGE" />
@@ -1024,7 +1024,7 @@
 			<effect_flags>
 				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 			</effect_flags>
-		</card> <!-- SGR [ -> gwint_card_kaedweni_siege2] -->
+		</card>
 
 		<card   index="152"							
 			title="gwint_name_kaedweni_siege" name="kaedweni_siege3"
@@ -1032,7 +1032,7 @@
 			item="gwint_card_kaedweni_siege3"
 			power="1"
 			picture="nor_kaedwen_siege_2"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [ -> gwint_card_kaedweni_siege3] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_SIEGE" />
@@ -1040,7 +1040,7 @@
 			<effect_flags>
 				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 			</effect_flags>
-		</card> <!-- SGR [ -> gwint_card_kaedweni_siege3] -->
+		</card>
 
 
 		<card   index="160"
@@ -1049,7 +1049,7 @@
 			power="4"
 			picture="nor_blue_stripes"
 			faction_index="F_NORTHERN_KINGDOM"
-			item="gwint_card_blue_stripes" >
+			item="gwint_card_blue_stripes" > <!-- SGR [None -> gwint_card_blue_stripes] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -1059,10 +1059,10 @@
 			</effect_flags>
 			<summonFlags>
 				<flag name="blue_stripes"/>
-				<flag name="blue_stripes2" />
-				<flag name="blue_stripes3" />
+				<flag name="blue_stripes2" /> <!-- SGR [None -> blue_stripes2] -->
+				<flag name="blue_stripes3" /> <!-- SGR [None -> blue_stripes3] -->
 			</summonFlags>
-		</card> <!-- SGR [None -> gwint_card_blue_stripes] --> <!-- SGR [blue_stripes -> blue_stripes, blue_stripes2, blue_stripes3] -->
+		</card>
 
 		<card   index="161"
 			title="gwint_name_blue_stripes" name="blue_stripes2"
@@ -1070,7 +1070,7 @@
 			item="gwint_card_blue_stripes2"
 			power="4"
 			picture="nor_blue_stripes_1"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [None -> blue_stripes2] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -1083,7 +1083,7 @@
 				<flag name="blue_stripes2" />
 				<flag name="blue_stripes3" />
 			</summonFlags>
-		</card> <!-- SGR [None -> card blue_stripes2] -->
+		</card>
 
 		<card   index="162"
 			title="gwint_name_blue_stripes" name="blue_stripes3"
@@ -1091,7 +1091,7 @@
 			item="gwint_card_blue_stripes3"
 			power="4"
 			picture="nor_blue_stripes_2"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [None -> blue_stripes3] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -1104,7 +1104,7 @@
 				<flag name="blue_stripes2" />
 				<flag name="blue_stripes3" />
 			</summonFlags>
-		</card> <!-- SGR [None -> card blue_stripes3] -->
+		</card>
 
 		<card   index="170"							
 			title="gwint_name_siege_tower" name="siege_tower"
@@ -1127,7 +1127,7 @@
 			item="gwint_card_siege_tower2"
 			power="6"
 			picture="nor_siege_tower_1"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [None -> siege_tower2] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_SIEGE" />
@@ -1135,7 +1135,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [None -> card siege_tower2] -->
+		</card>
 
 		<card   index="175"							
 			title="gwint_name_dun_banner_medic" name="dun_banner_medic"
@@ -1143,7 +1143,7 @@
 			item=""
 			power="3"
 			picture="nor_banner_nurse"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [5 -> 3] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_SIEGE" />
@@ -1151,7 +1151,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NURSE" />
 			</effect_flags>
-		</card> <!-- SGR [5 -> 3] -->
+		</card>
 
 <!--============================================= NILFGAARD CARDS =====================================================-->
 
@@ -1161,7 +1161,7 @@
 			item="gwint_card_witch_hunter"
 			power="6"
 			picture="nor_witch_hunters"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [None -> witch_hunter] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -1169,7 +1169,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [None -> card witch_hunter] -->
+		</card>
 
 		<card   index="177"
 			title="gwint_name_ballista_officer" name="ballista_officer"
@@ -1177,7 +1177,7 @@
 			item="gwint_card_ballista_officer"
 			power="3"
 			picture="nor_ballista_officer"
-			faction_index="F_NORTHERN_KINGDOM" >
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [None -> ballista_officer] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_SIEGE" />
@@ -1185,14 +1185,14 @@
 			<effect_flags>
 				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 			</effect_flags>
-		</card> <!-- SGR [None -> card ballista_officer] -->
+		</card>
 
 		<card   index="200"					
 			title="gwint_name_letho" name="letho"
 			description="gwint_desc_letho"
 			power="12"
 			picture="nil_letho"
-			faction_index="F_NEUTRAL" >
+			faction_index="F_NEUTRAL" > <!-- SGR [10 -> 12] --> <!-- SGR [F_NILFGAARD -> F_NEUTRAL] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_HERO" />
@@ -1201,14 +1201,14 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [10 -> 12] --> <!-- SGR [F_NILFGAARD -> F_NEUTRAL] -->
+		</card>
 
 		<card   index="201"					
 			title="gwint_name_menno" name="menno"
 			description="gwint_desc_menno"
 			power="8"
 			picture="nil_menno"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [10 -> 8] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_HERO" />
@@ -1217,22 +1217,22 @@
 			<effect_flags>
 				<flag name="EFFECT_NURSE" />
 			</effect_flags>
-		</card> <!-- SGR [10 -> 8] -->
+		</card>
 
 		<card   index="202"					
 			title="gwint_name_moorvran" name="moorvran"
 			description="gwint_desc_moorvran"
 			power="8"
 			picture="nil_moorvran"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [10 -> 8] -->
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
-				<flag name="TYPE_MELEE" />
-			</type_flags>
-		</card> <!-- SGR [10 -> 8] --> <!-- SGR [TYPE_CREATURE, TYPE_HERO, TYPE_SIEGE -> TYPE_CREATURE, TYPE_MELEE] -->
+				<flag name="TYPE_MELEE" /> <!-- SGR [TYPE_HERO -> TYPE_MELEE] -->
+			</type_flags> <!-- SGR [TYPE_SIEGE -> None] -->
+		</card>
 
 		<card   index="203"
 			title="gwint_name_tibor" name="tibor"
@@ -1246,31 +1246,31 @@
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_HERO" />
-				<flag name="TYPE_MELEE" />
+				<flag name="TYPE_MELEE" /> <!-- SGR [TYPE_RANGED -> TYPE_MELEE] -->
 			</type_flags>
-		</card> <!-- SGR [TYPE_CREATURE, TYPE_HERO, TYPE_RANGED -> TYPE_CREATURE, TYPE_HERO, TYPE_MELEE] -->
+		</card>
 		
 		<card   index="205"					
 			title="gwint_name_albrich" name="albrich"
 			description="gwint_desc_albrich"
 			power="0"
 			picture="nil_albrich"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [2 -> 0] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_NURSE" />
+				<flag name="EFFECT_NURSE" /> <!-- SGR [EFFECT_NONE -> EFFECT_NURSE] -->
 			</effect_flags>
-		</card> <!-- SGR [2 -> 0] --> <!-- SGR [EFFECT_NONE -> EFFECT_NURSE] -->
+		</card>
 		
 		<card   index="206"					
 			title="gwint_name_assire" name="assire"
 			description="gwint_desc_assire"
 			power="5"
 			picture="nil_assire"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [6 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -1278,22 +1278,22 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [6 -> 5] -->
+		</card>
 		
 		<card   index="207"					
 			title="gwint_name_cynthia" name="cynthia"
 			description="gwint_desc_cynthia"
 			power="1"
 			picture="nil_cynthia"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [4 -> 1] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_NURSE" />
+				<flag name="EFFECT_NURSE" /> <!-- SGR [EFFECT_NONE -> EFFECT_NURSE] -->
 			</effect_flags>
-		</card> <!-- SGR [4 -> 1] --> <!-- SGR [EFFECT_NONE -> EFFECT_NURSE] -->				
+		</card>				
 
 		<card   index="208"					
 			title="gwint_name_fringilla" name="fringilla"
@@ -1315,7 +1315,7 @@
 			description="gwint_desc_morteisen"
 			power="4"
 			picture="nil_morteisen"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [3 -> 4] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -1323,14 +1323,14 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [3 -> 4] -->
+		</card>
 			
 		<card   index="210"				
 			title="gwint_name_rainfarn" name="rainfarn"
 			description="gwint_desc_rainfarn"
 			power="5"
 			picture="nil_rainfarn"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [4 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -1338,7 +1338,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [4 -> 5] -->
+		</card>
 
 		<card   index="211"				
 			title="gwint_name_renuald" name="renuald"
@@ -1360,15 +1360,15 @@
 			description="gwint_desc_rotten"
 			power="2"
 			picture="nil_rotten"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [3 -> 2] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_SIEGE" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
+				<flag name="EFFECT_IMPROVE_NEIGHBOURS" /> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
 			</effect_flags>
-		</card> <!-- SGR [3 -> 2] --> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
+		</card>
 
 		<card   index="213"					
 			title="gwint_name_shilard" name="shilard"
@@ -1407,7 +1407,7 @@
 			description="gwint_desc_sweers"
 			power="4"
 			picture="nil_sweers"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [2 -> 4] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -1415,22 +1415,22 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [2 -> 4] -->
+		</card>
 
 		<card   index="217"					
 			title="gwint_name_vanhemar" name="vanhemar"
 			description="gwint_desc_vanhemar"
 			power="2"
 			picture="nil_vanhemar"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [4 -> 2] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_NURSE" />
+				<flag name="EFFECT_NURSE" /> <!-- SGR [EFFECT_NONE -> EFFECT_NURSE] -->
 			</effect_flags>
-		</card> <!-- SGR [4 -> 2] --> <!-- SGR [EFFECT_NONE -> EFFECT_NURSE] -->
+		</card>
 
 		<card   index="218"										
 			title="gwint_name_vattier" name="vattier"
@@ -1453,7 +1453,7 @@
 			description="gwint_desc_vreemde"
 			power="4"
 			picture="nil_vreemde"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [2 -> 4] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -1461,7 +1461,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [2 -> 4] -->
+		</card>
 		
 		<card   index="220"					
 			title="gwint_name_cahir" name="cahir"
@@ -1483,83 +1483,83 @@
 			description="gwint_desc_puttkammer"
 			power="1"
 			picture="nil_puttkammer"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [3 -> 1] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
+				<flag name="EFFECT_IMPROVE_NEIGHBOURS" /> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
 			</effect_flags>
-		</card> <!-- SGR [3 -> 1] --> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
+		</card>
 							
 		<card   index="230"					
 			title="gwint_name_archer_support" name="archer_support"
 			description="gwint_desc_archer_support"
 			power="7"
 			picture="nil_archer_support"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [1 -> 7] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_NONE" />
+				<flag name="EFFECT_NONE" /> <!-- SGR [EFFECT_NURSE -> EFFECT_NONE] -->
 			</effect_flags>
-		</card> <!-- SGR [1 -> 7] --> <!-- SGR [EFFECT_NURSE -> EFFECT_NONE] -->
+		</card>
 		
 		<card   index="231"					
 			title="gwint_name_archer_support" name="archer_support2"
 			description="gwint_desc_archer_support"
 			power="7"
 			picture="nil_archer_support_1"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [1 -> 7] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_NONE" />
+				<flag name="EFFECT_NONE" /> <!-- SGR [EFFECT_NURSE -> EFFECT_NONE] -->
 			</effect_flags>
-		</card> <!-- SGR [1 -> 7] --> <!-- SGR [EFFECT_NURSE -> EFFECT_NONE] -->
+		</card>
 
 		<card   index="235"					
 			title="gwint_name_black_archer" name="black_archer"
 			description="gwint_desc_black_archer"
 			power="5"
 			picture="nil_black_archer"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [10 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_SAME_TYPE_MORALE" />
+				<flag name="EFFECT_SAME_TYPE_MORALE" /> <!-- SGR [EFFECT_NONE -> EFFECT_SAME_TYPE_MORALE] -->
 			</effect_flags>
 			<summonFlags>
-				<flag name="black_archer" />
-				<flag name="black_archer2" />
+				<flag name="black_archer" /> <!-- SGR [None -> black_archer] -->
+				<flag name="black_archer2" /> <!-- SGR [None -> black_archer2] -->
 			</summonFlags>
-		</card> <!-- SGR [10 -> 5] --> <!-- SGR [EFFECT_NONE -> EFFECT_SAME_TYPE_MORALE] --> <!-- SGR [None -> black_archer, black_archer2] -->
+		</card>
 		
 		<card   index="236"					
 			title="gwint_name_black_archer" name="black_archer2"
 			description="gwint_desc_black_archer"
 			power="5"
 			picture="nil_black_archer_1"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [10 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_SAME_TYPE_MORALE" />
+				<flag name="EFFECT_SAME_TYPE_MORALE" /> <!-- SGR [EFFECT_NONE -> EFFECT_SAME_TYPE_MORALE] -->
 			</effect_flags>
 			<summonFlags>
-				<flag name="black_archer" />
-				<flag name="black_archer2" />
+				<flag name="black_archer" /> <!-- SGR [None -> black_archer] -->
+				<flag name="black_archer2" /> <!-- SGR [None -> black_archer2] -->
 			</summonFlags>
-		</card> <!-- SGR [10 -> 5] --> <!-- SGR [EFFECT_NONE -> EFFECT_SAME_TYPE_MORALE] --> <!-- SGR [None -> black_archer, black_archer2] -->
+		</card>
 
 
 		<card   index="240"					
@@ -1619,7 +1619,7 @@
 			description="gwint_desc_impera_brigade"
 			power="3"
 			picture="nil_impera_brigade_1"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [nil_impera_brigade -> nil_impera_brigade_1] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -1633,14 +1633,14 @@
 				<flag name="impera_brigade3"/>
 				<flag name="impera_brigade4"/>
 			</summonFlags>
-		</card> <!-- SGR [nil_impera_brigade -> nil_impera_brigade_1] -->
+		</card>
 
 		<card   index="247"					
 			title="gwint_name_impera_brigade" name="impera_brigade3"
 			description="gwint_desc_impera_brigade"
 			power="3"
 			picture="nil_impera_brigade_2"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [nil_impera_brigade -> nil_impera_brigade_2] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -1654,14 +1654,14 @@
 				<flag name="impera_brigade3"/>
 				<flag name="impera_brigade4"/>
 			</summonFlags>
-		</card> <!-- SGR [nil_impera_brigade -> nil_impera_brigade_2] -->
+		</card>
 
 		<card   index="248"					
 			title="gwint_name_impera_brigade" name="impera_brigade4"
 			description="gwint_desc_impera_brigade"
 			power="3"
 			picture="nil_impera_brigade_3"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [nil_impera_brigade -> nil_impera_brigade_3] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -1675,14 +1675,14 @@
 				<flag name="impera_brigade3"/>
 				<flag name="impera_brigade4"/>
 			</summonFlags>
-		</card> <!-- SGR [nil_impera_brigade -> nil_impera_brigade_3] -->
+		</card>
 
 		<card   index="250"					
 			title="gwint_name_nausicaa" name="nausicaa"
 			description="gwint_desc_nausicaa"
 			power="2"
 			picture="nil_nauzicaa"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [nil_nauzicaa_2 -> nil_nauzicaa] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -1695,7 +1695,7 @@
 				<flag name="nausicaa2"/>
 				<flag name="nausicaa3"/>
 			</summonFlags>
-		</card> <!-- SGR [nil_nauzicaa_2 -> nil_nauzicaa] -->
+		</card>
 
 
 		<card   index="251"					
@@ -1703,7 +1703,7 @@
 			description="gwint_desc_nausicaa"
 			power="2"
 			picture="nil_nauzicaa_1"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [nil_nauzicaa_2 -> nil_nauzicaa_1] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -1716,7 +1716,7 @@
 				<flag name="nausicaa2"/>
 				<flag name="nausicaa3"/>
 			</summonFlags>
-		</card> <!-- SGR [nil_nauzicaa_2 -> nil_nauzicaa_1] -->
+		</card>
 
 		<card   index="252"					
 			title="gwint_name_nausicaa" name="nausicaa3"
@@ -1743,15 +1743,15 @@
 			description="gwint_desc_combat_engineer"
 			power="2"
 			picture="nil_siege_engineer"
-			faction_index="F_NILFGAARD" >
+			faction_index="F_NILFGAARD" > <!-- SGR [6 -> 2] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_SIEGE" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
+				<flag name="EFFECT_IMPROVE_NEIGHBOURS" /> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
 			</effect_flags>
-		</card> <!-- SGR [6 -> 2] --> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
+		</card>
 
 		<card   index="260"					
 			title="gwint_name_young_emissary" name="young_emissary"
@@ -1802,9 +1802,9 @@
 				<flag name="TYPE_SIEGE" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
+				<flag name="EFFECT_IMPROVE_NEIGHBOURS" /> <!-- SGR [EFFECT_NURSE -> EFFECT_IMPROVE_NEIGHBOURS] -->
 			</effect_flags>
-		</card> <!-- SGR [EFFECT_NURSE -> EFFECT_IMPROVE_NEIGHBOURS] -->
+		</card>
 
 <!--============================================= SCOIA'TEL CARDS =====================================================-->
 
@@ -1820,55 +1820,55 @@
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_NURSE" />
+				<flag name="EFFECT_NURSE" /> <!-- SGR [EFFECT_NONE -> EFFECT_NURSE] -->
 			</effect_flags>
-		</card> <!-- SGR [EFFECT_NONE -> EFFECT_NURSE] -->
+		</card>
 		
 		<card   index="301"				
 			title="gwint_name_saskia" name="saskia"
 			description="gwint_desc_saskia"
 			power="9"
 			picture="sco_saskia"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [10 -> 9] -->
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
-			</type_flags>
-		</card> <!-- SGR [10 -> 9] --> <!-- SGR [TYPE_CREATURE, TYPE_HERO, TYPE_RANGED -> TYPE_CREATURE, TYPE_RANGED] -->
+			</type_flags> <!-- SGR [TYPE_HERO -> None] -->
+		</card>
 
 		<card   index="302"				
 			title="gwint_name_isengrim" name="isengrim"
 			description="gwint_desc_isengrim"
 			power="8"
 			picture="sco_isengrim"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [10 -> 8] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_HERO" />
 				<flag name="TYPE_MELEE" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_NONE" />
+				<flag name="EFFECT_NONE" /> <!-- SGR [EFFECT_IMPROVE_NEIGHBOURS -> EFFECT_NONE] -->
 			</effect_flags>
-		</card> <!-- SGR [10 -> 8] --> <!-- SGR [EFFECT_IMPROVE_NEIGHBOURS -> EFFECT_NONE] -->
+		</card>
 		
 		<card   index="303"				
 			title="gwint_name_iorveth" name="iorveth"
 			description="gwint_desc_iorveth"
 			power="7"
 			picture="sco_iorveth"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [10 -> 7] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
-			</type_flags>
+			</type_flags> <!-- SGR [TYPE_HERO -> None] -->
 			<effect_flags>
-				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
+				<flag name="EFFECT_IMPROVE_NEIGHBOURS" /> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
 			</effect_flags>
-		</card> <!-- SGR [10 -> 7] --> <!-- SGR [TYPE_CREATURE, TYPE_HERO, TYPE_RANGED -> TYPE_CREATURE, TYPE_RANGED] --> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
+		</card>
 		
 		<card   index="305"							
 			title="gwint_name_dennis" name="dennis"
@@ -1890,7 +1890,7 @@
 			description="gwint_desc_milva"
 			power="7"
 			picture="sco_milva"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [10 -> 7] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -1898,14 +1898,14 @@
 			<effect_flags>
 				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 			</effect_flags>
-		</card> <!-- SGR [10 -> 7] -->
+		</card>
 
 		<card   index="307"				
 			title="gwint_name_ida" name="ida"
 			description="gwint_desc_ida"
 			power="8"
 			picture="sco_ida"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [6 -> 8] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -1913,7 +1913,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [6 -> 8] -->
+		</card>
 
 		<card   index="308"				
 			title="gwint_name_filavandrel" name="filavandrel"
@@ -1936,7 +1936,7 @@
 			description="gwint_desc_yaevinn"
 			power="5"
 			picture="sco_yaevinn"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [6 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -1945,30 +1945,30 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [6 -> 5] -->
+		</card>
 
 		<card   index="310"				
 			title="gwint_name_toruviel" name="toruviel"
 			description="gwint_desc_toruviel"
 			power="4"
 			picture="sco_toruviel"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [2 -> 4] -->
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
-				<flag name="TYPE_MELEE" />
+				<flag name="TYPE_MELEE" /> <!-- SGR [None -> TYPE_MELEE] -->
 				<flag name="TYPE_RANGED" />
 			</type_flags>
-		</card> <!-- SGR [2 -> 4] --> <!-- SGR [TYPE_CREATURE, TYPE_RANGED -> TYPE_CREATURE, TYPE_MELEE, TYPE_RANGED] -->
+		</card>
 
 		<card   index="311"				
 			title="gwint_name_riordain" name="riordain"
 			description="gwint_desc_riordain"
 			power="3"
 			picture="sco_riordain"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [1 -> 3] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -1976,7 +1976,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [1 -> 3] -->
+		</card>
 
 		<card   index="312"				
 			title="gwint_name_ciaran" name="ciaran"
@@ -2006,8 +2006,8 @@
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
-			</type_flags>
-		</card> <!-- SGR [TYPE_CREATURE, TYPE_MELEE, TYPE_RANGED -> TYPE_CREATURE, TYPE_MELEE] -->
+			</type_flags> <!-- SGR [TYPE_RANGED -> None] -->
+		</card>
 
 		<card   index="320"				
 			title="gwint_name_havcaaren_support" name="havcaaren_support"
@@ -2077,7 +2077,7 @@
 			description="gwint_desc_vrihedd_brigade"
 			power="6"
 			picture="sco_vrihedd_brigade"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [5 -> 6] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -2086,14 +2086,14 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [5 -> 6] -->
+		</card>
 
 		<card   index="326"				
 			title="gwint_name_vrihedd_brigade" name="vrihedd_brigade2"
 			description="gwint_desc_vrihedd_brigade"
 			power="6"
 			picture="sco_vrihedd_brigade_1"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [5 -> 6] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -2102,7 +2102,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [5 -> 6] -->
+		</card>
 
 		<card   index="330"				
 			title="gwint_name_dol_scout" name="dol_scout"
@@ -2110,21 +2110,21 @@
 			description="gwint_desc_dol_scout"
 			power="5"
 			picture="sco_dol_infantry"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [6 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_SUMMON_CLONES" />
+				<flag name="EFFECT_SUMMON_CLONES" /> <!-- SGR [EFFECT_NONE -> EFFECT_SUMMON_CLONES] -->
 			</effect_flags>
 			<summonFlags>
-				<flag name="dol_scout" />
-				<flag name="dol_scout2" />
-				<flag name="dol_scout3" />
+				<flag name="dol_scout" /> <!-- SGR [None -> dol_scout] -->
+				<flag name="dol_scout2" /> <!-- SGR [None -> dol_scout2] -->
+				<flag name="dol_scout3" /> <!-- SGR [None -> dol_scout3] -->
 			</summonFlags>
-		</card> <!-- SGR [6 -> 5] --> <!-- SGR [EFFECT_NONE -> EFFECT_SUMMON_CLONES] --> <!-- SGR [None -> dol_scout, dol_scout2, dol_scout3] -->
+		</card>
 				
 		<card   index="331"				
 			title="gwint_name_dol_scout" name="dol_scout2"
@@ -2132,21 +2132,21 @@
 			description="gwint_desc_dol_scout"
 			power="5"
 			picture="sco_dol_infantry_1"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [6 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_SUMMON_CLONES" />
+				<flag name="EFFECT_SUMMON_CLONES" /> <!-- SGR [EFFECT_NONE -> EFFECT_SUMMON_CLONES] -->
 			</effect_flags>
 			<summonFlags>
-				<flag name="dol_scout" />
-				<flag name="dol_scout2" />
-				<flag name="dol_scout3" />
+				<flag name="dol_scout" /> <!-- SGR [None -> dol_scout] -->
+				<flag name="dol_scout2" /> <!-- SGR [None -> dol_scout2] -->
+				<flag name="dol_scout3" /> <!-- SGR [None -> dol_scout3] -->
 			</summonFlags>
-		</card> <!-- SGR [6 -> 5] --> <!-- SGR [EFFECT_NONE -> EFFECT_SUMMON_CLONES] --> <!-- SGR [None -> dol_scout, dol_scout2, dol_scout3] -->
+		</card>
 		
 		<card   index="332"				
 			title="gwint_name_dol_scout" name="dol_scout3"
@@ -2154,21 +2154,21 @@
 			description="gwint_desc_dol_scout"
 			power="5"
 			picture="sco_dol_infantry_2"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [6 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_SUMMON_CLONES" />
+				<flag name="EFFECT_SUMMON_CLONES" /> <!-- SGR [EFFECT_NONE -> EFFECT_SUMMON_CLONES] -->
 			</effect_flags>
 			<summonFlags>
-				<flag name="dol_scout" />
-				<flag name="dol_scout2" />
-				<flag name="dol_scout3" />
+				<flag name="dol_scout" /> <!-- SGR [None -> dol_scout] -->
+				<flag name="dol_scout2" /> <!-- SGR [None -> dol_scout2] -->
+				<flag name="dol_scout3" /> <!-- SGR [None -> dol_scout3] -->
 			</summonFlags>
-		</card> <!-- SGR [6 -> 5] --> <!-- SGR [EFFECT_NONE -> EFFECT_SUMMON_CLONES] --> <!-- SGR [None -> dol_scout, dol_scout2, dol_scout3] -->
+		</card>
 
 		<card   index="335"				
 			title="gwint_name_dwarf" name="dwarf"
@@ -2176,7 +2176,7 @@
 			description="gwint_desc_dwarf"
 			power="4"
 			picture="sco_dwarf"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [3 -> 4] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -2189,7 +2189,7 @@
 				<flag name="dwarf2"/>
 				<flag name="dwarf3"/>
 			</summonFlags>
-		</card> <!-- SGR [3 -> 4] -->
+		</card>
 
 		<card   index="336"				
 			title="gwint_name_dwarf" name="dwarf2"
@@ -2197,7 +2197,7 @@
 			description="gwint_desc_dwarf"
 			power="4"
 			picture="sco_dwarf_1"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [3 -> 4] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -2210,7 +2210,7 @@
 				<flag name="dwarf2"/>
 				<flag name="dwarf3"/>
 			</summonFlags>
-		</card> <!-- SGR [3 -> 4] -->
+		</card>
 
 		<card   index="337"				
 			title="gwint_name_dwarf" name="dwarf3"
@@ -2218,7 +2218,7 @@
 			description="gwint_desc_dwarf"
 			power="4"
 			picture="sco_dwarf_2"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [3 -> 4] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -2231,7 +2231,7 @@
 				<flag name="dwarf2"/>
 				<flag name="dwarf3"/>
 			</summonFlags>
-		</card> <!-- SGR [3 -> 4] -->
+		</card>
 
 		<card   index="340"				
 			title="gwint_name_mahakam" name="mahakam"
@@ -2244,9 +2244,9 @@
 				<flag name="TYPE_MELEE" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
+				<flag name="EFFECT_IMPROVE_NEIGHBOURS" /> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
 			</effect_flags>
-		</card> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
+		</card>
 
 		<card   index="341"				
 			title="gwint_name_mahakam" name="mahakam2"
@@ -2259,9 +2259,9 @@
 				<flag name="TYPE_MELEE" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
+				<flag name="EFFECT_IMPROVE_NEIGHBOURS" /> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
 			</effect_flags>
-		</card> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
+		</card>
 
 		<card   index="342"				
 			title="gwint_name_mahakam" name="mahakam3"
@@ -2274,9 +2274,9 @@
 				<flag name="TYPE_MELEE" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
+				<flag name="EFFECT_IMPROVE_NEIGHBOURS" /> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
 			</effect_flags>
-		</card> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
+		</card>
 		
 
 		<card   index="343"				
@@ -2290,9 +2290,9 @@
 				<flag name="TYPE_MELEE" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
+				<flag name="EFFECT_IMPROVE_NEIGHBOURS" /> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
 			</effect_flags>
-		</card> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
+		</card>
 
 		<card   index="344"				
 			title="gwint_name_mahakam" name="mahakam5"
@@ -2305,16 +2305,16 @@
 				<flag name="TYPE_MELEE" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
+				<flag name="EFFECT_IMPROVE_NEIGHBOURS" /> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
 			</effect_flags>
-		</card> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
+		</card>
 
 		<card   index="350"				
 			title="gwint_name_elf_skirmisher" name="elf_skirmisher"
 			description="gwint_desc_elf_skirmisher"
 			power="3"
 			picture="sco_elf_skirmisher"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [2 -> 3] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -2327,14 +2327,14 @@
 				<flag name="elf_skirmisher2"/>
 				<flag name="elf_skirmisher3"/>
 			</summonFlags>
-		</card> <!-- SGR [2 -> 3] -->
+		</card>
 
 		<card   index="351"				
 			title="gwint_name_elf_skirmisher" name="elf_skirmisher2"
 			description="gwint_desc_elf_skirmisher"
 			power="3"
 			picture="sco_elf_skirmisher_1"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [2 -> 3] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -2347,14 +2347,14 @@
 				<flag name="elf_skirmisher2"/>
 				<flag name="elf_skirmisher3"/>
 			</summonFlags>
-		</card> <!-- SGR [2 -> 3] -->
+		</card>
 		
 		<card   index="352"				
 			title="gwint_name_elf_skirmisher" name="elf_skirmisher3"
 			description="gwint_desc_elf_skirmisher"
 			power="3"
 			picture="sco_elf_skirmisher_2"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [2 -> 3] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -2367,14 +2367,14 @@
 				<flag name="elf_skirmisher2"/>
 				<flag name="elf_skirmisher3"/>
 			</summonFlags>
-		</card> <!-- SGR [2 -> 3] -->
+		</card>
 
 		<card   index="355"				
 			title="gwint_name_vrihedd_cadet" name="vrihedd_cadet"
 			description="gwint_desc_vrihedd_cadet"
 			power="2"
 			picture="sco_vrihedd_cadet"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [4 -> 2] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -2382,7 +2382,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [4 -> 2] -->
+		</card>
 
 		<card   index="360"				
 			title="gwint_name_dol_archer" name="dol_archer"
@@ -2455,7 +2455,7 @@
 			description="gwint_desc_schirru"
 			power="7"
 			picture="sco_schirru"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [8 -> 7] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_SIEGE" />
@@ -2463,7 +2463,7 @@
 			<effect_flags>
 				<flag name="CP_SIEGE_SCORCH" />
 			</effect_flags>
-		</card> <!-- SGR [8 -> 7] -->
+		</card>
 
 <!--============================================= NO MAN'S LAND CARDS =================================================-->
 
@@ -2488,7 +2488,7 @@
 			description="gwint_desc_kayran"
 			power="7"
 			picture="nml_kayran"
-			faction_index="F_NO_MANS_LAND" >
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [8 -> 7] -->
 			<effect_flags>
 				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 			</effect_flags>
@@ -2496,15 +2496,15 @@
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
 				<flag name="TYPE_RANGED" />
-			</type_flags>
-		</card> <!-- SGR [8 -> 7] --> <!-- SGR [TYPE_CREATURE, TYPE_HERO, TYPE_MELEE, TYPE_RANGED -> TYPE_CREATURE, TYPE_MELEE, TYPE_RANGED] -->
+			</type_flags> <!-- SGR [TYPE_HERO -> None] -->
+		</card>
 		
 		<card   index="402"					
 			title="gwint_name_imlerith" name="imlerith"
 			description="gwint_desc_imlerith"
 			power="13"
 			picture="nml_imlerith"
-			faction_index="F_NO_MANS_LAND" >
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [10 -> 13] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_HERO" />
@@ -2513,22 +2513,22 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [10 -> 13] -->
+		</card>
 
 		<card   index="403"					
 			title="gwint_name_leshen" name="leshen"
 			description="gwint_desc_leshen"
 			power="7"
 			picture="nml_leshan"
-			faction_index="F_NO_MANS_LAND" >
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [10 -> 7] -->
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
-			</type_flags>
-		</card> <!-- SGR [10 -> 7] --> <!-- SGR [TYPE_CREATURE, TYPE_HERO, TYPE_RANGED -> TYPE_CREATURE, TYPE_RANGED] -->
+			</type_flags> <!-- SGR [TYPE_HERO -> None] -->
+		</card>
 			
 		<card   index="405"							
 			title="gwint_name_forktail" name="forktail"
@@ -2580,7 +2580,7 @@
 			description="gwint_desc_plague_maiden"
 			power="4"
 			picture="nml_mighty_maiden"
-			faction_index="F_NO_MANS_LAND" >
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [5 -> 4] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -2588,7 +2588,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [5 -> 4] -->
+		</card>
 
 		<card   index="415"					
 			title="gwint_name_griffin" name="griffin"
@@ -2610,12 +2610,12 @@
 			description="gwint_desc_werewolf"
 			power="4"
 			picture="nml_werewolf"
-			faction_index="F_NO_MANS_LAND" >
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [5 -> 4] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
 			</type_flags>
-		</card> <!-- SGR [5 -> 4] -->
+		</card>
 
 		<card   index="420"					
 			title="gwint_name_botchling" name="botchling"
@@ -2637,7 +2637,7 @@
 			description="gwint_desc_frightener"
 			power="4"
 			picture="nml_frightener"
-			faction_index="F_NO_MANS_LAND" >
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [5 -> 4] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -2645,14 +2645,14 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [5 -> 4] -->
+		</card>
 
 		<card   index="425"					
 			title="gwint_name_ice_giant" name="ice_giant"
 			description="gwint_desc_ice_giant"
 			power="8"
 			picture="nml_frost_giant"
-			faction_index="F_NO_MANS_LAND" >
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [5 -> 8] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_SIEGE" />
@@ -2660,7 +2660,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [5 -> 8] -->
+		</card>
 
 		<card   index="427"					
 			title="gwint_name_endrega" name="endrega"
@@ -2698,7 +2698,7 @@
 			description="gwint_desc_cockatrice"
 			power="5"
 			picture="nml_cockatrice"
-			faction_index="F_NO_MANS_LAND" >
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [2 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -2706,14 +2706,14 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [2 -> 5] -->
+		</card>
 
 		<card   index="435"					
 			title="gwint_name_gargoyle" name="gargoyle"
 			description="gwint_desc_gargoyle"
 			power="4"
 			picture="nml_gargoyle"
-			faction_index="F_NO_MANS_LAND" >
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [2 -> 4] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -2721,7 +2721,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE"	/>
 			</effect_flags>
-		</card> <!-- SGR [2 -> 4] -->
+		</card>
 
 		<card   index="437"					
 			title="gwint_name_celaeno_harpy" name="celaeno_harpy"
@@ -2745,7 +2745,7 @@
 			description="gwint_desc_grave_hag"
 			power="3"
 			picture="nml_gravehag"
-			faction_index="F_NO_MANS_LAND" >
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [5 -> 3] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -2753,7 +2753,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [5 -> 3] -->
+		</card>
 
 		<card   index="443"					
 			title="gwint_name_fire_elemental" name="fire_elemental"
@@ -2775,7 +2775,7 @@
 			description="gwint_desc_fogling"
 			power="3"
 			picture="nml_fogling"
-			faction_index="F_NO_MANS_LAND" >
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [2 -> 3] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -2783,14 +2783,14 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [2 -> 3] -->
+		</card>
 
 		<card   index="447"					
 			title="gwint_name_wyvern" name="wyvern"
 			description="gwint_desc_wyvern"
 			power="5"
 			picture="nml_wyvern"
-			faction_index="F_NO_MANS_LAND" >
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [2 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -2798,7 +2798,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [2 -> 5] -->
+		</card>
 		
 		<card   index="450"					
 			title="gwint_name_arachas_behemoth" name="arachas_behemoth"
@@ -3060,7 +3060,7 @@
 			description="gwint_desc_ghoul"
 			power="3"
 			picture="nml_ghoul"
-			faction_index="F_NO_MANS_LAND" >
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [1 -> 3] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -3073,14 +3073,14 @@
 				<flag name="ghoul2"/>
 				<flag name="ghoul3"/>
 			</summonFlags>
-		</card> <!-- SGR [1 -> 3] -->
+		</card>
 
 		<card   index="471"
 			title="gwint_name_ghoul" name="ghoul2"
 			description="gwint_desc_ghoul"
 			power="3"
 			picture="nml_ghoul_1"
-			faction_index="F_NO_MANS_LAND" >
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [1 -> 3] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -3093,14 +3093,14 @@
 				<flag name="ghoul2"/>
 				<flag name="ghoul3"/>
 			</summonFlags>
-		</card> <!-- SGR [1 -> 3] -->
+		</card>
 
 		<card   index="472"
 			title="gwint_name_ghoul" name="ghoul3"
 			description="gwint_desc_ghoul"
 			power="3"
 			picture="nml_ghoul_2"
-			faction_index="F_NO_MANS_LAND" >
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [1 -> 3] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -3113,7 +3113,7 @@
 				<flag name="ghoul2"/>
 				<flag name="ghoul3"/>
 			</summonFlags>
-		</card> <!-- SGR [1 -> 3] -->
+		</card>
 		
 		<card   index="475"					
 			title="gwint_name_crone_brewess" name="crone_brewess"
@@ -3198,7 +3198,7 @@
 			description="gwint_desc_hemdal"
 			power="17"
 			picture="ske_hemdal"
-			faction_index="F_SKELLIGE" >
+			faction_index="F_SKELLIGE" > <!-- SGR [11 -> 17] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_HERO" />
@@ -3207,7 +3207,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [11 -> 17] -->
+		</card>
 
 		<card   index="501"							
 			title="gwint_name_hjalmar" name="hjalmar"
@@ -3221,16 +3221,16 @@
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
+				<flag name="EFFECT_IMPROVE_NEIGHBOURS" /> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
 			</effect_flags>
-		</card> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
+		</card>
 
 		<card   index="502"							
 			title="gwint_name_cerys" name="cerys"
 			description="gwint_desc_cerys"
 			power="7"
 			picture="ske_cerys"
-			faction_index="F_SKELLIGE" >
+			faction_index="F_SKELLIGE" > <!-- SGR [10 -> 7] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_HERO" />
@@ -3244,14 +3244,14 @@
 				<flag name="clan_drummond_shieldmaiden2"/>
 				<flag name="clan_drummond_shieldmaiden3"/>
 			</summonFlags>
-		</card> <!-- SGR [10 -> 7] -->
+		</card>
 
 		<card   index="503"							
 			title="gwint_name_ermion" name="ermion"
 			description="gwint_desc_ermion"
 			power="7"
 			picture="ske_ermion"
-			faction_index="F_SKELLIGE" >
+			faction_index="F_SKELLIGE" > <!-- SGR [8 -> 7] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_HERO" />
@@ -3260,7 +3260,7 @@
 			<effect_flags>
 				<flag name="EFFECT_MUSHROOM" />
 			</effect_flags>
-		</card> <!-- SGR [8 -> 7] -->
+		</card>
 
 		<card   index="504"							
 			title="gwint_name_draig" name="draig"
@@ -3282,7 +3282,7 @@
 			description="gwint_desc_holger_blackhand"
 			power="5"
 			picture="ske_holger_blackhand"
-			faction_index="F_SKELLIGE" >
+			faction_index="F_SKELLIGE" > <!-- SGR [4 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_SIEGE" />
@@ -3290,7 +3290,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [4 -> 5] -->
+		</card>
 
 		<card   index="506"							
 			title="gwint_name_madman_lugos" name="madman_lugos"
@@ -3312,7 +3312,7 @@
 			description="gwint_desc_donar_an_hindar"
 			power="5"
 			picture="ske_donar_an_hindar"
-			faction_index="F_SKELLIGE" >
+			faction_index="F_SKELLIGE" > <!-- SGR [4 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -3320,7 +3320,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [4 -> 5] -->
+		</card>
 
 		<card   index="508"							
 			title="gwint_name_udalryk" name="udalryk"
@@ -3357,7 +3357,7 @@
 			description="gwint_desc_blueboy_lugos"
 			power="5"
 			picture="ske_blueboy_lugos"
-			faction_index="F_SKELLIGE" >
+			faction_index="F_SKELLIGE" > <!-- SGR [6 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -3365,14 +3365,14 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [6 -> 5] -->
+		</card>
 
 		<card   index="511"							
 			title="gwint_name_svanrige" name="svanrige"
 			description="gwint_desc_svanrige"
 			power="6"
 			picture="ske_svanrige"
-			faction_index="F_SKELLIGE" >
+			faction_index="F_SKELLIGE" > <!-- SGR [4 -> 6] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -3380,7 +3380,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [4 -> 6] -->
+		</card>
 
 		<card   index="512"							
 			title="gwint_name_olaf" name="olaf"
@@ -3669,7 +3669,7 @@
 			picture="neu_emiel"
 			dlcPictureFlag_name="dlc8"
 			dlcPicture="neu_emiel_dlc"
-			faction_index="F_NEUTRAL" >
+			faction_index="F_NEUTRAL" > <!-- SGR [None -> emiel_summoned] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -3677,7 +3677,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [None -> card emiel_summoned] -->
+		</card>
 
 		<card   index="529"
 			title="gwint_name_olgierd" name="olgierd_summoned"
@@ -3685,7 +3685,7 @@
 			description="gwint_desc_olgierd"
 			power="6"
 			picture="neu_olgierd"
-			faction_index="F_NEUTRAL" >
+			faction_index="F_NEUTRAL" > <!-- SGR [None -> olgierd_summoned] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -3694,7 +3694,7 @@
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
-		</card> <!-- SGR [None -> card olgierd_summoned] -->
+		</card>
 
 		</gwint_card_definitions_final>
 	</definitions>

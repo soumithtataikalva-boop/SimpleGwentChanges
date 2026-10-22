@@ -1,7 +1,5 @@
 # Change table
 
-Compared with the supplied vanilla XML files. Changes apply to both SGR and SGRBIA unless noted. `(BIA only)` marks cards included only in SGRBIA. Summoned Regis and Olgierd forms are included in both versions.
-
 ## Card definitions
 
 | Card (Index) | Faction | Strength | Ability / definition changes |
@@ -121,48 +119,31 @@ Compared with the supplied vanilla XML files. Changes apply to both SGR and SGRB
 | `emiel_summoned` (528) | Neutral | New: 12 | New card<br>Type / row: Creature, Melee<br>Ability: None |
 | `olgierd_summoned` (529) | Neutral | New: 6 | New card<br>Type / row: Creature, Melee, Ranged<br>Ability: None |
 
-## Item and shop changes
-
-- Item icons and faction tags reflect the revised cards. Letho is Neutral; Gaunter and Darkness are Monsters; Schirrú uses a Siege icon.
-- SGRBIA includes the 11 BIA Gwent item definitions and BIA artwork/item bindings. Its five additional playable card variants are marked `(BIA only)` above. Ballista Officer is Northern Realms rather than BIA’s Neutral.
-- Both versions remove one `gwint_card_poor_infantry2` entry from the vanilla Mouths Shopkeeper table.
-- SGRBIA replaces four shop references to `gwint_card_blue_stripes` with `gwint_card_blue_stripes3`; SGR retains the standalone references.
-
 ## Deck changes
 
-Both deck files use the supplied vanilla file as their base. Shared edits are marked inline with `SGR [old -> new]`; additional BIA-version edits use `SGRBIA [old -> new]` or `SGRBIA [+ card]`.
+Duplicate card entries were replaced with available variants, and variants were distributed more evenly. Other duplicates remain where no unused equivalent variant is available.
 
-### Shared changes
-
-- Replace all 40 `geraltgog` references with `geralt` and all 30 `cirigog` references with `ciri`, including static and dynamic entries.
-- Make 89 additional static-entry substitutions to use existing equivalent variants of Poor Infantry, Kaedweni Siege Experts, Crinfrid Reavers, Catapults, Ballistas, Mahakaman Defenders, Auxiliary Archers, Arachas, and Clan Drummond Shield Maidens.
-- Keep each deck’s existing number of cards during these substitutions. Variant strength, faction, row, abilities, and summon/bond groups match.
-- Distribute these families as evenly as possible across static opponent decks. `North`, `tutorialDeck`, and dynamic entries are excluded from the distribution balancing; `North` does receive the initial Poor Infantry and Kaedweni variant substitutions.
-
-| Variant family (base, then numbered variants) | Static opponent counts in both versions |
+| Original entry | Replacement entries |
 | --- | --- |
-| Poor Infantry | 13 / 13 / 13 |
-| Kaedweni Siege Experts | 10 / 10 / 9 |
-| Crinfrid Reavers | 12 / 12 / 12 |
-| Catapults | 28 / 28 |
-| Ballistas | 23 / 22 |
-| Mahakaman Defenders | 9 / 8 / 8 / 8 / 8 |
-| Auxiliary Archers | 25 / 24 |
-| Arachas | 21 / 21 / 20 |
-| Clan Drummond Shield Maidens | 9 / 9 / 9 |
+| `geraltgog` | `geralt` |
+| `cirigog` | `ciri` |
+| `poor_infantry` | `poor_infantry2`, `poor_infantry3` |
+| `poor_infantry2` | `poor_infantry3` |
+| `kaedweni_siege` | `kaedweni_siege2`, `kaedweni_siege3` |
+| `kaedweni_siege2` | `kaedweni_siege3` |
+| `kaedweni_siege3` | `kaedweni_siege`, `kaedweni_siege2` |
+| `crinfrid` | `crinfrid2`, `crinfrid3` |
+| `catapult` | `catapult2` |
+| `ballista` | `ballista2` |
+| `mahakam` | `mahakam5` |
+| `mahakam2` | `mahakam5` |
+| `mahakam3` | `mahakam4`, `mahakam5` |
+| `archer_support` | `archer_support2` |
+| `archer_support2` | `archer_support` |
+| `arachas` | `arachas3` |
+| `arachas2` | `arachas`, `arachas3` |
+| `clan_drummond_shieldmaiden` | `clan_drummond_shieldmaiden2`, `clan_drummond_shieldmaiden3` |
+| `blue_stripes` | `blue_stripes2`, `blue_stripes3` (bia only) |
+| `siege_tower` | `siege_tower2` (bia only) |
 
-Dynamic variant references remain as in vanilla. Repeated creatures remain where no unused equivalent variant is available. Other existing duplicates, including Heroes and ability-dependent copies, are retained; there is no universal three-copy cap or 22-creature minimum.
-
-### SGRBIA-only deck changes
-
-- Replace 22 static `blue_stripes` entries with `blue_stripes2` and 16 with `blue_stripes3`. Opponent-only counts are 17 / 16 / 16. These variants do not repeat within an individual static deck.
-- In `North` and `tutorialDeck`, retain the first `blue_stripes` and use `blue_stripes2` for the second, at all three difficulties.
-- Replace nine `siege_tower` entries with `siege_tower2`: Baron, Halflings, and NKTournament2 at difficulties 1, 2, and 3. Nine original Siege Tower entries remain.
-- Add one `witch_hunter` and one `ballista_officer` to difficulties 2 and 3 of CardProdigy, Baron, Roche, NKNormal, and NKHard: 20 added entries across 10 decks. These decks gain two cards each; their existing entries are retained.
-- The Witch Hunter and Ballista Officer additions do not affect `North`, `tutorialDeck`, or dynamic entries.
-
-In total, SGR differs from vanilla by 159 card-name substitutions. SGRBIA includes those same substitutions plus 47 BIA-variant substitutions and 20 added static card entries. Leaders, special-card attributes, difficulty values, and dynamic thresholds remain unchanged.
-
-The earlier deck expansions to 22 creatures, general duplicate caps, and difficulty-based synergy rebuilds were discarded and are not part of the current files.
-
-This table documents XML changes. Artwork availability, reward integration, and gameplay balance still require in-game validation.
+Added `witch_hunter` and `ballista_officer` to selected normal/hard static opponent decks (bia only).

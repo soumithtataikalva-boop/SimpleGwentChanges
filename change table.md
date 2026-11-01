@@ -145,6 +145,8 @@
 | `donar_an_hindar` (507) | - | - | 4 → 5 | - | - |
 | `blueboy_lugos` (510) | - | - | 6 → 5 | - | - |
 | `svanrige` (511) | - | - | 4 → 6 | - | - |
+| `olaf` (512) | - | - | 12 → 11 | - | - |
+| `berserker_bear` (514) | - | - | 14 → 13 | - | - |
 | `clan_heymaey_skald` (519) | - | - | 4 → 2 | - | Ability: None → Morale Boost |
 
 ## Deck changes

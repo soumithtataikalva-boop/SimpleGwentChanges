@@ -109,7 +109,7 @@
 | `elf_skirmisher2` (351) | - | - | 2 → 3 | - | - |
 | `elf_skirmisher3` (352) | - | - | 2 → 3 | - | - |
 | `vrihedd_cadet` (355) | - | - | 4 → 2 | - | - |
-| `schirru` (368) | - | - | 8 → 7 | - | - |
+| `schirru` (368) | - | - | 8 → 6 | - | - |
 
 ### Monsters
 
@@ -124,11 +124,11 @@
 | `werewolf` (417) | - | - | 5 → 4 | - | - |
 | `frightener` (423) | - | - | 5 → 4 | - | - |
 | `ice_giant` (425) | - | - | 5 → 8 | - | - |
-| `cockatrice` (433) | - | - | 2 → 5 | - | - |
+| `cockatrice` (433) | - | - | 2 → 4 | - | - |
 | `gargoyle` (435) | - | - | 2 → 4 | - | - |
 | `grave_hag` (440) | - | - | 5 → 3 | - | - |
 | `fogling` (445) | - | - | 2 → 3 | - | - |
-| `wyvern` (447) | - | - | 2 → 5 | - | - |
+| `wyvern` (447) | - | - | 2 → 4 | - | - |
 | `ghoul` (470) | - | - | 1 → 3 | - | - |
 | `ghoul2` (471) | - | - | 1 → 3 | - | - |
 | `ghoul3` (472) | - | - | 1 → 3 | - | - |
@@ -140,11 +140,12 @@
 | `hemdal` (500) | - | - | 11 → 17 | - | - |
 | `hjalmar` (501) | - | - | - | - | Ability: None → Morale Boost |
 | `cerys` (502) | - | - | 10 → 7 | - | - |
-| `ermion` (503) | - | - | 8 → 7 | - | - |
+| `ermion` (503) | - | - | 8 → 6 | - | - |
 | `holger_blackhand` (505) | - | - | 4 → 5 | - | - |
 | `donar_an_hindar` (507) | - | - | 4 → 5 | - | - |
 | `blueboy_lugos` (510) | - | - | 6 → 5 | - | - |
 | `svanrige` (511) | - | - | 4 → 6 | - | - |
+| `clan_heymaey_skald` (519) | - | - | 4 → 2 | - | Ability: None → Morale Boost |
 
 ## Deck changes
 

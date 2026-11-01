@@ -3505,15 +3505,15 @@
 		<card   index="519"							
 			title="gwint_name_clan_heymaey_skald" name="clan_heymaey_skald"
 			description="gwint_desc_clan_heymaey_skald"
-			power="4"
+			power="2"
 			picture="ske_clan_heymaey_skald"
-			faction_index="F_SKELLIGE" >
+			faction_index="F_SKELLIGE" > <!-- SGR [4 -> 2] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_NONE" />
+				<flag name="EFFECT_IMPROVE_NEIGHBOURS" /> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
 			</effect_flags>
 		</card>
 

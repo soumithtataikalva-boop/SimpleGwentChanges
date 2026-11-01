@@ -2453,9 +2453,9 @@
 		<card   index="368"				
 			title="gwint_name_schirru" name="schirru"
 			description="gwint_desc_schirru"
-			power="7"
+			power="6"
 			picture="sco_schirru"
-			faction_index="F_SCOIATAEL" > <!-- SGR [8 -> 7] -->
+			faction_index="F_SCOIATAEL" > <!-- SGR [8 -> 6] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_SIEGE" />
@@ -2696,9 +2696,9 @@
 		<card   index="433"					
 			title="gwint_name_cockatrice" name="cockatrice"
 			description="gwint_desc_cockatrice"
-			power="5"
+			power="4"
 			picture="nml_cockatrice"
-			faction_index="F_NO_MANS_LAND" > <!-- SGR [2 -> 5] -->
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [2 -> 4] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -2788,9 +2788,9 @@
 		<card   index="447"					
 			title="gwint_name_wyvern" name="wyvern"
 			description="gwint_desc_wyvern"
-			power="5"
+			power="4"
 			picture="nml_wyvern"
-			faction_index="F_NO_MANS_LAND" > <!-- SGR [2 -> 5] -->
+			faction_index="F_NO_MANS_LAND" > <!-- SGR [2 -> 4] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -3249,9 +3249,9 @@
 		<card   index="503"							
 			title="gwint_name_ermion" name="ermion"
 			description="gwint_desc_ermion"
-			power="7"
+			power="6"
 			picture="ske_ermion"
-			faction_index="F_SKELLIGE" > <!-- SGR [8 -> 7] -->
+			faction_index="F_SKELLIGE" > <!-- SGR [8 -> 6] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_HERO" />

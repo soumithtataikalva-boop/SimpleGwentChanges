@@ -3385,9 +3385,9 @@
 		<card   index="512"							
 			title="gwint_name_olaf" name="olaf"
 			description="gwint_desc_olaf"
-			power="12"
+			power="11"
 			picture="ske_olaf"
-			faction_index="F_SKELLIGE" >
+			faction_index="F_SKELLIGE" > <!-- SGR [12 -> 11] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
@@ -3420,9 +3420,9 @@
 			title="gwint_name_berserker_bear" name="berserker_bear"
 			description="gwint_desc_berserker_bear"
 			item=""
-			power="14"
+			power="13"
 			picture="ske_berserker_bear"
-			faction_index="F_SKELLIGE" >
+			faction_index="F_SKELLIGE" > <!-- SGR [14 -> 13] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />

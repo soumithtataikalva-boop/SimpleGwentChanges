@@ -805,11 +805,11 @@
 
 		<card   index="127"							
 			title="gwint_name_poor_infantry" name="poor_infantry3"
-			item="gwint_card_poor_infantry3"
+			item=""
 			description="gwint_desc_poor_infantry"
 			power="1"
 			picture="nor_poor_infantry_2"
-			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [ -> gwint_card_poor_infantry3] --> <!-- SGR [nor_poor_infantry -> nor_poor_infantry_2] -->
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [nor_poor_infantry -> nor_poor_infantry_2] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />

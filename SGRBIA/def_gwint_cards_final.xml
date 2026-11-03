@@ -318,7 +318,6 @@
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
-				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
 				<flag name="EFFECT_SUICIDE_SUMMON" /> <!-- SGR [EFFECT_IMPROVE_NEIGHBOURS -> EFFECT_SUICIDE_SUMMON] -->
@@ -2113,7 +2112,6 @@
 			faction_index="F_SCOIATAEL" > <!-- SGR [6 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
-				<flag name="TYPE_MELEE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
@@ -2135,7 +2133,6 @@
 			faction_index="F_SCOIATAEL" > <!-- SGR [6 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
-				<flag name="TYPE_MELEE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
@@ -2157,7 +2154,6 @@
 			faction_index="F_SCOIATAEL" > <!-- SGR [6 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
-				<flag name="TYPE_MELEE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
@@ -2685,12 +2681,15 @@
 			faction_index="F_NO_MANS_LAND" >
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
-				<flag name="TYPE_MELEE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_NONE" />
+				<flag name="EFFECT_SUMMON_CLONES" />
 			</effect_flags>
+			<summonFlags>
+				<flag name="harpy" />
+				<flag name="celaeno_harpy" />
+			</summonFlags>
 		</card>
 
 		<card   index="433"					
@@ -2731,12 +2730,15 @@
 			faction_index="F_NO_MANS_LAND" >
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
-				<flag name="TYPE_MELEE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_NONE" />
+				<flag name="EFFECT_SUMMON_CLONES" />
 			</effect_flags>
+			<summonFlags>
+				<flag name="harpy" />
+				<flag name="celaeno_harpy" />
+			</summonFlags>
 		</card>
 
 
@@ -3689,7 +3691,6 @@
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_MELEE" />
-				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
 				<flag name="EFFECT_NONE" />

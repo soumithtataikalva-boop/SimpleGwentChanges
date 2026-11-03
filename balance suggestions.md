@@ -1,9 +1,0 @@
-- Dun Banner Medic: change strength to 0.
-- Isengrim: give Morale Boost.
-- Dol Blathanna Archer: change strength to 7.
-- Saskia: change strength to 11.
-- Ida Emean: change strength to 9.
-- Iorveth: change strength to 10.
-- Milva: change strength to 8.
-- Milva: remove Morale Boost.
-- Havekar Healer (all three cards): change strength to 3.

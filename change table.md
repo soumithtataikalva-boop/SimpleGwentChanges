@@ -12,12 +12,12 @@
 | `triss` (11) | Melee → Ranged | - | - | - | Ability: None → Ranged Scorch |
 | `zoltan` (13) | - | - | 5 → 6 | - | - |
 | `emiel` (14) | - | - | 5 → 2 | - | Ability: None → Summon after removal<br>Summon group: None → emiel_summoned |
-| `olgierd` (17) | - | - | - | - | Ability: Morale Boost → Summon after removal<br>Summon group: None → olgierd_summoned |
+| `olgierd` (17) | Melee, Ranged → Melee | - | - | - | Ability: Morale Boost → Summon after removal<br>Summon group: None → olgierd_summoned |
 | `geraltGOG` (26) | - | - | 15 → 14 | - | - |
 | `ciriGOG` (27) | Melee → Melee, Ranged | - | - | - | Ability: Muster → None<br>Summon group: roach → None |
 | `letho` (200) | - | - | 10 → 12 | Nilfgaard → Neutral | - |
 | `emiel_summoned` (528) | Melee | - | New: 12 | Neutral | Summon after removal of Regis (emiel) |
-| `olgierd_summoned` (529) | Melee, Ranged | - | New: 6 | Neutral | Summon after removal of Olgierd |
+| `olgierd_summoned` (529) | Melee | - | New: 6 | Neutral | Summon after removal of Olgierd |
 
 ### Northern Realms
 
@@ -94,9 +94,9 @@
 | `barclay` (313) | Melee, Ranged → Melee | - | - | - | - |
 | `vrihedd_brigade` (325) | - | - | 5 → 6 | - | - |
 | `vrihedd_brigade2` (326) | - | - | 5 → 6 | - | - |
-| `dol_scout` (330) | - | - | 6 → 5 | - | Ability: None → Muster<br>Summon group: None → dol_scout, dol_scout2, dol_scout3 |
-| `dol_scout2` (331) | - | - | 6 → 5 | - | Ability: None → Muster<br>Summon group: None → dol_scout, dol_scout2, dol_scout3 |
-| `dol_scout3` (332) | - | - | 6 → 5 | - | Ability: None → Muster<br>Summon group: None → dol_scout, dol_scout2, dol_scout3 |
+| `dol_scout` (330) | Melee, Ranged → Ranged | - | 6 → 5 | - | Ability: None → Muster<br>Summon group: None → dol_scout, dol_scout2, dol_scout3 |
+| `dol_scout2` (331) | Melee, Ranged → Ranged | - | 6 → 5 | - | Ability: None → Muster<br>Summon group: None → dol_scout, dol_scout2, dol_scout3 |
+| `dol_scout3` (332) | Melee, Ranged → Ranged | - | 6 → 5 | - | Ability: None → Muster<br>Summon group: None → dol_scout, dol_scout2, dol_scout3 |
 | `dwarf` (335) | - | - | 3 → 4 | - | - |
 | `dwarf2` (336) | - | - | 3 → 4 | - | - |
 | `dwarf3` (337) | - | - | 3 → 4 | - | - |
@@ -124,8 +124,10 @@
 | `werewolf` (417) | - | - | 5 → 4 | - | - |
 | `frightener` (423) | - | - | 5 → 4 | - | - |
 | `ice_giant` (425) | - | - | 5 → 8 | - | - |
+| `harpy` (430) | Melee, Ranged → Ranged | - | - | - | Ability: None → Muster<br>Summon group: None → harpy, celaeno_harpy |
 | `cockatrice` (433) | - | - | 2 → 4 | - | - |
 | `gargoyle` (435) | - | - | 2 → 4 | - | - |
+| `celaeno_harpy` (437) | Melee, Ranged → Ranged | - | - | - | Ability: None → Muster<br>Summon group: None → harpy, celaeno_harpy |
 | `grave_hag` (440) | - | - | 5 → 3 | - | - |
 | `fogling` (445) | - | - | 2 → 3 | - | - |
 | `wyvern` (447) | - | - | 2 → 4 | - | - |
@@ -148,6 +150,16 @@
 | `olaf` (512) | - | - | 12 → 11 | - | - |
 | `berserker_bear` (514) | - | - | 14 → 13 | - | - |
 | `clan_heymaey_skald` (519) | - | - | 4 → 2 | - | Ability: None → Morale Boost |
+
+## Inventory icon changes
+
+These changes apply to both SGR and SGRBIA in `def_item_gwint.xml`. All icon filenames use the prefix `icons/inventory/gwint/`.
+
+| Items | Previous icon | Updated icon |
+| --- | --- | --- |
+| `gwint_card_dol_infantry`, `gwint_card_dol_infantry2`, `gwint_card_dol_infantry3` | `ico_gwent_soldier_scoia_tael.png` | `ico_gwent_range_scoia_tael.png` |
+| `gwint_card_olgierd` | `ico_gwent_soldier_neutral.png` | `ico_gwent_melee_neutral.png` |
+| `gwint_card_harpy`, `gwint_card_celaeno_harpy` | `ico_gwent_soldier_no_mans_land.png` | `ico_gwent_range_no_mans_land.png` |
 
 ## Deck changes
 

@@ -45,7 +45,7 @@
 | `blue_stripes2` (161) (BIA only) | Melee | - | New: 4 | Northern Realms | New card<br>Ability: Tight Bond<br>Bond group: blue_stripes, blue_stripes2, blue_stripes3 |
 | `blue_stripes3` (162) (BIA only) | Melee | - | New: 4 | Northern Realms | New card<br>Ability: Tight Bond<br>Bond group: blue_stripes, blue_stripes2, blue_stripes3 |
 | `siege_tower2` (171) (BIA only) | Siege | - | New: 6 | Northern Realms | New card<br>Ability: None |
-| `dun_banner_medic` (175) | - | - | 5 → 3 | - | - |
+| `dun_banner_medic` (175) | - | - | 5 → 0 | - | - |
 | `witch_hunter` (176) (BIA only) | Melee | - | New: 6 | Northern Realms | New card<br>Ability: None |
 | `ballista_officer` (177) (BIA only) | Siege | - | New: 3 | Northern Realms | New card<br>Ability: Morale Boost |
 
@@ -83,11 +83,11 @@
 | Cards | Row | Hero | Strength | Faction | Ability |
 | --- | --- | --- | --- | --- | --- |
 | `eithne` (300) | - | - | - | - | Ability: None → Medic |
-| `saskia` (301) | - | Yes → No | 10 → 9 | - | - |
-| `isengrim` (302) | - | - | 10 → 8 | - | Ability: Morale Boost → None |
-| `iorveth` (303) | - | Yes → No | 10 → 7 | - | Ability: None → Morale Boost |
-| `milva` (306) | - | - | 10 → 7 | - | - |
-| `ida` (307) | - | - | 6 → 8 | - | - |
+| `saskia` (301) | - | Yes → No | 10 → 11 | - | - |
+| `isengrim` (302) | - | - | 10 → 8 | - | - |
+| `iorveth` (303) | - | Yes → No | - | - | Ability: None → Morale Boost |
+| `milva` (306) | - | - | 10 → 8 | - | Ability: Morale Boost → None |
+| `ida` (307) | - | - | 6 → 9 | - | - |
 | `yaevinn` (309) | - | - | 6 → 5 | - | - |
 | `toruviel` (310) | Ranged → Melee, Ranged | - | 2 → 4 | - | - |
 | `riordain` (311) | - | - | 1 → 3 | - | - |
@@ -110,6 +110,10 @@
 | `elf_skirmisher3` (352) | - | - | 2 → 3 | - | - |
 | `vrihedd_cadet` (355) | - | - | 4 → 2 | - | - |
 | `schirru` (368) | - | - | 8 → 6 | - | - |
+| `dol_archer` (360) | - | - | 4 → 7 | - | - |
+| `havcaaren_medic` (365) | - | - | 0 → 3 | - | - |
+| `havcaaren_medic2` (366) | - | - | 0 → 3 | - | - |
+| `havcaaren_medic3` (367) | - | - | 0 → 3 | - | - |
 
 ### Monsters
 

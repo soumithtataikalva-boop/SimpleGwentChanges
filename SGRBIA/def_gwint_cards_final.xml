@@ -1140,9 +1140,9 @@
 			title="gwint_name_dun_banner_medic" name="dun_banner_medic"
 			description="gwint_desc_dun_banner_medic"
 			item=""
-			power="3"
+			power="0"
 			picture="nor_banner_nurse"
-			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [5 -> 3] -->
+			faction_index="F_NORTHERN_KINGDOM" > <!-- SGR [5 -> 0] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_SIEGE" />
@@ -1826,9 +1826,9 @@
 		<card   index="301"				
 			title="gwint_name_saskia" name="saskia"
 			description="gwint_desc_saskia"
-			power="9"
+			power="11"
 			picture="sco_saskia"
-			faction_index="F_SCOIATAEL" > <!-- SGR [10 -> 9] -->
+			faction_index="F_SCOIATAEL" > <!-- SGR [10 -> 11] -->
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>
@@ -1850,16 +1850,16 @@
 				<flag name="TYPE_MELEE" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_NONE" /> <!-- SGR [EFFECT_IMPROVE_NEIGHBOURS -> EFFECT_NONE] -->
+				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 			</effect_flags>
 		</card>
 		
 		<card   index="303"				
 			title="gwint_name_iorveth" name="iorveth"
 			description="gwint_desc_iorveth"
-			power="7"
+			power="10"
 			picture="sco_iorveth"
-			faction_index="F_SCOIATAEL" > <!-- SGR [10 -> 7] -->
+			faction_index="F_SCOIATAEL" >
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -1887,24 +1887,24 @@
 		<card   index="306"				
 			title="gwint_name_milva" name="milva"
 			description="gwint_desc_milva"
-			power="7"
+			power="8"
 			picture="sco_milva"
-			faction_index="F_SCOIATAEL" > <!-- SGR [10 -> 7] -->
+			faction_index="F_SCOIATAEL" > <!-- SGR [10 -> 8] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
+				<flag name="EFFECT_NONE" /> <!-- SGR [EFFECT_IMPROVE_NEIGHBOURS -> EFFECT_NONE] -->
 			</effect_flags>
 		</card>
 
 		<card   index="307"				
 			title="gwint_name_ida" name="ida"
 			description="gwint_desc_ida"
-			power="8"
+			power="9"
 			picture="sco_ida"
-			faction_index="F_SCOIATAEL" > <!-- SGR [6 -> 8] -->
+			faction_index="F_SCOIATAEL" > <!-- SGR [6 -> 9] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -2383,9 +2383,9 @@
 		<card   index="360"				
 			title="gwint_name_dol_archer" name="dol_archer"
 			description="gwint_desc_dol_archer"
-			power="4"
+			power="7"
 			picture="sco_dol_archer"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [4 -> 7] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -2399,9 +2399,9 @@
 			title="gwint_name_havcaaren_medic" name="havcaaren_medic"
 			item="gwint_card_havekar_nurse"
 			description="gwint_desc_havcaaren_medic"
-			power="0"
+			power="3"
 			picture="sco_havekar_nurse"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [0 -> 3] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -2416,9 +2416,9 @@
 			title="gwint_name_havcaaren_medic" name="havcaaren_medic2"
 			item="gwint_card_havekar_nurse2"
 			description="gwint_desc_havcaaren_medic"
-			power="0"
+			power="3"
 			picture="sco_havekar_nurse_1"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [0 -> 3] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
@@ -2433,9 +2433,9 @@
 			title="gwint_name_havcaaren_medic" name="havcaaren_medic3"
 			item="gwint_card_havekar_nurse3"
 			description="gwint_desc_havcaaren_medic"
-			power="0"
+			power="3"
 			picture="sco_havekar_nurse_2"
-			faction_index="F_SCOIATAEL" >
+			faction_index="F_SCOIATAEL" > <!-- SGR [0 -> 3] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />

@@ -66,10 +66,10 @@
 | `vanhemar` (217) | - | - | 4 → 2 | - | Ability: None → Medic |
 | `vreemde` (219) | - | - | 2 → 4 | - | - |
 | `puttkammer` (221) | - | - | 3 → 1 | - | Ability: None → Morale Boost |
-| `archer_support` (230) | - | - | 1 → 7 | - | Ability: Medic → None |
-| `archer_support2` (231) | - | - | 1 → 7 | - | Ability: Medic → None |
-| `black_archer` (235) | - | - | 10 → 5 | - | Ability: None → Tight Bond<br>Bond group: None → black_archer, black_archer2 |
-| `black_archer2` (236) | - | - | 10 → 5 | - | Ability: None → Tight Bond<br>Bond group: None → black_archer, black_archer2 |
+| `archer_support` (230) | - | - | 1 → 5 | - | Ability: Medic → Tight Bond<br>Bond group: None → archer_support, archer_support2 |
+| `archer_support2` (231) | - | - | 1 → 5 | - | Ability: Medic → Tight Bond<br>Bond group: None → archer_support, archer_support2 |
+| `black_archer` (235) | - | - | 10 → 7 | - | - |
+| `black_archer2` (236) | - | - | 10 → 7 | - | - |
 | `impera_brigade2` (246) | - | - | - | - | SGRBIA only: Artwork: nil_impera_brigade → nil_impera_brigade_1 |
 | `impera_brigade3` (247) | - | - | - | - | SGRBIA only: Artwork: nil_impera_brigade → nil_impera_brigade_2 |
 | `impera_brigade4` (248) | - | - | - | - | SGRBIA only: Artwork: nil_impera_brigade → nil_impera_brigade_3 |

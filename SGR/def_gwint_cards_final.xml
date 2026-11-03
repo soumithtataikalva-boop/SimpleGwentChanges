@@ -1402,69 +1402,69 @@
 		<card   index="230"					
 			title="gwint_name_archer_support" name="archer_support"
 			description="gwint_desc_archer_support"
-			power="7"
+			power="5"
 			picture="nil_archer_support"
-			faction_index="F_NILFGAARD" > <!-- SGR [1 -> 7] -->
+			faction_index="F_NILFGAARD" > <!-- SGR [1 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_NONE" /> <!-- SGR [EFFECT_NURSE -> EFFECT_NONE] -->
+				<flag name="EFFECT_SAME_TYPE_MORALE" /> <!-- SGR [EFFECT_NURSE -> EFFECT_SAME_TYPE_MORALE] -->
 			</effect_flags>
+			<summonFlags>
+				<flag name="archer_support" /> <!-- SGR [None -> archer_support] -->
+				<flag name="archer_support2" /> <!-- SGR [None -> archer_support2] -->
+			</summonFlags>
 		</card>
 		
 		<card   index="231"					
 			title="gwint_name_archer_support" name="archer_support2"
 			description="gwint_desc_archer_support"
-			power="7"
+			power="5"
 			picture="nil_archer_support_1"
-			faction_index="F_NILFGAARD" > <!-- SGR [1 -> 7] -->
+			faction_index="F_NILFGAARD" > <!-- SGR [1 -> 5] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_NONE" /> <!-- SGR [EFFECT_NURSE -> EFFECT_NONE] -->
+				<flag name="EFFECT_SAME_TYPE_MORALE" /> <!-- SGR [EFFECT_NURSE -> EFFECT_SAME_TYPE_MORALE] -->
 			</effect_flags>
+			<summonFlags>
+				<flag name="archer_support" /> <!-- SGR [None -> archer_support] -->
+				<flag name="archer_support2" /> <!-- SGR [None -> archer_support2] -->
+			</summonFlags>
 		</card>
 
 		<card   index="235"					
 			title="gwint_name_black_archer" name="black_archer"
 			description="gwint_desc_black_archer"
-			power="5"
+			power="7"
 			picture="nil_black_archer"
-			faction_index="F_NILFGAARD" > <!-- SGR [10 -> 5] -->
+			faction_index="F_NILFGAARD" > <!-- SGR [10 -> 7] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_SAME_TYPE_MORALE" /> <!-- SGR [EFFECT_NONE -> EFFECT_SAME_TYPE_MORALE] -->
+				<flag name="EFFECT_NONE" />
 			</effect_flags>
-			<summonFlags>
-				<flag name="black_archer" /> <!-- SGR [None -> black_archer] -->
-				<flag name="black_archer2" /> <!-- SGR [None -> black_archer2] -->
-			</summonFlags>
 		</card>
 		
 		<card   index="236"					
 			title="gwint_name_black_archer" name="black_archer2"
 			description="gwint_desc_black_archer"
-			power="5"
+			power="7"
 			picture="nil_black_archer_1"
-			faction_index="F_NILFGAARD" > <!-- SGR [10 -> 5] -->
+			faction_index="F_NILFGAARD" > <!-- SGR [10 -> 7] -->
 			<type_flags>
 				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_SAME_TYPE_MORALE" /> <!-- SGR [EFFECT_NONE -> EFFECT_SAME_TYPE_MORALE] -->
+				<flag name="EFFECT_NONE" />
 			</effect_flags>
-			<summonFlags>
-				<flag name="black_archer" /> <!-- SGR [None -> black_archer] -->
-				<flag name="black_archer2" /> <!-- SGR [None -> black_archer2] -->
-			</summonFlags>
 		</card>
 
 

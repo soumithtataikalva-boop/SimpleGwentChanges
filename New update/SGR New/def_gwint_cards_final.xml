@@ -1760,9 +1760,9 @@
 			picture="sco_iorveth"
 			faction_index="F_SCOIATAEL" >
 			<type_flags>
-				<flag name="TYPE_CREATURE" /> <!-- SGR [TYPE_HERO -> None] -->
+				<flag name="TYPE_CREATURE" />
 				<flag name="TYPE_RANGED" />
-			</type_flags>
+			</type_flags> <!-- SGR [TYPE_HERO -> None] -->
 			<effect_flags>
 				<flag name="EFFECT_NONE" />
 			</effect_flags>

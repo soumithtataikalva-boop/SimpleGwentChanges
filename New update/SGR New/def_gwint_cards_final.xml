@@ -1760,11 +1760,11 @@
 			picture="sco_iorveth"
 			faction_index="F_SCOIATAEL" >
 			<type_flags>
-				<flag name="TYPE_CREATURE" />
+				<flag name="TYPE_CREATURE" /> <!-- SGR [TYPE_HERO -> None] -->
 				<flag name="TYPE_RANGED" />
-			</type_flags> <!-- SGR [TYPE_HERO -> None] -->
+			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_IMPROVE_NEIGHBOURS" /> <!-- SGR [EFFECT_NONE -> EFFECT_IMPROVE_NEIGHBOURS] -->
+				<flag name="EFFECT_NONE" />
 			</effect_flags>
 		</card>
 		
@@ -1794,7 +1794,7 @@
 				<flag name="TYPE_RANGED" />
 			</type_flags>
 			<effect_flags>
-				<flag name="EFFECT_NONE" /> <!-- SGR [EFFECT_IMPROVE_NEIGHBOURS -> EFFECT_NONE] -->
+				<flag name="EFFECT_IMPROVE_NEIGHBOURS" />
 			</effect_flags>
 		</card>
 
